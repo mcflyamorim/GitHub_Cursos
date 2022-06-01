@@ -1,0 +1,23 @@
+USE Northwind
+GO
+
+SET STATISTICS IO ON
+GO
+
+-- Qual é melhor? 
+PRINT 'Query 1'
+IF EXISTS(SELECT * FROM Orders WHERE OrderID = 10) AND EXISTS(SELECT * FROM Customers WHERE CustomerID = 10)
+BEGIN
+  SELECT 'True'
+END
+GO
+
+PRINT 'Query 2'
+IF EXISTS(SELECT * FROM Orders WHERE OrderID = 10)
+BEGIN
+  IF EXISTS(SELECT * FROM Customers WHERE CustomerID = 10)
+  BEGIN
+    SELECT 'True'
+  END
+END
+GO

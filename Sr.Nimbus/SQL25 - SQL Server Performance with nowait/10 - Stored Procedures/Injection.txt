@@ -1,0 +1,9 @@
+Google: "Incorrect syntax near the keyword"
+http://www.google.com.br/search?q=%22Incorrect+syntax+near+the+keyword%22&num=30&hl=pt-BR&gbv=2&prmd=imvns&source=lnt&tbs=ctr:countryBR&cr=countryBR&sa=X&ei=TCC8Tu6ICqLf0gGYkeXeCQ&ved=0CAkQpwUoAg&biw=1201&bih=543
+
+
+http://eventos.fundepag.br/
+
+http://www.faccat.com.br/portal/?pg=noticias-ver&&id=
+
+http://queroveiculos.com.br/classificados/?UF=DF&tipo_veiculo=CARRO&marca=&veiculo=&anoFab=%27--&valorMax=&ordem=1&exibir=1

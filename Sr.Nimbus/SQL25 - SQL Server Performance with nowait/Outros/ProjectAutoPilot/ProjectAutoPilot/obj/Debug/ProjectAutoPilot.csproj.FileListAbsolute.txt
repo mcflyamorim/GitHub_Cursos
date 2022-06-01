@@ -1,0 +1,5 @@
+C:\x\ProjectAutoPilot\ProjectAutoPilot\bin\Debug\ProjectAutoPilot.dll
+C:\x\ProjectAutoPilot\ProjectAutoPilot\bin\Debug\ProjectAutoPilot.pdb
+C:\x\ProjectAutoPilot\ProjectAutoPilot\obj\Debug\ResolveAssemblyReference.cache
+C:\x\ProjectAutoPilot\ProjectAutoPilot\obj\Debug\ProjectAutoPilot.dll
+C:\x\ProjectAutoPilot\ProjectAutoPilot\obj\Debug\ProjectAutoPilot.pdb

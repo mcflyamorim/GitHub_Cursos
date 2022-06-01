@@ -1,0 +1,2531 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Counters>
+    <counter>
+        <org>\[System]</org>
+        <en>\System</en>
+    </counter>
+    <counter>
+        <org>\[Memory]</org>
+        <en>\Memory</en>
+    </counter>
+    <counter>
+        <org>\[% Processor Time]</org>
+        <en>\% Processor Time</en>
+    </counter>
+    <counter>
+        <org>\[File Read Operations/sec]</org>
+        <en>\File Read Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\[File Write Operations/sec]</org>
+        <en>\File Write Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\[File Control Operations/sec]</org>
+        <en>\File Control Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\[File Read Bytes/sec]</org>
+        <en>\File Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[File Write Bytes/sec]</org>
+        <en>\File Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[File Control Bytes/sec]</org>
+        <en>\File Control Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[Available Bytes]</org>
+        <en>\Available Bytes</en>
+    </counter>
+    <counter>
+        <org>\[Committed Bytes]</org>
+        <en>\Committed Bytes</en>
+    </counter>
+    <counter>
+        <org>\[Page Faults/sec]</org>
+        <en>\Page Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\[Commit Limit]</org>
+        <en>\Commit Limit</en>
+    </counter>
+    <counter>
+        <org>\[Write Copies/sec]</org>
+        <en>\Write Copies/sec</en>
+    </counter>
+    <counter>
+        <org>\[Transition Faults/sec]</org>
+        <en>\Transition Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\[Cache Faults/sec]</org>
+        <en>\Cache Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\[Demand Zero Faults/sec]</org>
+        <en>\Demand Zero Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\[Pages/sec]</org>
+        <en>\Pages/sec</en>
+    </counter>
+    <counter>
+        <org>\[Page Reads/sec]</org>
+        <en>\Page Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\[Processor Queue Length]</org>
+        <en>\Processor Queue Length</en>
+    </counter>
+    <counter>
+        <org>\[Thread State]</org>
+        <en>\Thread State</en>
+    </counter>
+    <counter>
+        <org>\[Pages Output/sec]</org>
+        <en>\Pages Output/sec</en>
+    </counter>
+    <counter>
+        <org>\[Page Writes/sec]</org>
+        <en>\Page Writes/sec</en>
+    </counter>
+    <counter>
+        <org>\[Browser]</org>
+        <en>\Browser</en>
+    </counter>
+    <counter>
+        <org>\[Announcements Server/sec]</org>
+        <en>\Announcements Server/sec</en>
+    </counter>
+    <counter>
+        <org>\[Pool Paged Bytes]</org>
+        <en>\Pool Paged Bytes</en>
+    </counter>
+    <counter>
+        <org>\[Pool Nonpaged Bytes]</org>
+        <en>\Pool Nonpaged Bytes</en>
+    </counter>
+    <counter>
+        <org>\[Pool Paged Allocs]</org>
+        <en>\Pool Paged Allocs</en>
+    </counter>
+    <counter>
+        <org>\[Pool Nonpaged Allocs]</org>
+        <en>\Pool Nonpaged Allocs</en>
+    </counter>
+    <counter>
+        <org>\[Pool Paged Resident Bytes]</org>
+        <en>\Pool Paged Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\[System Code Total Bytes]</org>
+        <en>\System Code Total Bytes</en>
+    </counter>
+    <counter>
+        <org>\[System Code Resident Bytes]</org>
+        <en>\System Code Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\[System Driver Total Bytes]</org>
+        <en>\System Driver Total Bytes</en>
+    </counter>
+    <counter>
+        <org>\[System Driver Resident Bytes]</org>
+        <en>\System Driver Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\[System Cache Resident Bytes]</org>
+        <en>\System Cache Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\[Announcements Domain/sec]</org>
+        <en>\Announcements Domain/sec</en>
+    </counter>
+    <counter>
+        <org>\[Election Packets/sec]</org>
+        <en>\Election Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\[Mailslot Writes/sec]</org>
+        <en>\Mailslot Writes/sec</en>
+    </counter>
+    <counter>
+        <org>\[Server List Requests/sec]</org>
+        <en>\Server List Requests/sec</en>
+    </counter>
+    <counter>
+        <org>\[Cache]</org>
+        <en>\Cache</en>
+    </counter>
+    <counter>
+        <org>\[Data Maps/sec]</org>
+        <en>\Data Maps/sec</en>
+    </counter>
+    <counter>
+        <org>\[Sync Data Maps/sec]</org>
+        <en>\Sync Data Maps/sec</en>
+    </counter>
+    <counter>
+        <org>\[Async Data Maps/sec]</org>
+        <en>\Async Data Maps/sec</en>
+    </counter>
+    <counter>
+        <org>\[Data Map Hits %]</org>
+        <en>\Data Map Hits %</en>
+    </counter>
+    <counter>
+        <org>\[Data Map Pins/sec]</org>
+        <en>\Data Map Pins/sec</en>
+    </counter>
+    <counter>
+        <org>\[Pin Reads/sec]</org>
+        <en>\Pin Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\[Sync Pin Reads/sec]</org>
+        <en>\Sync Pin Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\[Async Pin Reads/sec]</org>
+        <en>\Async Pin Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\[Pin Read Hits %]</org>
+        <en>\Pin Read Hits %</en>
+    </counter>
+    <counter>
+        <org>\[Copy Reads/sec]</org>
+        <en>\Copy Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\[Sync Copy Reads/sec]</org>
+        <en>\Sync Copy Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\[Async Copy Reads/sec]</org>
+        <en>\Async Copy Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\[Copy Read Hits %]</org>
+        <en>\Copy Read Hits %</en>
+    </counter>
+    <counter>
+        <org>\[MDL Reads/sec]</org>
+        <en>\MDL Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\[Sync MDL Reads/sec]</org>
+        <en>\Sync MDL Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\[Async MDL Reads/sec]</org>
+        <en>\Async MDL Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\[MDL Read Hits %]</org>
+        <en>\MDL Read Hits %</en>
+    </counter>
+    <counter>
+        <org>\[Read Aheads/sec]</org>
+        <en>\Read Aheads/sec</en>
+    </counter>
+    <counter>
+        <org>\[Fast Reads/sec]</org>
+        <en>\Fast Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\[Sync Fast Reads/sec]</org>
+        <en>\Sync Fast Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\[Async Fast Reads/sec]</org>
+        <en>\Async Fast Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\[Fast Read Resource Misses/sec]</org>
+        <en>\Fast Read Resource Misses/sec</en>
+    </counter>
+    <counter>
+        <org>\[Fast Read Not Possibles/sec]</org>
+        <en>\Fast Read Not Possibles/sec</en>
+    </counter>
+    <counter>
+        <org>\[Lazy Write Flushes/sec]</org>
+        <en>\Lazy Write Flushes/sec</en>
+    </counter>
+    <counter>
+        <org>\[Lazy Write Pages/sec]</org>
+        <en>\Lazy Write Pages/sec</en>
+    </counter>
+    <counter>
+        <org>\[Data Flushes/sec]</org>
+        <en>\Data Flushes/sec</en>
+    </counter>
+    <counter>
+        <org>\[Data Flush Pages/sec]</org>
+        <en>\Data Flush Pages/sec</en>
+    </counter>
+    <counter>
+        <org>\[% User Time]</org>
+        <en>\% User Time</en>
+    </counter>
+    <counter>
+        <org>\[% Privileged Time]</org>
+        <en>\% Privileged Time</en>
+    </counter>
+    <counter>
+        <org>\[Context Switches/sec]</org>
+        <en>\Context Switches/sec</en>
+    </counter>
+    <counter>
+        <org>\[Interrupts/sec]</org>
+        <en>\Interrupts/sec</en>
+    </counter>
+    <counter>
+        <org>\[System Calls/sec]</org>
+        <en>\System Calls/sec</en>
+    </counter>
+    <counter>
+        <org>\[Level 1 TLB Fills/sec]</org>
+        <en>\Level 1 TLB Fills/sec</en>
+    </counter>
+    <counter>
+        <org>\[Level 2 TLB Fills/sec]</org>
+        <en>\Level 2 TLB Fills/sec</en>
+    </counter>
+    <counter>
+        <org>\[Enumerations Server/sec]</org>
+        <en>\Enumerations Server/sec</en>
+    </counter>
+    <counter>
+        <org>\[Enumerations Domain/sec]</org>
+        <en>\Enumerations Domain/sec</en>
+    </counter>
+    <counter>
+        <org>\[Enumerations Other/sec]</org>
+        <en>\Enumerations Other/sec</en>
+    </counter>
+    <counter>
+        <org>\[Missed Server Announcements]</org>
+        <en>\Missed Server Announcements</en>
+    </counter>
+    <counter>
+        <org>\[Missed Mailslot Datagrams]</org>
+        <en>\Missed Mailslot Datagrams</en>
+    </counter>
+    <counter>
+        <org>\[Missed Server List Requests]</org>
+        <en>\Missed Server List Requests</en>
+    </counter>
+    <counter>
+        <org>\[Server Announce Allocations Failed/sec]</org>
+        <en>\Server Announce Allocations Failed/sec</en>
+    </counter>
+    <counter>
+        <org>\[Mailslot Allocations Failed]</org>
+        <en>\Mailslot Allocations Failed</en>
+    </counter>
+    <counter>
+        <org>\[Virtual Bytes Peak]</org>
+        <en>\Virtual Bytes Peak</en>
+    </counter>
+    <counter>
+        <org>\[Virtual Bytes]</org>
+        <en>\Virtual Bytes</en>
+    </counter>
+    <counter>
+        <org>\[Working Set Peak]</org>
+        <en>\Working Set Peak</en>
+    </counter>
+    <counter>
+        <org>\[Working Set]</org>
+        <en>\Working Set</en>
+    </counter>
+    <counter>
+        <org>\[Page File Bytes Peak]</org>
+        <en>\Page File Bytes Peak</en>
+    </counter>
+    <counter>
+        <org>\[Page File Bytes]</org>
+        <en>\Page File Bytes</en>
+    </counter>
+    <counter>
+        <org>\[Private Bytes]</org>
+        <en>\Private Bytes</en>
+    </counter>
+    <counter>
+        <org>\[Announcements Total/sec]</org>
+        <en>\Announcements Total/sec</en>
+    </counter>
+    <counter>
+        <org>\[Enumerations Total/sec]</org>
+        <en>\Enumerations Total/sec</en>
+    </counter>
+    <counter>
+        <org>\[Current Disk Queue Length]</org>
+        <en>\Current Disk Queue Length</en>
+    </counter>
+    <counter>
+        <org>\[% Disk Time]</org>
+        <en>\% Disk Time</en>
+    </counter>
+    <counter>
+        <org>\[% Disk Read Time]</org>
+        <en>\% Disk Read Time</en>
+    </counter>
+    <counter>
+        <org>\[% Disk Write Time]</org>
+        <en>\% Disk Write Time</en>
+    </counter>
+    <counter>
+        <org>\[Avg. Disk sec/Transfer]</org>
+        <en>\Avg. Disk sec/Transfer</en>
+    </counter>
+    <counter>
+        <org>\[Avg. Disk sec/Read]</org>
+        <en>\Avg. Disk sec/Read</en>
+    </counter>
+    <counter>
+        <org>\[Avg. Disk sec/Write]</org>
+        <en>\Avg. Disk sec/Write</en>
+    </counter>
+    <counter>
+        <org>\[Disk Transfers/sec]</org>
+        <en>\Disk Transfers/sec</en>
+    </counter>
+    <counter>
+        <org>\[Disk Reads/sec]</org>
+        <en>\Disk Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\[Disk Writes/sec]</org>
+        <en>\Disk Writes/sec</en>
+    </counter>
+    <counter>
+        <org>\[Disk Bytes/sec]</org>
+        <en>\Disk Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[Disk Read Bytes/sec]</org>
+        <en>\Disk Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[Disk Write Bytes/sec]</org>
+        <en>\Disk Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[Avg. Disk Bytes/Transfer]</org>
+        <en>\Avg. Disk Bytes/Transfer</en>
+    </counter>
+    <counter>
+        <org>\[Avg. Disk Bytes/Read]</org>
+        <en>\Avg. Disk Bytes/Read</en>
+    </counter>
+    <counter>
+        <org>\[Avg. Disk Bytes/Write]</org>
+        <en>\Avg. Disk Bytes/Write</en>
+    </counter>
+    <counter>
+        <org>\[Process]</org>
+        <en>\Process</en>
+    </counter>
+    <counter>
+        <org>\[Thread]</org>
+        <en>\Thread</en>
+    </counter>
+    <counter>
+        <org>\[PhysicalDisk]</org>
+        <en>\PhysicalDisk</en>
+    </counter>
+    <counter>
+        <org>\[LogicalDisk]</org>
+        <en>\LogicalDisk</en>
+    </counter>
+    <counter>
+        <org>\[Processor]</org>
+        <en>\Processor</en>
+    </counter>
+    <counter>
+        <org>\[% Total Processor Time]</org>
+        <en>\% Total Processor Time</en>
+    </counter>
+    <counter>
+        <org>\[% Total User Time]</org>
+        <en>\% Total User Time</en>
+    </counter>
+    <counter>
+        <org>\[% Total Privileged Time]</org>
+        <en>\% Total Privileged Time</en>
+    </counter>
+    <counter>
+        <org>\[Total Interrupts/sec]</org>
+        <en>\Total Interrupts/sec</en>
+    </counter>
+    <counter>
+        <org>\[Processes]</org>
+        <en>\Processes</en>
+    </counter>
+    <counter>
+        <org>\[Threads]</org>
+        <en>\Threads</en>
+    </counter>
+    <counter>
+        <org>\[Events]</org>
+        <en>\Events</en>
+    </counter>
+    <counter>
+        <org>\[Semaphores]</org>
+        <en>\Semaphores</en>
+    </counter>
+    <counter>
+        <org>\[Mutexes]</org>
+        <en>\Mutexes</en>
+    </counter>
+    <counter>
+        <org>\[Sections]</org>
+        <en>\Sections</en>
+    </counter>
+    <counter>
+        <org>\[Objects]</org>
+        <en>\Objects</en>
+    </counter>
+    <counter>
+        <org>\[Redirector]</org>
+        <en>\Redirector</en>
+    </counter>
+    <counter>
+        <org>\[Bytes Received/sec]</org>
+        <en>\Bytes Received/sec</en>
+    </counter>
+    <counter>
+        <org>\[Packets Received/sec]</org>
+        <en>\Packets Received/sec</en>
+    </counter>
+    <counter>
+        <org>\[Read Bytes Paging/sec]</org>
+        <en>\Read Bytes Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\[Read Bytes Non-Paging/sec]</org>
+        <en>\Read Bytes Non-Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\[Read Bytes Cache/sec]</org>
+        <en>\Read Bytes Cache/sec</en>
+    </counter>
+    <counter>
+        <org>\[Read Bytes Network/sec]</org>
+        <en>\Read Bytes Network/sec</en>
+    </counter>
+    <counter>
+        <org>\[Bytes Transmitted/sec]</org>
+        <en>\Bytes Transmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\[Packets Transmitted/sec]</org>
+        <en>\Packets Transmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\[Write Bytes Paging/sec]</org>
+        <en>\Write Bytes Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\[Write Bytes Non-Paging/sec]</org>
+        <en>\Write Bytes Non-Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\[Write Bytes Cache/sec]</org>
+        <en>\Write Bytes Cache/sec</en>
+    </counter>
+    <counter>
+        <org>\[Write Bytes Network/sec]</org>
+        <en>\Write Bytes Network/sec</en>
+    </counter>
+    <counter>
+        <org>\[Read Operations/sec]</org>
+        <en>\Read Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\[Read Operations Random/sec]</org>
+        <en>\Read Operations Random/sec</en>
+    </counter>
+    <counter>
+        <org>\[Read Packets/sec]</org>
+        <en>\Read Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\[Reads Large/sec]</org>
+        <en>\Reads Large/sec</en>
+    </counter>
+    <counter>
+        <org>\[Read Packets Small/sec]</org>
+        <en>\Read Packets Small/sec</en>
+    </counter>
+    <counter>
+        <org>\[Write Operations/sec]</org>
+        <en>\Write Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\[Write Operations Random/sec]</org>
+        <en>\Write Operations Random/sec</en>
+    </counter>
+    <counter>
+        <org>\[Write Packets/sec]</org>
+        <en>\Write Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\[Writes Large/sec]</org>
+        <en>\Writes Large/sec</en>
+    </counter>
+    <counter>
+        <org>\[Write Packets Small/sec]</org>
+        <en>\Write Packets Small/sec</en>
+    </counter>
+    <counter>
+        <org>\[Reads Denied/sec]</org>
+        <en>\Reads Denied/sec</en>
+    </counter>
+    <counter>
+        <org>\[Writes Denied/sec]</org>
+        <en>\Writes Denied/sec</en>
+    </counter>
+    <counter>
+        <org>\[Network Errors/sec]</org>
+        <en>\Network Errors/sec</en>
+    </counter>
+    <counter>
+        <org>\[Server Sessions]</org>
+        <en>\Server Sessions</en>
+    </counter>
+    <counter>
+        <org>\[Server Reconnects]</org>
+        <en>\Server Reconnects</en>
+    </counter>
+    <counter>
+        <org>\[Connects Core]</org>
+        <en>\Connects Core</en>
+    </counter>
+    <counter>
+        <org>\[Connects Lan Manager 2.0]</org>
+        <en>\Connects Lan Manager 2.0</en>
+    </counter>
+    <counter>
+        <org>\[Connects Lan Manager 2.1]</org>
+        <en>\Connects Lan Manager 2.1</en>
+    </counter>
+    <counter>
+        <org>\[Connects Windows NT]</org>
+        <en>\Connects Windows NT</en>
+    </counter>
+    <counter>
+        <org>\[Server Disconnects]</org>
+        <en>\Server Disconnects</en>
+    </counter>
+    <counter>
+        <org>\[Server Sessions Hung]</org>
+        <en>\Server Sessions Hung</en>
+    </counter>
+    <counter>
+        <org>\[Server]</org>
+        <en>\Server</en>
+    </counter>
+    <counter>
+        <org>\[Thread Wait Reason]</org>
+        <en>\Thread Wait Reason</en>
+    </counter>
+    <counter>
+        <org>\[Sessions Timed Out]</org>
+        <en>\Sessions Timed Out</en>
+    </counter>
+    <counter>
+        <org>\[Sessions Errored Out]</org>
+        <en>\Sessions Errored Out</en>
+    </counter>
+    <counter>
+        <org>\[Sessions Logged Off]</org>
+        <en>\Sessions Logged Off</en>
+    </counter>
+    <counter>
+        <org>\[Sessions Forced Off]</org>
+        <en>\Sessions Forced Off</en>
+    </counter>
+    <counter>
+        <org>\[Errors Logon]</org>
+        <en>\Errors Logon</en>
+    </counter>
+    <counter>
+        <org>\[Errors Access Permissions]</org>
+        <en>\Errors Access Permissions</en>
+    </counter>
+    <counter>
+        <org>\[Errors Granted Access]</org>
+        <en>\Errors Granted Access</en>
+    </counter>
+    <counter>
+        <org>\[Errors System]</org>
+        <en>\Errors System</en>
+    </counter>
+    <counter>
+        <org>\[Blocking Requests Rejected]</org>
+        <en>\Blocking Requests Rejected</en>
+    </counter>
+    <counter>
+        <org>\[Work Item Shortages]</org>
+        <en>\Work Item Shortages</en>
+    </counter>
+    <counter>
+        <org>\[Files Opened Total]</org>
+        <en>\Files Opened Total</en>
+    </counter>
+    <counter>
+        <org>\[Files Open]</org>
+        <en>\Files Open</en>
+    </counter>
+    <counter>
+        <org>\[File Directory Searches]</org>
+        <en>\File Directory Searches</en>
+    </counter>
+    <counter>
+        <org>\[Pool Nonpaged Failures]</org>
+        <en>\Pool Nonpaged Failures</en>
+    </counter>
+    <counter>
+        <org>\[Pool Nonpaged Peak]</org>
+        <en>\Pool Nonpaged Peak</en>
+    </counter>
+    <counter>
+        <org>\[Pool Paged Failures]</org>
+        <en>\Pool Paged Failures</en>
+    </counter>
+    <counter>
+        <org>\[Pool Paged Peak]</org>
+        <en>\Pool Paged Peak</en>
+    </counter>
+    <counter>
+        <org>\[Bytes Total/sec]</org>
+        <en>\Bytes Total/sec</en>
+    </counter>
+    <counter>
+        <org>\[Current Commands]</org>
+        <en>\Current Commands</en>
+    </counter>
+    <counter>
+        <org>\[NWLink NetBIOS]</org>
+        <en>\NWLink NetBIOS</en>
+    </counter>
+    <counter>
+        <org>\[Packets/sec]</org>
+        <en>\Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\[Context Blocks Queued/sec]</org>
+        <en>\Context Blocks Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\[File Data Operations/sec]</org>
+        <en>\File Data Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\[% Free Space]</org>
+        <en>\% Free Space</en>
+    </counter>
+    <counter>
+        <org>\[Free Megabytes]</org>
+        <en>\Free Megabytes</en>
+    </counter>
+    <counter>
+        <org>\[Connections Open]</org>
+        <en>\Connections Open</en>
+    </counter>
+    <counter>
+        <org>\[Connections No Retries]</org>
+        <en>\Connections No Retries</en>
+    </counter>
+    <counter>
+        <org>\[Connections With Retries]</org>
+        <en>\Connections With Retries</en>
+    </counter>
+    <counter>
+        <org>\[Disconnects Local]</org>
+        <en>\Disconnects Local</en>
+    </counter>
+    <counter>
+        <org>\[Disconnects Remote]</org>
+        <en>\Disconnects Remote</en>
+    </counter>
+    <counter>
+        <org>\[Failures Link]</org>
+        <en>\Failures Link</en>
+    </counter>
+    <counter>
+        <org>\[Failures Adapter]</org>
+        <en>\Failures Adapter</en>
+    </counter>
+    <counter>
+        <org>\[Connection Session Timeouts]</org>
+        <en>\Connection Session Timeouts</en>
+    </counter>
+    <counter>
+        <org>\[Connections Canceled]</org>
+        <en>\Connections Canceled</en>
+    </counter>
+    <counter>
+        <org>\[Failures Resource Remote]</org>
+        <en>\Failures Resource Remote</en>
+    </counter>
+    <counter>
+        <org>\[Failures Resource Local]</org>
+        <en>\Failures Resource Local</en>
+    </counter>
+    <counter>
+        <org>\[Failures Not Found]</org>
+        <en>\Failures Not Found</en>
+    </counter>
+    <counter>
+        <org>\[Failures No Listen]</org>
+        <en>\Failures No Listen</en>
+    </counter>
+    <counter>
+        <org>\[Datagrams/sec]</org>
+        <en>\Datagrams/sec</en>
+    </counter>
+    <counter>
+        <org>\[Datagram Bytes/sec]</org>
+        <en>\Datagram Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[Datagrams Sent/sec]</org>
+        <en>\Datagrams Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\[Datagram Bytes Sent/sec]</org>
+        <en>\Datagram Bytes Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\[Datagrams Received/sec]</org>
+        <en>\Datagrams Received/sec</en>
+    </counter>
+    <counter>
+        <org>\[Datagram Bytes Received/sec]</org>
+        <en>\Datagram Bytes Received/sec</en>
+    </counter>
+    <counter>
+        <org>\[Packets Sent/sec]</org>
+        <en>\Packets Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\[Frames/sec]</org>
+        <en>\Frames/sec</en>
+    </counter>
+    <counter>
+        <org>\[Frame Bytes/sec]</org>
+        <en>\Frame Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[Frames Sent/sec]</org>
+        <en>\Frames Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\[Frame Bytes Sent/sec]</org>
+        <en>\Frame Bytes Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\[Frames Received/sec]</org>
+        <en>\Frames Received/sec</en>
+    </counter>
+    <counter>
+        <org>\[Frame Bytes Received/sec]</org>
+        <en>\Frame Bytes Received/sec</en>
+    </counter>
+    <counter>
+        <org>\[Frames Re-Sent/sec]</org>
+        <en>\Frames Re-Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\[Frame Bytes Re-Sent/sec]</org>
+        <en>\Frame Bytes Re-Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\[Frames Rejected/sec]</org>
+        <en>\Frames Rejected/sec</en>
+    </counter>
+    <counter>
+        <org>\[Frame Bytes Rejected/sec]</org>
+        <en>\Frame Bytes Rejected/sec</en>
+    </counter>
+    <counter>
+        <org>\[Expirations Response]</org>
+        <en>\Expirations Response</en>
+    </counter>
+    <counter>
+        <org>\[Expirations Ack]</org>
+        <en>\Expirations Ack</en>
+    </counter>
+    <counter>
+        <org>\[Window Send Maximum]</org>
+        <en>\Window Send Maximum</en>
+    </counter>
+    <counter>
+        <org>\[Window Send Average]</org>
+        <en>\Window Send Average</en>
+    </counter>
+    <counter>
+        <org>\[Piggyback Ack Queued/sec]</org>
+        <en>\Piggyback Ack Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\[Piggyback Ack Timeouts]</org>
+        <en>\Piggyback Ack Timeouts</en>
+    </counter>
+    <counter>
+        <org>\[NWLink IPX]</org>
+        <en>\NWLink IPX</en>
+    </counter>
+    <counter>
+        <org>\[NWLink SPX]</org>
+        <en>\NWLink SPX</en>
+    </counter>
+    <counter>
+        <org>\[NetBEUI]</org>
+        <en>\NetBEUI</en>
+    </counter>
+    <counter>
+        <org>\[NetBEUI Resource]</org>
+        <en>\NetBEUI Resource</en>
+    </counter>
+    <counter>
+        <org>\[Used Maximum]</org>
+        <en>\Used Maximum</en>
+    </counter>
+    <counter>
+        <org>\[Used Average]</org>
+        <en>\Used Average</en>
+    </counter>
+    <counter>
+        <org>\[Times Exhausted]</org>
+        <en>\Times Exhausted</en>
+    </counter>
+    <counter>
+        <org>\[NBT Connection]</org>
+        <en>\NBT Connection</en>
+    </counter>
+    <counter>
+        <org>\[Bytes Sent/sec]</org>
+        <en>\Bytes Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\[Total Bytes/sec]</org>
+        <en>\Total Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[Network Interface]</org>
+        <en>\Network Interface</en>
+    </counter>
+    <counter>
+        <org>\[Bytes/sec]</org>
+        <en>\Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[Current Bandwidth]</org>
+        <en>\Current Bandwidth</en>
+    </counter>
+    <counter>
+        <org>\[Packets Received Unicast/sec]</org>
+        <en>\Packets Received Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\[Packets Received Non-Unicast/sec]</org>
+        <en>\Packets Received Non-Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\[Packets Received Discarded]</org>
+        <en>\Packets Received Discarded</en>
+    </counter>
+    <counter>
+        <org>\[Packets Received Errors]</org>
+        <en>\Packets Received Errors</en>
+    </counter>
+    <counter>
+        <org>\[Packets Received Unknown]</org>
+        <en>\Packets Received Unknown</en>
+    </counter>
+    <counter>
+        <org>\[Packets Sent Unicast/sec]</org>
+        <en>\Packets Sent Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\[Packets Sent Non-Unicast/sec]</org>
+        <en>\Packets Sent Non-Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\[Packets Outbound Discarded]</org>
+        <en>\Packets Outbound Discarded</en>
+    </counter>
+    <counter>
+        <org>\[Packets Outbound Errors]</org>
+        <en>\Packets Outbound Errors</en>
+    </counter>
+    <counter>
+        <org>\[Output Queue Length]</org>
+        <en>\Output Queue Length</en>
+    </counter>
+    <counter>
+        <org>\[IPv4]</org>
+        <en>\IPv4</en>
+    </counter>
+    <counter>
+        <org>\[IPv6]</org>
+        <en>\IPv6</en>
+    </counter>
+    <counter>
+        <org>\[Datagrams Received Header Errors]</org>
+        <en>\Datagrams Received Header Errors</en>
+    </counter>
+    <counter>
+        <org>\[Datagrams Received Address Errors]</org>
+        <en>\Datagrams Received Address Errors</en>
+    </counter>
+    <counter>
+        <org>\[Datagrams Forwarded/sec]</org>
+        <en>\Datagrams Forwarded/sec</en>
+    </counter>
+    <counter>
+        <org>\[Datagrams Received Unknown Protocol]</org>
+        <en>\Datagrams Received Unknown Protocol</en>
+    </counter>
+    <counter>
+        <org>\[Datagrams Received Discarded]</org>
+        <en>\Datagrams Received Discarded</en>
+    </counter>
+    <counter>
+        <org>\[Datagrams Received Delivered/sec]</org>
+        <en>\Datagrams Received Delivered/sec</en>
+    </counter>
+    <counter>
+        <org>\[Datagrams Outbound Discarded]</org>
+        <en>\Datagrams Outbound Discarded</en>
+    </counter>
+    <counter>
+        <org>\[Datagrams Outbound No Route]</org>
+        <en>\Datagrams Outbound No Route</en>
+    </counter>
+    <counter>
+        <org>\[Fragments Received/sec]</org>
+        <en>\Fragments Received/sec</en>
+    </counter>
+    <counter>
+        <org>\[Fragments Re-assembled/sec]</org>
+        <en>\Fragments Re-assembled/sec</en>
+    </counter>
+    <counter>
+        <org>\[Fragment Re-assembly Failures]</org>
+        <en>\Fragment Re-assembly Failures</en>
+    </counter>
+    <counter>
+        <org>\[Fragmented Datagrams/sec]</org>
+        <en>\Fragmented Datagrams/sec</en>
+    </counter>
+    <counter>
+        <org>\[Fragmentation Failures]</org>
+        <en>\Fragmentation Failures</en>
+    </counter>
+    <counter>
+        <org>\[Fragments Created/sec]</org>
+        <en>\Fragments Created/sec</en>
+    </counter>
+    <counter>
+        <org>\[ICMP]</org>
+        <en>\ICMP</en>
+    </counter>
+    <counter>
+        <org>\[Messages/sec]</org>
+        <en>\Messages/sec</en>
+    </counter>
+    <counter>
+        <org>\[Messages Received/sec]</org>
+        <en>\Messages Received/sec</en>
+    </counter>
+    <counter>
+        <org>\[Messages Received Errors]</org>
+        <en>\Messages Received Errors</en>
+    </counter>
+    <counter>
+        <org>\[Received Dest. Unreachable]</org>
+        <en>\Received Dest. Unreachable</en>
+    </counter>
+    <counter>
+        <org>\[Received Time Exceeded]</org>
+        <en>\Received Time Exceeded</en>
+    </counter>
+    <counter>
+        <org>\[Received Parameter Problem]</org>
+        <en>\Received Parameter Problem</en>
+    </counter>
+    <counter>
+        <org>\[Received Source Quench]</org>
+        <en>\Received Source Quench</en>
+    </counter>
+    <counter>
+        <org>\[Received Redirect/sec]</org>
+        <en>\Received Redirect/sec</en>
+    </counter>
+    <counter>
+        <org>\[Received Echo/sec]</org>
+        <en>\Received Echo/sec</en>
+    </counter>
+    <counter>
+        <org>\[Received Echo Reply/sec]</org>
+        <en>\Received Echo Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\[Received Timestamp/sec]</org>
+        <en>\Received Timestamp/sec</en>
+    </counter>
+    <counter>
+        <org>\[Received Timestamp Reply/sec]</org>
+        <en>\Received Timestamp Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\[Received Address Mask]</org>
+        <en>\Received Address Mask</en>
+    </counter>
+    <counter>
+        <org>\[Received Address Mask Reply]</org>
+        <en>\Received Address Mask Reply</en>
+    </counter>
+    <counter>
+        <org>\[Messages Sent/sec]</org>
+        <en>\Messages Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\[Messages Outbound Errors]</org>
+        <en>\Messages Outbound Errors</en>
+    </counter>
+    <counter>
+        <org>\[Sent Destination Unreachable]</org>
+        <en>\Sent Destination Unreachable</en>
+    </counter>
+    <counter>
+        <org>\[Sent Time Exceeded]</org>
+        <en>\Sent Time Exceeded</en>
+    </counter>
+    <counter>
+        <org>\[Sent Parameter Problem]</org>
+        <en>\Sent Parameter Problem</en>
+    </counter>
+    <counter>
+        <org>\[Sent Source Quench]</org>
+        <en>\Sent Source Quench</en>
+    </counter>
+    <counter>
+        <org>\[Sent Redirect/sec]</org>
+        <en>\Sent Redirect/sec</en>
+    </counter>
+    <counter>
+        <org>\[Sent Echo/sec]</org>
+        <en>\Sent Echo/sec</en>
+    </counter>
+    <counter>
+        <org>\[Sent Echo Reply/sec]</org>
+        <en>\Sent Echo Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\[Sent Timestamp/sec]</org>
+        <en>\Sent Timestamp/sec</en>
+    </counter>
+    <counter>
+        <org>\[Sent Timestamp Reply/sec]</org>
+        <en>\Sent Timestamp Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\[Sent Address Mask]</org>
+        <en>\Sent Address Mask</en>
+    </counter>
+    <counter>
+        <org>\[Sent Address Mask Reply]</org>
+        <en>\Sent Address Mask Reply</en>
+    </counter>
+    <counter>
+        <org>\[TCPv4]</org>
+        <en>\TCPv4</en>
+    </counter>
+    <counter>
+        <org>\[Segments/sec]</org>
+        <en>\Segments/sec</en>
+    </counter>
+    <counter>
+        <org>\[Connections Established]</org>
+        <en>\Connections Established</en>
+    </counter>
+    <counter>
+        <org>\[Connections Active]</org>
+        <en>\Connections Active</en>
+    </counter>
+    <counter>
+        <org>\[Connections Passive]</org>
+        <en>\Connections Passive</en>
+    </counter>
+    <counter>
+        <org>\[Connection Failures]</org>
+        <en>\Connection Failures</en>
+    </counter>
+    <counter>
+        <org>\[Connections Reset]</org>
+        <en>\Connections Reset</en>
+    </counter>
+    <counter>
+        <org>\[Segments Received/sec]</org>
+        <en>\Segments Received/sec</en>
+    </counter>
+    <counter>
+        <org>\[Segments Sent/sec]</org>
+        <en>\Segments Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\[Segments Retransmitted/sec]</org>
+        <en>\Segments Retransmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\[UDPv4]</org>
+        <en>\UDPv4</en>
+    </counter>
+    <counter>
+        <org>\[% Total DPC Time]</org>
+        <en>\% Total DPC Time</en>
+    </counter>
+    <counter>
+        <org>\[% Total Interrupt Time]</org>
+        <en>\% Total Interrupt Time</en>
+    </counter>
+    <counter>
+        <org>\[Datagrams No Port/sec]</org>
+        <en>\Datagrams No Port/sec</en>
+    </counter>
+    <counter>
+        <org>\[Datagrams Received Errors]</org>
+        <en>\Datagrams Received Errors</en>
+    </counter>
+    <counter>
+        <org>\[Disk Storage Unit]</org>
+        <en>\Disk Storage Unit</en>
+    </counter>
+    <counter>
+        <org>\[Allocation Failures]</org>
+        <en>\Allocation Failures</en>
+    </counter>
+    <counter>
+        <org>\[System Up Time]</org>
+        <en>\System Up Time</en>
+    </counter>
+    <counter>
+        <org>\[System Handle Count]</org>
+        <en>\System Handle Count</en>
+    </counter>
+    <counter>
+        <org>\[Free System Page Table Entries]</org>
+        <en>\Free System Page Table Entries</en>
+    </counter>
+    <counter>
+        <org>\[Thread Count]</org>
+        <en>\Thread Count</en>
+    </counter>
+    <counter>
+        <org>\[Priority Base]</org>
+        <en>\Priority Base</en>
+    </counter>
+    <counter>
+        <org>\[Elapsed Time]</org>
+        <en>\Elapsed Time</en>
+    </counter>
+    <counter>
+        <org>\[Alignment Fixups/sec]</org>
+        <en>\Alignment Fixups/sec</en>
+    </counter>
+    <counter>
+        <org>\[Exception Dispatches/sec]</org>
+        <en>\Exception Dispatches/sec</en>
+    </counter>
+    <counter>
+        <org>\[Floating Emulations/sec]</org>
+        <en>\Floating Emulations/sec</en>
+    </counter>
+    <counter>
+        <org>\[Logon/sec]</org>
+        <en>\Logon/sec</en>
+    </counter>
+    <counter>
+        <org>\[Priority Current]</org>
+        <en>\Priority Current</en>
+    </counter>
+    <counter>
+        <org>\[% DPC Time]</org>
+        <en>\% DPC Time</en>
+    </counter>
+    <counter>
+        <org>\[% Interrupt Time]</org>
+        <en>\% Interrupt Time</en>
+    </counter>
+    <counter>
+        <org>\[Paging File]</org>
+        <en>\Paging File</en>
+    </counter>
+    <counter>
+        <org>\[% Usage]</org>
+        <en>\% Usage</en>
+    </counter>
+    <counter>
+        <org>\[% Usage Peak]</org>
+        <en>\% Usage Peak</en>
+    </counter>
+    <counter>
+        <org>\[Start Address]</org>
+        <en>\Start Address</en>
+    </counter>
+    <counter>
+        <org>\[User PC]</org>
+        <en>\User PC</en>
+    </counter>
+    <counter>
+        <org>\[Mapped Space No Access]</org>
+        <en>\Mapped Space No Access</en>
+    </counter>
+    <counter>
+        <org>\[Mapped Space Read Only]</org>
+        <en>\Mapped Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\[Mapped Space Read/Write]</org>
+        <en>\Mapped Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\[Mapped Space Write Copy]</org>
+        <en>\Mapped Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\[Mapped Space Executable]</org>
+        <en>\Mapped Space Executable</en>
+    </counter>
+    <counter>
+        <org>\[Mapped Space Exec Read Only]</org>
+        <en>\Mapped Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\[Mapped Space Exec Read/Write]</org>
+        <en>\Mapped Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\[Mapped Space Exec Write Copy]</org>
+        <en>\Mapped Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\[Reserved Space No Access]</org>
+        <en>\Reserved Space No Access</en>
+    </counter>
+    <counter>
+        <org>\[Reserved Space Read Only]</org>
+        <en>\Reserved Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\[Reserved Space Read/Write]</org>
+        <en>\Reserved Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\[Reserved Space Write Copy]</org>
+        <en>\Reserved Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\[Reserved Space Executable]</org>
+        <en>\Reserved Space Executable</en>
+    </counter>
+    <counter>
+        <org>\[Reserved Space Exec Read Only]</org>
+        <en>\Reserved Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\[Reserved Space Exec Read/Write]</org>
+        <en>\Reserved Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\[Image]</org>
+        <en>\Image</en>
+    </counter>
+    <counter>
+        <org>\[Reserved Space Exec Write Copy]</org>
+        <en>\Reserved Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\[Unassigned Space No Access]</org>
+        <en>\Unassigned Space No Access</en>
+    </counter>
+    <counter>
+        <org>\[Unassigned Space Read Only]</org>
+        <en>\Unassigned Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\[Unassigned Space Read/Write]</org>
+        <en>\Unassigned Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\[Unassigned Space Write Copy]</org>
+        <en>\Unassigned Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\[Unassigned Space Executable]</org>
+        <en>\Unassigned Space Executable</en>
+    </counter>
+    <counter>
+        <org>\[Unassigned Space Exec Read Only]</org>
+        <en>\Unassigned Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\[Unassigned Space Exec Read/Write]</org>
+        <en>\Unassigned Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\[Unassigned Space Exec Write Copy]</org>
+        <en>\Unassigned Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\[Image Space No Access]</org>
+        <en>\Image Space No Access</en>
+    </counter>
+    <counter>
+        <org>\[Image Space Read Only]</org>
+        <en>\Image Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\[Image Space Read/Write]</org>
+        <en>\Image Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\[Image Space Write Copy]</org>
+        <en>\Image Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\[Image Space Executable]</org>
+        <en>\Image Space Executable</en>
+    </counter>
+    <counter>
+        <org>\[Image Space Exec Read Only]</org>
+        <en>\Image Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\[Image Space Exec Read/Write]</org>
+        <en>\Image Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\[Image Space Exec Write Copy]</org>
+        <en>\Image Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\[Bytes Image Reserved]</org>
+        <en>\Bytes Image Reserved</en>
+    </counter>
+    <counter>
+        <org>\[Bytes Image Free]</org>
+        <en>\Bytes Image Free</en>
+    </counter>
+    <counter>
+        <org>\[Bytes Reserved]</org>
+        <en>\Bytes Reserved</en>
+    </counter>
+    <counter>
+        <org>\[Bytes Free]</org>
+        <en>\Bytes Free</en>
+    </counter>
+    <counter>
+        <org>\[ID Process]</org>
+        <en>\ID Process</en>
+    </counter>
+    <counter>
+        <org>\[Process Address Space]</org>
+        <en>\Process Address Space</en>
+    </counter>
+    <counter>
+        <org>\[No Access]</org>
+        <en>\No Access</en>
+    </counter>
+    <counter>
+        <org>\[Read Only]</org>
+        <en>\Read Only</en>
+    </counter>
+    <counter>
+        <org>\[Read/Write]</org>
+        <en>\Read/Write</en>
+    </counter>
+    <counter>
+        <org>\[Write Copy]</org>
+        <en>\Write Copy</en>
+    </counter>
+    <counter>
+        <org>\[Executable]</org>
+        <en>\Executable</en>
+    </counter>
+    <counter>
+        <org>\[Exec Read Only]</org>
+        <en>\Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\[Exec Read/Write]</org>
+        <en>\Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\[Exec Write Copy]</org>
+        <en>\Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\[ID Thread]</org>
+        <en>\ID Thread</en>
+    </counter>
+    <counter>
+        <org>\[Mailslot Receives Failed]</org>
+        <en>\Mailslot Receives Failed</en>
+    </counter>
+    <counter>
+        <org>\[Mailslot Writes Failed]</org>
+        <en>\Mailslot Writes Failed</en>
+    </counter>
+    <counter>
+        <org>\[Mailslot Opens Failed/sec]</org>
+        <en>\Mailslot Opens Failed/sec</en>
+    </counter>
+    <counter>
+        <org>\[Duplicate Master Announcements]</org>
+        <en>\Duplicate Master Announcements</en>
+    </counter>
+    <counter>
+        <org>\[Illegal Datagrams/sec]</org>
+        <en>\Illegal Datagrams/sec</en>
+    </counter>
+    <counter>
+        <org>\[Thread Details]</org>
+        <en>\Thread Details</en>
+    </counter>
+    <counter>
+        <org>\[Cache Bytes]</org>
+        <en>\Cache Bytes</en>
+    </counter>
+    <counter>
+        <org>\[Cache Bytes Peak]</org>
+        <en>\Cache Bytes Peak</en>
+    </counter>
+    <counter>
+        <org>\[Pages Input/sec]</org>
+        <en>\Pages Input/sec</en>
+    </counter>
+    <counter>
+        <org>\[Transition Pages RePurposed/sec]</org>
+        <en>\Transition Pages RePurposed/sec</en>
+    </counter>
+    <counter>
+        <org>\[Bytes Transmitted]</org>
+        <en>\Bytes Transmitted</en>
+    </counter>
+    <counter>
+        <org>\[Bytes Received]</org>
+        <en>\Bytes Received</en>
+    </counter>
+    <counter>
+        <org>\[Frames Transmitted]</org>
+        <en>\Frames Transmitted</en>
+    </counter>
+    <counter>
+        <org>\[Frames Received.]</org>
+        <en>\Frames Received.</en>
+    </counter>
+    <counter>
+        <org>\[Percent Compression Out]</org>
+        <en>\Percent Compression Out</en>
+    </counter>
+    <counter>
+        <org>\[Percent Compression In]</org>
+        <en>\Percent Compression In</en>
+    </counter>
+    <counter>
+        <org>\[CRC Errors]</org>
+        <en>\CRC Errors</en>
+    </counter>
+    <counter>
+        <org>\[Timeout Errors]</org>
+        <en>\Timeout Errors</en>
+    </counter>
+    <counter>
+        <org>\[Serial Overrun Errors]</org>
+        <en>\Serial Overrun Errors</en>
+    </counter>
+    <counter>
+        <org>\[Alignment Errors]</org>
+        <en>\Alignment Errors</en>
+    </counter>
+    <counter>
+        <org>\[Buffer Overrun Errors]</org>
+        <en>\Buffer Overrun Errors</en>
+    </counter>
+    <counter>
+        <org>\[Total Errors]</org>
+        <en>\Total Errors</en>
+    </counter>
+    <counter>
+        <org>\[Bytes Transmitted/Sec]</org>
+        <en>\Bytes Transmitted/Sec</en>
+    </counter>
+    <counter>
+        <org>\[Bytes Received/Sec]</org>
+        <en>\Bytes Received/Sec</en>
+    </counter>
+    <counter>
+        <org>\[Frames Transmitted/Sec]</org>
+        <en>\Frames Transmitted/Sec</en>
+    </counter>
+    <counter>
+        <org>\[Frames Received/Sec]</org>
+        <en>\Frames Received/Sec</en>
+    </counter>
+    <counter>
+        <org>\[Total Errors/Sec]</org>
+        <en>\Total Errors/Sec</en>
+    </counter>
+    <counter>
+        <org>\[Total Connections]</org>
+        <en>\Total Connections</en>
+    </counter>
+    <counter>
+        <org>\[WINS Server]</org>
+        <en>\WINS Server</en>
+    </counter>
+    <counter>
+        <org>\[Unique Registrations/sec]</org>
+        <en>\Unique Registrations/sec</en>
+    </counter>
+    <counter>
+        <org>\[Group Registrations/sec]</org>
+        <en>\Group Registrations/sec</en>
+    </counter>
+    <counter>
+        <org>\[Total Number of Registrations/sec]</org>
+        <en>\Total Number of Registrations/sec</en>
+    </counter>
+    <counter>
+        <org>\[Unique Renewals/sec]</org>
+        <en>\Unique Renewals/sec</en>
+    </counter>
+    <counter>
+        <org>\[Group Renewals/sec]</org>
+        <en>\Group Renewals/sec</en>
+    </counter>
+    <counter>
+        <org>\[Total Number of Renewals/sec]</org>
+        <en>\Total Number of Renewals/sec</en>
+    </counter>
+    <counter>
+        <org>\[Releases/sec]</org>
+        <en>\Releases/sec</en>
+    </counter>
+    <counter>
+        <org>\[Queries/sec]</org>
+        <en>\Queries/sec</en>
+    </counter>
+    <counter>
+        <org>\[Unique Conflicts/sec]</org>
+        <en>\Unique Conflicts/sec</en>
+    </counter>
+    <counter>
+        <org>\[Group Conflicts/sec]</org>
+        <en>\Group Conflicts/sec</en>
+    </counter>
+    <counter>
+        <org>\[Total Number of Conflicts/sec]</org>
+        <en>\Total Number of Conflicts/sec</en>
+    </counter>
+    <counter>
+        <org>\[Successful Releases/sec]</org>
+        <en>\Successful Releases/sec</en>
+    </counter>
+    <counter>
+        <org>\[Failed Releases/sec]</org>
+        <en>\Failed Releases/sec</en>
+    </counter>
+    <counter>
+        <org>\[Successful Queries/sec]</org>
+        <en>\Successful Queries/sec</en>
+    </counter>
+    <counter>
+        <org>\[Failed Queries/sec]</org>
+        <en>\Failed Queries/sec</en>
+    </counter>
+    <counter>
+        <org>\[Handle Count]</org>
+        <en>\Handle Count</en>
+    </counter>
+    <counter>
+        <org>\[MacFile Server]</org>
+        <en>\MacFile Server</en>
+    </counter>
+    <counter>
+        <org>\[Max Paged Memory]</org>
+        <en>\Max Paged Memory</en>
+    </counter>
+    <counter>
+        <org>\[Current Paged Memory]</org>
+        <en>\Current Paged Memory</en>
+    </counter>
+    <counter>
+        <org>\[Max NonPaged Memory]</org>
+        <en>\Max NonPaged Memory</en>
+    </counter>
+    <counter>
+        <org>\[Current NonPaged memory]</org>
+        <en>\Current NonPaged memory</en>
+    </counter>
+    <counter>
+        <org>\[Current Sessions]</org>
+        <en>\Current Sessions</en>
+    </counter>
+    <counter>
+        <org>\[Maximum Sessions]</org>
+        <en>\Maximum Sessions</en>
+    </counter>
+    <counter>
+        <org>\[Current Files Open]</org>
+        <en>\Current Files Open</en>
+    </counter>
+    <counter>
+        <org>\[Maximum Files Open]</org>
+        <en>\Maximum Files Open</en>
+    </counter>
+    <counter>
+        <org>\[Failed Logons]</org>
+        <en>\Failed Logons</en>
+    </counter>
+    <counter>
+        <org>\[Data Read/sec]</org>
+        <en>\Data Read/sec</en>
+    </counter>
+    <counter>
+        <org>\[Data Written/sec]</org>
+        <en>\Data Written/sec</en>
+    </counter>
+    <counter>
+        <org>\[Data Received/sec]</org>
+        <en>\Data Received/sec</en>
+    </counter>
+    <counter>
+        <org>\[Data Transmitted/sec]</org>
+        <en>\Data Transmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\[Current Queue Length]</org>
+        <en>\Current Queue Length</en>
+    </counter>
+    <counter>
+        <org>\[Maximum Queue Length]</org>
+        <en>\Maximum Queue Length</en>
+    </counter>
+    <counter>
+        <org>\[Current Threads]</org>
+        <en>\Current Threads</en>
+    </counter>
+    <counter>
+        <org>\[Maximum Threads]</org>
+        <en>\Maximum Threads</en>
+    </counter>
+    <counter>
+        <org>\[AppleTalk]</org>
+        <en>\AppleTalk</en>
+    </counter>
+    <counter>
+        <org>\[Packets In/sec]</org>
+        <en>\Packets In/sec</en>
+    </counter>
+    <counter>
+        <org>\[Packets Out/sec]</org>
+        <en>\Packets Out/sec</en>
+    </counter>
+    <counter>
+        <org>\[Bytes In/sec]</org>
+        <en>\Bytes In/sec</en>
+    </counter>
+    <counter>
+        <org>\[Bytes Out/sec]</org>
+        <en>\Bytes Out/sec</en>
+    </counter>
+    <counter>
+        <org>\[Average Time/DDP Packet]</org>
+        <en>\Average Time/DDP Packet</en>
+    </counter>
+    <counter>
+        <org>\[DDP Packets/sec]</org>
+        <en>\DDP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\[Average Time/AARP Packet]</org>
+        <en>\Average Time/AARP Packet</en>
+    </counter>
+    <counter>
+        <org>\[AARP Packets/sec]</org>
+        <en>\AARP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\[Average Time/ATP Packet]</org>
+        <en>\Average Time/ATP Packet</en>
+    </counter>
+    <counter>
+        <org>\[ATP Packets/sec]</org>
+        <en>\ATP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\[Average Time/NBP Packet]</org>
+        <en>\Average Time/NBP Packet</en>
+    </counter>
+    <counter>
+        <org>\[NBP Packets/sec]</org>
+        <en>\NBP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\[Average Time/ZIP Packet]</org>
+        <en>\Average Time/ZIP Packet</en>
+    </counter>
+    <counter>
+        <org>\[ZIP Packets/sec]</org>
+        <en>\ZIP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\[Average Time/RTMP Packet]</org>
+        <en>\Average Time/RTMP Packet</en>
+    </counter>
+    <counter>
+        <org>\[RTMP Packets/sec]</org>
+        <en>\RTMP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\[ATP Retries Local]</org>
+        <en>\ATP Retries Local</en>
+    </counter>
+    <counter>
+        <org>\[ATP Response Timouts]</org>
+        <en>\ATP Response Timouts</en>
+    </counter>
+    <counter>
+        <org>\[ATP XO Response/Sec]</org>
+        <en>\ATP XO Response/Sec</en>
+    </counter>
+    <counter>
+        <org>\[ATP ALO Response/Sec]</org>
+        <en>\ATP ALO Response/Sec</en>
+    </counter>
+    <counter>
+        <org>\[ATP Recvd Release/Sec]</org>
+        <en>\ATP Recvd Release/Sec</en>
+    </counter>
+    <counter>
+        <org>\[Current NonPaged Pool]</org>
+        <en>\Current NonPaged Pool</en>
+    </counter>
+    <counter>
+        <org>\[Packets Routed In/Sec]</org>
+        <en>\Packets Routed In/Sec</en>
+    </counter>
+    <counter>
+        <org>\[Packets dropped]</org>
+        <en>\Packets dropped</en>
+    </counter>
+    <counter>
+        <org>\[ATP Retries Remote]</org>
+        <en>\ATP Retries Remote</en>
+    </counter>
+    <counter>
+        <org>\[Packets Routed Out/Sec]</org>
+        <en>\Packets Routed Out/Sec</en>
+    </counter>
+    <counter>
+        <org>\[Network Segment]</org>
+        <en>\Network Segment</en>
+    </counter>
+    <counter>
+        <org>\[Total frames received/second]</org>
+        <en>\Total frames received/second</en>
+    </counter>
+    <counter>
+        <org>\[Total bytes received/second]</org>
+        <en>\Total bytes received/second</en>
+    </counter>
+    <counter>
+        <org>\[Broadcast frames received/second]</org>
+        <en>\Broadcast frames received/second</en>
+    </counter>
+    <counter>
+        <org>\[Multicast frames received/second]</org>
+        <en>\Multicast frames received/second</en>
+    </counter>
+    <counter>
+        <org>\[% Network utilization]</org>
+        <en>\% Network utilization</en>
+    </counter>
+    <counter>
+        <org>\[% Broadcast Frames]</org>
+        <en>\% Broadcast Frames</en>
+    </counter>
+    <counter>
+        <org>\[% Multicast Frames]</org>
+        <en>\% Multicast Frames</en>
+    </counter>
+    <counter>
+        <org>\[Telephony]</org>
+        <en>\Telephony</en>
+    </counter>
+    <counter>
+        <org>\[Lines]</org>
+        <en>\Lines</en>
+    </counter>
+    <counter>
+        <org>\[Telephone Devices]</org>
+        <en>\Telephone Devices</en>
+    </counter>
+    <counter>
+        <org>\[Active Lines]</org>
+        <en>\Active Lines</en>
+    </counter>
+    <counter>
+        <org>\[Active Telephones]</org>
+        <en>\Active Telephones</en>
+    </counter>
+    <counter>
+        <org>\[Outgoing Calls/sec]</org>
+        <en>\Outgoing Calls/sec</en>
+    </counter>
+    <counter>
+        <org>\[Incoming Calls/sec]</org>
+        <en>\Incoming Calls/sec</en>
+    </counter>
+    <counter>
+        <org>\[Client Apps]</org>
+        <en>\Client Apps</en>
+    </counter>
+    <counter>
+        <org>\[Current Outgoing Calls]</org>
+        <en>\Current Outgoing Calls</en>
+    </counter>
+    <counter>
+        <org>\[Current Incoming Calls]</org>
+        <en>\Current Incoming Calls</en>
+    </counter>
+    <counter>
+        <org>\[Packet Burst Read NCP Count/sec]</org>
+        <en>\Packet Burst Read NCP Count/sec</en>
+    </counter>
+    <counter>
+        <org>\[Packet Burst Read Timeouts/sec]</org>
+        <en>\Packet Burst Read Timeouts/sec</en>
+    </counter>
+    <counter>
+        <org>\[Packet Burst Write NCP Count/sec]</org>
+        <en>\Packet Burst Write NCP Count/sec</en>
+    </counter>
+    <counter>
+        <org>\[Packet Burst Write Timeouts/sec]</org>
+        <en>\Packet Burst Write Timeouts/sec</en>
+    </counter>
+    <counter>
+        <org>\[Packet Burst IO/sec]</org>
+        <en>\Packet Burst IO/sec</en>
+    </counter>
+    <counter>
+        <org>\[Logon Total]</org>
+        <en>\Logon Total</en>
+    </counter>
+    <counter>
+        <org>\[Server Work Queues]</org>
+        <en>\Server Work Queues</en>
+    </counter>
+    <counter>
+        <org>\[Queue Length]</org>
+        <en>\Queue Length</en>
+    </counter>
+    <counter>
+        <org>\[Active Threads]</org>
+        <en>\Active Threads</en>
+    </counter>
+    <counter>
+        <org>\[Available Threads]</org>
+        <en>\Available Threads</en>
+    </counter>
+    <counter>
+        <org>\[Available Work Items]</org>
+        <en>\Available Work Items</en>
+    </counter>
+    <counter>
+        <org>\[Borrowed Work Items]</org>
+        <en>\Borrowed Work Items</en>
+    </counter>
+    <counter>
+        <org>\[Work Item Shortages]</org>
+        <en>\Work Item Shortages</en>
+    </counter>
+    <counter>
+        <org>\[Current Clients]</org>
+        <en>\Current Clients</en>
+    </counter>
+    <counter>
+        <org>\[Bytes Transferred/sec]</org>
+        <en>\Bytes Transferred/sec</en>
+    </counter>
+    <counter>
+        <org>\[Read Bytes/sec]</org>
+        <en>\Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[Write Bytes/sec]</org>
+        <en>\Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[Total Operations/sec]</org>
+        <en>\Total Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\[DPCs Queued/sec]</org>
+        <en>\DPCs Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\[DPC Rate]</org>
+        <en>\DPC Rate</en>
+    </counter>
+    <counter>
+        <org>\[Total DPCs Queued/sec]</org>
+        <en>\Total DPCs Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\[Total DPC Rate]</org>
+        <en>\Total DPC Rate</en>
+    </counter>
+    <counter>
+        <org>\[% Registry Quota In Use]</org>
+        <en>\% Registry Quota In Use</en>
+    </counter>
+    <counter>
+        <org>\[VL Memory]</org>
+        <en>\VL Memory</en>
+    </counter>
+    <counter>
+        <org>\[VLM % Virtual Size In Use]</org>
+        <en>\VLM % Virtual Size In Use</en>
+    </counter>
+    <counter>
+        <org>\[VLM Virtual Size]</org>
+        <en>\VLM Virtual Size</en>
+    </counter>
+    <counter>
+        <org>\[VLM Virtual Size Peak]</org>
+        <en>\VLM Virtual Size Peak</en>
+    </counter>
+    <counter>
+        <org>\[VLM Virtual Size Available]</org>
+        <en>\VLM Virtual Size Available</en>
+    </counter>
+    <counter>
+        <org>\[VLM Commit Charge]</org>
+        <en>\VLM Commit Charge</en>
+    </counter>
+    <counter>
+        <org>\[VLM Commit Charge Peak]</org>
+        <en>\VLM Commit Charge Peak</en>
+    </counter>
+    <counter>
+        <org>\[System VLM Commit Charge]</org>
+        <en>\System VLM Commit Charge</en>
+    </counter>
+    <counter>
+        <org>\[System VLM Commit Charge Peak]</org>
+        <en>\System VLM Commit Charge Peak</en>
+    </counter>
+    <counter>
+        <org>\[System VLM Shared Commit Charge]</org>
+        <en>\System VLM Shared Commit Charge</en>
+    </counter>
+    <counter>
+        <org>\[Available KBytes]</org>
+        <en>\Available KBytes</en>
+    </counter>
+    <counter>
+        <org>\[Available MBytes]</org>
+        <en>\Available MBytes</en>
+    </counter>
+    <counter>
+        <org>\[Avg. Disk Queue Length]</org>
+        <en>\Avg. Disk Queue Length</en>
+    </counter>
+    <counter>
+        <org>\[Avg. Disk Read Queue Length]</org>
+        <en>\Avg. Disk Read Queue Length</en>
+    </counter>
+    <counter>
+        <org>\[Avg. Disk Write Queue Length]</org>
+        <en>\Avg. Disk Write Queue Length</en>
+    </counter>
+    <counter>
+        <org>\[% Committed Bytes In Use]</org>
+        <en>\% Committed Bytes In Use</en>
+    </counter>
+    <counter>
+        <org>\[Full Image]</org>
+        <en>\Full Image</en>
+    </counter>
+    <counter>
+        <org>\[Creating Process ID]</org>
+        <en>\Creating Process ID</en>
+    </counter>
+    <counter>
+        <org>\[IO Read Operations/sec]</org>
+        <en>\IO Read Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\[IO Write Operations/sec]</org>
+        <en>\IO Write Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\[IO Data Operations/sec]</org>
+        <en>\IO Data Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\[IO Other Operations/sec]</org>
+        <en>\IO Other Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\[IO Read Bytes/sec]</org>
+        <en>\IO Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[IO Write Bytes/sec]</org>
+        <en>\IO Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[IO Data Bytes/sec]</org>
+        <en>\IO Data Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[IO Other Bytes/sec]</org>
+        <en>\IO Other Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[Print Queue]</org>
+        <en>\Print Queue</en>
+    </counter>
+    <counter>
+        <org>\[Total Jobs Printed]</org>
+        <en>\Total Jobs Printed</en>
+    </counter>
+    <counter>
+        <org>\[Bytes Printed/sec]</org>
+        <en>\Bytes Printed/sec</en>
+    </counter>
+    <counter>
+        <org>\[Total Pages Printed]</org>
+        <en>\Total Pages Printed</en>
+    </counter>
+    <counter>
+        <org>\[Jobs]</org>
+        <en>\Jobs</en>
+    </counter>
+    <counter>
+        <org>\[References]</org>
+        <en>\References</en>
+    </counter>
+    <counter>
+        <org>\[Max References]</org>
+        <en>\Max References</en>
+    </counter>
+    <counter>
+        <org>\[Jobs Spooling]</org>
+        <en>\Jobs Spooling</en>
+    </counter>
+    <counter>
+        <org>\[Max Jobs Spooling]</org>
+        <en>\Max Jobs Spooling</en>
+    </counter>
+    <counter>
+        <org>\[Out of Paper Errors]</org>
+        <en>\Out of Paper Errors</en>
+    </counter>
+    <counter>
+        <org>\[Not Ready Errors]</org>
+        <en>\Not Ready Errors</en>
+    </counter>
+    <counter>
+        <org>\[Job Errors]</org>
+        <en>\Job Errors</en>
+    </counter>
+    <counter>
+        <org>\[Enumerate Network Printer Calls]</org>
+        <en>\Enumerate Network Printer Calls</en>
+    </counter>
+    <counter>
+        <org>\[Add Network Printer Calls]</org>
+        <en>\Add Network Printer Calls</en>
+    </counter>
+    <counter>
+        <org>\[Working Set - Private]</org>
+        <en>\Working Set - Private</en>
+    </counter>
+    <counter>
+        <org>\[Working Set - Shared]</org>
+        <en>\Working Set - Shared</en>
+    </counter>
+    <counter>
+        <org>\[% Idle Time]</org>
+        <en>\% Idle Time</en>
+    </counter>
+    <counter>
+        <org>\[Split IO/Sec]</org>
+        <en>\Split IO/Sec</en>
+    </counter>
+    <counter>
+        <org>\[Job Object]</org>
+        <en>\Job Object</en>
+    </counter>
+    <counter>
+        <org>\[Current % Processor Time]</org>
+        <en>\Current % Processor Time</en>
+    </counter>
+    <counter>
+        <org>\[Current % User Mode Time]</org>
+        <en>\Current % User Mode Time</en>
+    </counter>
+    <counter>
+        <org>\[Current % Kernel Mode Time]</org>
+        <en>\Current % Kernel Mode Time</en>
+    </counter>
+    <counter>
+        <org>\[This Period mSec - Processor]</org>
+        <en>\This Period mSec - Processor</en>
+    </counter>
+    <counter>
+        <org>\[This Period mSec - User Mode]</org>
+        <en>\This Period mSec - User Mode</en>
+    </counter>
+    <counter>
+        <org>\[This Period mSec - Kernel Mode]</org>
+        <en>\This Period mSec - Kernel Mode</en>
+    </counter>
+    <counter>
+        <org>\[Pages/Sec]</org>
+        <en>\Pages/Sec</en>
+    </counter>
+    <counter>
+        <org>\[Process Count - Total]</org>
+        <en>\Process Count - Total</en>
+    </counter>
+    <counter>
+        <org>\[Process Count - Active]</org>
+        <en>\Process Count - Active</en>
+    </counter>
+    <counter>
+        <org>\[Process Count - Terminated]</org>
+        <en>\Process Count - Terminated</en>
+    </counter>
+    <counter>
+        <org>\[Total mSec - Processor]</org>
+        <en>\Total mSec - Processor</en>
+    </counter>
+    <counter>
+        <org>\[Total mSec - User Mode]</org>
+        <en>\Total mSec - User Mode</en>
+    </counter>
+    <counter>
+        <org>\[Total mSec - Kernel Mode]</org>
+        <en>\Total mSec - Kernel Mode</en>
+    </counter>
+    <counter>
+        <org>\[TCPv6]</org>
+        <en>\TCPv6</en>
+    </counter>
+    <counter>
+        <org>\[UDPv6]</org>
+        <en>\UDPv6</en>
+    </counter>
+    <counter>
+        <org>\[ICMPv6]</org>
+        <en>\ICMPv6</en>
+    </counter>
+    <counter>
+        <org>\[Received Packet Too Big]</org>
+        <en>\Received Packet Too Big</en>
+    </counter>
+    <counter>
+        <org>\[Received Membership Query]</org>
+        <en>\Received Membership Query</en>
+    </counter>
+    <counter>
+        <org>\[Received Membership Report]</org>
+        <en>\Received Membership Report</en>
+    </counter>
+    <counter>
+        <org>\[Received Membership Reduction]</org>
+        <en>\Received Membership Reduction</en>
+    </counter>
+    <counter>
+        <org>\[Received Router Solicit]</org>
+        <en>\Received Router Solicit</en>
+    </counter>
+    <counter>
+        <org>\[Received Router Advert]</org>
+        <en>\Received Router Advert</en>
+    </counter>
+    <counter>
+        <org>\[Job Object Details]</org>
+        <en>\Job Object Details</en>
+    </counter>
+    <counter>
+        <org>\[Received Neighbor Solicit]</org>
+        <en>\Received Neighbor Solicit</en>
+    </counter>
+    <counter>
+        <org>\[Received Neighbor Advert]</org>
+        <en>\Received Neighbor Advert</en>
+    </counter>
+    <counter>
+        <org>\[Sent Packet Too Big]</org>
+        <en>\Sent Packet Too Big</en>
+    </counter>
+    <counter>
+        <org>\[Sent Membership Query]</org>
+        <en>\Sent Membership Query</en>
+    </counter>
+    <counter>
+        <org>\[Sent Membership Report]</org>
+        <en>\Sent Membership Report</en>
+    </counter>
+    <counter>
+        <org>\[Sent Membership Reduction]</org>
+        <en>\Sent Membership Reduction</en>
+    </counter>
+    <counter>
+        <org>\[Sent Router Solicit]</org>
+        <en>\Sent Router Solicit</en>
+    </counter>
+    <counter>
+        <org>\[Sent Router Advert]</org>
+        <en>\Sent Router Advert</en>
+    </counter>
+    <counter>
+        <org>\[Sent Neighbor Solicit]</org>
+        <en>\Sent Neighbor Solicit</en>
+    </counter>
+    <counter>
+        <org>\[Sent Neighbor Advert]</org>
+        <en>\Sent Neighbor Advert</en>
+    </counter>
+    <counter>
+        <org>\[Security System-Wide Statistics]</org>
+        <en>\Security System-Wide Statistics</en>
+    </counter>
+    <counter>
+        <org>\[NTLM Authentications]</org>
+        <en>\NTLM Authentications</en>
+    </counter>
+    <counter>
+        <org>\[Kerberos Authentications]</org>
+        <en>\Kerberos Authentications</en>
+    </counter>
+    <counter>
+        <org>\[KDC AS Requests]</org>
+        <en>\KDC AS Requests</en>
+    </counter>
+    <counter>
+        <org>\[KDC TGS Requests]</org>
+        <en>\KDC TGS Requests</en>
+    </counter>
+    <counter>
+        <org>\[Schannel Session Cache Entries]</org>
+        <en>\Schannel Session Cache Entries</en>
+    </counter>
+    <counter>
+        <org>\[Active Schannel Session Cache Entries]</org>
+        <en>\Active Schannel Session Cache Entries</en>
+    </counter>
+    <counter>
+        <org>\[SSL Client-Side Full Handshakes]</org>
+        <en>\SSL Client-Side Full Handshakes</en>
+    </counter>
+    <counter>
+        <org>\[SSL Client-Side Reconnect Handshakes]</org>
+        <en>\SSL Client-Side Reconnect Handshakes</en>
+    </counter>
+    <counter>
+        <org>\[SSL Server-Side Full Handshakes]</org>
+        <en>\SSL Server-Side Full Handshakes</en>
+    </counter>
+    <counter>
+        <org>\[SSL Server-Side Reconnect Handshakes]</org>
+        <en>\SSL Server-Side Reconnect Handshakes</en>
+    </counter>
+    <counter>
+        <org>\[Digest Authentications]</org>
+        <en>\Digest Authentications</en>
+    </counter>
+    <counter>
+        <org>\[Security Per-Process Statistics]</org>
+        <en>\Security Per-Process Statistics</en>
+    </counter>
+    <counter>
+        <org>\[Credential Handles]</org>
+        <en>\Credential Handles</en>
+    </counter>
+    <counter>
+        <org>\[Context Handles]</org>
+        <en>\Context Handles</en>
+    </counter>
+    <counter>
+        <org>\[Free &amp; Zero Page List Bytes]</org>
+        <en>\Free &amp; Zero Page List Bytes</en>
+    </counter>
+    <counter>
+        <org>\[Modified Page List Bytes]</org>
+        <en>\Modified Page List Bytes</en>
+    </counter>
+    <counter>
+        <org>\[Standby Cache Reserve Bytes]</org>
+        <en>\Standby Cache Reserve Bytes</en>
+    </counter>
+    <counter>
+        <org>\[Standby Cache Normal Priority Bytes]</org>
+        <en>\Standby Cache Normal Priority Bytes</en>
+    </counter>
+    <counter>
+        <org>\[Standby Cache Core Bytes]</org>
+        <en>\Standby Cache Core Bytes</en>
+    </counter>
+    <counter>
+        <org>\[% Idle Time]</org>
+        <en>\% Idle Time</en>
+    </counter>
+    <counter>
+        <org>\[% C1 Time]</org>
+        <en>\% C1 Time</en>
+    </counter>
+    <counter>
+        <org>\[% C2 Time]</org>
+        <en>\% C2 Time</en>
+    </counter>
+    <counter>
+        <org>\[% C3 Time]</org>
+        <en>\% C3 Time</en>
+    </counter>
+    <counter>
+        <org>\[C1 Transitions/sec]</org>
+        <en>\C1 Transitions/sec</en>
+    </counter>
+    <counter>
+        <org>\[C2 Transitions/sec]</org>
+        <en>\C2 Transitions/sec</en>
+    </counter>
+    <counter>
+        <org>\[C3 Transitions/sec]</org>
+        <en>\C3 Transitions/sec</en>
+    </counter>
+    <counter>
+        <org>\[Heap]</org>
+        <en>\Heap</en>
+    </counter>
+    <counter>
+        <org>\[Committed Bytes]</org>
+        <en>\Committed Bytes</en>
+    </counter>
+    <counter>
+        <org>\[Reserved Bytes]</org>
+        <en>\Reserved Bytes</en>
+    </counter>
+    <counter>
+        <org>\[Virtual Bytes]</org>
+        <en>\Virtual Bytes</en>
+    </counter>
+    <counter>
+        <org>\[Free Bytes]</org>
+        <en>\Free Bytes</en>
+    </counter>
+    <counter>
+        <org>\[Free List Length]</org>
+        <en>\Free List Length</en>
+    </counter>
+    <counter>
+        <org>\[Avg. alloc rate]</org>
+        <en>\Avg. alloc rate</en>
+    </counter>
+    <counter>
+        <org>\[Avg. free rate]</org>
+        <en>\Avg. free rate</en>
+    </counter>
+    <counter>
+        <org>\[Uncommitted Ranges Length]</org>
+        <en>\Uncommitted Ranges Length</en>
+    </counter>
+    <counter>
+        <org>\[Allocs - Frees]</org>
+        <en>\Allocs - Frees</en>
+    </counter>
+    <counter>
+        <org>\[Cached Allocs/sec]</org>
+        <en>\Cached Allocs/sec</en>
+    </counter>
+    <counter>
+        <org>\[Cached Frees/sec]</org>
+        <en>\Cached Frees/sec</en>
+    </counter>
+    <counter>
+        <org>\[Allocs &lt;1K/sec]</org>
+        <en>\Allocs &lt;1K/sec</en>
+    </counter>
+    <counter>
+        <org>\[Frees &lt;1K/sec]</org>
+        <en>\Frees &lt;1K/sec</en>
+    </counter>
+    <counter>
+        <org>\[Allocs 1-8K/sec]</org>
+        <en>\Allocs 1-8K/sec</en>
+    </counter>
+    <counter>
+        <org>\[Frees 1-8K/sec]</org>
+        <en>\Frees 1-8K/sec</en>
+    </counter>
+    <counter>
+        <org>\[Allocs over 8K/sec]</org>
+        <en>\Allocs over 8K/sec</en>
+    </counter>
+    <counter>
+        <org>\[Frees over 8K/sec]</org>
+        <en>\Frees over 8K/sec</en>
+    </counter>
+    <counter>
+        <org>\[Total Allocs/sec]</org>
+        <en>\Total Allocs/sec</en>
+    </counter>
+    <counter>
+        <org>\[Total Frees/sec]</org>
+        <en>\Total Frees/sec</en>
+    </counter>
+    <counter>
+        <org>\[Blocks in Heap Cache]</org>
+        <en>\Blocks in Heap Cache</en>
+    </counter>
+    <counter>
+        <org>\[Largest Cache Depth]</org>
+        <en>\Largest Cache Depth</en>
+    </counter>
+    <counter>
+        <org>\[% Fragmentation]</org>
+        <en>\% Fragmentation</en>
+    </counter>
+    <counter>
+        <org>\[% VAFragmentation]</org>
+        <en>\% VAFragmentation</en>
+    </counter>
+    <counter>
+        <org>\[Heap Lock contention]</org>
+        <en>\Heap Lock contention</en>
+    </counter>
+    <counter>
+        <org>\[End Marker]</org>
+        <en>\End Marker</en>
+    </counter>
+</Counters>

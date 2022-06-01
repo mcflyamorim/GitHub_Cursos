@@ -1,0 +1,3 @@
+1 - O processo está lento. Por que?
+2 - Em desenvolvimento funciona. Por que? 
+3 - O que fazer pra melhorar a performance da rotina?

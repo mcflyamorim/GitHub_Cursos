@@ -1,0 +1,75 @@
+1 - Create st_SOS_SCHEDULER_YIELD
+
+IF OBJECT_ID('st_SOS_SCHEDULER_YIELD') IS NOT NULL
+  DROP PROC st_SOS_SCHEDULER_YIELD
+GO
+CREATE PROC st_SOS_SCHEDULER_YIELD
+AS
+BEGIN
+  DECLARE @i INT, @y INT, @x INT, @counter INT = 1
+
+  WHILE @counter <= 10
+  BEGIN
+    SET @i = ISNULL(ABS(CONVERT(Numeric(18,2), (CheckSUM(NEWID()) / 100000))),0)
+    SET @y = @i + 1000
+    SET TRANSACTION ISOLATION LEVEL REPEATABLE READ
+    SELECT TOP 1000 @x = OrderiD FROM OrdersBig WITH(NOLOCK)
+    WHERE OrderID BETWEEN @i AND @y
+
+    SET @counter += 1;
+  END 
+END
+GO
+
+2 - Run ostress with 200 threads and 100 iterations:
+
+C:\RMLUtils\ostress.exe -Usa -P@bc12345 -Srazerfabiano\sql2017 -n200 -r200 -dNorthwind -Q"EXEC st_SOS_SCHEDULER_YIELD" -q
+
+3 - Check dm_exec_requests.last_Wait_type
+
+SELECT
+    [er].[session_id],
+    [es].[program_name],
+    [est].text,
+    [er].[database_id],
+    [eqp].[query_plan],
+    [er].[cpu_time], 
+    [er].[last_Wait_type]
+FROM sys.dm_exec_requests [er]
+INNER JOIN sys.dm_exec_sessions [es] ON
+    [es].[session_id] = [er].[session_id]
+OUTER APPLY sys.dm_exec_sql_text ([er].[sql_handle]) [est]
+OUTER APPLY sys.dm_exec_query_plan ([er].[plan_handle]) [eqp]
+WHERE
+    [es].[is_user_process] = 1
+    AND [er].[last_Wait_type] = N'SOS_SCHEDULER_YIELD'
+ORDER BY
+    [er].[session_id];
+GO
+
+4 - Spinlock contention? 
+
+SELECT * 
+FROM sys.dm_os_spinlock_stats
+WHERE [collisions] > 0
+ORDER BY backoffs DESC;
+GO
+
+3 - Open Windbg attached to sqlservr.exe
+"C:\Program Files (x86)\Windows Kits\10\Debuggers\x64\windbg.exe" -y srv*e:\symbols*http://msdl.microsoft.com/download/symbols -pn sqlservr.exe
+
+4 - Run ostress with 200 threads and 100 iterations:
+
+5 - Break windbg
+
+6 - Add breakpoint on "sqldk!SpinlockBase::Backoff"
+
+bp sqldk!SpinlockBase::Backoff
+
+7 - Check stack
+
+k
+
+8 - Recreate proc with NOLOCK
+
+9 - Check perfmon counters

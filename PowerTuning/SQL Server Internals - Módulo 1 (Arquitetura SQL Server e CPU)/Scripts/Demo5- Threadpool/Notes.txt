@@ -1,0 +1,17 @@
+1 - Threadpool ... This wait type is when there are no available threads in the server’s thread pool, which can lead to login failures or queries not being able to run.
+2 - Run SQLQueryStress with 50 threads and 5 iterations... so far so good... 
+3 - Run SQLQueryStress with 150 threads and 5 iterations... some queries will fail...
+
+4 - Check DMV sys.dm_os_wait_stats
+
+dbcc sqlperf('sys.dm_os_wait_stats' , CLEAR)
+go
+select wait_type, waiting_tasks_count, cast((cast(wait_time_ms as float)/waiting_tasks_count) as float) as avg_wait_time_ms, 
+wait_time_ms, signal_wait_time_ms
+from sys.dm_os_wait_stats
+where wait_type = 'THREADPOOL'
+AND waiting_tasks_count > 0
+go
+
+
+5 - Create xEvent to capture ThreadPool information... Check duration for each wait event...

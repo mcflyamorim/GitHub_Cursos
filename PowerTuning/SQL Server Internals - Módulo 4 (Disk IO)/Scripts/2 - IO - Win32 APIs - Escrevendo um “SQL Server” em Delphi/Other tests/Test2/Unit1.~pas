@@ -1,0 +1,140 @@
+unit Unit1;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls, JwaWinBase;
+
+type
+  TForm1 = class(TForm)
+    Button1: TButton;
+    Memo3: TMemo;
+    procedure Button1Click(Sender: TObject);
+  private
+    { Private declarations }
+    procedure InitFileAndSections();
+    procedure DoRead(Offset: Cardinal);
+    procedure Cleanup;
+  public
+    { Public declarations }
+  end;
+
+  PFileSection = ^TFileSection;
+    TFileSection = record
+      fHandle: Cardinal;
+      Overlapped: OVERLAPPED;
+  end;
+
+    TFileBlock = record
+      FileHandle: THandle;
+      SectionData: TFileSection;
+  end;
+
+const
+  nNumberOfBytesToRead = 10;
+  SECTION_COUNT = 16;
+
+var
+  Form1: TForm1;
+  FileBlock: TFileBlock;
+  FThreads: TList;
+  FIOQueue: THandle;
+  fHandle: THandle = INVALID_HANDLE_VALUE;
+  dataHandle: Pointer;
+  FFinalized: Boolean;
+
+implementation
+
+{$R *.dfm}
+
+
+procedure TForm1.InitFileAndSections();
+begin  FileBlock.FileHandle := CreateFile('C:\temp\Test3.txt',                                     GENERIC_READ or GENERIC_WRITE,
+                                     0,
+                                     nil,
+                                     OPEN_EXISTING,
+                                     FILE_FLAG_OVERLAPPED,
+                                     0);
+                                     
+  if FileBlock.FileHandle = INVALID_HANDLE_VALUE then
+    raise Exception.Create('Couldn''t create file.');
+end;
+
+procedure TForm1.DoRead(Offset: Cardinal);
+var
+  ReadWorked: boolean;
+  BytesRead: PDWORD;
+  bResult: LongBool;
+  VarlpNumberOfBytesTransferred: DWORD;
+
+    FPreBuffer: PAnsiChar;
+    FInputBuffer: PAnsiChar;
+    FInputBufferSize: Cardinal;
+    FInputBufferEnd: Cardinal;
+
+  GetLastErrorResult: cardinal;
+  DataFileBuffer: array [0..nNumberOfBytesToRead -1] of AnsiChar;
+  lp: OVERLAPPED;
+begin
+
+  lp.Internal := 0;
+  lp.InternalHigh := 0;
+  lp.hEvent := 0;
+  lp.Union.Offset := 10;
+  lp.Union.OffsetHigh := 0;
+
+  FInputBuffer := nil;
+  FInputBufferSize := nNumberOfBytesToRead;
+  FInputBufferEnd := 0;
+  ReallocMem(FInputBuffer, FInputBufferSize * SizeOf(Byte));
+  GetMem(FPreBuffer, nNumberOfBytesToRead);
+
+  ReadWorked := ReadFile(FileBlock.FileHandle,
+                         FPreBuffer,
+                         nNumberOfBytesToRead,
+                         BytesRead,
+                         @lp);
+
+
+  if not ReadWorked then
+    ReadWorked := GetLastError() = ERROR_IO_PENDING;
+  if not ReadWorked then
+    raise Exception.Create('Read call failed. GetLastError() = ' + IntToStr(GetLastError()));
+
+  bResult := GetOverlappedResult(FileBlock.FileHandle,
+                                 FileBlock.SectionData.Overlapped,
+                                 VarlpNumberOfBytesTransferred,
+                                 False);
+
+  GetLastErrorResult := GetLastError();
+
+
+
+  Memo3.Lines.Add(FPreBuffer);
+
+  FreeMem(FInputBuffer);
+  FreeMem(FPreBuffer);
+end;
+
+procedure TForm1.Cleanup;
+begin
+  CloseHandle(FileBlock.SectionData.Overlapped.hEvent);
+  CloseHandle(FileBlock.FileHandle);
+end;
+
+procedure TForm1.Button1Click(Sender: TObject);
+Var
+  Tempo : TDateTime;
+begin
+  Tempo := Now();
+  Memo3.Clear;
+  Memo3.Lines.Add('Started');
+  InitFileAndSections();
+  DoRead(0);
+  Cleanup();
+  Memo3.Lines.Add('Done');
+  Memo3.Lines.Add(FormatDateTime('hh:mm:ss.zzz', Tempo - Now()))
+end;
+
+end.

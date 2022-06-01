@@ -1,0 +1,3 @@
+C:\x\ProjectAutoPilot\ProjectAutoPilot\bin\Release\ProjectAutoPilot.dll
+C:\x\ProjectAutoPilot\ProjectAutoPilot\obj\Release\ResolveAssemblyReference.cache
+C:\x\ProjectAutoPilot\ProjectAutoPilot\obj\Release\ProjectAutoPilot.dll

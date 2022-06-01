@@ -1,0 +1,59 @@
+1 - As vezes, quando temos um volume alto de solicitações no site, algumas consultas ficam bem mais lentas. Por que?
+-- Porque existem consultas esperando por memória... workload está cheio...
+2 - O que fazer pra melhorar a performance da rotina sem alterar o schema do banco nem a consulta?
+-- Ver opções abaixo...
+-- Fillfactor está mal definido... recriar os objs com fillfactor correto fara com que as leituras sejam mais rápidas... 
+ALTER INDEX xpk_OrdersBig ON OrdersBig REBUILD WITH(FILLFACTOR = 100)
+ALTER INDEX xpk_CustomersBig ON CustomersBig REBUILD WITH(FILLFACTOR = 100)
+
+3 - O que fazer pra melhorar a performance da rotina considerando que é possível alterar o schema do banco e a consulta?
+-- Será que realmente precisamos desses varchar(max) ?  
+
+
+-- Original query
+SELECT CustomersBig.ContactName,
+       CustomersBig.Col1,
+       CustomersBig.Col2,
+       OrdersBig.Col1,
+       SUM(OrdersBig.Value) 
+  FROM Desafio2.dbo.OrdersBig
+ INNER JOIN Desafio2.dbo.CustomersBig
+    ON CustomersBig.CustomerID = OrdersBig.CustomerID
+ GROUP BY CustomersBig.ContactName, CustomersBig.Col1, CustomersBig.Col2, OrdersBig.Col1
+ ORDER BY CustomersBig.ContactName DESC
+OPTION (MAXDOP 1)
+GO
+
+
+-- Option 1 SQL2017
+-- Use MAX_GRANT_PERCENT
+-- Original query
+SELECT CustomersBig.ContactName,
+       CustomersBig.Col1,
+       CustomersBig.Col2,
+       OrdersBig.Col1,
+       SUM(OrdersBig.Value) 
+  FROM Desafio2.dbo.OrdersBig
+ INNER JOIN Desafio2.dbo.CustomersBig
+    ON CustomersBig.CustomerID = OrdersBig.CustomerID
+ GROUP BY CustomersBig.ContactName, CustomersBig.Col1, CustomersBig.Col2, OrdersBig.Col1
+ ORDER BY CustomersBig.ContactName DESC
+OPTION (MAXDOP 1, MAX_GRANT_PERCENT = 3)
+GO
+
+-- Option 2
+-- Use Top + Optimize for
+-- Note I did a aggregation before join, as it was exactly QO was doing on option 1 query plan.
+DECLARE @i INT = 2147483647
+SELECT CustomersBig.ContactName, 
+       CustomersBig.Col1,
+       CustomersBig.Col2,
+       OrdersBig.Col1, 
+       OrdersBig.SumValue
+  FROM (SELECT TOP (@i) CustomerID, Col1, SUM(OrdersBig.Value) AS SumValue 
+          FROM Desafio2.dbo.OrdersBig 
+         GROUP BY CustomerID, Col1) AS OrdersBig
+ INNER JOIN Desafio2.dbo.CustomersBig
+    ON CustomersBig.CustomerID = OrdersBig.CustomerID
+ ORDER BY CustomersBig.ContactName DESC
+OPTION (MAXDOP 1, OPTIMIZE FOR (@i = 6000))

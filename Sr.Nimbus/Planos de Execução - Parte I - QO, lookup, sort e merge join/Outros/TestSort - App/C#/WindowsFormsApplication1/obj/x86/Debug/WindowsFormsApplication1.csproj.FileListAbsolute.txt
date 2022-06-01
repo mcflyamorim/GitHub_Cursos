@@ -1,0 +1,16 @@
+c:\users\fabiano\documents\visual studio 2010\projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\fabiano\documents\visual studio 2010\projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\fabiano\documents\visual studio 2010\projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\fabiano\documents\visual studio 2010\projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\fabiano\documents\visual studio 2010\projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\fabiano\documents\visual studio 2010\projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\fabiano\documents\visual studio 2010\projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\users\fabiano\documents\visual studio 2010\projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Fabiano\Trabalho\Sr.Nimbus\Cursos\OnDemand\Melhorando performance analisando Planos de Execução - Parte 1\Outros\TestSort - App\C#\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Fabiano\Trabalho\Sr.Nimbus\Cursos\OnDemand\Melhorando performance analisando Planos de Execução - Parte 1\Outros\TestSort - App\C#\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Fabiano\Trabalho\Sr.Nimbus\Cursos\OnDemand\Melhorando performance analisando Planos de Execução - Parte 1\Outros\TestSort - App\C#\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Fabiano\Trabalho\Sr.Nimbus\Cursos\OnDemand\Melhorando performance analisando Planos de Execução - Parte 1\Outros\TestSort - App\C#\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Fabiano\Trabalho\Sr.Nimbus\Cursos\OnDemand\Melhorando performance analisando Planos de Execução - Parte 1\Outros\TestSort - App\C#\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Fabiano\Trabalho\Sr.Nimbus\Cursos\OnDemand\Melhorando performance analisando Planos de Execução - Parte 1\Outros\TestSort - App\C#\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Fabiano\Trabalho\Sr.Nimbus\Cursos\OnDemand\Melhorando performance analisando Planos de Execução - Parte 1\Outros\TestSort - App\C#\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Fabiano\Trabalho\Sr.Nimbus\Cursos\OnDemand\Melhorando performance analisando Planos de Execução - Parte 1\Outros\TestSort - App\C#\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb

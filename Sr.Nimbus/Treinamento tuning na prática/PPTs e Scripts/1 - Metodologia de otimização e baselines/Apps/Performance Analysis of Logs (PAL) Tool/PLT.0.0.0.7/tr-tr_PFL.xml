@@ -1,0 +1,2479 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Counters>
+    <counter>
+        <org>\Sistem</org>
+        <en>\System</en>
+    </counter>
+    <counter>
+        <org>\Bellek</org>
+        <en>\Memory</en>
+    </counter>
+    <counter>
+        <org>\% İşlemci Zamanı</org>
+        <en>\% Processor Time</en>
+    </counter>
+    <counter>
+        <org>\Dosya Okuma İşlemi/sn</org>
+        <en>\File Read Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Dosya Yazma İşlemi/sn</org>
+        <en>\File Write Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Dosya Denetim İşlemi/sn</org>
+        <en>\File Control Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Dosya Okuma Bayt/sn</org>
+        <en>\File Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Dosya Yazma Bayt/sn</org>
+        <en>\File Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Dosya Denetim Bayt/sn</org>
+        <en>\File Control Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Kullanılabilir Bayt Sayısı</org>
+        <en>\Available Bytes</en>
+    </counter>
+    <counter>
+        <org>\Kaydedilmiş Bayt Sayısı</org>
+        <en>\Committed Bytes</en>
+    </counter>
+    <counter>
+        <org>\Sayfa Hatası/sn</org>
+        <en>\Page Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\Kaydetme Sınırı</org>
+        <en>\Commit Limit</en>
+    </counter>
+    <counter>
+        <org>\Yazma Kopyası/sn</org>
+        <en>\Write Copies/sec</en>
+    </counter>
+    <counter>
+        <org>\Geçiş Hatası/sn</org>
+        <en>\Transition Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\Önbellek Hatası/sn</org>
+        <en>\Cache Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\İsteğe Bağlı Sıfırlama Hatası/sn</org>
+        <en>\Demand Zero Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\Sayfa/sn</org>
+        <en>\Pages/sec</en>
+    </counter>
+    <counter>
+        <org>\Sayfa Okuma/sn</org>
+        <en>\Page Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\İşlemci Sırası Uzunluğu</org>
+        <en>\Processor Queue Length</en>
+    </counter>
+    <counter>
+        <org>\İş Parçacığı Durumu</org>
+        <en>\Thread State</en>
+    </counter>
+    <counter>
+        <org>\Çıkarılan Sayfa/sn</org>
+        <en>\Pages Output/sec</en>
+    </counter>
+    <counter>
+        <org>\Sayfa Yazma/sn</org>
+        <en>\Page Writes/sec</en>
+    </counter>
+    <counter>
+        <org>\Tarayıcı</org>
+        <en>\Browser</en>
+    </counter>
+    <counter>
+        <org>\Bildiri Sunucusu/sn</org>
+        <en>\Announcements Server/sec</en>
+    </counter>
+    <counter>
+        <org>\Disk Belleği Havuzu Bayt Sayısı</org>
+        <en>\Pool Paged Bytes</en>
+    </counter>
+    <counter>
+        <org>\Disk Belleği Olmayan Havuz Bayt Sayısı</org>
+        <en>\Pool Nonpaged Bytes</en>
+    </counter>
+    <counter>
+        <org>\Disk Belleği Havuzu Ayırma Sayısı</org>
+        <en>\Pool Paged Allocs</en>
+    </counter>
+    <counter>
+        <org>\Disk Belleği Olmayan Havuz Ayırma Sayısı</org>
+        <en>\Pool Nonpaged Allocs</en>
+    </counter>
+    <counter>
+        <org>\Disk Belleği Havuzu Yerleşik Bayt Sayısı</org>
+        <en>\Pool Paged Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\Sistem Kodu Toplam Bayt Sayısı</org>
+        <en>\System Code Total Bytes</en>
+    </counter>
+    <counter>
+        <org>\Sistem Kodu Yerleşik Bayt Sayısı</org>
+        <en>\System Code Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\Sistem Sürücüsü Toplam Bayt Sayısı</org>
+        <en>\System Driver Total Bytes</en>
+    </counter>
+    <counter>
+        <org>\Sistem Sürücüsü Yerleşik Bayt Sayısı</org>
+        <en>\System Driver Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\Sistem Önbelleği Yerleşik Bayt Sayısı</org>
+        <en>\System Cache Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\Bildiri Etki Alanı/sn</org>
+        <en>\Announcements Domain/sec</en>
+    </counter>
+    <counter>
+        <org>\Seçim Paketi/sn</org>
+        <en>\Election Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\İleti Yuvası Yazma/sn</org>
+        <en>\Mailslot Writes/sec</en>
+    </counter>
+    <counter>
+        <org>\Sunucu Liste İsteği/sn</org>
+        <en>\Server List Requests/sec</en>
+    </counter>
+    <counter>
+        <org>\Önbellek</org>
+        <en>\Cache</en>
+    </counter>
+    <counter>
+        <org>\Veri Eşlem/sn</org>
+        <en>\Data Maps/sec</en>
+    </counter>
+    <counter>
+        <org>\Zaman Uyumlu Veri Eşlem/sn</org>
+        <en>\Sync Data Maps/sec</en>
+    </counter>
+    <counter>
+        <org>\Zaman Uyumsuz Veri Eşlem/sn</org>
+        <en>\Async Data Maps/sec</en>
+    </counter>
+    <counter>
+        <org>\Veri Eşlem İsabeti %</org>
+        <en>\Data Map Hits %</en>
+    </counter>
+    <counter>
+        <org>\Veri Eşlem Sabitleme/sn</org>
+        <en>\Data Map Pins/sec</en>
+    </counter>
+    <counter>
+        <org>\Sabitlenen Okuma/sn</org>
+        <en>\Pin Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Zaman Uyumlu Sabitlenen Okuma/sn</org>
+        <en>\Sync Pin Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Zaman Uyumsuz Sabitlenen Okuma/sn</org>
+        <en>\Async Pin Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Sabitlenen Okuma İsabeti %</org>
+        <en>\Pin Read Hits %</en>
+    </counter>
+    <counter>
+        <org>\Kopya Okuma/sn</org>
+        <en>\Copy Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Zaman Uyumlu Kopya Okuma/sn</org>
+        <en>\Sync Copy Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Zaman Uyumsuz Kopya Okuma/sn</org>
+        <en>\Async Copy Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Kopya Okuma İsabeti %</org>
+        <en>\Copy Read Hits %</en>
+    </counter>
+    <counter>
+        <org>\MDL Okuma/sn</org>
+        <en>\MDL Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Zaman Uyumlu MDL Okuma/sn</org>
+        <en>\Sync MDL Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Zaman Uyumsuz MDL Okuma/sn</org>
+        <en>\Async MDL Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\MDL Okuma İsabeti %</org>
+        <en>\MDL Read Hits %</en>
+    </counter>
+    <counter>
+        <org>\İleriye Okuma/sn</org>
+        <en>\Read Aheads/sec</en>
+    </counter>
+    <counter>
+        <org>\Hızlı Okuma/sn</org>
+        <en>\Fast Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Zaman Uyumlu Hızlı Okuma/sn</org>
+        <en>\Sync Fast Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Zaman Uyumsuz Hızlı Okuma/sn</org>
+        <en>\Async Fast Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Hızlı Okuma Kaynak İsabetsizliği/sn</org>
+        <en>\Fast Read Resource Misses/sec</en>
+    </counter>
+    <counter>
+        <org>\Mümkün Olmayan Hızlı Okuma/sn</org>
+        <en>\Fast Read Not Possibles/sec</en>
+    </counter>
+    <counter>
+        <org>\Diske Geç Yazma/sn</org>
+        <en>\Lazy Write Flushes/sec</en>
+    </counter>
+    <counter>
+        <org>\Geç Yazma Sayfa/sn</org>
+        <en>\Lazy Write Pages/sec</en>
+    </counter>
+    <counter>
+        <org>\Verileri Diske Alma/sn</org>
+        <en>\Data Flushes/sec</en>
+    </counter>
+    <counter>
+        <org>\Verileri Diske Alma Sayfa/sn</org>
+        <en>\Data Flush Pages/sec</en>
+    </counter>
+    <counter>
+        <org>\Kullanıcı Zamanı Yüzdesi</org>
+        <en>\% User Time</en>
+    </counter>
+    <counter>
+        <org>\Ayrıcalıklı Zaman Yüzdesi</org>
+        <en>\% Privileged Time</en>
+    </counter>
+    <counter>
+        <org>\İçerik Geçişi/sn</org>
+        <en>\Context Switches/sec</en>
+    </counter>
+    <counter>
+        <org>\Kesme/sn</org>
+        <en>\Interrupts/sec</en>
+    </counter>
+    <counter>
+        <org>\Sistem Çağrısı/sn</org>
+        <en>\System Calls/sec</en>
+    </counter>
+    <counter>
+        <org>\Düzey 1 TLB Doldurma/sn</org>
+        <en>\Level 1 TLB Fills/sec</en>
+    </counter>
+    <counter>
+        <org>\Düzey 2 TLB Doldurma/sn</org>
+        <en>\Level 2 TLB Fills/sec</en>
+    </counter>
+    <counter>
+        <org>\Listeleme Sunucu/sn</org>
+        <en>\Enumerations Server/sec</en>
+    </counter>
+    <counter>
+        <org>\Listeleme Etki Alanı/sn</org>
+        <en>\Enumerations Domain/sec</en>
+    </counter>
+    <counter>
+        <org>\Listeleme Diğer/sn</org>
+        <en>\Enumerations Other/sec</en>
+    </counter>
+    <counter>
+        <org>\Kaçırılan Sunucu Bildirileri</org>
+        <en>\Missed Server Announcements</en>
+    </counter>
+    <counter>
+        <org>\Kaçırılan İleti Yuvası Veri Birimleri</org>
+        <en>\Missed Mailslot Datagrams</en>
+    </counter>
+    <counter>
+        <org>\Kaçırılan Sunucu Listesi İstekleri</org>
+        <en>\Missed Server List Requests</en>
+    </counter>
+    <counter>
+        <org>\Sunucu Bildirisi Başarısız Bellek Ayırma/sn</org>
+        <en>\Server Announce Allocations Failed/sec</en>
+    </counter>
+    <counter>
+        <org>\Başarısız İleti Yuvası Ayırma Sayısı</org>
+        <en>\Mailslot Allocations Failed</en>
+    </counter>
+    <counter>
+        <org>\En Yüksek Sanal Bayt Sayısı</org>
+        <en>\Virtual Bytes Peak</en>
+    </counter>
+    <counter>
+        <org>\Sanal Bayt Sayısı</org>
+        <en>\Virtual Bytes</en>
+    </counter>
+    <counter>
+        <org>\En Yüksek Çalışma Kümesi</org>
+        <en>\Working Set Peak</en>
+    </counter>
+    <counter>
+        <org>\Çalışma Kümesi</org>
+        <en>\Working Set</en>
+    </counter>
+    <counter>
+        <org>\En Yüksek Disk Belleği Bayt Sayısı</org>
+        <en>\Page File Bytes Peak</en>
+    </counter>
+    <counter>
+        <org>\Disk Belleği Bayt Sayısı</org>
+        <en>\Page File Bytes</en>
+    </counter>
+    <counter>
+        <org>\Özel Bayt Sayısı</org>
+        <en>\Private Bytes</en>
+    </counter>
+    <counter>
+        <org>\Toplam Bildiri/sn</org>
+        <en>\Announcements Total/sec</en>
+    </counter>
+    <counter>
+        <org>\Toplam Listeleme/sn</org>
+        <en>\Enumerations Total/sec</en>
+    </counter>
+    <counter>
+        <org>\Geçerli Disk Sırası Uzunluğu</org>
+        <en>\Current Disk Queue Length</en>
+    </counter>
+    <counter>
+        <org>\% Disk Zamanı</org>
+        <en>\% Disk Time</en>
+    </counter>
+    <counter>
+        <org>\% Disk Okuma Zamanı</org>
+        <en>\% Disk Read Time</en>
+    </counter>
+    <counter>
+        <org>\% Disk Yazma Zamanı</org>
+        <en>\% Disk Write Time</en>
+    </counter>
+    <counter>
+        <org>\Ortalama Disk sn/Aktarım</org>
+        <en>\Avg. Disk sec/Transfer</en>
+    </counter>
+    <counter>
+        <org>\Ortalama Disk sn/Okuma</org>
+        <en>\Avg. Disk sec/Read</en>
+    </counter>
+    <counter>
+        <org>\Ortalama Disk sn/Yazma</org>
+        <en>\Avg. Disk sec/Write</en>
+    </counter>
+    <counter>
+        <org>\Disk Aktarımı/sn</org>
+        <en>\Disk Transfers/sec</en>
+    </counter>
+    <counter>
+        <org>\Disk Okuma/sn</org>
+        <en>\Disk Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Disk Yazma/sn</org>
+        <en>\Disk Writes/sec</en>
+    </counter>
+    <counter>
+        <org>\Disk Bayt/sn</org>
+        <en>\Disk Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Disk Okuma Bayt/sn</org>
+        <en>\Disk Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Disk Yazma Bayt/sn</org>
+        <en>\Disk Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Ortalama Disk Bayt/Aktarım</org>
+        <en>\Avg. Disk Bytes/Transfer</en>
+    </counter>
+    <counter>
+        <org>\Ortalama Disk Bayt/Okuma</org>
+        <en>\Avg. Disk Bytes/Read</en>
+    </counter>
+    <counter>
+        <org>\Ortalama Disk Bayt/Yazma</org>
+        <en>\Avg. Disk Bytes/Write</en>
+    </counter>
+    <counter>
+        <org>\İşlem</org>
+        <en>\Process</en>
+    </counter>
+    <counter>
+        <org>\İş Parçacığı</org>
+        <en>\Thread</en>
+    </counter>
+    <counter>
+        <org>\FizikselDisk</org>
+        <en>\PhysicalDisk</en>
+    </counter>
+    <counter>
+        <org>\MantıksalDisk</org>
+        <en>\LogicalDisk</en>
+    </counter>
+    <counter>
+        <org>\İşlemci</org>
+        <en>\Processor</en>
+    </counter>
+    <counter>
+        <org>\% Toplam İşlemci Zamanı</org>
+        <en>\% Total Processor Time</en>
+    </counter>
+    <counter>
+        <org>\% Toplam Kullanıcı Zamanı</org>
+        <en>\% Total User Time</en>
+    </counter>
+    <counter>
+        <org>\% Toplam Ayrıcalıklı Zaman</org>
+        <en>\% Total Privileged Time</en>
+    </counter>
+    <counter>
+        <org>\Toplam Kesme/sn</org>
+        <en>\Total Interrupts/sec</en>
+    </counter>
+    <counter>
+        <org>\İşlem Sayısı</org>
+        <en>\Processes</en>
+    </counter>
+    <counter>
+        <org>\İş Parçacığı Sayısı</org>
+        <en>\Threads</en>
+    </counter>
+    <counter>
+        <org>\Olay Sayısı</org>
+        <en>\Events</en>
+    </counter>
+    <counter>
+        <org>\Semafor Sayısı</org>
+        <en>\Semaphores</en>
+    </counter>
+    <counter>
+        <org>\Zaman Uyumu Sağlayıcı Sayısı</org>
+        <en>\Mutexes</en>
+    </counter>
+    <counter>
+        <org>\Bölüm Sayısı</org>
+        <en>\Sections</en>
+    </counter>
+    <counter>
+        <org>\Nesne Sayısı</org>
+        <en>\Objects</en>
+    </counter>
+    <counter>
+        <org>\Yeniden Yönlendirici</org>
+        <en>\Redirector</en>
+    </counter>
+    <counter>
+        <org>\Alınan Bayt/sn</org>
+        <en>\Bytes Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Alınan Paket/sn</org>
+        <en>\Packets Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Okunan Bayt Disk Belleği/sn</org>
+        <en>\Read Bytes Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\Okunan Bayt Disk Belleği Olmadan/sn</org>
+        <en>\Read Bytes Non-Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\Okunan Bayt Önbellek/sn</org>
+        <en>\Read Bytes Cache/sec</en>
+    </counter>
+    <counter>
+        <org>\Okunan Bayt Ağ/sn</org>
+        <en>\Read Bytes Network/sec</en>
+    </counter>
+    <counter>
+        <org>\Aktarılan Bayt/sn</org>
+        <en>\Bytes Transmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\Aktarılan Paket/sn</org>
+        <en>\Packets Transmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\Yazılan Bayt Disk Belleği/sn</org>
+        <en>\Write Bytes Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\Yazılan Bayt Disk Belleği Olmadan/sn</org>
+        <en>\Write Bytes Non-Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\Yazılan Bayt Önbellek/sn</org>
+        <en>\Write Bytes Cache/sec</en>
+    </counter>
+    <counter>
+        <org>\Yazılan Bayt Ağ/sn</org>
+        <en>\Write Bytes Network/sec</en>
+    </counter>
+    <counter>
+        <org>\Okuma İşlemi/sn</org>
+        <en>\Read Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Okuma İşlemi Rasgele/sn</org>
+        <en>\Read Operations Random/sec</en>
+    </counter>
+    <counter>
+        <org>\Okuma Paketi/sn</org>
+        <en>\Read Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Büyük Paketle Okuma/sn</org>
+        <en>\Reads Large/sec</en>
+    </counter>
+    <counter>
+        <org>\Küçük Paketle Okuma/sn</org>
+        <en>\Read Packets Small/sec</en>
+    </counter>
+    <counter>
+        <org>\Yazma İşlemi/sn</org>
+        <en>\Write Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Yazma İşlemi Rasgele/sn</org>
+        <en>\Write Operations Random/sec</en>
+    </counter>
+    <counter>
+        <org>\Yazma Paketi/sn</org>
+        <en>\Write Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Büyük Paketle Yazma/sn</org>
+        <en>\Writes Large/sec</en>
+    </counter>
+    <counter>
+        <org>\Küçük Paketle Yazma/sn</org>
+        <en>\Write Packets Small/sec</en>
+    </counter>
+    <counter>
+        <org>\Reddedilen Okuma/sn</org>
+        <en>\Reads Denied/sec</en>
+    </counter>
+    <counter>
+        <org>\Reddedilen Yazma/sn</org>
+        <en>\Writes Denied/sec</en>
+    </counter>
+    <counter>
+        <org>\Ağ Hatası/sn</org>
+        <en>\Network Errors/sec</en>
+    </counter>
+    <counter>
+        <org>\Sunucu Oturumu Sayısı</org>
+        <en>\Server Sessions</en>
+    </counter>
+    <counter>
+        <org>\Sunucuya Yeniden Bağlanma Sayısı</org>
+        <en>\Server Reconnects</en>
+    </counter>
+    <counter>
+        <org>\Çekirdek Protokol Bağlantı Sayısı</org>
+        <en>\Connects Core</en>
+    </counter>
+    <counter>
+        <org>\Lan Manager 2.0 Bağlantı Sayısı</org>
+        <en>\Connects Lan Manager 2.0</en>
+    </counter>
+    <counter>
+        <org>\Lan Manager 2.1 Bağlantı Sayısı</org>
+        <en>\Connects Lan Manager 2.1</en>
+    </counter>
+    <counter>
+        <org>\Windows NT Bağlantı Sayısı</org>
+        <en>\Connects Windows NT</en>
+    </counter>
+    <counter>
+        <org>\Kesilen Sunucu Bağlantısı Sayısı</org>
+        <en>\Server Disconnects</en>
+    </counter>
+    <counter>
+        <org>\Askıda Olan Sunucu Oturumu Sayısı</org>
+        <en>\Server Sessions Hung</en>
+    </counter>
+    <counter>
+        <org>\Sunucu</org>
+        <en>\Server</en>
+    </counter>
+    <counter>
+        <org>\İş Parçacığı Bekleme Nedeni</org>
+        <en>\Thread Wait Reason</en>
+    </counter>
+    <counter>
+        <org>\Zaman Aşımına Uğrayan Oturum Sayısı</org>
+        <en>\Sessions Timed Out</en>
+    </counter>
+    <counter>
+        <org>\Hatalı Oturum Sayısı</org>
+        <en>\Sessions Errored Out</en>
+    </counter>
+    <counter>
+        <org>\Kapanan Oturum Sayısı</org>
+        <en>\Sessions Logged Off</en>
+    </counter>
+    <counter>
+        <org>\Kapanmaya Zorlanan Oturum Sayısı</org>
+        <en>\Sessions Forced Off</en>
+    </counter>
+    <counter>
+        <org>\Oturum Açma Hataları</org>
+        <en>\Errors Logon</en>
+    </counter>
+    <counter>
+        <org>\Erişim İzni Hataları</org>
+        <en>\Errors Access Permissions</en>
+    </counter>
+    <counter>
+        <org>\Erişim İzni Verilen Hatalar</org>
+        <en>\Errors Granted Access</en>
+    </counter>
+    <counter>
+        <org>\Sistem Hataları</org>
+        <en>\Errors System</en>
+    </counter>
+    <counter>
+        <org>\Reddedilen Engelleyici İstekler</org>
+        <en>\Blocking Requests Rejected</en>
+    </counter>
+    <counter>
+        <org>\Çalışma Öğesi Yetersizlikleri</org>
+        <en>\Work Item Shortages</en>
+    </counter>
+    <counter>
+        <org>\Toplam Açık Dosya</org>
+        <en>\Files Opened Total</en>
+    </counter>
+    <counter>
+        <org>\Açık Dosyalar</org>
+        <en>\Files Open</en>
+    </counter>
+    <counter>
+        <org>\Dosya Dizini Aramaları</org>
+        <en>\File Directory Searches</en>
+    </counter>
+    <counter>
+        <org>\Disk Belleği Olmayan Havuz Hataları</org>
+        <en>\Pool Nonpaged Failures</en>
+    </counter>
+    <counter>
+        <org>\En Yüksek Disk Belleği Olmayan Havuz</org>
+        <en>\Pool Nonpaged Peak</en>
+    </counter>
+    <counter>
+        <org>\Disk Belleği Havuzu Hataları</org>
+        <en>\Pool Paged Failures</en>
+    </counter>
+    <counter>
+        <org>\En Yüksek Disk Belleği Havuzu</org>
+        <en>\Pool Paged Peak</en>
+    </counter>
+    <counter>
+        <org>\Toplam Bayt/sn</org>
+        <en>\Bytes Total/sec</en>
+    </counter>
+    <counter>
+        <org>\Geçerli Komutlar</org>
+        <en>\Current Commands</en>
+    </counter>
+    <counter>
+        <org>\Paket/sn</org>
+        <en>\Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Sıraya Alınan İçerik Bloğu/sn</org>
+        <en>\Context Blocks Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\Dosya Veri İşlemi/sn</org>
+        <en>\File Data Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\% Boş Alan</org>
+        <en>\% Free Space</en>
+    </counter>
+    <counter>
+        <org>\Boş Megabayt Sayısı</org>
+        <en>\Free Megabytes</en>
+    </counter>
+    <counter>
+        <org>\Açık Bağlantı Sayısı</org>
+        <en>\Connections Open</en>
+    </counter>
+    <counter>
+        <org>\İlk Defada Başarılı Bağlantı Sayısı</org>
+        <en>\Connections No Retries</en>
+    </counter>
+    <counter>
+        <org>\Yeniden Denenen Bağlantı Sayısı</org>
+        <en>\Connections With Retries</en>
+    </counter>
+    <counter>
+        <org>\Yerel Olarak Kesilen Oturum Sayısı</org>
+        <en>\Disconnects Local</en>
+    </counter>
+    <counter>
+        <org>\Uzaktan Kesilen Oturum Sayısı</org>
+        <en>\Disconnects Remote</en>
+    </counter>
+    <counter>
+        <org>\Bağlantı Hatası Sayısı</org>
+        <en>\Failures Link</en>
+    </counter>
+    <counter>
+        <org>\Bağdaştırıcı Hatası Sayısı</org>
+        <en>\Failures Adapter</en>
+    </counter>
+    <counter>
+        <org>\Oturum Zaman Aşımı Sayısı</org>
+        <en>\Connection Session Timeouts</en>
+    </counter>
+    <counter>
+        <org>\İptal Edilen Bağlantı Sayısı</org>
+        <en>\Connections Canceled</en>
+    </counter>
+    <counter>
+        <org>\Uzak Kaynak Hatası Sayısı</org>
+        <en>\Failures Resource Remote</en>
+    </counter>
+    <counter>
+        <org>\Yerel Kaynak Hatası Sayısı</org>
+        <en>\Failures Resource Local</en>
+    </counter>
+    <counter>
+        <org>\Bilgisayar Bulunamadı Hatası Sayısı</org>
+        <en>\Failures Not Found</en>
+    </counter>
+    <counter>
+        <org>\Dinlemede Değil Hatası Sayısı</org>
+        <en>\Failures No Listen</en>
+    </counter>
+    <counter>
+        <org>\Veri Birimi/sn</org>
+        <en>\Datagrams/sec</en>
+    </counter>
+    <counter>
+        <org>\Veri Birimi Bayt/sn</org>
+        <en>\Datagram Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Gönderilen Veri Birimi/sn</org>
+        <en>\Datagrams Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Gönderilen Veri Birimi Bayt/sn</org>
+        <en>\Datagram Bytes Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Alınan Veri Birimi/sn</org>
+        <en>\Datagrams Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Alınan Veri Birimi Bayt/sn</org>
+        <en>\Datagram Bytes Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Gönderilen Paket/sn</org>
+        <en>\Packets Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Çerçeve/sn</org>
+        <en>\Frames/sec</en>
+    </counter>
+    <counter>
+        <org>\Çerçeve Bayt/sn</org>
+        <en>\Frame Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Gönderilen Çerçeve/sn</org>
+        <en>\Frames Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Gönderilen Çerçeve Bayt/sn</org>
+        <en>\Frame Bytes Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Alınan Çerçeve/sn</org>
+        <en>\Frames Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Alınan Çerçeve Bayt/sn</org>
+        <en>\Frame Bytes Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Yeniden Gönderilen Çerçeve/sn</org>
+        <en>\Frames Re-Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Yeniden Gönderilen Çerçeve Bayt/sn</org>
+        <en>\Frame Bytes Re-Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Reddedilen Çerçeve/sn</org>
+        <en>\Frames Rejected/sec</en>
+    </counter>
+    <counter>
+        <org>\Reddedilen Çerçeve Bayt/sn</org>
+        <en>\Frame Bytes Rejected/sec</en>
+    </counter>
+    <counter>
+        <org>\Yanıt Süre Sonu</org>
+        <en>\Expirations Response</en>
+    </counter>
+    <counter>
+        <org>\Bildirim Süre Sonu</org>
+        <en>\Expirations Ack</en>
+    </counter>
+    <counter>
+        <org>\En Çok Bildirimsiz Gönderme</org>
+        <en>\Window Send Maximum</en>
+    </counter>
+    <counter>
+        <org>\Ortalama Bildirimsiz Gönderme</org>
+        <en>\Window Send Average</en>
+    </counter>
+    <counter>
+        <org>\Sıraya Alınan Paketle Bildirim/sn</org>
+        <en>\Piggyback Ack Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\Paketle Bildirim Zaman Aşımı</org>
+        <en>\Piggyback Ack Timeouts</en>
+    </counter>
+    <counter>
+        <org>\NetBEUI Kaynak</org>
+        <en>\NetBEUI Resource</en>
+    </counter>
+    <counter>
+        <org>\En Çok Kullanım</org>
+        <en>\Used Maximum</en>
+    </counter>
+    <counter>
+        <org>\Ortalama Kullanım</org>
+        <en>\Used Average</en>
+    </counter>
+    <counter>
+        <org>\Kaynak Bitmesi Sayısı</org>
+        <en>\Times Exhausted</en>
+    </counter>
+    <counter>
+        <org>\NBT Bağlantısı</org>
+        <en>\NBT Connection</en>
+    </counter>
+    <counter>
+        <org>\Gönderilen Bayt/sn</org>
+        <en>\Bytes Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Toplam Bayt/sn</org>
+        <en>\Total Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Ağ Arabirimi</org>
+        <en>\Network Interface</en>
+    </counter>
+    <counter>
+        <org>\Bayt/sn</org>
+        <en>\Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Geçerli Bant Genişliği</org>
+        <en>\Current Bandwidth</en>
+    </counter>
+    <counter>
+        <org>\Alınan Tek Noktaya Yayın Paketi/sn</org>
+        <en>\Packets Received Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\Alınan Tek Noktaya Olmayan Yayın Paketi/sn</org>
+        <en>\Packets Received Non-Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\Alınıp Atılan Paket Sayısı</org>
+        <en>\Packets Received Discarded</en>
+    </counter>
+    <counter>
+        <org>\Alınan Hatalı Paket Sayısı</org>
+        <en>\Packets Received Errors</en>
+    </counter>
+    <counter>
+        <org>\Alınan Bilinmeyen Paket Sayısı</org>
+        <en>\Packets Received Unknown</en>
+    </counter>
+    <counter>
+        <org>\Gönderilen Tek Noktaya Yayın Paketi/sn</org>
+        <en>\Packets Sent Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\Gönderilen Tek Noktaya Olmayan Yayın Paketi/sn</org>
+        <en>\Packets Sent Non-Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\Atılan Giden Paket Sayısı</org>
+        <en>\Packets Outbound Discarded</en>
+    </counter>
+    <counter>
+        <org>\Giden Hatalı Paket Sayısı</org>
+        <en>\Packets Outbound Errors</en>
+    </counter>
+    <counter>
+        <org>\Çıkış Sırası Uzunluğu</org>
+        <en>\Output Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Hatalı Üstbilgi İçeren Alınan Veri Birimi Sayısı</org>
+        <en>\Datagrams Received Header Errors</en>
+    </counter>
+    <counter>
+        <org>\Hatalı Adres İçeren Alınan Veri Birimi Sayısı</org>
+        <en>\Datagrams Received Address Errors</en>
+    </counter>
+    <counter>
+        <org>\İletilen Veri Birimi/sn</org>
+        <en>\Datagrams Forwarded/sec</en>
+    </counter>
+    <counter>
+        <org>\Bilinmeyen Protokol İçeren Alınan Veri Birimi Sayısı</org>
+        <en>\Datagrams Received Unknown Protocol</en>
+    </counter>
+    <counter>
+        <org>\Alınıp Atılan Veri Birimi Sayısı</org>
+        <en>\Datagrams Received Discarded</en>
+    </counter>
+    <counter>
+        <org>\Alınıp Ulaştırılan Veri Birimi/sn</org>
+        <en>\Datagrams Received Delivered/sec</en>
+    </counter>
+    <counter>
+        <org>\Atılan Giden Veri Birimi Sayısı</org>
+        <en>\Datagrams Outbound Discarded</en>
+    </counter>
+    <counter>
+        <org>\Yol Bulunamayan Giden Veri Birimi Sayısı</org>
+        <en>\Datagrams Outbound No Route</en>
+    </counter>
+    <counter>
+        <org>\Alınan Parçacık/sn</org>
+        <en>\Fragments Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Yeniden Birleştirilen Parçacık/sn</org>
+        <en>\Fragments Re-assembled/sec</en>
+    </counter>
+    <counter>
+        <org>\Parçacık Yeniden Birleştirme Hatası Sayısı</org>
+        <en>\Fragment Re-assembly Failures</en>
+    </counter>
+    <counter>
+        <org>\Parçalanmış Veri Birimi/sn</org>
+        <en>\Fragmented Datagrams/sec</en>
+    </counter>
+    <counter>
+        <org>\Parçalama Hatası Sayısı</org>
+        <en>\Fragmentation Failures</en>
+    </counter>
+    <counter>
+        <org>\Oluşturulan Parçacık/sn</org>
+        <en>\Fragments Created/sec</en>
+    </counter>
+    <counter>
+        <org>\İleti/sn</org>
+        <en>\Messages/sec</en>
+    </counter>
+    <counter>
+        <org>\Alınan İleti/sn</org>
+        <en>\Messages Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Alınan Hatalı İleti Sayısı</org>
+        <en>\Messages Received Errors</en>
+    </counter>
+    <counter>
+        <org>\Alınan Hedefe Erişilemiyor İletisi Sayısı</org>
+        <en>\Received Dest. Unreachable</en>
+    </counter>
+    <counter>
+        <org>\Alınan Zaman Aşımı İletisi Sayısı</org>
+        <en>\Received Time Exceeded</en>
+    </counter>
+    <counter>
+        <org>\Alınan Parametre Sorunu İletisi Sayısı</org>
+        <en>\Received Parameter Problem</en>
+    </counter>
+    <counter>
+        <org>\Alınan Kaynak Yavaşlama İletisi Sayısı</org>
+        <en>\Received Source Quench</en>
+    </counter>
+    <counter>
+        <org>\Alınan Yeniden Yönlendirme İletisi/sn</org>
+        <en>\Received Redirect/sec</en>
+    </counter>
+    <counter>
+        <org>\Alınan Yankı İletisi/sn</org>
+        <en>\Received Echo/sec</en>
+    </counter>
+    <counter>
+        <org>\Alınan Yankı Yanıt İletisi/sn</org>
+        <en>\Received Echo Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\Alınan Zaman Damgası İletisi/sn</org>
+        <en>\Received Timestamp/sec</en>
+    </counter>
+    <counter>
+        <org>\Alınan Zaman Damgası Yanıt İletisi/sn</org>
+        <en>\Received Timestamp Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\Alınan Adres Maskesi İletisi Sayısı</org>
+        <en>\Received Address Mask</en>
+    </counter>
+    <counter>
+        <org>\Alınan Adres Maskesi Yanıt İletisi Sayısı</org>
+        <en>\Received Address Mask Reply</en>
+    </counter>
+    <counter>
+        <org>\Gönderilen İleti/sn</org>
+        <en>\Messages Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Giden İleti Hata Sayısı</org>
+        <en>\Messages Outbound Errors</en>
+    </counter>
+    <counter>
+        <org>\Gönderilen Hedefe Erişilemiyor İletisi Sayısı</org>
+        <en>\Sent Destination Unreachable</en>
+    </counter>
+    <counter>
+        <org>\Gönderilen Zaman Aşımı İletisi Sayısı</org>
+        <en>\Sent Time Exceeded</en>
+    </counter>
+    <counter>
+        <org>\Gönderilen Parametre Sorunu İletisi Sayısı</org>
+        <en>\Sent Parameter Problem</en>
+    </counter>
+    <counter>
+        <org>\Gönderilen Kaynak Yavaşlama İletisi Sayısı</org>
+        <en>\Sent Source Quench</en>
+    </counter>
+    <counter>
+        <org>\Gönderilen Yeniden Yönlendirme İletisi/sn</org>
+        <en>\Sent Redirect/sec</en>
+    </counter>
+    <counter>
+        <org>\Gönderilen Yankı İletisi/sn</org>
+        <en>\Sent Echo/sec</en>
+    </counter>
+    <counter>
+        <org>\Gönderilen Yankı Yanıt İletisi/sn</org>
+        <en>\Sent Echo Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\Gönderilen Zaman Damgası İletisi/sn</org>
+        <en>\Sent Timestamp/sec</en>
+    </counter>
+    <counter>
+        <org>\Gönderilen Zaman Damgası Yanıt İletisi/sn</org>
+        <en>\Sent Timestamp Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\Gönderilen Adres Maskesi İletisi Sayısı</org>
+        <en>\Sent Address Mask</en>
+    </counter>
+    <counter>
+        <org>\Gönderilen Adres Maskesi Yanıt İletisi Sayısı</org>
+        <en>\Sent Address Mask Reply</en>
+    </counter>
+    <counter>
+        <org>\Kesim/sn</org>
+        <en>\Segments/sec</en>
+    </counter>
+    <counter>
+        <org>\Kurulan Bağlantı Sayısı</org>
+        <en>\Connections Established</en>
+    </counter>
+    <counter>
+        <org>\Etkin Bağlantı Sayısı</org>
+        <en>\Connections Active</en>
+    </counter>
+    <counter>
+        <org>\Etkin Olmayan Bağlantı Sayısı</org>
+        <en>\Connections Passive</en>
+    </counter>
+    <counter>
+        <org>\Bağlantı Hatası Sayısı</org>
+        <en>\Connection Failures</en>
+    </counter>
+    <counter>
+        <org>\Sıfırlanan Bağlantı Sayısı</org>
+        <en>\Connections Reset</en>
+    </counter>
+    <counter>
+        <org>\Alınan Kesim/sn</org>
+        <en>\Segments Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Gönderilen Kesim/sn</org>
+        <en>\Segments Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Yeniden Aktarılan Kesim/sn</org>
+        <en>\Segments Retransmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\% Toplam DPC Zamanı</org>
+        <en>\% Total DPC Time</en>
+    </counter>
+    <counter>
+        <org>\% Toplam Kesme Zamanı</org>
+        <en>\% Total Interrupt Time</en>
+    </counter>
+    <counter>
+        <org>\Bağlantı Noktası Olmayan Veri Birimi/sn</org>
+        <en>\Datagrams No Port/sec</en>
+    </counter>
+    <counter>
+        <org>\Alınan Veri Birimi Hatası Sayısı</org>
+        <en>\Datagrams Received Errors</en>
+    </counter>
+    <counter>
+        <org>\Disk Depolama Birimi</org>
+        <en>\Disk Storage Unit</en>
+    </counter>
+    <counter>
+        <org>\Ayırma Hatası Sayısı</org>
+        <en>\Allocation Failures</en>
+    </counter>
+    <counter>
+        <org>\Sistem Çalışma Zamanı</org>
+        <en>\System Up Time</en>
+    </counter>
+    <counter>
+        <org>\Sistem Tanıtıcısı Sayısı</org>
+        <en>\System Handle Count</en>
+    </counter>
+    <counter>
+        <org>\Boş Sistem Sayfa Tablosu Girdi Sayısı</org>
+        <en>\Free System Page Table Entries</en>
+    </counter>
+    <counter>
+        <org>\İş Parçacığı Sayısı</org>
+        <en>\Thread Count</en>
+    </counter>
+    <counter>
+        <org>\Temel Öncelik</org>
+        <en>\Priority Base</en>
+    </counter>
+    <counter>
+        <org>\Geçen Süre</org>
+        <en>\Elapsed Time</en>
+    </counter>
+    <counter>
+        <org>\Hizalama Düzeltmesi/sn</org>
+        <en>\Alignment Fixups/sec</en>
+    </counter>
+    <counter>
+        <org>\Özel Durum Dağıtımı/sn</org>
+        <en>\Exception Dispatches/sec</en>
+    </counter>
+    <counter>
+        <org>\Kayan Nokta Öykünmesi/sn</org>
+        <en>\Floating Emulations/sec</en>
+    </counter>
+    <counter>
+        <org>\Oturum Açma/sn</org>
+        <en>\Logon/sec</en>
+    </counter>
+    <counter>
+        <org>\Geçerli Öncelik</org>
+        <en>\Priority Current</en>
+    </counter>
+    <counter>
+        <org>\% DPC Zamanı</org>
+        <en>\% DPC Time</en>
+    </counter>
+    <counter>
+        <org>\% Kesme Zamanı</org>
+        <en>\% Interrupt Time</en>
+    </counter>
+    <counter>
+        <org>\Disk Belleği Dosyası</org>
+        <en>\Paging File</en>
+    </counter>
+    <counter>
+        <org>\% Kullanım</org>
+        <en>\% Usage</en>
+    </counter>
+    <counter>
+        <org>\% En Yüksek Kullanım</org>
+        <en>\% Usage Peak</en>
+    </counter>
+    <counter>
+        <org>\Başlangıç Adresi</org>
+        <en>\Start Address</en>
+    </counter>
+    <counter>
+        <org>\Kullanıcı Bilgisayarı</org>
+        <en>\User PC</en>
+    </counter>
+    <counter>
+        <org>\Eşlenen Alan Erişim Yok</org>
+        <en>\Mapped Space No Access</en>
+    </counter>
+    <counter>
+        <org>\Eşlenen Alan Salt Okunur</org>
+        <en>\Mapped Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\Eşlenen Alan Okuma/Yazma</org>
+        <en>\Mapped Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Eşlenen Alan Yazma Kopyası</org>
+        <en>\Mapped Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Eşlenen Alan Çalıştırılabilir</org>
+        <en>\Mapped Space Executable</en>
+    </counter>
+    <counter>
+        <org>\Eşlenen Alan Çalıştırılabilir Salt Okunur</org>
+        <en>\Mapped Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\Eşlenen Alan Çalıştırılabilir Okuma/Yazma</org>
+        <en>\Mapped Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Eşlenen Alan Çalıştırılabilir Yazma Kopyası</org>
+        <en>\Mapped Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Ayrılmış Alan Erişilemez</org>
+        <en>\Reserved Space No Access</en>
+    </counter>
+    <counter>
+        <org>\Ayrılmış Alan Salt Okunur</org>
+        <en>\Reserved Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\Ayrılmış Alan Okuma/Yazma</org>
+        <en>\Reserved Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Ayrılmış Alan Yazma Kopyası</org>
+        <en>\Reserved Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Ayrılmış Alan Çalıştırılabilir</org>
+        <en>\Reserved Space Executable</en>
+    </counter>
+    <counter>
+        <org>\Ayrılmış Alan Çalıştırılabilir Salt Okunur</org>
+        <en>\Reserved Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\Ayrılmış Alan Çalıştırılabilir Okuma/Yazma</org>
+        <en>\Reserved Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Resim</org>
+        <en>\Image</en>
+    </counter>
+    <counter>
+        <org>\Ayrılmış Alan Çalıştırılabilir Yazma Kopyası</org>
+        <en>\Reserved Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Atanmamış Alan Erişim Yok</org>
+        <en>\Unassigned Space No Access</en>
+    </counter>
+    <counter>
+        <org>\Atanmamış Alan Salt Okunur</org>
+        <en>\Unassigned Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\Atanmamış Alan Okuma/Yazma</org>
+        <en>\Unassigned Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Atanmamış Alan Yazma Kopyası</org>
+        <en>\Unassigned Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Atanmamış Alan Çalıştırılabilir</org>
+        <en>\Unassigned Space Executable</en>
+    </counter>
+    <counter>
+        <org>\Atanmamış Alan Çalıştırılabilir Salt Okunur</org>
+        <en>\Unassigned Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\Atanmamış Alan Çalıştırılabilir Okuma/Yazma</org>
+        <en>\Unassigned Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Atanmamış Alan Çalıştırılabilir Yazma Kopyası</org>
+        <en>\Unassigned Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Yansıma Alanı Erişim Yok</org>
+        <en>\Image Space No Access</en>
+    </counter>
+    <counter>
+        <org>\Yansıma Alanı Salt Okunur</org>
+        <en>\Image Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\Yansıma Alanı Okuma/Yazma</org>
+        <en>\Image Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Yansıma Alanı Yazma Kopyası</org>
+        <en>\Image Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Yansıma Alanı Çalıştırılabilir</org>
+        <en>\Image Space Executable</en>
+    </counter>
+    <counter>
+        <org>\Yansıma Alanı Çalıştırılabilir Salt Okunur</org>
+        <en>\Image Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\Yansıma Alanı Çalıştırılabilir Okuma/Yazma</org>
+        <en>\Image Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Yansıma Alanı Çalıştırılabilir Yazma Kopyası</org>
+        <en>\Image Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Yansımaya Ayrılan Bayt Sayısı</org>
+        <en>\Bytes Image Reserved</en>
+    </counter>
+    <counter>
+        <org>\Yansıma İçermeyen Bayt Sayısı</org>
+        <en>\Bytes Image Free</en>
+    </counter>
+    <counter>
+        <org>\Ayrılan Bayt Sayısı</org>
+        <en>\Bytes Reserved</en>
+    </counter>
+    <counter>
+        <org>\Boş Bayt Sayısı</org>
+        <en>\Bytes Free</en>
+    </counter>
+    <counter>
+        <org>\İşlem Kimliği</org>
+        <en>\ID Process</en>
+    </counter>
+    <counter>
+        <org>\İşlem Adres Alanı</org>
+        <en>\Process Address Space</en>
+    </counter>
+    <counter>
+        <org>\Erişim Yok</org>
+        <en>\No Access</en>
+    </counter>
+    <counter>
+        <org>\Salt Okunur</org>
+        <en>\Read Only</en>
+    </counter>
+    <counter>
+        <org>\Okuma/Yazma</org>
+        <en>\Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Yazma Kopyası</org>
+        <en>\Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Çalıştırılabilir</org>
+        <en>\Executable</en>
+    </counter>
+    <counter>
+        <org>\Çalıştırılabilir Salt Okunur</org>
+        <en>\Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\Çalıştırılabilir Okuma/Yazma</org>
+        <en>\Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Çalıştırılabilir Yazma Kopyası</org>
+        <en>\Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\İş Parçacığı Kimliği</org>
+        <en>\ID Thread</en>
+    </counter>
+    <counter>
+        <org>\Alınamayan İleti Yuvası Sayısı</org>
+        <en>\Mailslot Receives Failed</en>
+    </counter>
+    <counter>
+        <org>\Yazılamayan İleti Yuvası Sayısı</org>
+        <en>\Mailslot Writes Failed</en>
+    </counter>
+    <counter>
+        <org>\Açılamayan İleti Yuvası/sn</org>
+        <en>\Mailslot Opens Failed/sec</en>
+    </counter>
+    <counter>
+        <org>\Yinelenen Ana Tarayıcı Bildirisi Sayısı</org>
+        <en>\Duplicate Master Announcements</en>
+    </counter>
+    <counter>
+        <org>\Hatalı Veri Birimi/sn</org>
+        <en>\Illegal Datagrams/sec</en>
+    </counter>
+    <counter>
+        <org>\İş Parçacığı Ayrıntıları</org>
+        <en>\Thread Details</en>
+    </counter>
+    <counter>
+        <org>\Önbellek Bayt Sayısı</org>
+        <en>\Cache Bytes</en>
+    </counter>
+    <counter>
+        <org>\Önbellek En Yüksek Bayt Sayısı</org>
+        <en>\Cache Bytes Peak</en>
+    </counter>
+    <counter>
+        <org>\Girilen Sayfa/sn</org>
+        <en>\Pages Input/sec</en>
+    </counter>
+    <counter>
+        <org>\Farklı Amaçla Kullanılan Geçiş Sayfası/sn</org>
+        <en>\Transition Pages RePurposed/sec</en>
+    </counter>
+    <counter>
+        <org>\Aktarılan Bayt Sayısı</org>
+        <en>\Bytes Transmitted</en>
+    </counter>
+    <counter>
+        <org>\Alınan Bayt Sayısı</org>
+        <en>\Bytes Received</en>
+    </counter>
+    <counter>
+        <org>\Aktarılan Çerçeve</org>
+        <en>\Frames Transmitted</en>
+    </counter>
+    <counter>
+        <org>\Alınan Çerçeve.</org>
+        <en>\Frames Received.</en>
+    </counter>
+    <counter>
+        <org>\Çıkıştaki Sıkıştırma Yüzdesi</org>
+        <en>\Percent Compression Out</en>
+    </counter>
+    <counter>
+        <org>\Girişteki Sıkıştırma Yüzdesi</org>
+        <en>\Percent Compression In</en>
+    </counter>
+    <counter>
+        <org>\CRC Hatası Sayısı</org>
+        <en>\CRC Errors</en>
+    </counter>
+    <counter>
+        <org>\Zaman Aşımı Hatası Sayısı</org>
+        <en>\Timeout Errors</en>
+    </counter>
+    <counter>
+        <org>\Seri Taşma Hatası Sayısı</org>
+        <en>\Serial Overrun Errors</en>
+    </counter>
+    <counter>
+        <org>\Hizalama Hatası Sayısı</org>
+        <en>\Alignment Errors</en>
+    </counter>
+    <counter>
+        <org>\Arabellek Taşma Hatası Sayısı</org>
+        <en>\Buffer Overrun Errors</en>
+    </counter>
+    <counter>
+        <org>\Toplam Hatası Sayısı</org>
+        <en>\Total Errors</en>
+    </counter>
+    <counter>
+        <org>\Aktarılan Bayt/sn</org>
+        <en>\Bytes Transmitted/Sec</en>
+    </counter>
+    <counter>
+        <org>\Alınan Bayt/sn</org>
+        <en>\Bytes Received/Sec</en>
+    </counter>
+    <counter>
+        <org>\Aktarılan Çerçeve/sn</org>
+        <en>\Frames Transmitted/Sec</en>
+    </counter>
+    <counter>
+        <org>\Alınan Çerçeve/sn</org>
+        <en>\Frames Received/Sec</en>
+    </counter>
+    <counter>
+        <org>\Toplam Hata/sn</org>
+        <en>\Total Errors/Sec</en>
+    </counter>
+    <counter>
+        <org>\Toplam Bağlantı Sayısı</org>
+        <en>\Total Connections</en>
+    </counter>
+    <counter>
+        <org>\WINS Sunucusu</org>
+        <en>\WINS Server</en>
+    </counter>
+    <counter>
+        <org>\Benzersiz Kayıt/sn</org>
+        <en>\Unique Registrations/sec</en>
+    </counter>
+    <counter>
+        <org>\Grup Kaydı/sn</org>
+        <en>\Group Registrations/sec</en>
+    </counter>
+    <counter>
+        <org>\Toplam Kayıt Sayısı/sn</org>
+        <en>\Total Number of Registrations/sec</en>
+    </counter>
+    <counter>
+        <org>\Benzersiz Yenileme/sn</org>
+        <en>\Unique Renewals/sec</en>
+    </counter>
+    <counter>
+        <org>\Grup Yenilemesi/sn</org>
+        <en>\Group Renewals/sec</en>
+    </counter>
+    <counter>
+        <org>\Toplam Yenileme Sayısı/sn</org>
+        <en>\Total Number of Renewals/sec</en>
+    </counter>
+    <counter>
+        <org>\Bırakma/sn</org>
+        <en>\Releases/sec</en>
+    </counter>
+    <counter>
+        <org>\Sorgu/sn</org>
+        <en>\Queries/sec</en>
+    </counter>
+    <counter>
+        <org>\Benzersiz Çakışma/sn</org>
+        <en>\Unique Conflicts/sec</en>
+    </counter>
+    <counter>
+        <org>\Grup Çakışması/sn</org>
+        <en>\Group Conflicts/sec</en>
+    </counter>
+    <counter>
+        <org>\Toplam Çakışma Sayısı/sn</org>
+        <en>\Total Number of Conflicts/sec</en>
+    </counter>
+    <counter>
+        <org>\Başarılı Bırakma/sn</org>
+        <en>\Successful Releases/sec</en>
+    </counter>
+    <counter>
+        <org>\Başarısız Bırakma/sn</org>
+        <en>\Failed Releases/sec</en>
+    </counter>
+    <counter>
+        <org>\Başarılı Sorgu/sn</org>
+        <en>\Successful Queries/sec</en>
+    </counter>
+    <counter>
+        <org>\Başarısız Sorgu/sn</org>
+        <en>\Failed Queries/sec</en>
+    </counter>
+    <counter>
+        <org>\Tanıtıcı Sayısı</org>
+        <en>\Handle Count</en>
+    </counter>
+    <counter>
+        <org>\MacFile Sunucusu</org>
+        <en>\MacFile Server</en>
+    </counter>
+    <counter>
+        <org>\En Çok Diske Alınabilen Bellek</org>
+        <en>\Max Paged Memory</en>
+    </counter>
+    <counter>
+        <org>\Geçerli Diske Alınabilen Bellek</org>
+        <en>\Current Paged Memory</en>
+    </counter>
+    <counter>
+        <org>\En Çok Diske Alınamayan Bellek</org>
+        <en>\Max NonPaged Memory</en>
+    </counter>
+    <counter>
+        <org>\Geçerli Diske Alınamayan Bellek</org>
+        <en>\Current NonPaged memory</en>
+    </counter>
+    <counter>
+        <org>\Geçerli Oturum Sayısı</org>
+        <en>\Current Sessions</en>
+    </counter>
+    <counter>
+        <org>\En Çok Oturum Sayısı</org>
+        <en>\Maximum Sessions</en>
+    </counter>
+    <counter>
+        <org>\Geçerli Açık Dosya Sayısı</org>
+        <en>\Current Files Open</en>
+    </counter>
+    <counter>
+        <org>\En Çok Açık Dosya Sayısı</org>
+        <en>\Maximum Files Open</en>
+    </counter>
+    <counter>
+        <org>\Başarısız Oturum Açma Sayısı</org>
+        <en>\Failed Logons</en>
+    </counter>
+    <counter>
+        <org>\Okunan Veri/sn</org>
+        <en>\Data Read/sec</en>
+    </counter>
+    <counter>
+        <org>\Yazılan Veri/sn</org>
+        <en>\Data Written/sec</en>
+    </counter>
+    <counter>
+        <org>\Alınan Veri/sn</org>
+        <en>\Data Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Aktarılan Veri/sn</org>
+        <en>\Data Transmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\Geçerli Sıra Uzunluğu</org>
+        <en>\Current Queue Length</en>
+    </counter>
+    <counter>
+        <org>\En Büyük Sıra Uzunluğu</org>
+        <en>\Maximum Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Geçerli İş Parçacığı Sayısı</org>
+        <en>\Current Threads</en>
+    </counter>
+    <counter>
+        <org>\En Çok İş Parçacığı Sayısı</org>
+        <en>\Maximum Threads</en>
+    </counter>
+    <counter>
+        <org>\Gelen Paket/sn</org>
+        <en>\Packets In/sec</en>
+    </counter>
+    <counter>
+        <org>\Giden Paket/sn</org>
+        <en>\Packets Out/sec</en>
+    </counter>
+    <counter>
+        <org>\Gelen Bayt/sn</org>
+        <en>\Bytes In/sec</en>
+    </counter>
+    <counter>
+        <org>\Giden Bayt/sn</org>
+        <en>\Bytes Out/sec</en>
+    </counter>
+    <counter>
+        <org>\Ortalama Zaman/DDP Paketi</org>
+        <en>\Average Time/DDP Packet</en>
+    </counter>
+    <counter>
+        <org>\DDP Paketi/sn</org>
+        <en>\DDP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Ortalama Zaman/AARP Paketi</org>
+        <en>\Average Time/AARP Packet</en>
+    </counter>
+    <counter>
+        <org>\AARP Paketi/sn</org>
+        <en>\AARP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Ortalama Zaman/ATP Paketi</org>
+        <en>\Average Time/ATP Packet</en>
+    </counter>
+    <counter>
+        <org>\ATP Paketi/sn</org>
+        <en>\ATP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Ortalama Zaman/NBP Paketi</org>
+        <en>\Average Time/NBP Packet</en>
+    </counter>
+    <counter>
+        <org>\NBP Paketi/sn</org>
+        <en>\NBP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Ortalama Zaman/ZIP Paketi</org>
+        <en>\Average Time/ZIP Packet</en>
+    </counter>
+    <counter>
+        <org>\ZIP Paketi/sn</org>
+        <en>\ZIP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Ortalama Zaman/RTMP Paketi</org>
+        <en>\Average Time/RTMP Packet</en>
+    </counter>
+    <counter>
+        <org>\RTMP Paketi/sn</org>
+        <en>\RTMP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\ATP Yerel Yeniden Deneme Sayısı</org>
+        <en>\ATP Retries Local</en>
+    </counter>
+    <counter>
+        <org>\ATP Yanıt Zaman Aşımı Sayısı</org>
+        <en>\ATP Response Timouts</en>
+    </counter>
+    <counter>
+        <org>\ATP XO Yanıtı/sn</org>
+        <en>\ATP XO Response/Sec</en>
+    </counter>
+    <counter>
+        <org>\ATP ALO Yanıtı/sn</org>
+        <en>\ATP ALO Response/Sec</en>
+    </counter>
+    <counter>
+        <org>\ATP Alınan Bırakma/sn</org>
+        <en>\ATP Recvd Release/Sec</en>
+    </counter>
+    <counter>
+        <org>\Geçerli Disk Belleği Olmayan Havuz</org>
+        <en>\Current NonPaged Pool</en>
+    </counter>
+    <counter>
+        <org>\İçeri Yönlendirilen Paket/sn</org>
+        <en>\Packets Routed In/Sec</en>
+    </counter>
+    <counter>
+        <org>\Bırakılan paket sayısı</org>
+        <en>\Packets dropped</en>
+    </counter>
+    <counter>
+        <org>\ATP Uzakta Yeniden Deneme</org>
+        <en>\ATP Retries Remote</en>
+    </counter>
+    <counter>
+        <org>\Dışarı Yönlendirilen Paket/sn</org>
+        <en>\Packets Routed Out/Sec</en>
+    </counter>
+    <counter>
+        <org>\Ağ Kesimi</org>
+        <en>\Network Segment</en>
+    </counter>
+    <counter>
+        <org>\Toplam alınan çerçeve/saniye</org>
+        <en>\Total frames received/second</en>
+    </counter>
+    <counter>
+        <org>\Toplam alınan bayt/saniye</org>
+        <en>\Total bytes received/second</en>
+    </counter>
+    <counter>
+        <org>\Alınan yayın çerçevesi/saniye</org>
+        <en>\Broadcast frames received/second</en>
+    </counter>
+    <counter>
+        <org>\Alınan çok noktaya yayın çerçevesi/saniye</org>
+        <en>\Multicast frames received/second</en>
+    </counter>
+    <counter>
+        <org>\% Ağ kullanımı</org>
+        <en>\% Network utilization</en>
+    </counter>
+    <counter>
+        <org>\% Yayın Çerçevesi</org>
+        <en>\% Broadcast Frames</en>
+    </counter>
+    <counter>
+        <org>\% Çok Noktaya Yayın Çerçevesi</org>
+        <en>\% Multicast Frames</en>
+    </counter>
+    <counter>
+        <org>\Telefon Sayısı</org>
+        <en>\Telephony</en>
+    </counter>
+    <counter>
+        <org>\Hat Sayısı</org>
+        <en>\Lines</en>
+    </counter>
+    <counter>
+        <org>\Telefon Aygıtı Sayısı</org>
+        <en>\Telephone Devices</en>
+    </counter>
+    <counter>
+        <org>\Etkin Hat Sayısı</org>
+        <en>\Active Lines</en>
+    </counter>
+    <counter>
+        <org>\Etkin Telefon Sayısı</org>
+        <en>\Active Telephones</en>
+    </counter>
+    <counter>
+        <org>\Giden Aramalar/sn</org>
+        <en>\Outgoing Calls/sec</en>
+    </counter>
+    <counter>
+        <org>\Gelen Aramalar/sn</org>
+        <en>\Incoming Calls/sec</en>
+    </counter>
+    <counter>
+        <org>\İstemci Uygulamaları</org>
+        <en>\Client Apps</en>
+    </counter>
+    <counter>
+        <org>\Geçerli Giden Arama Sayısı</org>
+        <en>\Current Outgoing Calls</en>
+    </counter>
+    <counter>
+        <org>\Geçerli Gelen Arama Sayısı</org>
+        <en>\Current Incoming Calls</en>
+    </counter>
+    <counter>
+        <org>\Paket Veri Bloğu Okuma NCP Sayısı/sn</org>
+        <en>\Packet Burst Read NCP Count/sec</en>
+    </counter>
+    <counter>
+        <org>\Paket Veri Bloğu Okuma Zaman Aşımı/sn</org>
+        <en>\Packet Burst Read Timeouts/sec</en>
+    </counter>
+    <counter>
+        <org>\Paket Veri Bloğu Yazma NCP Sayısı/sn</org>
+        <en>\Packet Burst Write NCP Count/sec</en>
+    </counter>
+    <counter>
+        <org>\Paket Veri Bloğu Yazma Zaman Aşımı/sn</org>
+        <en>\Packet Burst Write Timeouts/sec</en>
+    </counter>
+    <counter>
+        <org>\Paket Veri Bloğu GÇ/sn</org>
+        <en>\Packet Burst IO/sec</en>
+    </counter>
+    <counter>
+        <org>\Toplam Oturum Açma</org>
+        <en>\Logon Total</en>
+    </counter>
+    <counter>
+        <org>\Sunucu Çalışma Sıraları</org>
+        <en>\Server Work Queues</en>
+    </counter>
+    <counter>
+        <org>\Sıra Uzunluğu</org>
+        <en>\Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Etkin İş Parçacığı Sayısı</org>
+        <en>\Active Threads</en>
+    </counter>
+    <counter>
+        <org>\Kullanılabilir İş Parçacığı Sayısı</org>
+        <en>\Available Threads</en>
+    </counter>
+    <counter>
+        <org>\Kullanılabilir Çalışma Öğesi Sayısı</org>
+        <en>\Available Work Items</en>
+    </counter>
+    <counter>
+        <org>\Ödünç Alınan Çalışma Öğesi Sayısı</org>
+        <en>\Borrowed Work Items</en>
+    </counter>
+    <counter>
+        <org>\Çalışma Öğesi Yetersizliği Sayısı</org>
+        <en>\Work Item Shortages</en>
+    </counter>
+    <counter>
+        <org>\Geçerli İstemci Sayısı</org>
+        <en>\Current Clients</en>
+    </counter>
+    <counter>
+        <org>\Aktarılan Bayt/sn</org>
+        <en>\Bytes Transferred/sec</en>
+    </counter>
+    <counter>
+        <org>\Okunan Bayt/sn</org>
+        <en>\Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Yazılan Bayt/sn</org>
+        <en>\Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Toplam İşlem/sn</org>
+        <en>\Total Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Sıraya Alınan DPC/sn</org>
+        <en>\DPCs Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\DPC Hızı</org>
+        <en>\DPC Rate</en>
+    </counter>
+    <counter>
+        <org>\Toplam Sıraya Alınan DPC/sn</org>
+        <en>\Total DPCs Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\Toplam DPC Hızı</org>
+        <en>\Total DPC Rate</en>
+    </counter>
+    <counter>
+        <org>\% Kullanılan Kayıt Defteri Kotası</org>
+        <en>\% Registry Quota In Use</en>
+    </counter>
+    <counter>
+        <org>\VL Bellek</org>
+        <en>\VL Memory</en>
+    </counter>
+    <counter>
+        <org>\VLM % Kullanılan Sanal Boyut</org>
+        <en>\VLM % Virtual Size In Use</en>
+    </counter>
+    <counter>
+        <org>\VLM Sanal Boyut</org>
+        <en>\VLM Virtual Size</en>
+    </counter>
+    <counter>
+        <org>\VLM En Yüksek Sanal Boyut</org>
+        <en>\VLM Virtual Size Peak</en>
+    </counter>
+    <counter>
+        <org>\VLM Kullanılabilir Sanal Boyut</org>
+        <en>\VLM Virtual Size Available</en>
+    </counter>
+    <counter>
+        <org>\VLM Kaydedilmiş Bellek</org>
+        <en>\VLM Commit Charge</en>
+    </counter>
+    <counter>
+        <org>\VLM En Yüksek Kaydedilmiş Bellek</org>
+        <en>\VLM Commit Charge Peak</en>
+    </counter>
+    <counter>
+        <org>\Sistem VLM Kaydedilmiş Bellek</org>
+        <en>\System VLM Commit Charge</en>
+    </counter>
+    <counter>
+        <org>\Sistem VLM En Yüksek Kaydedilmiş Bellek</org>
+        <en>\System VLM Commit Charge Peak</en>
+    </counter>
+    <counter>
+        <org>\Sistem VLM Paylaştırılmış Kaydedilmiş Bellek</org>
+        <en>\System VLM Shared Commit Charge</en>
+    </counter>
+    <counter>
+        <org>\Kullanılabilir KBayt</org>
+        <en>\Available KBytes</en>
+    </counter>
+    <counter>
+        <org>\Kullanılabilir MBayt</org>
+        <en>\Available MBytes</en>
+    </counter>
+    <counter>
+        <org>\Ortalama Disk Sırası Uzunluğu</org>
+        <en>\Avg. Disk Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Ortalama Disk Okuma Sırası Uzunluğu</org>
+        <en>\Avg. Disk Read Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Ortalama Disk Yazma Sırası Uzunluğu</org>
+        <en>\Avg. Disk Write Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Kullanılan Kaydedilmiş Bayt Yüzdesi</org>
+        <en>\% Committed Bytes In Use</en>
+    </counter>
+    <counter>
+        <org>\Tam Yansıma</org>
+        <en>\Full Image</en>
+    </counter>
+    <counter>
+        <org>\Oluşturan İşlem Kimliği</org>
+        <en>\Creating Process ID</en>
+    </counter>
+    <counter>
+        <org>\GÇ Okuma İşlemi/sn</org>
+        <en>\IO Read Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\GÇ Yazma İşlemi/sn</org>
+        <en>\IO Write Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\GÇ Veri İşlemi/sn</org>
+        <en>\IO Data Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\GÇ Diğer İşlemler/sn</org>
+        <en>\IO Other Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\GÇ Okunan Bayt/sn</org>
+        <en>\IO Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\GÇ Yazılan Bayt/sn</org>
+        <en>\IO Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\GÇ Veri Bayt/sn</org>
+        <en>\IO Data Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\GÇ Diğer Bayt/sn</org>
+        <en>\IO Other Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Yazdırma Sırası</org>
+        <en>\Print Queue</en>
+    </counter>
+    <counter>
+        <org>\Yazdırılan Toplam İş Sayısı</org>
+        <en>\Total Jobs Printed</en>
+    </counter>
+    <counter>
+        <org>\Yazdırılan Bayt/sn</org>
+        <en>\Bytes Printed/sec</en>
+    </counter>
+    <counter>
+        <org>\Yazdırılan Toplam Sayfa Sayısı</org>
+        <en>\Total Pages Printed</en>
+    </counter>
+    <counter>
+        <org>\İş Sayısı</org>
+        <en>\Jobs</en>
+    </counter>
+    <counter>
+        <org>\Başvuru Sayısı</org>
+        <en>\References</en>
+    </counter>
+    <counter>
+        <org>\En Çok Başvuru Sayısı</org>
+        <en>\Max References</en>
+    </counter>
+    <counter>
+        <org>\Biriktirilen İş Sayısı</org>
+        <en>\Jobs Spooling</en>
+    </counter>
+    <counter>
+        <org>\En Çok Biriktirilen İş Sayısı</org>
+        <en>\Max Jobs Spooling</en>
+    </counter>
+    <counter>
+        <org>\Kağıt Bitti Hatası Sayısı</org>
+        <en>\Out of Paper Errors</en>
+    </counter>
+    <counter>
+        <org>\Hazır Değil Hatası Sayısı</org>
+        <en>\Not Ready Errors</en>
+    </counter>
+    <counter>
+        <org>\İş Hatası Sayısı</org>
+        <en>\Job Errors</en>
+    </counter>
+    <counter>
+        <org>\Ağ Yazıcısı Listeleme Çağrısı Sayısı</org>
+        <en>\Enumerate Network Printer Calls</en>
+    </counter>
+    <counter>
+        <org>\Ağ Yazıcısı Ekleme Çağrısı Sayısı</org>
+        <en>\Add Network Printer Calls</en>
+    </counter>
+    <counter>
+        <org>\Çalışma Kümesi - Özel</org>
+        <en>\Working Set - Private</en>
+    </counter>
+    <counter>
+        <org>\Çalışma Kümesi - Paylaştırılmış</org>
+        <en>\Working Set - Shared</en>
+    </counter>
+    <counter>
+        <org>\% Boşta Zaman</org>
+        <en>\% Idle Time</en>
+    </counter>
+    <counter>
+        <org>\Bölünen GÇ/sn</org>
+        <en>\Split IO/Sec</en>
+    </counter>
+    <counter>
+        <org>\İş Nesnesi</org>
+        <en>\Job Object</en>
+    </counter>
+    <counter>
+        <org>\Geçerli % İşlemci Zamanı</org>
+        <en>\Current % Processor Time</en>
+    </counter>
+    <counter>
+        <org>\Geçerli % Kullanıcı Modu Zamanı</org>
+        <en>\Current % User Mode Time</en>
+    </counter>
+    <counter>
+        <org>\Geçerli % Çekirdek Modu Zamanı</org>
+        <en>\Current % Kernel Mode Time</en>
+    </counter>
+    <counter>
+        <org>\Kullanılan milisaniye - İşlemci</org>
+        <en>\This Period mSec - Processor</en>
+    </counter>
+    <counter>
+        <org>\Kullanılan milisaniye - Kullanıcı Modu</org>
+        <en>\This Period mSec - User Mode</en>
+    </counter>
+    <counter>
+        <org>\Kullanılan milisaniye - Çekirdek Modu</org>
+        <en>\This Period mSec - Kernel Mode</en>
+    </counter>
+    <counter>
+        <org>\Sayfa/sn</org>
+        <en>\Pages/Sec</en>
+    </counter>
+    <counter>
+        <org>\İşlem Sayısı - Toplam</org>
+        <en>\Process Count - Total</en>
+    </counter>
+    <counter>
+        <org>\İşlem Sayısı - Etkin</org>
+        <en>\Process Count - Active</en>
+    </counter>
+    <counter>
+        <org>\İşlem Sayısı - Sona Erdirildi</org>
+        <en>\Process Count - Terminated</en>
+    </counter>
+    <counter>
+        <org>\Toplam milisaniye - İşlemci</org>
+        <en>\Total mSec - Processor</en>
+    </counter>
+    <counter>
+        <org>\Toplam milisaniye - Kullanıcı Modu</org>
+        <en>\Total mSec - User Mode</en>
+    </counter>
+    <counter>
+        <org>\Toplam milisaniye - Çekirdek Modu</org>
+        <en>\Total mSec - Kernel Mode</en>
+    </counter>
+    <counter>
+        <org>\Alınan Paket Çok Büyük</org>
+        <en>\Received Packet Too Big</en>
+    </counter>
+    <counter>
+        <org>\Alınan Üyelik Sorgusu</org>
+        <en>\Received Membership Query</en>
+    </counter>
+    <counter>
+        <org>\Alınan Üyelik Sorgusu</org>
+        <en>\Received Membership Report</en>
+    </counter>
+    <counter>
+        <org>\Alınan Üyelik İndirimi</org>
+        <en>\Received Membership Reduction</en>
+    </counter>
+    <counter>
+        <org>\Alınan Yönlendirici Açıklaması</org>
+        <en>\Received Router Solicit</en>
+    </counter>
+    <counter>
+        <org>\Alınan Yönlendirici Duyurusu</org>
+        <en>\Received Router Advert</en>
+    </counter>
+    <counter>
+        <org>\İş Nesnesi Ayrıntıları</org>
+        <en>\Job Object Details</en>
+    </counter>
+    <counter>
+        <org>\Alınan Komşu Açıklaması</org>
+        <en>\Received Neighbor Solicit</en>
+    </counter>
+    <counter>
+        <org>\Alınan Komşu Duyurusu</org>
+        <en>\Received Neighbor Advert</en>
+    </counter>
+    <counter>
+        <org>\Giden Paket Çok Büyük</org>
+        <en>\Sent Packet Too Big</en>
+    </counter>
+    <counter>
+        <org>\Giden Üyelik Sorgusu</org>
+        <en>\Sent Membership Query</en>
+    </counter>
+    <counter>
+        <org>\Giden Üyelik Sorgusu</org>
+        <en>\Sent Membership Report</en>
+    </counter>
+    <counter>
+        <org>\Giden Üyelik İndirimi</org>
+        <en>\Sent Membership Reduction</en>
+    </counter>
+    <counter>
+        <org>\Giden Yönlendirici Açıklaması</org>
+        <en>\Sent Router Solicit</en>
+    </counter>
+    <counter>
+        <org>\Giden Yönlendirici Duyurusu</org>
+        <en>\Sent Router Advert</en>
+    </counter>
+    <counter>
+        <org>\Giden Komşu Açıklaması</org>
+        <en>\Sent Neighbor Solicit</en>
+    </counter>
+    <counter>
+        <org>\Giden Komşu Duyurusu</org>
+        <en>\Sent Neighbor Advert</en>
+    </counter>
+    <counter>
+        <org>\Güvenlik Sistemi Genelinde İstatistikler</org>
+        <en>\Security System-Wide Statistics</en>
+    </counter>
+    <counter>
+        <org>\NTLM Kimlik Doğrulamaları</org>
+        <en>\NTLM Authentications</en>
+    </counter>
+    <counter>
+        <org>\Kerberos Kimlik Doğrulamaları</org>
+        <en>\Kerberos Authentications</en>
+    </counter>
+    <counter>
+        <org>\KDC AS İstekleri</org>
+        <en>\KDC AS Requests</en>
+    </counter>
+    <counter>
+        <org>\KDC TGS İstekleri</org>
+        <en>\KDC TGS Requests</en>
+    </counter>
+    <counter>
+        <org>\Schannel Oturumu Önbellek Girdileri</org>
+        <en>\Schannel Session Cache Entries</en>
+    </counter>
+    <counter>
+        <org>\Etkin Schannel Oturumu Önbellek Girdileri</org>
+        <en>\Active Schannel Session Cache Entries</en>
+    </counter>
+    <counter>
+        <org>\SSL İstemci Tarafı Tam El Sıkışmaları</org>
+        <en>\SSL Client-Side Full Handshakes</en>
+    </counter>
+    <counter>
+        <org>\SSL İstemci Tarafı Yeniden Bağlanma Sel Sıkışmaları</org>
+        <en>\SSL Client-Side Reconnect Handshakes</en>
+    </counter>
+    <counter>
+        <org>\SSL Sunucu Tarafı Tam El Sıkışmaları</org>
+        <en>\SSL Server-Side Full Handshakes</en>
+    </counter>
+    <counter>
+        <org>\SSL Sunucu Tarafı Yeniden Bağlanma El Sıkışmaları</org>
+        <en>\SSL Server-Side Reconnect Handshakes</en>
+    </counter>
+    <counter>
+        <org>\Özet Kimlik Doğrulamaları</org>
+        <en>\Digest Authentications</en>
+    </counter>
+    <counter>
+        <org>\İşlem Başına Güvenlik İstatistikleri</org>
+        <en>\Security Per-Process Statistics</en>
+    </counter>
+    <counter>
+        <org>\Kimlik Bilgisi Tanıtıcıları</org>
+        <en>\Credential Handles</en>
+    </counter>
+    <counter>
+        <org>\İçerik Tanıtıcıları</org>
+        <en>\Context Handles</en>
+    </counter>
+    <counter>
+        <org>\Boş ve Sıfır Sayfa Listesi Baytları</org>
+        <en>\Free &amp; Zero Page List Bytes</en>
+    </counter>
+    <counter>
+        <org>\Değiştirilmiş Sayfa Listesi Baytları</org>
+        <en>\Modified Page List Bytes</en>
+    </counter>
+    <counter>
+        <org>\Bekleme Önbelleği Yedek Baytları</org>
+        <en>\Standby Cache Reserve Bytes</en>
+    </counter>
+    <counter>
+        <org>\Bekleme Önbelleği Normal Öncelikli Baytları</org>
+        <en>\Standby Cache Normal Priority Bytes</en>
+    </counter>
+    <counter>
+        <org>\Bekleme Önbelleği Çekirdek Baytları</org>
+        <en>\Standby Cache Core Bytes</en>
+    </counter>
+    <counter>
+        <org>\% Boşta Zaman</org>
+        <en>\% Idle Time</en>
+    </counter>
+    <counter>
+        <org>\% C1 Süresi</org>
+        <en>\% C1 Time</en>
+    </counter>
+    <counter>
+        <org>\% C2 Süresi</org>
+        <en>\% C2 Time</en>
+    </counter>
+    <counter>
+        <org>\% C3 Süresi</org>
+        <en>\% C3 Time</en>
+    </counter>
+    <counter>
+        <org>\C1 Geçişi/sn</org>
+        <en>\C1 Transitions/sec</en>
+    </counter>
+    <counter>
+        <org>\C2 Geçişi/sn</org>
+        <en>\C2 Transitions/sec</en>
+    </counter>
+    <counter>
+        <org>\C3 Geçişi/sn</org>
+        <en>\C3 Transitions/sec</en>
+    </counter>
+    <counter>
+        <org>\Yığın</org>
+        <en>\Heap</en>
+    </counter>
+    <counter>
+        <org>\Kaydedilmiş Bayt Sayısı</org>
+        <en>\Committed Bytes</en>
+    </counter>
+    <counter>
+        <org>\Ayrılan Bayt Sayısı</org>
+        <en>\Reserved Bytes</en>
+    </counter>
+    <counter>
+        <org>\Sanal Bayt Sayısı</org>
+        <en>\Virtual Bytes</en>
+    </counter>
+    <counter>
+        <org>\Boş Bayt Sayısı</org>
+        <en>\Free Bytes</en>
+    </counter>
+    <counter>
+        <org>\Serbest Listesi Uzunluğu</org>
+        <en>\Free List Length</en>
+    </counter>
+    <counter>
+        <org>\Ortalama ayırma oranı</org>
+        <en>\Avg. alloc rate</en>
+    </counter>
+    <counter>
+        <org>\Ortalama serbest bırakma oranı</org>
+        <en>\Avg. free rate</en>
+    </counter>
+    <counter>
+        <org>\Kaydedilmeyen Aralık Uzunluğu</org>
+        <en>\Uncommitted Ranges Length</en>
+    </counter>
+    <counter>
+        <org>\Ayırma - Serbest Bırakma Sayısı</org>
+        <en>\Allocs - Frees</en>
+    </counter>
+    <counter>
+        <org>\Önbellekteki Ayırma/sn</org>
+        <en>\Cached Allocs/sec</en>
+    </counter>
+    <counter>
+        <org>\Önbellekteki Serbest Bırakma/sn</org>
+        <en>\Cached Frees/sec</en>
+    </counter>
+    <counter>
+        <org>\1K'dan küçük ayırma/sn</org>
+        <en>\Allocs &lt;1K/sec</en>
+    </counter>
+    <counter>
+        <org>\1K'dan küçük serbest bırakma/sn</org>
+        <en>\Frees &lt;1K/sec</en>
+    </counter>
+    <counter>
+        <org>\1-8K arasındaki ayırma/sn</org>
+        <en>\Allocs 1-8K/sec</en>
+    </counter>
+    <counter>
+        <org>\1-8K arasındaki serbest bırakma/sn</org>
+        <en>\Frees 1-8K/sec</en>
+    </counter>
+    <counter>
+        <org>\8K üzerindeki ayırma/sn</org>
+        <en>\Allocs over 8K/sec</en>
+    </counter>
+    <counter>
+        <org>\8K üzerindeki serbest bırakma/sn</org>
+        <en>\Frees over 8K/sec</en>
+    </counter>
+    <counter>
+        <org>\Toplam Ayırma/sn</org>
+        <en>\Total Allocs/sec</en>
+    </counter>
+    <counter>
+        <org>\Toplam Serbest Bırakma/sn</org>
+        <en>\Total Frees/sec</en>
+    </counter>
+    <counter>
+        <org>\Yığın Önbelleğindeki Blok Sayısı</org>
+        <en>\Blocks in Heap Cache</en>
+    </counter>
+    <counter>
+        <org>\En Büyük Önbellek Derinliği</org>
+        <en>\Largest Cache Depth</en>
+    </counter>
+    <counter>
+        <org>\% Parçalanma</org>
+        <en>\% Fragmentation</en>
+    </counter>
+    <counter>
+        <org>\% VA Parçalanması</org>
+        <en>\% VAFragmentation</en>
+    </counter>
+    <counter>
+        <org>\Yığın Kilidi çakışması</org>
+        <en>\Heap Lock contention</en>
+    </counter>
+    <counter>
+        <org>\Bitiş İşareti</org>
+        <en>\End Marker</en>
+    </counter>
+</Counters>

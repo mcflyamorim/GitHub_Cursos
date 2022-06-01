@@ -1,0 +1,3 @@
+Query Store...
+SQL2016 + SQL2016 SP1
+https://support.microsoft.com/pt-br/help/3182545/sql-server-2016-service-pack-1-release-information

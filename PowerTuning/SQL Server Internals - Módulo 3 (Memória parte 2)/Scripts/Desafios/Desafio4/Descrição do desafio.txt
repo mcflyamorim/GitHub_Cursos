@@ -1,0 +1,5 @@
+0 - Qual consulta está consumindo mais recurso? Quanto tempo demora para rodar esta consulta? 
+1 - A consulta está utilizando tempdb... por que?
+2 - Como evitar o uso do tempdb?
+3 - Como minimizar o uso do tempdb? 
+4 - O que fazer pra melhorar a performance do processo? 

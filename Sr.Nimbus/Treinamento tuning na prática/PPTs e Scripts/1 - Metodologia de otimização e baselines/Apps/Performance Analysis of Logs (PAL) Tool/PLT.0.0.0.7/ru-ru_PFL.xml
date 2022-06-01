@@ -1,0 +1,2479 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Counters>
+    <counter>
+        <org>\Система</org>
+        <en>\System</en>
+    </counter>
+    <counter>
+        <org>\Память</org>
+        <en>\Memory</en>
+    </counter>
+    <counter>
+        <org>\% загруженности процессора</org>
+        <en>\% Processor Time</en>
+    </counter>
+    <counter>
+        <org>\Операций чтения файлов/сек</org>
+        <en>\File Read Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Операций записи файлов/сек</org>
+        <en>\File Write Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Операций управления файлами/сек</org>
+        <en>\File Control Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Байт чтения файлов/сек</org>
+        <en>\File Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Байт записи файлов/сек</org>
+        <en>\File Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Байт управления файлами/сек</org>
+        <en>\File Control Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Доступно байт</org>
+        <en>\Available Bytes</en>
+    </counter>
+    <counter>
+        <org>\Байт выделенной виртуальной памяти</org>
+        <en>\Committed Bytes</en>
+    </counter>
+    <counter>
+        <org>\Ошибок страницы/сек</org>
+        <en>\Page Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\Предел выделенной виртуальной памяти</org>
+        <en>\Commit Limit</en>
+    </counter>
+    <counter>
+        <org>\Запись копий страниц/сек</org>
+        <en>\Write Copies/sec</en>
+    </counter>
+    <counter>
+        <org>\Ошибок транзита/сек</org>
+        <en>\Transition Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\Ошибок кэш-памяти/сек</org>
+        <en>\Cache Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\Ошибок запроса обнуления/сек</org>
+        <en>\Demand Zero Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\Обмен страниц/сек</org>
+        <en>\Pages/sec</en>
+    </counter>
+    <counter>
+        <org>\Чтений страниц/сек</org>
+        <en>\Page Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Длина очереди процессора</org>
+        <en>\Processor Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Состояние потока</org>
+        <en>\Thread State</en>
+    </counter>
+    <counter>
+        <org>\Вывод страниц/сек</org>
+        <en>\Pages Output/sec</en>
+    </counter>
+    <counter>
+        <org>\Операций вывода страниц/сек</org>
+        <en>\Page Writes/sec</en>
+    </counter>
+    <counter>
+        <org>\Обозреватель сети</org>
+        <en>\Browser</en>
+    </counter>
+    <counter>
+        <org>\Объявлений сервера/сек</org>
+        <en>\Announcements Server/sec</en>
+    </counter>
+    <counter>
+        <org>\Байт в выгружаемом страничном пуле</org>
+        <en>\Pool Paged Bytes</en>
+    </counter>
+    <counter>
+        <org>\Байт в невыгружаемом страничном пуле</org>
+        <en>\Pool Nonpaged Bytes</en>
+    </counter>
+    <counter>
+        <org>\Распределений в выгружаемом страничном пуле</org>
+        <en>\Pool Paged Allocs</en>
+    </counter>
+    <counter>
+        <org>\Распределений в невыгружаемом страничном пуле</org>
+        <en>\Pool Nonpaged Allocs</en>
+    </counter>
+    <counter>
+        <org>\Байт в резидентном страничном пуле</org>
+        <en>\Pool Paged Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\Всего байт системного кода</org>
+        <en>\System Code Total Bytes</en>
+    </counter>
+    <counter>
+        <org>\Резидентных байт системного кода</org>
+        <en>\System Code Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\Всего байт системных драйверов</org>
+        <en>\System Driver Total Bytes</en>
+    </counter>
+    <counter>
+        <org>\Резидентных байт системных драйверов</org>
+        <en>\System Driver Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\Резидентных байт системного кэша</org>
+        <en>\System Cache Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\Объявлений домена/сек</org>
+        <en>\Announcements Domain/sec</en>
+    </counter>
+    <counter>
+        <org>\Избирательных пакетов/сек</org>
+        <en>\Election Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Операций записи в почтовый слот/сек</org>
+        <en>\Mailslot Writes/sec</en>
+    </counter>
+    <counter>
+        <org>\Запросов на список серверов/сек</org>
+        <en>\Server List Requests/sec</en>
+    </counter>
+    <counter>
+        <org>\Кэш</org>
+        <en>\Cache</en>
+    </counter>
+    <counter>
+        <org>\Отображений данных/сек</org>
+        <en>\Data Maps/sec</en>
+    </counter>
+    <counter>
+        <org>\Синхронных отображений данных/сек</org>
+        <en>\Sync Data Maps/sec</en>
+    </counter>
+    <counter>
+        <org>\Асинхронных отображений данных/сек</org>
+        <en>\Async Data Maps/sec</en>
+    </counter>
+    <counter>
+        <org>\% попаданий при отображении данных</org>
+        <en>\Data Map Hits %</en>
+    </counter>
+    <counter>
+        <org>\Фиксаций при отображении данных/сек</org>
+        <en>\Data Map Pins/sec</en>
+    </counter>
+    <counter>
+        <org>\Фиксаций при чтении/сек</org>
+        <en>\Pin Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Синхронных фиксаций при чтении/сек</org>
+        <en>\Sync Pin Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Асинхронных фиксаций при чтении/сек</org>
+        <en>\Async Pin Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\% попаданий фиксации при чтении</org>
+        <en>\Pin Read Hits %</en>
+    </counter>
+    <counter>
+        <org>\Чтений с копированием/сек</org>
+        <en>\Copy Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Синхронных чтений с копированием/сек</org>
+        <en>\Sync Copy Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Асинхронных чтений с копированием/сек</org>
+        <en>\Async Copy Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\% попаданий при чтении с копированием</org>
+        <en>\Copy Read Hits %</en>
+    </counter>
+    <counter>
+        <org>\Чтений MDL/сек</org>
+        <en>\MDL Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Синхронных чтений MDL/сек</org>
+        <en>\Sync MDL Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Асинхронных чтений MDL/сек</org>
+        <en>\Async MDL Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\% попаданий чтений MDL</org>
+        <en>\MDL Read Hits %</en>
+    </counter>
+    <counter>
+        <org>\Упреждающих чтений/сек</org>
+        <en>\Read Aheads/sec</en>
+    </counter>
+    <counter>
+        <org>\Быстрых чтений/сек</org>
+        <en>\Fast Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Синхронных быстрых чтений/сек</org>
+        <en>\Sync Fast Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Асинхронных быстрых чтений/сек</org>
+        <en>\Async Fast Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Промахов ресурса быстрого чтения/сек</org>
+        <en>\Fast Read Resource Misses/sec</en>
+    </counter>
+    <counter>
+        <org>\Не осуществленных быстрых чтений/сек</org>
+        <en>\Fast Read Not Possibles/sec</en>
+    </counter>
+    <counter>
+        <org>\Сбросов ленивой записи/сек</org>
+        <en>\Lazy Write Flushes/sec</en>
+    </counter>
+    <counter>
+        <org>\Страниц 'ленивой' записи/сек</org>
+        <en>\Lazy Write Pages/sec</en>
+    </counter>
+    <counter>
+        <org>\Сбросов данных/сек</org>
+        <en>\Data Flushes/sec</en>
+    </counter>
+    <counter>
+        <org>\Страниц сброса данных/сек</org>
+        <en>\Data Flush Pages/sec</en>
+    </counter>
+    <counter>
+        <org>\% работы в пользовательском режиме</org>
+        <en>\% User Time</en>
+    </counter>
+    <counter>
+        <org>\% работы в привилегированном режиме</org>
+        <en>\% Privileged Time</en>
+    </counter>
+    <counter>
+        <org>\Контекстных переключений/сек</org>
+        <en>\Context Switches/sec</en>
+    </counter>
+    <counter>
+        <org>\Прерываний/сек</org>
+        <en>\Interrupts/sec</en>
+    </counter>
+    <counter>
+        <org>\Системных вызовов/сек</org>
+        <en>\System Calls/sec</en>
+    </counter>
+    <counter>
+        <org>\Заполнений TLB первого уровня/сек</org>
+        <en>\Level 1 TLB Fills/sec</en>
+    </counter>
+    <counter>
+        <org>\Заполнений TLB второго уровня/сек</org>
+        <en>\Level 2 TLB Fills/sec</en>
+    </counter>
+    <counter>
+        <org>\Нумераций сервером/сек</org>
+        <en>\Enumerations Server/sec</en>
+    </counter>
+    <counter>
+        <org>\Нумераций доменом/сек</org>
+        <en>\Enumerations Domain/sec</en>
+    </counter>
+    <counter>
+        <org>\Прочих нумераций/сек</org>
+        <en>\Enumerations Other/sec</en>
+    </counter>
+    <counter>
+        <org>\Промахов объявлений серверов</org>
+        <en>\Missed Server Announcements</en>
+    </counter>
+    <counter>
+        <org>\Промахов датаграмм почтовых слотов</org>
+        <en>\Missed Mailslot Datagrams</en>
+    </counter>
+    <counter>
+        <org>\Промахов запросов на список серверов</org>
+        <en>\Missed Server List Requests</en>
+    </counter>
+    <counter>
+        <org>\Ошибок распределения объявлений сервера/сек</org>
+        <en>\Server Announce Allocations Failed/sec</en>
+    </counter>
+    <counter>
+        <org>\Ошибок распределения почтовых слотов</org>
+        <en>\Mailslot Allocations Failed</en>
+    </counter>
+    <counter>
+        <org>\Байт виртуальной памяти (пик)</org>
+        <en>\Virtual Bytes Peak</en>
+    </counter>
+    <counter>
+        <org>\Байт виртуальной памяти</org>
+        <en>\Virtual Bytes</en>
+    </counter>
+    <counter>
+        <org>\Рабочий набор (пик)</org>
+        <en>\Working Set Peak</en>
+    </counter>
+    <counter>
+        <org>\Рабочий набор</org>
+        <en>\Working Set</en>
+    </counter>
+    <counter>
+        <org>\Байт файла подкачки (пик)</org>
+        <en>\Page File Bytes Peak</en>
+    </counter>
+    <counter>
+        <org>\Байт файла подкачки</org>
+        <en>\Page File Bytes</en>
+    </counter>
+    <counter>
+        <org>\Байт исключительного пользования</org>
+        <en>\Private Bytes</en>
+    </counter>
+    <counter>
+        <org>\Всего объявлений/сек</org>
+        <en>\Announcements Total/sec</en>
+    </counter>
+    <counter>
+        <org>\Всего нумераций/сек</org>
+        <en>\Enumerations Total/sec</en>
+    </counter>
+    <counter>
+        <org>\Текущая длина очереди диска</org>
+        <en>\Current Disk Queue Length</en>
+    </counter>
+    <counter>
+        <org>\% активности диска</org>
+        <en>\% Disk Time</en>
+    </counter>
+    <counter>
+        <org>\% активности диска при чтении</org>
+        <en>\% Disk Read Time</en>
+    </counter>
+    <counter>
+        <org>\% активности диска при записи</org>
+        <en>\% Disk Write Time</en>
+    </counter>
+    <counter>
+        <org>\Среднее время обращения к диску (сек)</org>
+        <en>\Avg. Disk sec/Transfer</en>
+    </counter>
+    <counter>
+        <org>\Среднее время чтения с диска (сек)</org>
+        <en>\Avg. Disk sec/Read</en>
+    </counter>
+    <counter>
+        <org>\Среднее время записи на диск (сек)</org>
+        <en>\Avg. Disk sec/Write</en>
+    </counter>
+    <counter>
+        <org>\Обращений к диску/сек</org>
+        <en>\Disk Transfers/sec</en>
+    </counter>
+    <counter>
+        <org>\Обращений чтения с диска/сек</org>
+        <en>\Disk Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Обращений записи на диск/сек</org>
+        <en>\Disk Writes/sec</en>
+    </counter>
+    <counter>
+        <org>\Скорость обмена с диском (байт/сек)</org>
+        <en>\Disk Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Скорость чтения с диска (байт/сек)</org>
+        <en>\Disk Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Скорость записи на диск (байт/сек)</org>
+        <en>\Disk Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Средний размер одного обмена с диском (байт)</org>
+        <en>\Avg. Disk Bytes/Transfer</en>
+    </counter>
+    <counter>
+        <org>\Средний размер одного чтения с диска (байт)</org>
+        <en>\Avg. Disk Bytes/Read</en>
+    </counter>
+    <counter>
+        <org>\Средний размер одной записи на диск (байт)</org>
+        <en>\Avg. Disk Bytes/Write</en>
+    </counter>
+    <counter>
+        <org>\Процесс</org>
+        <en>\Process</en>
+    </counter>
+    <counter>
+        <org>\Поток</org>
+        <en>\Thread</en>
+    </counter>
+    <counter>
+        <org>\Физический диск</org>
+        <en>\PhysicalDisk</en>
+    </counter>
+    <counter>
+        <org>\Логический диск</org>
+        <en>\LogicalDisk</en>
+    </counter>
+    <counter>
+        <org>\Процессор</org>
+        <en>\Processor</en>
+    </counter>
+    <counter>
+        <org>\% общей загруженности процессоров</org>
+        <en>\% Total Processor Time</en>
+    </counter>
+    <counter>
+        <org>\% общего времени в пользовательском режиме</org>
+        <en>\% Total User Time</en>
+    </counter>
+    <counter>
+        <org>\% общего времени в привилегированном режиме</org>
+        <en>\% Total Privileged Time</en>
+    </counter>
+    <counter>
+        <org>\Всего прерываний/сек</org>
+        <en>\Total Interrupts/sec</en>
+    </counter>
+    <counter>
+        <org>\Счетчик процессов</org>
+        <en>\Processes</en>
+    </counter>
+    <counter>
+        <org>\Потоки</org>
+        <en>\Threads</en>
+    </counter>
+    <counter>
+        <org>\Счетчик событий</org>
+        <en>\Events</en>
+    </counter>
+    <counter>
+        <org>\Счетчик семафоров</org>
+        <en>\Semaphores</en>
+    </counter>
+    <counter>
+        <org>\Счетчик мьютексов</org>
+        <en>\Mutexes</en>
+    </counter>
+    <counter>
+        <org>\Счетчик секций</org>
+        <en>\Sections</en>
+    </counter>
+    <counter>
+        <org>\Объекты</org>
+        <en>\Objects</en>
+    </counter>
+    <counter>
+        <org>\Перенаправитель</org>
+        <en>\Redirector</en>
+    </counter>
+    <counter>
+        <org>\Получено байт/сек</org>
+        <en>\Bytes Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Получено пакетов/сек</org>
+        <en>\Packets Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Прочитано страничных байт/сек</org>
+        <en>\Read Bytes Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\Прочитано не страничных байт/сек</org>
+        <en>\Read Bytes Non-Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\Прочитано из кэша байт/сек</org>
+        <en>\Read Bytes Cache/sec</en>
+    </counter>
+    <counter>
+        <org>\Прочитано сетевых байт/сек</org>
+        <en>\Read Bytes Network/sec</en>
+    </counter>
+    <counter>
+        <org>\Передано байт/сек</org>
+        <en>\Bytes Transmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\Передано пакетов/сек</org>
+        <en>\Packets Transmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\Записано страничных байт/сек</org>
+        <en>\Write Bytes Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\Записано не страничных байт/сек</org>
+        <en>\Write Bytes Non-Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\Записано в кэш байт/сек</org>
+        <en>\Write Bytes Cache/sec</en>
+    </counter>
+    <counter>
+        <org>\Записано сетевых байт/сек</org>
+        <en>\Write Bytes Network/sec</en>
+    </counter>
+    <counter>
+        <org>\Операций чтения/сек</org>
+        <en>\Read Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Операций чтения прямого доступа/сек</org>
+        <en>\Read Operations Random/sec</en>
+    </counter>
+    <counter>
+        <org>\Чтений пакетов/сек</org>
+        <en>\Read Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Длинных чтений/сек</org>
+        <en>\Reads Large/sec</en>
+    </counter>
+    <counter>
+        <org>\Чтений коротких пакетов/сек</org>
+        <en>\Read Packets Small/sec</en>
+    </counter>
+    <counter>
+        <org>\Операций записи/сек</org>
+        <en>\Write Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Операций записи прямого доступа/сек</org>
+        <en>\Write Operations Random/sec</en>
+    </counter>
+    <counter>
+        <org>\Операций записи пакетов/сек</org>
+        <en>\Write Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Длинных операций записи/сек</org>
+        <en>\Writes Large/sec</en>
+    </counter>
+    <counter>
+        <org>\Операций записи коротких пакетов/сек</org>
+        <en>\Write Packets Small/sec</en>
+    </counter>
+    <counter>
+        <org>\Отказов на операцию чтения/сек</org>
+        <en>\Reads Denied/sec</en>
+    </counter>
+    <counter>
+        <org>\Отказов на операцию записи/сек</org>
+        <en>\Writes Denied/sec</en>
+    </counter>
+    <counter>
+        <org>\Сетевых ошибок/сек</org>
+        <en>\Network Errors/sec</en>
+    </counter>
+    <counter>
+        <org>\Сеансов сервера</org>
+        <en>\Server Sessions</en>
+    </counter>
+    <counter>
+        <org>\Повторных подключений к серверу</org>
+        <en>\Server Reconnects</en>
+    </counter>
+    <counter>
+        <org>\Подключений к серверам базового уровня</org>
+        <en>\Connects Core</en>
+    </counter>
+    <counter>
+        <org>\Подключений к Lan Manager 2.0</org>
+        <en>\Connects Lan Manager 2.0</en>
+    </counter>
+    <counter>
+        <org>\Подключений к Lan Manager 2.1</org>
+        <en>\Connects Lan Manager 2.1</en>
+    </counter>
+    <counter>
+        <org>\Подключений к Windows NT</org>
+        <en>\Connects Windows NT</en>
+    </counter>
+    <counter>
+        <org>\Отключений от сервера</org>
+        <en>\Server Disconnects</en>
+    </counter>
+    <counter>
+        <org>\Зависаний сеансов сервера</org>
+        <en>\Server Sessions Hung</en>
+    </counter>
+    <counter>
+        <org>\Сервер</org>
+        <en>\Server</en>
+    </counter>
+    <counter>
+        <org>\Причина состояния ожидания для потока</org>
+        <en>\Thread Wait Reason</en>
+    </counter>
+    <counter>
+        <org>\Сеансов, закрытых по таймауту</org>
+        <en>\Sessions Timed Out</en>
+    </counter>
+    <counter>
+        <org>\Сеансов, закрытых из-за возникновения ошибки</org>
+        <en>\Sessions Errored Out</en>
+    </counter>
+    <counter>
+        <org>\Сеансов, завершенных нормально</org>
+        <en>\Sessions Logged Off</en>
+    </counter>
+    <counter>
+        <org>\Сеансов, завершенных принудительно</org>
+        <en>\Sessions Forced Off</en>
+    </counter>
+    <counter>
+        <org>\Ошибок входа</org>
+        <en>\Errors Logon</en>
+    </counter>
+    <counter>
+        <org>\Ошибок отсутствия права доступа</org>
+        <en>\Errors Access Permissions</en>
+    </counter>
+    <counter>
+        <org>\Ошибок предоставленного доступа</org>
+        <en>\Errors Granted Access</en>
+    </counter>
+    <counter>
+        <org>\Ошибок системы</org>
+        <en>\Errors System</en>
+    </counter>
+    <counter>
+        <org>\Отвергнуто запросов блокирования</org>
+        <en>\Blocking Requests Rejected</en>
+    </counter>
+    <counter>
+        <org>\Нехваток рабочих элементов</org>
+        <en>\Work Item Shortages</en>
+    </counter>
+    <counter>
+        <org>\Всего операций открытия файлов</org>
+        <en>\Files Opened Total</en>
+    </counter>
+    <counter>
+        <org>\Открытых файлов</org>
+        <en>\Files Open</en>
+    </counter>
+    <counter>
+        <org>\Операций поиска файлов</org>
+        <en>\File Directory Searches</en>
+    </counter>
+    <counter>
+        <org>\Отказов невыгружаемого страничного пула</org>
+        <en>\Pool Nonpaged Failures</en>
+    </counter>
+    <counter>
+        <org>\Невыгружаемый пул (пик)</org>
+        <en>\Pool Nonpaged Peak</en>
+    </counter>
+    <counter>
+        <org>\Отказов выгружаемого страничного пула</org>
+        <en>\Pool Paged Failures</en>
+    </counter>
+    <counter>
+        <org>\Выгружаемый пул (пик)</org>
+        <en>\Pool Paged Peak</en>
+    </counter>
+    <counter>
+        <org>\Всего байт/сек</org>
+        <en>\Bytes Total/sec</en>
+    </counter>
+    <counter>
+        <org>\Активных команд</org>
+        <en>\Current Commands</en>
+    </counter>
+    <counter>
+        <org>\Пакетов/сек</org>
+        <en>\Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Поставленных в очередь контекстных блоков/сек</org>
+        <en>\Context Blocks Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\Файловых операций с данными/сек</org>
+        <en>\File Data Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\% свободного места</org>
+        <en>\% Free Space</en>
+    </counter>
+    <counter>
+        <org>\Свободно мегабайт</org>
+        <en>\Free Megabytes</en>
+    </counter>
+    <counter>
+        <org>\Открытых подключений</org>
+        <en>\Connections Open</en>
+    </counter>
+    <counter>
+        <org>\Подключений без повтора</org>
+        <en>\Connections No Retries</en>
+    </counter>
+    <counter>
+        <org>\Подключений с повторами</org>
+        <en>\Connections With Retries</en>
+    </counter>
+    <counter>
+        <org>\Локальных отключений</org>
+        <en>\Disconnects Local</en>
+    </counter>
+    <counter>
+        <org>\Удаленных отключений</org>
+        <en>\Disconnects Remote</en>
+    </counter>
+    <counter>
+        <org>\Ошибок связи</org>
+        <en>\Failures Link</en>
+    </counter>
+    <counter>
+        <org>\Ошибок адаптера</org>
+        <en>\Failures Adapter</en>
+    </counter>
+    <counter>
+        <org>\Отключений по таймауту сеанса</org>
+        <en>\Connection Session Timeouts</en>
+    </counter>
+    <counter>
+        <org>\Отмененных подключений</org>
+        <en>\Connections Canceled</en>
+    </counter>
+    <counter>
+        <org>\Отказов удаленных ресурсов</org>
+        <en>\Failures Resource Remote</en>
+    </counter>
+    <counter>
+        <org>\Отказов локальных ресурсов</org>
+        <en>\Failures Resource Local</en>
+    </counter>
+    <counter>
+        <org>\Отказов 'Не обнаружен'</org>
+        <en>\Failures Not Found</en>
+    </counter>
+    <counter>
+        <org>\Отказов 'Не слушает'</org>
+        <en>\Failures No Listen</en>
+    </counter>
+    <counter>
+        <org>\Датаграмм/сек</org>
+        <en>\Datagrams/sec</en>
+    </counter>
+    <counter>
+        <org>\Датаграмм (байт/сек)</org>
+        <en>\Datagram Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Отправлено датаграмм/сек</org>
+        <en>\Datagrams Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Отправлено датаграмм (байт/сек)</org>
+        <en>\Datagram Bytes Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Получено датаграмм/сек</org>
+        <en>\Datagrams Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Получено датаграмм (байт/сек)</org>
+        <en>\Datagram Bytes Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Отправлено пакетов/сек</org>
+        <en>\Packets Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Кадров/сек</org>
+        <en>\Frames/sec</en>
+    </counter>
+    <counter>
+        <org>\Кадров (байт/сек)</org>
+        <en>\Frame Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Отправлено кадров/сек</org>
+        <en>\Frames Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Отправлено кадров (байт/сек)</org>
+        <en>\Frame Bytes Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Получено кадров/сек</org>
+        <en>\Frames Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Получено кадров (байт/сек)</org>
+        <en>\Frame Bytes Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Повторно отправлено кадров/сек</org>
+        <en>\Frames Re-Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Повторно отправлено кадров (байт/сек)</org>
+        <en>\Frame Bytes Re-Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Отвергнуто кадров/сек</org>
+        <en>\Frames Rejected/sec</en>
+    </counter>
+    <counter>
+        <org>\Отвергнуто кадров (байт/сек)</org>
+        <en>\Frame Bytes Rejected/sec</en>
+    </counter>
+    <counter>
+        <org>\Истечений срока ответа</org>
+        <en>\Expirations Response</en>
+    </counter>
+    <counter>
+        <org>\Истечений срока подтверждения</org>
+        <en>\Expirations Ack</en>
+    </counter>
+    <counter>
+        <org>\Окно отсылки (максимальное)</org>
+        <en>\Window Send Maximum</en>
+    </counter>
+    <counter>
+        <org>\Окно отсылки (в среднем)</org>
+        <en>\Window Send Average</en>
+    </counter>
+    <counter>
+        <org>\Подтверждений, ожидающих оказии/сек</org>
+        <en>\Piggyback Ack Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\Подтверждений, не дождавшихся оказии</org>
+        <en>\Piggyback Ack Timeouts</en>
+    </counter>
+    <counter>
+        <org>\Ресурсы NetBEUI</org>
+        <en>\NetBEUI Resource</en>
+    </counter>
+    <counter>
+        <org>\Использовано максимум</org>
+        <en>\Used Maximum</en>
+    </counter>
+    <counter>
+        <org>\Используется в среднем</org>
+        <en>\Used Average</en>
+    </counter>
+    <counter>
+        <org>\Ресурсы были исчерпаны</org>
+        <en>\Times Exhausted</en>
+    </counter>
+    <counter>
+        <org>\Подключение NBT</org>
+        <en>\NBT Connection</en>
+    </counter>
+    <counter>
+        <org>\Отправлено байт/сек</org>
+        <en>\Bytes Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Всего байт/сек</org>
+        <en>\Total Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Сетевой интерфейс</org>
+        <en>\Network Interface</en>
+    </counter>
+    <counter>
+        <org>\Байт/сек</org>
+        <en>\Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Текущая пропускная способность</org>
+        <en>\Current Bandwidth</en>
+    </counter>
+    <counter>
+        <org>\Получено одноадресных пакетов/сек</org>
+        <en>\Packets Received Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\Получено неодноадресных пакетов/сек</org>
+        <en>\Packets Received Non-Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\Отброшено полученных пакетов</org>
+        <en>\Packets Received Discarded</en>
+    </counter>
+    <counter>
+        <org>\Получено пакетов с ошибками</org>
+        <en>\Packets Received Errors</en>
+    </counter>
+    <counter>
+        <org>\Неопознано полученных пакетов</org>
+        <en>\Packets Received Unknown</en>
+    </counter>
+    <counter>
+        <org>\Отправлено одноадресных пакетов/сек</org>
+        <en>\Packets Sent Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\Отправлено неодноадресных пакетов/сек</org>
+        <en>\Packets Sent Non-Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\Исходящих пакетов отброшено</org>
+        <en>\Packets Outbound Discarded</en>
+    </counter>
+    <counter>
+        <org>\Исходящих пакетов с ошибками</org>
+        <en>\Packets Outbound Errors</en>
+    </counter>
+    <counter>
+        <org>\Длина очереди вывода</org>
+        <en>\Output Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Получено датаграмм с ошибками заголовка</org>
+        <en>\Datagrams Received Header Errors</en>
+    </counter>
+    <counter>
+        <org>\Получено датаграмм с ошибками адреса</org>
+        <en>\Datagrams Received Address Errors</en>
+    </counter>
+    <counter>
+        <org>\Переслано датаграмм/сек</org>
+        <en>\Datagrams Forwarded/sec</en>
+    </counter>
+    <counter>
+        <org>\Получено датаграмм неопознанного протокола</org>
+        <en>\Datagrams Received Unknown Protocol</en>
+    </counter>
+    <counter>
+        <org>\Отброшено полученных датаграмм</org>
+        <en>\Datagrams Received Discarded</en>
+    </counter>
+    <counter>
+        <org>\Доставлено полученных датаграмм/сек</org>
+        <en>\Datagrams Received Delivered/sec</en>
+    </counter>
+    <counter>
+        <org>\Исходящих датаграмм отброшено</org>
+        <en>\Datagrams Outbound Discarded</en>
+    </counter>
+    <counter>
+        <org>\Исходящих датаграмм с ошибкой 'Нет маршрута'</org>
+        <en>\Datagrams Outbound No Route</en>
+    </counter>
+    <counter>
+        <org>\Получено фрагментов/сек</org>
+        <en>\Fragments Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Собрано фрагментов/сек</org>
+        <en>\Fragments Re-assembled/sec</en>
+    </counter>
+    <counter>
+        <org>\Ошибок при сборке фрагментов</org>
+        <en>\Fragment Re-assembly Failures</en>
+    </counter>
+    <counter>
+        <org>\Фрагментировано датаграмм/сек</org>
+        <en>\Fragmented Datagrams/sec</en>
+    </counter>
+    <counter>
+        <org>\Ошибок при фрагментации</org>
+        <en>\Fragmentation Failures</en>
+    </counter>
+    <counter>
+        <org>\Создано фрагментов/сек</org>
+        <en>\Fragments Created/sec</en>
+    </counter>
+    <counter>
+        <org>\Сообщений/сек</org>
+        <en>\Messages/sec</en>
+    </counter>
+    <counter>
+        <org>\Получено сообщений/сек</org>
+        <en>\Messages Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Ошибок при получении сообщений</org>
+        <en>\Messages Received Errors</en>
+    </counter>
+    <counter>
+        <org>\Получено сообщений 'Dest. Unreachable'</org>
+        <en>\Received Dest. Unreachable</en>
+    </counter>
+    <counter>
+        <org>\Получено сообщений 'Time Exceeded'</org>
+        <en>\Received Time Exceeded</en>
+    </counter>
+    <counter>
+        <org>\Получено сообщений 'Parameter Problem'</org>
+        <en>\Received Parameter Problem</en>
+    </counter>
+    <counter>
+        <org>\Получено сообщений 'Source Quench'</org>
+        <en>\Received Source Quench</en>
+    </counter>
+    <counter>
+        <org>\Получено сообщений о перенаправлении/сек</org>
+        <en>\Received Redirect/sec</en>
+    </counter>
+    <counter>
+        <org>\Получено эхо-сообщений/сек</org>
+        <en>\Received Echo/sec</en>
+    </counter>
+    <counter>
+        <org>\Получено эхо-ответов/сек</org>
+        <en>\Received Echo Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\Получено запросов на штамп времени/сек</org>
+        <en>\Received Timestamp/sec</en>
+    </counter>
+    <counter>
+        <org>\Получено ответов штампа времени/сек</org>
+        <en>\Received Timestamp Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\Получено запросов на маску адреса</org>
+        <en>\Received Address Mask</en>
+    </counter>
+    <counter>
+        <org>\Получено ответов с маской адреса</org>
+        <en>\Received Address Mask Reply</en>
+    </counter>
+    <counter>
+        <org>\Отправлено сообщений/сек</org>
+        <en>\Messages Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Ошибок исходящих сообщений</org>
+        <en>\Messages Outbound Errors</en>
+    </counter>
+    <counter>
+        <org>\Отправлено сообщений 'Destination Unreachable'</org>
+        <en>\Sent Destination Unreachable</en>
+    </counter>
+    <counter>
+        <org>\Отправлено сообщений 'Time Exceeded'</org>
+        <en>\Sent Time Exceeded</en>
+    </counter>
+    <counter>
+        <org>\Отправлено сообщений 'Parameter Problem'</org>
+        <en>\Sent Parameter Problem</en>
+    </counter>
+    <counter>
+        <org>\Отправлено сообщений 'Source Quench'</org>
+        <en>\Sent Source Quench</en>
+    </counter>
+    <counter>
+        <org>\Отправлено сообщений о перенаправлении/сек</org>
+        <en>\Sent Redirect/sec</en>
+    </counter>
+    <counter>
+        <org>\Отправлено эхо-сообщений/сек</org>
+        <en>\Sent Echo/sec</en>
+    </counter>
+    <counter>
+        <org>\Отправлено эхо-ответов/сек</org>
+        <en>\Sent Echo Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\Отправлено запросов на штамп времени/сек</org>
+        <en>\Sent Timestamp/sec</en>
+    </counter>
+    <counter>
+        <org>\Отправлено ответов штампа времени/сек</org>
+        <en>\Sent Timestamp Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\Отправлено запросов на маску адреса</org>
+        <en>\Sent Address Mask</en>
+    </counter>
+    <counter>
+        <org>\Отправлено ответов с маской адреса</org>
+        <en>\Sent Address Mask Reply</en>
+    </counter>
+    <counter>
+        <org>\Сегментов/сек</org>
+        <en>\Segments/sec</en>
+    </counter>
+    <counter>
+        <org>\Установлено подключений</org>
+        <en>\Connections Established</en>
+    </counter>
+    <counter>
+        <org>\Активных подключений</org>
+        <en>\Connections Active</en>
+    </counter>
+    <counter>
+        <org>\Пассивных подключений</org>
+        <en>\Connections Passive</en>
+    </counter>
+    <counter>
+        <org>\Отказов подключений</org>
+        <en>\Connection Failures</en>
+    </counter>
+    <counter>
+        <org>\Сбросов подключений</org>
+        <en>\Connections Reset</en>
+    </counter>
+    <counter>
+        <org>\Получено сегментов/сек</org>
+        <en>\Segments Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Отправлено сегментов/сек</org>
+        <en>\Segments Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Переотправлено сегментов/сек</org>
+        <en>\Segments Retransmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\% общего времени DPC</org>
+        <en>\% Total DPC Time</en>
+    </counter>
+    <counter>
+        <org>\% общего времени прерываний</org>
+        <en>\% Total Interrupt Time</en>
+    </counter>
+    <counter>
+        <org>\Датаграмм 'No Port'/сек</org>
+        <en>\Datagrams No Port/sec</en>
+    </counter>
+    <counter>
+        <org>\Получено датаграмм с другими ошибками</org>
+        <en>\Datagrams Received Errors</en>
+    </counter>
+    <counter>
+        <org>\Дисковое запоминающее устройство</org>
+        <en>\Disk Storage Unit</en>
+    </counter>
+    <counter>
+        <org>\Отказов выделения места</org>
+        <en>\Allocation Failures</en>
+    </counter>
+    <counter>
+        <org>\Время работы системы</org>
+        <en>\System Up Time</en>
+    </counter>
+    <counter>
+        <org>\Счетчик системных дескрипторов</org>
+        <en>\System Handle Count</en>
+    </counter>
+    <counter>
+        <org>\Свободных элементов таблицы страниц</org>
+        <en>\Free System Page Table Entries</en>
+    </counter>
+    <counter>
+        <org>\Счетчик потоков</org>
+        <en>\Thread Count</en>
+    </counter>
+    <counter>
+        <org>\Базовый приоритет</org>
+        <en>\Priority Base</en>
+    </counter>
+    <counter>
+        <org>\Прошло времени (сек)</org>
+        <en>\Elapsed Time</en>
+    </counter>
+    <counter>
+        <org>\Исправлений выравнивания/сек</org>
+        <en>\Alignment Fixups/sec</en>
+    </counter>
+    <counter>
+        <org>\Обработка особых ситуаций/сек</org>
+        <en>\Exception Dispatches/sec</en>
+    </counter>
+    <counter>
+        <org>\Эмуляция плавающей точки/сек</org>
+        <en>\Floating Emulations/sec</en>
+    </counter>
+    <counter>
+        <org>\Операций входа (Logon)/сек</org>
+        <en>\Logon/sec</en>
+    </counter>
+    <counter>
+        <org>\Текущий приоритет</org>
+        <en>\Priority Current</en>
+    </counter>
+    <counter>
+        <org>\% времени DPC</org>
+        <en>\% DPC Time</en>
+    </counter>
+    <counter>
+        <org>\% времени прерываний</org>
+        <en>\% Interrupt Time</en>
+    </counter>
+    <counter>
+        <org>\Файл подкачки</org>
+        <en>\Paging File</en>
+    </counter>
+    <counter>
+        <org>\% использования</org>
+        <en>\% Usage</en>
+    </counter>
+    <counter>
+        <org>\% использования (пик)</org>
+        <en>\% Usage Peak</en>
+    </counter>
+    <counter>
+        <org>\Начальный адрес</org>
+        <en>\Start Address</en>
+    </counter>
+    <counter>
+        <org>\Пользовательский счетчик команд</org>
+        <en>\User PC</en>
+    </counter>
+    <counter>
+        <org>\Отображаемое пространство: нет доступа</org>
+        <en>\Mapped Space No Access</en>
+    </counter>
+    <counter>
+        <org>\Отображаемое пространство: только чтение</org>
+        <en>\Mapped Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\Отображаемое пространство: чтение/запись</org>
+        <en>\Mapped Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Отображаемое пространство: запись копии</org>
+        <en>\Mapped Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Отображаемое пространство: исполняемое</org>
+        <en>\Mapped Space Executable</en>
+    </counter>
+    <counter>
+        <org>\Отображаемое пространство: исп/чтение</org>
+        <en>\Mapped Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\Отображаемое пространство: исп/чт/зап</org>
+        <en>\Mapped Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Отображаемое пространство: исп/зап.копии</org>
+        <en>\Mapped Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Зарезерв. пространство: недоступно</org>
+        <en>\Reserved Space No Access</en>
+    </counter>
+    <counter>
+        <org>\Зарезерв. пространство: только чтение</org>
+        <en>\Reserved Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\Зарезерв. пространство: чтение/запись</org>
+        <en>\Reserved Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Зарезерв. пространство: запись копии</org>
+        <en>\Reserved Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Зарезерв. пространство: исполняемое</org>
+        <en>\Reserved Space Executable</en>
+    </counter>
+    <counter>
+        <org>\Зарезерв. пространство: исп/чтение</org>
+        <en>\Reserved Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\Зарезерв. пространство: исп/чт/зап</org>
+        <en>\Reserved Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Рисунок</org>
+        <en>\Image</en>
+    </counter>
+    <counter>
+        <org>\Зарезерв. пространство: исп/зап.копии</org>
+        <en>\Reserved Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Нераспр. пространство: недоступно</org>
+        <en>\Unassigned Space No Access</en>
+    </counter>
+    <counter>
+        <org>\Нераспр. пространство: только чтение</org>
+        <en>\Unassigned Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\Нераспр. пространство: чтение/запись</org>
+        <en>\Unassigned Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Нераспр. пространство: запись копии</org>
+        <en>\Unassigned Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Нераспр. пространство: исполняемое</org>
+        <en>\Unassigned Space Executable</en>
+    </counter>
+    <counter>
+        <org>\Нераспр. пространство: исп/чтение</org>
+        <en>\Unassigned Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\Нераспр. пространство: исп/чт/зап</org>
+        <en>\Unassigned Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Нераспр. пространство: исп/зап.копии</org>
+        <en>\Unassigned Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Пространство образа: недоступно</org>
+        <en>\Image Space No Access</en>
+    </counter>
+    <counter>
+        <org>\Пространство образа: только чтение</org>
+        <en>\Image Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\Пространство образа: чтение/запись</org>
+        <en>\Image Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Пространство образа: запись копии</org>
+        <en>\Image Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Пространство образа: исполняемое</org>
+        <en>\Image Space Executable</en>
+    </counter>
+    <counter>
+        <org>\Пространство образа: исп/чтение</org>
+        <en>\Image Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\Пространство образа: исп/чт/зап</org>
+        <en>\Image Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Пространство образа: исп/зап.копии</org>
+        <en>\Image Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Байт образа зарезервировано</org>
+        <en>\Bytes Image Reserved</en>
+    </counter>
+    <counter>
+        <org>\Байт образа свободно</org>
+        <en>\Bytes Image Free</en>
+    </counter>
+    <counter>
+        <org>\Байт зарезервировано</org>
+        <en>\Bytes Reserved</en>
+    </counter>
+    <counter>
+        <org>\Байт свободно</org>
+        <en>\Bytes Free</en>
+    </counter>
+    <counter>
+        <org>\Идентификатор процесса</org>
+        <en>\ID Process</en>
+    </counter>
+    <counter>
+        <org>\Адресное пространство процесса</org>
+        <en>\Process Address Space</en>
+    </counter>
+    <counter>
+        <org>\Нет доступа</org>
+        <en>\No Access</en>
+    </counter>
+    <counter>
+        <org>\Только чтение</org>
+        <en>\Read Only</en>
+    </counter>
+    <counter>
+        <org>\Чтение/запись</org>
+        <en>\Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Запись копии</org>
+        <en>\Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Исполняемое</org>
+        <en>\Executable</en>
+    </counter>
+    <counter>
+        <org>\Исполняемое/только чтение</org>
+        <en>\Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\Исполняемое/чтение/запись</org>
+        <en>\Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Исполняемое/запись копии</org>
+        <en>\Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Идентификатор потока</org>
+        <en>\ID Thread</en>
+    </counter>
+    <counter>
+        <org>\Ошибок приема в почтовый слот</org>
+        <en>\Mailslot Receives Failed</en>
+    </counter>
+    <counter>
+        <org>\Ошибок записи в почтовый слот</org>
+        <en>\Mailslot Writes Failed</en>
+    </counter>
+    <counter>
+        <org>\Ошибок открытия почтового слота/сек</org>
+        <en>\Mailslot Opens Failed/sec</en>
+    </counter>
+    <counter>
+        <org>\Дублирование объявлений гл.обозревателя</org>
+        <en>\Duplicate Master Announcements</en>
+    </counter>
+    <counter>
+        <org>\Неправильных датаграмм/сек</org>
+        <en>\Illegal Datagrams/sec</en>
+    </counter>
+    <counter>
+        <org>\Детальная информация о потоках</org>
+        <en>\Thread Details</en>
+    </counter>
+    <counter>
+        <org>\Байт кэш-памяти</org>
+        <en>\Cache Bytes</en>
+    </counter>
+    <counter>
+        <org>\Байт кэш-памяти (пик)</org>
+        <en>\Cache Bytes Peak</en>
+    </counter>
+    <counter>
+        <org>\Ввод страниц/сек</org>
+        <en>\Pages Input/sec</en>
+    </counter>
+    <counter>
+        <org>\Переходных многоцелевых страниц/сек</org>
+        <en>\Transition Pages RePurposed/sec</en>
+    </counter>
+    <counter>
+        <org>\Передано байт</org>
+        <en>\Bytes Transmitted</en>
+    </counter>
+    <counter>
+        <org>\Получено байт</org>
+        <en>\Bytes Received</en>
+    </counter>
+    <counter>
+        <org>\Кадров передано</org>
+        <en>\Frames Transmitted</en>
+    </counter>
+    <counter>
+        <org>\Получено кадров.</org>
+        <en>\Frames Received.</en>
+    </counter>
+    <counter>
+        <org>\Процент сжатия на выходе</org>
+        <en>\Percent Compression Out</en>
+    </counter>
+    <counter>
+        <org>\Процент сжатия на входе</org>
+        <en>\Percent Compression In</en>
+    </counter>
+    <counter>
+        <org>\Ошибок CRC</org>
+        <en>\CRC Errors</en>
+    </counter>
+    <counter>
+        <org>\Ошибок таймаута</org>
+        <en>\Timeout Errors</en>
+    </counter>
+    <counter>
+        <org>\Ошибок переполнения послед. порта</org>
+        <en>\Serial Overrun Errors</en>
+    </counter>
+    <counter>
+        <org>\Ошибок выравнивания</org>
+        <en>\Alignment Errors</en>
+    </counter>
+    <counter>
+        <org>\Ошибок переполнения буфера</org>
+        <en>\Buffer Overrun Errors</en>
+    </counter>
+    <counter>
+        <org>\Всего ошибок</org>
+        <en>\Total Errors</en>
+    </counter>
+    <counter>
+        <org>\Передано байт/сек</org>
+        <en>\Bytes Transmitted/Sec</en>
+    </counter>
+    <counter>
+        <org>\Получено байт/сек</org>
+        <en>\Bytes Received/Sec</en>
+    </counter>
+    <counter>
+        <org>\Передано кадров/сек</org>
+        <en>\Frames Transmitted/Sec</en>
+    </counter>
+    <counter>
+        <org>\Получено кадров/сек</org>
+        <en>\Frames Received/Sec</en>
+    </counter>
+    <counter>
+        <org>\Всего ошибок/сек</org>
+        <en>\Total Errors/Sec</en>
+    </counter>
+    <counter>
+        <org>\Всего подключений</org>
+        <en>\Total Connections</en>
+    </counter>
+    <counter>
+        <org>\WINS-сервер</org>
+        <en>\WINS Server</en>
+    </counter>
+    <counter>
+        <org>\Индивидуальных регистраций/сек</org>
+        <en>\Unique Registrations/sec</en>
+    </counter>
+    <counter>
+        <org>\Групповых регистраций/сек</org>
+        <en>\Group Registrations/sec</en>
+    </counter>
+    <counter>
+        <org>\Всего регистраций/сек</org>
+        <en>\Total Number of Registrations/sec</en>
+    </counter>
+    <counter>
+        <org>\Индивидуальных возобновлений/сек</org>
+        <en>\Unique Renewals/sec</en>
+    </counter>
+    <counter>
+        <org>\Групповых возобновлений/сек</org>
+        <en>\Group Renewals/sec</en>
+    </counter>
+    <counter>
+        <org>\Всего возобновлений/сек</org>
+        <en>\Total Number of Renewals/sec</en>
+    </counter>
+    <counter>
+        <org>\Освобождений/сек</org>
+        <en>\Releases/sec</en>
+    </counter>
+    <counter>
+        <org>\Запросов/сек</org>
+        <en>\Queries/sec</en>
+    </counter>
+    <counter>
+        <org>\Индивидуальных конфликтов/сек</org>
+        <en>\Unique Conflicts/sec</en>
+    </counter>
+    <counter>
+        <org>\Групповых конфликтов/сек</org>
+        <en>\Group Conflicts/sec</en>
+    </counter>
+    <counter>
+        <org>\Всего конфликтов/сек</org>
+        <en>\Total Number of Conflicts/sec</en>
+    </counter>
+    <counter>
+        <org>\Успешных освобождений/сек</org>
+        <en>\Successful Releases/sec</en>
+    </counter>
+    <counter>
+        <org>\Ошибок освобождений/сек</org>
+        <en>\Failed Releases/sec</en>
+    </counter>
+    <counter>
+        <org>\Успешных запросов/сек</org>
+        <en>\Successful Queries/sec</en>
+    </counter>
+    <counter>
+        <org>\Ошибок запросов/сек</org>
+        <en>\Failed Queries/sec</en>
+    </counter>
+    <counter>
+        <org>\Счетчик дескрипторов</org>
+        <en>\Handle Count</en>
+    </counter>
+    <counter>
+        <org>\Сервер MAC-файлов</org>
+        <en>\MacFile Server</en>
+    </counter>
+    <counter>
+        <org>\Максимум выгружаемой памяти</org>
+        <en>\Max Paged Memory</en>
+    </counter>
+    <counter>
+        <org>\Текущая выгружаемая память</org>
+        <en>\Current Paged Memory</en>
+    </counter>
+    <counter>
+        <org>\Максимум невыгружаемой памяти</org>
+        <en>\Max NonPaged Memory</en>
+    </counter>
+    <counter>
+        <org>\Текущая невыгружаемая память</org>
+        <en>\Current NonPaged memory</en>
+    </counter>
+    <counter>
+        <org>\Текущие сеансы</org>
+        <en>\Current Sessions</en>
+    </counter>
+    <counter>
+        <org>\Максимум сеансов</org>
+        <en>\Maximum Sessions</en>
+    </counter>
+    <counter>
+        <org>\Текущие открытые файлы</org>
+        <en>\Current Files Open</en>
+    </counter>
+    <counter>
+        <org>\Максимум открытых файлов</org>
+        <en>\Maximum Files Open</en>
+    </counter>
+    <counter>
+        <org>\Ошибок входа</org>
+        <en>\Failed Logons</en>
+    </counter>
+    <counter>
+        <org>\Прочитанных данных/сек</org>
+        <en>\Data Read/sec</en>
+    </counter>
+    <counter>
+        <org>\Записанных данных/сек</org>
+        <en>\Data Written/sec</en>
+    </counter>
+    <counter>
+        <org>\Получено данных/сек</org>
+        <en>\Data Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Переданных данных/сек</org>
+        <en>\Data Transmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\Текущая длина очереди</org>
+        <en>\Current Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Максимум длины очереди</org>
+        <en>\Maximum Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Текущие потоки</org>
+        <en>\Current Threads</en>
+    </counter>
+    <counter>
+        <org>\Максимум потоков</org>
+        <en>\Maximum Threads</en>
+    </counter>
+    <counter>
+        <org>\Получено пакетов/сек</org>
+        <en>\Packets In/sec</en>
+    </counter>
+    <counter>
+        <org>\Отправлено пакетов/сек</org>
+        <en>\Packets Out/sec</en>
+    </counter>
+    <counter>
+        <org>\Получено байт/сек</org>
+        <en>\Bytes In/sec</en>
+    </counter>
+    <counter>
+        <org>\Отправлено байт/сек</org>
+        <en>\Bytes Out/sec</en>
+    </counter>
+    <counter>
+        <org>\Среднее время на пакет DDP</org>
+        <en>\Average Time/DDP Packet</en>
+    </counter>
+    <counter>
+        <org>\Пакетов DDP/сек</org>
+        <en>\DDP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Среднее время на пакет AARP</org>
+        <en>\Average Time/AARP Packet</en>
+    </counter>
+    <counter>
+        <org>\Пакетов AARP/сек</org>
+        <en>\AARP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Среднее время на пакет ATP</org>
+        <en>\Average Time/ATP Packet</en>
+    </counter>
+    <counter>
+        <org>\Пакетов ATP/сек</org>
+        <en>\ATP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Среднее время на пакет NBP</org>
+        <en>\Average Time/NBP Packet</en>
+    </counter>
+    <counter>
+        <org>\Пакетов NBP/сек</org>
+        <en>\NBP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Среднее время на пакет ZIP</org>
+        <en>\Average Time/ZIP Packet</en>
+    </counter>
+    <counter>
+        <org>\Пакетов ZIP/сек</org>
+        <en>\ZIP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Среднее время на пакет RTMP</org>
+        <en>\Average Time/RTMP Packet</en>
+    </counter>
+    <counter>
+        <org>\Пакетов RTMP/сек</org>
+        <en>\RTMP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Локальных повторов ATP</org>
+        <en>\ATP Retries Local</en>
+    </counter>
+    <counter>
+        <org>\Таймаутов ответа ATP</org>
+        <en>\ATP Response Timouts</en>
+    </counter>
+    <counter>
+        <org>\Ответов ATP XO/сек</org>
+        <en>\ATP XO Response/Sec</en>
+    </counter>
+    <counter>
+        <org>\Ответов ATP ALO/сек</org>
+        <en>\ATP ALO Response/Sec</en>
+    </counter>
+    <counter>
+        <org>\Получено освобождений ATP/сек</org>
+        <en>\ATP Recvd Release/Sec</en>
+    </counter>
+    <counter>
+        <org>\Текущий невыгружаемый пул</org>
+        <en>\Current NonPaged Pool</en>
+    </counter>
+    <counter>
+        <org>\Принято маршрутных пакетов/сек</org>
+        <en>\Packets Routed In/Sec</en>
+    </counter>
+    <counter>
+        <org>\Пакетов отброшено</org>
+        <en>\Packets dropped</en>
+    </counter>
+    <counter>
+        <org>\Удаленных повторов ATP</org>
+        <en>\ATP Retries Remote</en>
+    </counter>
+    <counter>
+        <org>\Отправлено маршрутных пакетов/сек</org>
+        <en>\Packets Routed Out/Sec</en>
+    </counter>
+    <counter>
+        <org>\Сегмент сети</org>
+        <en>\Network Segment</en>
+    </counter>
+    <counter>
+        <org>\Всего получено кадров/сек</org>
+        <en>\Total frames received/second</en>
+    </counter>
+    <counter>
+        <org>\Всего получено байт/сек</org>
+        <en>\Total bytes received/second</en>
+    </counter>
+    <counter>
+        <org>\Получено широковещательных кадров/сек</org>
+        <en>\Broadcast frames received/second</en>
+    </counter>
+    <counter>
+        <org>\Получено многоадресных кадров/сек</org>
+        <en>\Multicast frames received/second</en>
+    </counter>
+    <counter>
+        <org>\Использование сети (%)</org>
+        <en>\% Network utilization</en>
+    </counter>
+    <counter>
+        <org>\% широковещательных кадров</org>
+        <en>\% Broadcast Frames</en>
+    </counter>
+    <counter>
+        <org>\% многоадресных кадров</org>
+        <en>\% Multicast Frames</en>
+    </counter>
+    <counter>
+        <org>\Телефония</org>
+        <en>\Telephony</en>
+    </counter>
+    <counter>
+        <org>\Линий</org>
+        <en>\Lines</en>
+    </counter>
+    <counter>
+        <org>\Телефонных устройств</org>
+        <en>\Telephone Devices</en>
+    </counter>
+    <counter>
+        <org>\Активных линий</org>
+        <en>\Active Lines</en>
+    </counter>
+    <counter>
+        <org>\Активных телефонов</org>
+        <en>\Active Telephones</en>
+    </counter>
+    <counter>
+        <org>\Исходящих звонков/сек</org>
+        <en>\Outgoing Calls/sec</en>
+    </counter>
+    <counter>
+        <org>\Входящих звонков/сек</org>
+        <en>\Incoming Calls/sec</en>
+    </counter>
+    <counter>
+        <org>\Приложений-клиентов</org>
+        <en>\Client Apps</en>
+    </counter>
+    <counter>
+        <org>\Текущих исходящих звонков</org>
+        <en>\Current Outgoing Calls</en>
+    </counter>
+    <counter>
+        <org>\Текущих входящих звонков</org>
+        <en>\Current Incoming Calls</en>
+    </counter>
+    <counter>
+        <org>\Ускоренного чтения NCP пакетов/сек</org>
+        <en>\Packet Burst Read NCP Count/sec</en>
+    </counter>
+    <counter>
+        <org>\Таймаутов ускоренного чтения пакетов/сек</org>
+        <en>\Packet Burst Read Timeouts/sec</en>
+    </counter>
+    <counter>
+        <org>\Ускоренной записи NCP пакетов/сек</org>
+        <en>\Packet Burst Write NCP Count/sec</en>
+    </counter>
+    <counter>
+        <org>\Таймаутов ускоренной записи пакетов/сек</org>
+        <en>\Packet Burst Write Timeouts/sec</en>
+    </counter>
+    <counter>
+        <org>\Ускоренный ввод-вывод пакетов/сек</org>
+        <en>\Packet Burst IO/sec</en>
+    </counter>
+    <counter>
+        <org>\Всего операций входа (Logon)</org>
+        <en>\Logon Total</en>
+    </counter>
+    <counter>
+        <org>\Рабочие очереди сервера</org>
+        <en>\Server Work Queues</en>
+    </counter>
+    <counter>
+        <org>\Длина очереди</org>
+        <en>\Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Активных потоков</org>
+        <en>\Active Threads</en>
+    </counter>
+    <counter>
+        <org>\Доступных потоков</org>
+        <en>\Available Threads</en>
+    </counter>
+    <counter>
+        <org>\Доступных рабочих элементов</org>
+        <en>\Available Work Items</en>
+    </counter>
+    <counter>
+        <org>\Заимствованных рабочих элементов</org>
+        <en>\Borrowed Work Items</en>
+    </counter>
+    <counter>
+        <org>\Нехваток рабочих элементов</org>
+        <en>\Work Item Shortages</en>
+    </counter>
+    <counter>
+        <org>\Текущих клиентов</org>
+        <en>\Current Clients</en>
+    </counter>
+    <counter>
+        <org>\Передано байт/сек</org>
+        <en>\Bytes Transferred/sec</en>
+    </counter>
+    <counter>
+        <org>\Прочитано байт/сек</org>
+        <en>\Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Записано байт/сек</org>
+        <en>\Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Всего файловых операций/сек</org>
+        <en>\Total Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Поставлено в очередь DPC/сек</org>
+        <en>\DPCs Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\Скорость DPC</org>
+        <en>\DPC Rate</en>
+    </counter>
+    <counter>
+        <org>\Всего поставлено в очереди DPC/сек</org>
+        <en>\Total DPCs Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\Общая скорость DPC</org>
+        <en>\Total DPC Rate</en>
+    </counter>
+    <counter>
+        <org>\% использования квоты реестра</org>
+        <en>\% Registry Quota In Use</en>
+    </counter>
+    <counter>
+        <org>\Память VLM</org>
+        <en>\VL Memory</en>
+    </counter>
+    <counter>
+        <org>\Процент использования виртуальной памяти VLM.</org>
+        <en>\VLM % Virtual Size In Use</en>
+    </counter>
+    <counter>
+        <org>\Размер виртуальной памяти VLM</org>
+        <en>\VLM Virtual Size</en>
+    </counter>
+    <counter>
+        <org>\Размер виртуальной памяти VLM (пик)</org>
+        <en>\VLM Virtual Size Peak</en>
+    </counter>
+    <counter>
+        <org>\Размер доступной виртуальной памяти VLM</org>
+        <en>\VLM Virtual Size Available</en>
+    </counter>
+    <counter>
+        <org>\Нагрузка выделения памяти VLM</org>
+        <en>\VLM Commit Charge</en>
+    </counter>
+    <counter>
+        <org>\Нагрузка выделения памяти VLM (пик)</org>
+        <en>\VLM Commit Charge Peak</en>
+    </counter>
+    <counter>
+        <org>\Нагрузка выделения памяти VLM в системе</org>
+        <en>\System VLM Commit Charge</en>
+    </counter>
+    <counter>
+        <org>\Нагрузка выделения памяти VLM в системе (пик)</org>
+        <en>\System VLM Commit Charge Peak</en>
+    </counter>
+    <counter>
+        <org>\Нагрузка выделения общей памяти VLM в системе</org>
+        <en>\System VLM Shared Commit Charge</en>
+    </counter>
+    <counter>
+        <org>\Доступно КБ</org>
+        <en>\Available KBytes</en>
+    </counter>
+    <counter>
+        <org>\Доступно МБ</org>
+        <en>\Available MBytes</en>
+    </counter>
+    <counter>
+        <org>\Средняя длина очереди диска</org>
+        <en>\Avg. Disk Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Средняя длина очереди чтения диска</org>
+        <en>\Avg. Disk Read Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Средняя длина очереди записи на диск</org>
+        <en>\Avg. Disk Write Queue Length</en>
+    </counter>
+    <counter>
+        <org>\% использования выделенной памяти</org>
+        <en>\% Committed Bytes In Use</en>
+    </counter>
+    <counter>
+        <org>\Полный образ</org>
+        <en>\Full Image</en>
+    </counter>
+    <counter>
+        <org>\Код (ID) создавшего процесса</org>
+        <en>\Creating Process ID</en>
+    </counter>
+    <counter>
+        <org>\I/O - операций чтения в сек</org>
+        <en>\IO Read Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\I/O - операций записи в сек</org>
+        <en>\IO Write Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\I/O - операций с данными в сек</org>
+        <en>\IO Data Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\I/O - прочих операций в сек</org>
+        <en>\IO Other Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\I/O - чтение байт в сек</org>
+        <en>\IO Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\I/O - запись байт в сек</org>
+        <en>\IO Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\I/O - обмен данными, байт в сек</org>
+        <en>\IO Data Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\I/O - прочих байт в сек</org>
+        <en>\IO Other Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Очередь печати</org>
+        <en>\Print Queue</en>
+    </counter>
+    <counter>
+        <org>\Всего заданий напечатано</org>
+        <en>\Total Jobs Printed</en>
+    </counter>
+    <counter>
+        <org>\Печатаемых байт/сек</org>
+        <en>\Bytes Printed/sec</en>
+    </counter>
+    <counter>
+        <org>\Всего напечатано страниц</org>
+        <en>\Total Pages Printed</en>
+    </counter>
+    <counter>
+        <org>\Заданий</org>
+        <en>\Jobs</en>
+    </counter>
+    <counter>
+        <org>\Ссылок</org>
+        <en>\References</en>
+    </counter>
+    <counter>
+        <org>\Максимум ссылок</org>
+        <en>\Max References</en>
+    </counter>
+    <counter>
+        <org>\Заданий, обрабатываемых диспетчером очереди</org>
+        <en>\Jobs Spooling</en>
+    </counter>
+    <counter>
+        <org>\Максимум заданий, обрабатываемых диспетчером</org>
+        <en>\Max Jobs Spooling</en>
+    </counter>
+    <counter>
+        <org>\Ошибок 'Отсутствует бумага'</org>
+        <en>\Out of Paper Errors</en>
+    </counter>
+    <counter>
+        <org>\Ошибок 'Принтер не готов'</org>
+        <en>\Not Ready Errors</en>
+    </counter>
+    <counter>
+        <org>\Ошибок заданий</org>
+        <en>\Job Errors</en>
+    </counter>
+    <counter>
+        <org>\Вызовов нумерации сетевого принтера</org>
+        <en>\Enumerate Network Printer Calls</en>
+    </counter>
+    <counter>
+        <org>\Вызовов добавления сетевого принтера</org>
+        <en>\Add Network Printer Calls</en>
+    </counter>
+    <counter>
+        <org>\Рабочий набор (частный)</org>
+        <en>\Working Set - Private</en>
+    </counter>
+    <counter>
+        <org>\Рабочий набор (общий)</org>
+        <en>\Working Set - Shared</en>
+    </counter>
+    <counter>
+        <org>\Процент времени бездействия</org>
+        <en>\% Idle Time</en>
+    </counter>
+    <counter>
+        <org>\Расщеплений ввода-вывода/сек</org>
+        <en>\Split IO/Sec</en>
+    </counter>
+    <counter>
+        <org>\Объект 'Задание'</org>
+        <en>\Job Object</en>
+    </counter>
+    <counter>
+        <org>\Текущий процент времени процессора</org>
+        <en>\Current % Processor Time</en>
+    </counter>
+    <counter>
+        <org>\Текущий % времени в польз. режиме</org>
+        <en>\Current % User Mode Time</en>
+    </counter>
+    <counter>
+        <org>\Текущий % времени в режиме ядра</org>
+        <en>\Current % Kernel Mode Time</en>
+    </counter>
+    <counter>
+        <org>\За данный период мсек процессора</org>
+        <en>\This Period mSec - Processor</en>
+    </counter>
+    <counter>
+        <org>\За данный период мсек польз. режима</org>
+        <en>\This Period mSec - User Mode</en>
+    </counter>
+    <counter>
+        <org>\За данный период мсек режима ядра</org>
+        <en>\This Period mSec - Kernel Mode</en>
+    </counter>
+    <counter>
+        <org>\Обмен страниц/сек</org>
+        <en>\Pages/Sec</en>
+    </counter>
+    <counter>
+        <org>\Общий счетчик процессов</org>
+        <en>\Process Count - Total</en>
+    </counter>
+    <counter>
+        <org>\Счетчик активных процессов</org>
+        <en>\Process Count - Active</en>
+    </counter>
+    <counter>
+        <org>\Счетчик завершенных процессов</org>
+        <en>\Process Count - Terminated</en>
+    </counter>
+    <counter>
+        <org>\Всего мсек процессора</org>
+        <en>\Total mSec - Processor</en>
+    </counter>
+    <counter>
+        <org>\Всего мсек польз. режима</org>
+        <en>\Total mSec - User Mode</en>
+    </counter>
+    <counter>
+        <org>\Всего мсек режима ядра</org>
+        <en>\Total mSec - Kernel Mode</en>
+    </counter>
+    <counter>
+        <org>\Получено очень больших пакетов</org>
+        <en>\Received Packet Too Big</en>
+    </counter>
+    <counter>
+        <org>\Получено запросов участия</org>
+        <en>\Received Membership Query</en>
+    </counter>
+    <counter>
+        <org>\Получено отчетов участия</org>
+        <en>\Received Membership Report</en>
+    </counter>
+    <counter>
+        <org>\Получено уменьшения участия</org>
+        <en>\Received Membership Reduction</en>
+    </counter>
+    <counter>
+        <org>\Получено запросов маршрутизатора</org>
+        <en>\Received Router Solicit</en>
+    </counter>
+    <counter>
+        <org>\Получено уведомлений маршрутизатора</org>
+        <en>\Received Router Advert</en>
+    </counter>
+    <counter>
+        <org>\Подробно об объекте 'Задание'</org>
+        <en>\Job Object Details</en>
+    </counter>
+    <counter>
+        <org>\Получено запросов окружения</org>
+        <en>\Received Neighbor Solicit</en>
+    </counter>
+    <counter>
+        <org>\Получено уведомлений окружения</org>
+        <en>\Received Neighbor Advert</en>
+    </counter>
+    <counter>
+        <org>\Отправлено очень больших пакетов</org>
+        <en>\Sent Packet Too Big</en>
+    </counter>
+    <counter>
+        <org>\Отправлено запросов участия</org>
+        <en>\Sent Membership Query</en>
+    </counter>
+    <counter>
+        <org>\Отправлено отчетов участия</org>
+        <en>\Sent Membership Report</en>
+    </counter>
+    <counter>
+        <org>\Отправлено уменьшения участия</org>
+        <en>\Sent Membership Reduction</en>
+    </counter>
+    <counter>
+        <org>\Отправлено запросов маршрутизатора</org>
+        <en>\Sent Router Solicit</en>
+    </counter>
+    <counter>
+        <org>\Отправлено уведомлений маршрутизатора</org>
+        <en>\Sent Router Advert</en>
+    </counter>
+    <counter>
+        <org>\Отправлено запросов окружения</org>
+        <en>\Sent Neighbor Solicit</en>
+    </counter>
+    <counter>
+        <org>\Отправлено уведомлений окружения</org>
+        <en>\Sent Neighbor Advert</en>
+    </counter>
+    <counter>
+        <org>\Статистика общесистемной безопасности</org>
+        <en>\Security System-Wide Statistics</en>
+    </counter>
+    <counter>
+        <org>\Проверок подлинности NTLM</org>
+        <en>\NTLM Authentications</en>
+    </counter>
+    <counter>
+        <org>\Проверки подлинности Kerberos</org>
+        <en>\Kerberos Authentications</en>
+    </counter>
+    <counter>
+        <org>\AS-запросов KDC</org>
+        <en>\KDC AS Requests</en>
+    </counter>
+    <counter>
+        <org>\TGS-запросов KDC</org>
+        <en>\KDC TGS Requests</en>
+    </counter>
+    <counter>
+        <org>\Элементов кэша сеанса Schannel</org>
+        <en>\Schannel Session Cache Entries</en>
+    </counter>
+    <counter>
+        <org>\Активных элементов кэша сеанса Schannel</org>
+        <en>\Active Schannel Session Cache Entries</en>
+    </counter>
+    <counter>
+        <org>\Полных подтверждений со стороны клиента SSL</org>
+        <en>\SSL Client-Side Full Handshakes</en>
+    </counter>
+    <counter>
+        <org>\Подтверждений переподключения со стороны клиента SSL</org>
+        <en>\SSL Client-Side Reconnect Handshakes</en>
+    </counter>
+    <counter>
+        <org>\Полных подтверждений со стороны сервера SSL</org>
+        <en>\SSL Server-Side Full Handshakes</en>
+    </counter>
+    <counter>
+        <org>\Подтверждений переподключения со стороны сервера SSL</org>
+        <en>\SSL Server-Side Reconnect Handshakes</en>
+    </counter>
+    <counter>
+        <org>\Дайджест-проверка подлинности</org>
+        <en>\Digest Authentications</en>
+    </counter>
+    <counter>
+        <org>\Статистика безопасности по процессу</org>
+        <en>\Security Per-Process Statistics</en>
+    </counter>
+    <counter>
+        <org>\Дескрипторов учетных данных</org>
+        <en>\Credential Handles</en>
+    </counter>
+    <counter>
+        <org>\Дескрипторов контекста</org>
+        <en>\Context Handles</en>
+    </counter>
+    <counter>
+        <org>\Байт свободной памяти и обнуленных страниц памяти</org>
+        <en>\Free &amp; Zero Page List Bytes</en>
+    </counter>
+    <counter>
+        <org>\Байт измененных страниц памяти</org>
+        <en>\Modified Page List Bytes</en>
+    </counter>
+    <counter>
+        <org>\Байты резерва резервного кэша</org>
+        <en>\Standby Cache Reserve Bytes</en>
+    </counter>
+    <counter>
+        <org>\Байты резервного кэша обычного приоритета</org>
+        <en>\Standby Cache Normal Priority Bytes</en>
+    </counter>
+    <counter>
+        <org>\Байты основного резервного кэша</org>
+        <en>\Standby Cache Core Bytes</en>
+    </counter>
+    <counter>
+        <org>\Процент времени бездействия</org>
+        <en>\% Idle Time</en>
+    </counter>
+    <counter>
+        <org>\% времени C1</org>
+        <en>\% C1 Time</en>
+    </counter>
+    <counter>
+        <org>\% времени C2</org>
+        <en>\% C2 Time</en>
+    </counter>
+    <counter>
+        <org>\% времени C3</org>
+        <en>\% C3 Time</en>
+    </counter>
+    <counter>
+        <org>\C1 переходов/сек</org>
+        <en>\C1 Transitions/sec</en>
+    </counter>
+    <counter>
+        <org>\C2 переходов/сек</org>
+        <en>\C2 Transitions/sec</en>
+    </counter>
+    <counter>
+        <org>\C3 переходов/сек</org>
+        <en>\C3 Transitions/sec</en>
+    </counter>
+    <counter>
+        <org>\Куча (Heap)</org>
+        <en>\Heap</en>
+    </counter>
+    <counter>
+        <org>\Байт выделенной виртуальной памяти</org>
+        <en>\Committed Bytes</en>
+    </counter>
+    <counter>
+        <org>\Байтов зарезервировано</org>
+        <en>\Reserved Bytes</en>
+    </counter>
+    <counter>
+        <org>\Байт виртуальной памяти</org>
+        <en>\Virtual Bytes</en>
+    </counter>
+    <counter>
+        <org>\Байтов свободной памяти</org>
+        <en>\Free Bytes</en>
+    </counter>
+    <counter>
+        <org>\Длина списка свободной памяти</org>
+        <en>\Free List Length</en>
+    </counter>
+    <counter>
+        <org>\Ср. скорость выделения</org>
+        <en>\Avg. alloc rate</en>
+    </counter>
+    <counter>
+        <org>\Ср. скорость освобождения</org>
+        <en>\Avg. free rate</en>
+    </counter>
+    <counter>
+        <org>\Длина диапазонов невыделенной памяти</org>
+        <en>\Uncommitted Ranges Length</en>
+    </counter>
+    <counter>
+        <org>\Выделено - Освобождено</org>
+        <en>\Allocs - Frees</en>
+    </counter>
+    <counter>
+        <org>\Кэшировано выделенных в сек</org>
+        <en>\Cached Allocs/sec</en>
+    </counter>
+    <counter>
+        <org>\Кэшировано освобожденных в сек</org>
+        <en>\Cached Frees/sec</en>
+    </counter>
+    <counter>
+        <org>\Выделено со скоростью &lt;1К/сек</org>
+        <en>\Allocs &lt;1K/sec</en>
+    </counter>
+    <counter>
+        <org>\Освобождено со скоростью &lt;1К/сек</org>
+        <en>\Frees &lt;1K/sec</en>
+    </counter>
+    <counter>
+        <org>\Выделено со скоростью 1-8К/сек</org>
+        <en>\Allocs 1-8K/sec</en>
+    </counter>
+    <counter>
+        <org>\Освобождено со скоростью 1-8К/сек</org>
+        <en>\Frees 1-8K/sec</en>
+    </counter>
+    <counter>
+        <org>\Выделено со скоростью выше 8К/сек</org>
+        <en>\Allocs over 8K/sec</en>
+    </counter>
+    <counter>
+        <org>\Освобождено со скоростью выше 8К/сек</org>
+        <en>\Frees over 8K/sec</en>
+    </counter>
+    <counter>
+        <org>\Всего выделено/сек</org>
+        <en>\Total Allocs/sec</en>
+    </counter>
+    <counter>
+        <org>\Всего освобождено/сек</org>
+        <en>\Total Frees/sec</en>
+    </counter>
+    <counter>
+        <org>\Блоков в кэше кучи</org>
+        <en>\Blocks in Heap Cache</en>
+    </counter>
+    <counter>
+        <org>\Макс. глубина кэша</org>
+        <en>\Largest Cache Depth</en>
+    </counter>
+    <counter>
+        <org>\% Фрагментирования</org>
+        <en>\% Fragmentation</en>
+    </counter>
+    <counter>
+        <org>\% Фрагментирования вирт.памяти</org>
+        <en>\% VAFragmentation</en>
+    </counter>
+    <counter>
+        <org>\Причина блокировки кучи</org>
+        <en>\Heap Lock contention</en>
+    </counter>
+    <counter>
+        <org>\Маркер конца</org>
+        <en>\End Marker</en>
+    </counter>
+</Counters>

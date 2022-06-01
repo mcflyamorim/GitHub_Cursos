@@ -1,0 +1,2475 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Counters>
+    <counter>
+        <org>\מערכת</org>
+        <en>\System</en>
+    </counter>
+    <counter>
+        <org>\זיכרון</org>
+        <en>\Memory</en>
+    </counter>
+    <counter>
+        <org>\% זמן מעבד</org>
+        <en>\% Processor Time</en>
+    </counter>
+    <counter>
+        <org>\פעולות קריאת קבצים/שניה</org>
+        <en>\File Read Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\פעולות כתיבת קבצים/שניה</org>
+        <en>\File Write Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\פעולות בקרת קבצים/שניה</org>
+        <en>\File Control Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\בתים של קריאת קבצים/שניה</org>
+        <en>\File Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\בתים של כתיבת קבצים/שניה</org>
+        <en>\File Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\בתים של בקרת קבצים/שניה</org>
+        <en>\File Control Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\בתים זמינים</org>
+        <en>\Available Bytes</en>
+    </counter>
+    <counter>
+        <org>\בתים שהוקצו</org>
+        <en>\Committed Bytes</en>
+    </counter>
+    <counter>
+        <org>\תקלות עמוד/שניה</org>
+        <en>\Page Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\מגבלת הקצאה</org>
+        <en>\Commit Limit</en>
+    </counter>
+    <counter>
+        <org>\כתיבת עותקים/שניה</org>
+        <en>\Write Copies/sec</en>
+    </counter>
+    <counter>
+        <org>\תקלות מעבר/שניה</org>
+        <en>\Transition Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\תקלות מטמון/שניה</org>
+        <en>\Cache Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\תקלות דרישת אפס/שניה</org>
+        <en>\Demand Zero Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\עמודים/שניה</org>
+        <en>\Pages/sec</en>
+    </counter>
+    <counter>
+        <org>\קריאות עמוד/שניה</org>
+        <en>\Page Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\אורך התור למעבד</org>
+        <en>\Processor Queue Length</en>
+    </counter>
+    <counter>
+        <org>\מצב הליך משנה (Thread)</org>
+        <en>\Thread State</en>
+    </counter>
+    <counter>
+        <org>\פלט עמודים/שניה</org>
+        <en>\Pages Output/sec</en>
+    </counter>
+    <counter>
+        <org>\כתיבות עמוד/שניה</org>
+        <en>\Page Writes/sec</en>
+    </counter>
+    <counter>
+        <org>\דפדפן</org>
+        <en>\Browser</en>
+    </counter>
+    <counter>
+        <org>\הודעות שרת/שניה</org>
+        <en>\Announcements Server/sec</en>
+    </counter>
+    <counter>
+        <org>\בתי מאגר בקובץ החלפה</org>
+        <en>\Pool Paged Bytes</en>
+    </counter>
+    <counter>
+        <org>\בתי מאגר שאינו בקובץ החלפה</org>
+        <en>\Pool Nonpaged Bytes</en>
+    </counter>
+    <counter>
+        <org>\הקצאות מאגר בקובץ החלפה</org>
+        <en>\Pool Paged Allocs</en>
+    </counter>
+    <counter>
+        <org>\הקצאות מאגר שאינו בקובץ החלפה</org>
+        <en>\Pool Nonpaged Allocs</en>
+    </counter>
+    <counter>
+        <org>\בתי תושב מאגר בקובץ החלפה</org>
+        <en>\Pool Paged Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\סה''כ בתים של קוד מערכת</org>
+        <en>\System Code Total Bytes</en>
+    </counter>
+    <counter>
+        <org>\בתים תושבי קוד מערכת</org>
+        <en>\System Code Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\סה''כ בתים של מנהל התקן מערכת</org>
+        <en>\System Driver Total Bytes</en>
+    </counter>
+    <counter>
+        <org>\בתים תושבים של מנהל התקן מערכת</org>
+        <en>\System Driver Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\בתים תושבי מטמון מערכת</org>
+        <en>\System Cache Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\הודעות תחום/שניה</org>
+        <en>\Announcements Domain/sec</en>
+    </counter>
+    <counter>
+        <org>\מנות בחירה/שניה</org>
+        <en>\Election Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\כתיבות Mailslot/שניה</org>
+        <en>\Mailslot Writes/sec</en>
+    </counter>
+    <counter>
+        <org>\בקשות של רשימת שרתים/שניה</org>
+        <en>\Server List Requests/sec</en>
+    </counter>
+    <counter>
+        <org>\מטמון</org>
+        <en>\Cache</en>
+    </counter>
+    <counter>
+        <org>\מיפויי נתונים/שניה</org>
+        <en>\Data Maps/sec</en>
+    </counter>
+    <counter>
+        <org>\מיפויי נתונים סינכרוניים/שניה</org>
+        <en>\Sync Data Maps/sec</en>
+    </counter>
+    <counter>
+        <org>\מיפויי נתונים אסינכרוניים/שניה</org>
+        <en>\Async Data Maps/sec</en>
+    </counter>
+    <counter>
+        <org>\% הצלחות מיפויי נתונים</org>
+        <en>\Data Map Hits %</en>
+    </counter>
+    <counter>
+        <org>\הצמדות של מיפויי נתונים/שניה</org>
+        <en>\Data Map Pins/sec</en>
+    </counter>
+    <counter>
+        <org>\קריאות הצמדה/שניה</org>
+        <en>\Pin Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\קריאות הצמדה סינכרוניות/שניה</org>
+        <en>\Sync Pin Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\קריאות הצמדה אסינכרוניות/שניה</org>
+        <en>\Async Pin Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\% הצלחות קריאת הצמדה</org>
+        <en>\Pin Read Hits %</en>
+    </counter>
+    <counter>
+        <org>\קריאות העתקה/שניה</org>
+        <en>\Copy Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\קריאות העתקה סינכרוניות/שניה</org>
+        <en>\Sync Copy Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\קריאות העתקה אסינכרוניות/שניה</org>
+        <en>\Async Copy Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\% הצלחות קריאת העתקה</org>
+        <en>\Copy Read Hits %</en>
+    </counter>
+    <counter>
+        <org>\קריאות MDL/שניה</org>
+        <en>\MDL Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\קריאות MDL סינכרוניות/שניה</org>
+        <en>\Sync MDL Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\קריאות MDL אסינכרוניות/שניה</org>
+        <en>\Async MDL Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\% הצלחות קריאת MDL</org>
+        <en>\MDL Read Hits %</en>
+    </counter>
+    <counter>
+        <org>\קריאות קדימה/שניה</org>
+        <en>\Read Aheads/sec</en>
+    </counter>
+    <counter>
+        <org>\קריאות מהירות/שניה</org>
+        <en>\Fast Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\קריאות מהירות סינכרוניות/שניה</org>
+        <en>\Sync Fast Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\קריאות מהירות אסינכרוניות/שניה</org>
+        <en>\Async Fast Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\החטאות משאבים של קריאה מהירה/שניה</org>
+        <en>\Fast Read Resource Misses/sec</en>
+    </counter>
+    <counter>
+        <org>\בלתי ניתנים לקריאה מהירה/שניה</org>
+        <en>\Fast Read Not Possibles/sec</en>
+    </counter>
+    <counter>
+        <org>\ריקוני כתיבה עצלה/שניה</org>
+        <en>\Lazy Write Flushes/sec</en>
+    </counter>
+    <counter>
+        <org>\עמודי כתיבה עצלה/שניה</org>
+        <en>\Lazy Write Pages/sec</en>
+    </counter>
+    <counter>
+        <org>\ריקוני נתונים/שניה</org>
+        <en>\Data Flushes/sec</en>
+    </counter>
+    <counter>
+        <org>\עמודים של ריקון נתונים/שניה</org>
+        <en>\Data Flush Pages/sec</en>
+    </counter>
+    <counter>
+        <org>\% זמן משתמש</org>
+        <en>\% User Time</en>
+    </counter>
+    <counter>
+        <org>\% זמן מורשה</org>
+        <en>\% Privileged Time</en>
+    </counter>
+    <counter>
+        <org>\מעברי הקשר/שניה</org>
+        <en>\Context Switches/sec</en>
+    </counter>
+    <counter>
+        <org>\פסיקות/שניה</org>
+        <en>\Interrupts/sec</en>
+    </counter>
+    <counter>
+        <org>\קריאות מערכת/שניה</org>
+        <en>\System Calls/sec</en>
+    </counter>
+    <counter>
+        <org>\מילויי TLB של רמה 1/שניה</org>
+        <en>\Level 1 TLB Fills/sec</en>
+    </counter>
+    <counter>
+        <org>\מילויי TLB של רמה 2/שניה</org>
+        <en>\Level 2 TLB Fills/sec</en>
+    </counter>
+    <counter>
+        <org>\ספירות שרת/שניה</org>
+        <en>\Enumerations Server/sec</en>
+    </counter>
+    <counter>
+        <org>\ספירות תחום/שניה</org>
+        <en>\Enumerations Domain/sec</en>
+    </counter>
+    <counter>
+        <org>\ספירות אחרות/שניה</org>
+        <en>\Enumerations Other/sec</en>
+    </counter>
+    <counter>
+        <org>\הודעות שרת שהוחטאו</org>
+        <en>\Missed Server Announcements</en>
+    </counter>
+    <counter>
+        <org>\יחידות נתונים של Mailslot שהוחטאו</org>
+        <en>\Missed Mailslot Datagrams</en>
+    </counter>
+    <counter>
+        <org>\בקשות של רשימת שרתים שהוחטאו</org>
+        <en>\Missed Server List Requests</en>
+    </counter>
+    <counter>
+        <org>\הקצאות של הודעות שרת שנכשלו/שניה</org>
+        <en>\Server Announce Allocations Failed/sec</en>
+    </counter>
+    <counter>
+        <org>\הקצאות Mailslot שנכשלו</org>
+        <en>\Mailslot Allocations Failed</en>
+    </counter>
+    <counter>
+        <org>\שיא בתים וירטואליים</org>
+        <en>\Virtual Bytes Peak</en>
+    </counter>
+    <counter>
+        <org>\בתים וירטואליים</org>
+        <en>\Virtual Bytes</en>
+    </counter>
+    <counter>
+        <org>\שיא ערכת עבודה</org>
+        <en>\Working Set Peak</en>
+    </counter>
+    <counter>
+        <org>\ערכת עבודה</org>
+        <en>\Working Set</en>
+    </counter>
+    <counter>
+        <org>\שיא בתים של קבצי החלפה</org>
+        <en>\Page File Bytes Peak</en>
+    </counter>
+    <counter>
+        <org>\בתים של קבצי החלפה</org>
+        <en>\Page File Bytes</en>
+    </counter>
+    <counter>
+        <org>\בתים פרטיים</org>
+        <en>\Private Bytes</en>
+    </counter>
+    <counter>
+        <org>\סה''כ הודעות/שניה</org>
+        <en>\Announcements Total/sec</en>
+    </counter>
+    <counter>
+        <org>\סה''כ ספירות/שניה</org>
+        <en>\Enumerations Total/sec</en>
+    </counter>
+    <counter>
+        <org>\אורך תור הדיסק הנוכחי</org>
+        <en>\Current Disk Queue Length</en>
+    </counter>
+    <counter>
+        <org>\% זמן דיסק</org>
+        <en>\% Disk Time</en>
+    </counter>
+    <counter>
+        <org>\% זמן קריאה של דיסק</org>
+        <en>\% Disk Read Time</en>
+    </counter>
+    <counter>
+        <org>\% זמן כתיבה של דיסק</org>
+        <en>\% Disk Write Time</en>
+    </counter>
+    <counter>
+        <org>\העברת דיסק ממוצעת בשניות</org>
+        <en>\Avg. Disk sec/Transfer</en>
+    </counter>
+    <counter>
+        <org>\קריאת דיסק ממוצעת בשניות</org>
+        <en>\Avg. Disk sec/Read</en>
+    </counter>
+    <counter>
+        <org>\כתיבת דיסק ממוצעת בשניות</org>
+        <en>\Avg. Disk sec/Write</en>
+    </counter>
+    <counter>
+        <org>\העברות דיסק/שניה</org>
+        <en>\Disk Transfers/sec</en>
+    </counter>
+    <counter>
+        <org>\קריאות דיסק/שניה</org>
+        <en>\Disk Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\כתיבות דיסק/שניה</org>
+        <en>\Disk Writes/sec</en>
+    </counter>
+    <counter>
+        <org>\בתים של דיסק/שניה</org>
+        <en>\Disk Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\קריאת בתים של דיסק/שניה</org>
+        <en>\Disk Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\כתיבת בתים של דיסק/שניה</org>
+        <en>\Disk Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\העברה ממוצעת של בתים בדיסק</org>
+        <en>\Avg. Disk Bytes/Transfer</en>
+    </counter>
+    <counter>
+        <org>\קריאה ממוצעת של בתים בדיסק</org>
+        <en>\Avg. Disk Bytes/Read</en>
+    </counter>
+    <counter>
+        <org>\כתיבה ממוצעת של בתים בדיסק</org>
+        <en>\Avg. Disk Bytes/Write</en>
+    </counter>
+    <counter>
+        <org>\תהליך</org>
+        <en>\Process</en>
+    </counter>
+    <counter>
+        <org>\הליך משנה (Thread)</org>
+        <en>\Thread</en>
+    </counter>
+    <counter>
+        <org>\דיסק פיזי</org>
+        <en>\PhysicalDisk</en>
+    </counter>
+    <counter>
+        <org>\דיסק לוגי</org>
+        <en>\LogicalDisk</en>
+    </counter>
+    <counter>
+        <org>\מעבד</org>
+        <en>\Processor</en>
+    </counter>
+    <counter>
+        <org>\% סה''כ זמן מעבד</org>
+        <en>\% Total Processor Time</en>
+    </counter>
+    <counter>
+        <org>\% סה''כ זמן משתמש</org>
+        <en>\% Total User Time</en>
+    </counter>
+    <counter>
+        <org>\% סה''כ זמן מורשה</org>
+        <en>\% Total Privileged Time</en>
+    </counter>
+    <counter>
+        <org>\סה''כ פסיקות/שניה</org>
+        <en>\Total Interrupts/sec</en>
+    </counter>
+    <counter>
+        <org>\תהליכים</org>
+        <en>\Processes</en>
+    </counter>
+    <counter>
+        <org>\הליכי משנה (Thread)</org>
+        <en>\Threads</en>
+    </counter>
+    <counter>
+        <org>\אירועים</org>
+        <en>\Events</en>
+    </counter>
+    <counter>
+        <org>\סמאפורים</org>
+        <en>\Semaphores</en>
+    </counter>
+    <counter>
+        <org>\פריטי Mutex</org>
+        <en>\Mutexes</en>
+    </counter>
+    <counter>
+        <org>\מקטעים</org>
+        <en>\Sections</en>
+    </counter>
+    <counter>
+        <org>\אובייקטים</org>
+        <en>\Objects</en>
+    </counter>
+    <counter>
+        <org>\מנתב</org>
+        <en>\Redirector</en>
+    </counter>
+    <counter>
+        <org>\בתים שהתקבלו/שניה</org>
+        <en>\Bytes Received/sec</en>
+    </counter>
+    <counter>
+        <org>\מנות שהתקבלו/שניה</org>
+        <en>\Packets Received/sec</en>
+    </counter>
+    <counter>
+        <org>\קריאת בתים להחלפה/שניה</org>
+        <en>\Read Bytes Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\קריאת בתים שלא להחלפה/שניה</org>
+        <en>\Read Bytes Non-Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\קריאת בתים במטמון/שניה</org>
+        <en>\Read Bytes Cache/sec</en>
+    </counter>
+    <counter>
+        <org>\קריאת בתים ברשת/שניה</org>
+        <en>\Read Bytes Network/sec</en>
+    </counter>
+    <counter>
+        <org>\בתים ששודרו/שניה</org>
+        <en>\Bytes Transmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\מנות ששודרו/שניה</org>
+        <en>\Packets Transmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\כתיבת בתים להחלפה/שניה</org>
+        <en>\Write Bytes Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\כתיבת בתים שלא להחלפה/שניה</org>
+        <en>\Write Bytes Non-Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\כתיבת בתים במטמון/שניה</org>
+        <en>\Write Bytes Cache/sec</en>
+    </counter>
+    <counter>
+        <org>\כתיבת בתים ברשת/שניה</org>
+        <en>\Write Bytes Network/sec</en>
+    </counter>
+    <counter>
+        <org>\פעולות קריאה/שניה</org>
+        <en>\Read Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\פעולות קריאה אקראיות/שניה</org>
+        <en>\Read Operations Random/sec</en>
+    </counter>
+    <counter>
+        <org>\קריאת מנות/שניה</org>
+        <en>\Read Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\קריאות גדולות/שניה</org>
+        <en>\Reads Large/sec</en>
+    </counter>
+    <counter>
+        <org>\קריאת מנות קטנות/שניה</org>
+        <en>\Read Packets Small/sec</en>
+    </counter>
+    <counter>
+        <org>\פעולות כתיבה/שניה</org>
+        <en>\Write Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\פעולות כתיבה אקראיות/שניה</org>
+        <en>\Write Operations Random/sec</en>
+    </counter>
+    <counter>
+        <org>\כתיבת מנות/שניה</org>
+        <en>\Write Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\כתיבות גדולות/שניה</org>
+        <en>\Writes Large/sec</en>
+    </counter>
+    <counter>
+        <org>\כתיבת מנות קטנות/שניה</org>
+        <en>\Write Packets Small/sec</en>
+    </counter>
+    <counter>
+        <org>\קריאות שנדחו/שניה</org>
+        <en>\Reads Denied/sec</en>
+    </counter>
+    <counter>
+        <org>\כתיבות שנדחו/שניה</org>
+        <en>\Writes Denied/sec</en>
+    </counter>
+    <counter>
+        <org>\שגיאות רשת/שניה</org>
+        <en>\Network Errors/sec</en>
+    </counter>
+    <counter>
+        <org>\הפעלות שרת</org>
+        <en>\Server Sessions</en>
+    </counter>
+    <counter>
+        <org>\חיבורים מחדש של שרת</org>
+        <en>\Server Reconnects</en>
+    </counter>
+    <counter>
+        <org>\ליבת חיבורים</org>
+        <en>\Connects Core</en>
+    </counter>
+    <counter>
+        <org>\חיבורים ל- Lan Manager 2.0</org>
+        <en>\Connects Lan Manager 2.0</en>
+    </counter>
+    <counter>
+        <org>\חיבורים ל- Lan Manager 2.1</org>
+        <en>\Connects Lan Manager 2.1</en>
+    </counter>
+    <counter>
+        <org>\חיבורים ל- Windows NT</org>
+        <en>\Connects Windows NT</en>
+    </counter>
+    <counter>
+        <org>\ניתוקי שרת</org>
+        <en>\Server Disconnects</en>
+    </counter>
+    <counter>
+        <org>\הפעלות שרת תקועות</org>
+        <en>\Server Sessions Hung</en>
+    </counter>
+    <counter>
+        <org>\שרת</org>
+        <en>\Server</en>
+    </counter>
+    <counter>
+        <org>\סיבת ההמתנה של הליך המשנה (Thread)</org>
+        <en>\Thread Wait Reason</en>
+    </counter>
+    <counter>
+        <org>\הפעלות שהזמן שהוקצב להן הסתיים</org>
+        <en>\Sessions Timed Out</en>
+    </counter>
+    <counter>
+        <org>\הפעלות שהסתיימו בשגיאה</org>
+        <en>\Sessions Errored Out</en>
+    </counter>
+    <counter>
+        <org>\הפעלות שהתנתקו</org>
+        <en>\Sessions Logged Off</en>
+    </counter>
+    <counter>
+        <org>\הפעלות שנותקו</org>
+        <en>\Sessions Forced Off</en>
+    </counter>
+    <counter>
+        <org>\שגיאות כניסה</org>
+        <en>\Errors Logon</en>
+    </counter>
+    <counter>
+        <org>\שגיאות של הרשאות גישה</org>
+        <en>\Errors Access Permissions</en>
+    </counter>
+    <counter>
+        <org>\שגיאות גישה מוענקת</org>
+        <en>\Errors Granted Access</en>
+    </counter>
+    <counter>
+        <org>\שגיאות מערכת</org>
+        <en>\Errors System</en>
+    </counter>
+    <counter>
+        <org>\בקשות חסימה שנדחו</org>
+        <en>\Blocking Requests Rejected</en>
+    </counter>
+    <counter>
+        <org>\מחסורים בפריטי עבודה</org>
+        <en>\Work Item Shortages</en>
+    </counter>
+    <counter>
+        <org>\סה''כ קבצים שנפתחו</org>
+        <en>\Files Opened Total</en>
+    </counter>
+    <counter>
+        <org>\קבצים פתוחים</org>
+        <en>\Files Open</en>
+    </counter>
+    <counter>
+        <org>\חיפושים בספריות קבצים</org>
+        <en>\File Directory Searches</en>
+    </counter>
+    <counter>
+        <org>\כשלי מאגר שאינו בקובץ החלפה</org>
+        <en>\Pool Nonpaged Failures</en>
+    </counter>
+    <counter>
+        <org>\שיא מאגר שאינו בקובץ החלפה</org>
+        <en>\Pool Nonpaged Peak</en>
+    </counter>
+    <counter>
+        <org>\כשלי מאגר בקובץ החלפה</org>
+        <en>\Pool Paged Failures</en>
+    </counter>
+    <counter>
+        <org>\שיא מאגר בקובץ החלפה</org>
+        <en>\Pool Paged Peak</en>
+    </counter>
+    <counter>
+        <org>\סה''כ בתים/שניה</org>
+        <en>\Bytes Total/sec</en>
+    </counter>
+    <counter>
+        <org>\פקודות נוכחיות</org>
+        <en>\Current Commands</en>
+    </counter>
+    <counter>
+        <org>\מנות/שניה</org>
+        <en>\Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\חסימות הקשר הנמצאות בתור/שניה</org>
+        <en>\Context Blocks Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\פעולות נתוני קבצים/שניה</org>
+        <en>\File Data Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\% שטח פנוי</org>
+        <en>\% Free Space</en>
+    </counter>
+    <counter>
+        <org>\מגה-בתים פנויים</org>
+        <en>\Free Megabytes</en>
+    </counter>
+    <counter>
+        <org>\חיבורים פתוחים</org>
+        <en>\Connections Open</en>
+    </counter>
+    <counter>
+        <org>\חיבורים ללא נסיונות חוזרים</org>
+        <en>\Connections No Retries</en>
+    </counter>
+    <counter>
+        <org>\חיבורים עם נסיונות חוזרים</org>
+        <en>\Connections With Retries</en>
+    </counter>
+    <counter>
+        <org>\ניתוקים מקומי</org>
+        <en>\Disconnects Local</en>
+    </counter>
+    <counter>
+        <org>\ניתוקים מרוחק</org>
+        <en>\Disconnects Remote</en>
+    </counter>
+    <counter>
+        <org>\כשלים בקישור</org>
+        <en>\Failures Link</en>
+    </counter>
+    <counter>
+        <org>\כשלים במתאם</org>
+        <en>\Failures Adapter</en>
+    </counter>
+    <counter>
+        <org>\הפעלות חיבור שהזמן שהוקצב להן הסתיים</org>
+        <en>\Connection Session Timeouts</en>
+    </counter>
+    <counter>
+        <org>\חיבורים שבוטלו</org>
+        <en>\Connections Canceled</en>
+    </counter>
+    <counter>
+        <org>\כשלים במשאב מרוחק</org>
+        <en>\Failures Resource Remote</en>
+    </counter>
+    <counter>
+        <org>\כשלים במשאב מקומי</org>
+        <en>\Failures Resource Local</en>
+    </counter>
+    <counter>
+        <org>\כשלים - לא נמצא</org>
+        <en>\Failures Not Found</en>
+    </counter>
+    <counter>
+        <org>\כשלים - לא האזין</org>
+        <en>\Failures No Listen</en>
+    </counter>
+    <counter>
+        <org>\יחידות נתונים/שניה</org>
+        <en>\Datagrams/sec</en>
+    </counter>
+    <counter>
+        <org>\בתים של יחידות נתונים/שניה</org>
+        <en>\Datagram Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\יחידות נתונים שנשלחו/שניה</org>
+        <en>\Datagrams Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\בתים של יחידות נתונים שנשלחו/שניה</org>
+        <en>\Datagram Bytes Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\יחידות נתונים שהתקבלו/שניה</org>
+        <en>\Datagrams Received/sec</en>
+    </counter>
+    <counter>
+        <org>\בתים של יחידות נתונים שהתקבלו/שניה</org>
+        <en>\Datagram Bytes Received/sec</en>
+    </counter>
+    <counter>
+        <org>\מנות שנשלחו/שניה</org>
+        <en>\Packets Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\מסגרות/שניה</org>
+        <en>\Frames/sec</en>
+    </counter>
+    <counter>
+        <org>\בתי מסגרות/שניה</org>
+        <en>\Frame Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\מסגרות שנשלחו/שניה</org>
+        <en>\Frames Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\בתים של מסגרות שנשלחו/שניה</org>
+        <en>\Frame Bytes Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\מסגרות שהתקבלו/שניה</org>
+        <en>\Frames Received/sec</en>
+    </counter>
+    <counter>
+        <org>\בתים של מסגרות שהתקבלו/שניה</org>
+        <en>\Frame Bytes Received/sec</en>
+    </counter>
+    <counter>
+        <org>\מסגרות שנשלחו מחדש/שניה</org>
+        <en>\Frames Re-Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\בתים של מסגרות שנשלחו מחדש/שניה</org>
+        <en>\Frame Bytes Re-Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\מסגרות שנדחו/שניה</org>
+        <en>\Frames Rejected/sec</en>
+    </counter>
+    <counter>
+        <org>\בתים של מסגרות שנדחו/שניה</org>
+        <en>\Frame Bytes Rejected/sec</en>
+    </counter>
+    <counter>
+        <org>\תגובת תפוגות</org>
+        <en>\Expirations Response</en>
+    </counter>
+    <counter>
+        <org>\אישור תפוגות</org>
+        <en>\Expirations Ack</en>
+    </counter>
+    <counter>
+        <org>\חלון שליחה מרבי</org>
+        <en>\Window Send Maximum</en>
+    </counter>
+    <counter>
+        <org>\חלון שליחה ממוצע</org>
+        <en>\Window Send Average</en>
+    </counter>
+    <counter>
+        <org>\אישורים רוכבים מועברים לתור/שניה</org>
+        <en>\Piggyback Ack Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\זמנים קצובים לאישור רוכב</org>
+        <en>\Piggyback Ack Timeouts</en>
+    </counter>
+    <counter>
+        <org>\משאב NetBEUI</org>
+        <en>\NetBEUI Resource</en>
+    </counter>
+    <counter>
+        <org>\מרבי בשימוש</org>
+        <en>\Used Maximum</en>
+    </counter>
+    <counter>
+        <org>\ממוצע בשימוש</org>
+        <en>\Used Average</en>
+    </counter>
+    <counter>
+        <org>\פעמים - נוצלו</org>
+        <en>\Times Exhausted</en>
+    </counter>
+    <counter>
+        <org>\חיבור NBT</org>
+        <en>\NBT Connection</en>
+    </counter>
+    <counter>
+        <org>\בתים שנשלחו/שניה</org>
+        <en>\Bytes Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\סה''כ בתים/שניה</org>
+        <en>\Total Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\ממשק רשת</org>
+        <en>\Network Interface</en>
+    </counter>
+    <counter>
+        <org>\בתים/שניה</org>
+        <en>\Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\רוחב פס נוכחי</org>
+        <en>\Current Bandwidth</en>
+    </counter>
+    <counter>
+        <org>\שידור מנות שהתקבלו ליעד בודד/שניה</org>
+        <en>\Packets Received Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\שידור מנות שהתקבלו שאינו ליעד בודד/שניה</org>
+        <en>\Packets Received Non-Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\מנות שהתקבלו ונמחקו</org>
+        <en>\Packets Received Discarded</en>
+    </counter>
+    <counter>
+        <org>\מנות שהתקבלו עם שגיאות</org>
+        <en>\Packets Received Errors</en>
+    </counter>
+    <counter>
+        <org>\מנות שהתקבלו - לא ידוע</org>
+        <en>\Packets Received Unknown</en>
+    </counter>
+    <counter>
+        <org>\שידור מנות שנשלחו ליעד בודד/שניה</org>
+        <en>\Packets Sent Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\שידור מנות שנשלחו שאינו ליעד בודד/שניה</org>
+        <en>\Packets Sent Non-Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\מנות יוצאות שנמחקו</org>
+        <en>\Packets Outbound Discarded</en>
+    </counter>
+    <counter>
+        <org>\מנות יוצאות עם שגיאות</org>
+        <en>\Packets Outbound Errors</en>
+    </counter>
+    <counter>
+        <org>\אורך תור פלט</org>
+        <en>\Output Queue Length</en>
+    </counter>
+    <counter>
+        <org>\יחידות נתונים שהתקבלו עם שגיאות כותרת</org>
+        <en>\Datagrams Received Header Errors</en>
+    </counter>
+    <counter>
+        <org>\יחידות נתונים שהתקבלו עם שגיאות כתובת</org>
+        <en>\Datagrams Received Address Errors</en>
+    </counter>
+    <counter>
+        <org>\יחידות נתונים שהועברו/שניה</org>
+        <en>\Datagrams Forwarded/sec</en>
+    </counter>
+    <counter>
+        <org>\יחידות נתונים שהתקבלו - פרוטוקול לא ידוע</org>
+        <en>\Datagrams Received Unknown Protocol</en>
+    </counter>
+    <counter>
+        <org>\יחידות נתונים שהתקבלו ונמחקו</org>
+        <en>\Datagrams Received Discarded</en>
+    </counter>
+    <counter>
+        <org>\יחידות נתונים שהתקבלו ונשלחו/שניה</org>
+        <en>\Datagrams Received Delivered/sec</en>
+    </counter>
+    <counter>
+        <org>\יחידות נתונים יוצאות שנמחקו</org>
+        <en>\Datagrams Outbound Discarded</en>
+    </counter>
+    <counter>
+        <org>\יחידות נתונים יוצאות ללא נתיב</org>
+        <en>\Datagrams Outbound No Route</en>
+    </counter>
+    <counter>
+        <org>\קטעים שהתקבלו/שניה</org>
+        <en>\Fragments Received/sec</en>
+    </counter>
+    <counter>
+        <org>\קטעים שהורכבו מחדש/שניה</org>
+        <en>\Fragments Re-assembled/sec</en>
+    </counter>
+    <counter>
+        <org>\כשלים בהרכבה מחדש של קטעים</org>
+        <en>\Fragment Re-assembly Failures</en>
+    </counter>
+    <counter>
+        <org>\יחידות נתונים מפוצלות/שניה</org>
+        <en>\Fragmented Datagrams/sec</en>
+    </counter>
+    <counter>
+        <org>\כשלי פיצול</org>
+        <en>\Fragmentation Failures</en>
+    </counter>
+    <counter>
+        <org>\קטעים שנוצרו/שניה</org>
+        <en>\Fragments Created/sec</en>
+    </counter>
+    <counter>
+        <org>\הודעות/שניה</org>
+        <en>\Messages/sec</en>
+    </counter>
+    <counter>
+        <org>\הודעות שהתקבלו/שניה</org>
+        <en>\Messages Received/sec</en>
+    </counter>
+    <counter>
+        <org>\הודעות שהתקבלו עם שגיאות</org>
+        <en>\Messages Received Errors</en>
+    </counter>
+    <counter>
+        <org>\התקבלו - יעד שאינו ניתן להשגה</org>
+        <en>\Received Dest. Unreachable</en>
+    </counter>
+    <counter>
+        <org>\התקבלו - חריגה מהזמן שנקבע</org>
+        <en>\Received Time Exceeded</en>
+    </counter>
+    <counter>
+        <org>\התקבלו - בעיית פרמטר</org>
+        <en>\Received Parameter Problem</en>
+    </counter>
+    <counter>
+        <org>\התקבלו - כיבוי מקור</org>
+        <en>\Received Source Quench</en>
+    </counter>
+    <counter>
+        <org>\התקבלו - ניתוב מחדש/שניה</org>
+        <en>\Received Redirect/sec</en>
+    </counter>
+    <counter>
+        <org>\התקבלו - הדהוד/שניה</org>
+        <en>\Received Echo/sec</en>
+    </counter>
+    <counter>
+        <org>\התקבלו - תשובת הדהוד/שניה</org>
+        <en>\Received Echo Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\התקבלו - חותמת זמן/שניה</org>
+        <en>\Received Timestamp/sec</en>
+    </counter>
+    <counter>
+        <org>\התקבלו - תשובת חותמת זמן/שניה</org>
+        <en>\Received Timestamp Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\התקבלו - מסיכת כתובת</org>
+        <en>\Received Address Mask</en>
+    </counter>
+    <counter>
+        <org>\התקבלו - תשובת מסיכת כתובת</org>
+        <en>\Received Address Mask Reply</en>
+    </counter>
+    <counter>
+        <org>\הודעות שנשלחו/שניה</org>
+        <en>\Messages Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\הודעות יוצאות עם שגיאות</org>
+        <en>\Messages Outbound Errors</en>
+    </counter>
+    <counter>
+        <org>\נשלחו - יעד שאינו ניתן להשגה</org>
+        <en>\Sent Destination Unreachable</en>
+    </counter>
+    <counter>
+        <org>\נשלחו - חריגה מהזמן שנקבע</org>
+        <en>\Sent Time Exceeded</en>
+    </counter>
+    <counter>
+        <org>\נשלחו - בעיית פרמטר</org>
+        <en>\Sent Parameter Problem</en>
+    </counter>
+    <counter>
+        <org>\נשלחו - כיבוי מקור</org>
+        <en>\Sent Source Quench</en>
+    </counter>
+    <counter>
+        <org>\נשלחו - ניתוב מחדש/שניה</org>
+        <en>\Sent Redirect/sec</en>
+    </counter>
+    <counter>
+        <org>\נשלחו - הדהוד/שניה</org>
+        <en>\Sent Echo/sec</en>
+    </counter>
+    <counter>
+        <org>\נשלחו - תשובת הדהוד/שניה</org>
+        <en>\Sent Echo Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\נשלחו - חותמת זמן/שניה</org>
+        <en>\Sent Timestamp/sec</en>
+    </counter>
+    <counter>
+        <org>\נשלחו - תשובת חותמת זמן/שניה</org>
+        <en>\Sent Timestamp Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\נשלחו - מסיכת כתובת</org>
+        <en>\Sent Address Mask</en>
+    </counter>
+    <counter>
+        <org>\נשלחו - תשובת מסיכת כתובת</org>
+        <en>\Sent Address Mask Reply</en>
+    </counter>
+    <counter>
+        <org>\מקטעים/שניה</org>
+        <en>\Segments/sec</en>
+    </counter>
+    <counter>
+        <org>\חיבורים שנוצרו</org>
+        <en>\Connections Established</en>
+    </counter>
+    <counter>
+        <org>\חיבורים פעילים</org>
+        <en>\Connections Active</en>
+    </counter>
+    <counter>
+        <org>\חיבורים סבילים</org>
+        <en>\Connections Passive</en>
+    </counter>
+    <counter>
+        <org>\כשלים בחיבור</org>
+        <en>\Connection Failures</en>
+    </counter>
+    <counter>
+        <org>\חיבורים שאופסו</org>
+        <en>\Connections Reset</en>
+    </counter>
+    <counter>
+        <org>\מקטעים שהתקבלו/שניה</org>
+        <en>\Segments Received/sec</en>
+    </counter>
+    <counter>
+        <org>\מקטעים שנשלחו/שניה</org>
+        <en>\Segments Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\מקטעים ששודרו מחדש/שניה</org>
+        <en>\Segments Retransmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\% סה''כ זמן DPC</org>
+        <en>\% Total DPC Time</en>
+    </counter>
+    <counter>
+        <org>\% סה''כ זמן פסיקה</org>
+        <en>\% Total Interrupt Time</en>
+    </counter>
+    <counter>
+        <org>\יחידות נתונים - ללא יציאה/שניה</org>
+        <en>\Datagrams No Port/sec</en>
+    </counter>
+    <counter>
+        <org>\יחידות נתונים שהתקבלו עם שגיאות</org>
+        <en>\Datagrams Received Errors</en>
+    </counter>
+    <counter>
+        <org>\יחידת אחסון דיסק</org>
+        <en>\Disk Storage Unit</en>
+    </counter>
+    <counter>
+        <org>\כשלי הקצאה</org>
+        <en>\Allocation Failures</en>
+    </counter>
+    <counter>
+        <org>\זמן פעילות המחשב</org>
+        <en>\System Up Time</en>
+    </counter>
+    <counter>
+        <org>\ספירת מזהים ייחודיים (Handle) של המערכת</org>
+        <en>\System Handle Count</en>
+    </counter>
+    <counter>
+        <org>\ערכי טבלת עמודים פנויים של המערכת</org>
+        <en>\Free System Page Table Entries</en>
+    </counter>
+    <counter>
+        <org>\ספירת הליכי משנה (Thread)</org>
+        <en>\Thread Count</en>
+    </counter>
+    <counter>
+        <org>\בסיס עדיפות</org>
+        <en>\Priority Base</en>
+    </counter>
+    <counter>
+        <org>\זמן שחלף</org>
+        <en>\Elapsed Time</en>
+    </counter>
+    <counter>
+        <org>\תיקוני יישור/שניה</org>
+        <en>\Alignment Fixups/sec</en>
+    </counter>
+    <counter>
+        <org>\שיגורי חריגים/שניה</org>
+        <en>\Exception Dispatches/sec</en>
+    </counter>
+    <counter>
+        <org>\אמולציות צפות/שניה</org>
+        <en>\Floating Emulations/sec</en>
+    </counter>
+    <counter>
+        <org>\כניסה/שניה</org>
+        <en>\Logon/sec</en>
+    </counter>
+    <counter>
+        <org>\עדיפות נוכחית</org>
+        <en>\Priority Current</en>
+    </counter>
+    <counter>
+        <org>\% זמן DPC</org>
+        <en>\% DPC Time</en>
+    </counter>
+    <counter>
+        <org>\% זמן פסיקה</org>
+        <en>\% Interrupt Time</en>
+    </counter>
+    <counter>
+        <org>\קובץ החלפה</org>
+        <en>\Paging File</en>
+    </counter>
+    <counter>
+        <org>\% שימוש</org>
+        <en>\% Usage</en>
+    </counter>
+    <counter>
+        <org>\% שיא שימוש</org>
+        <en>\% Usage Peak</en>
+    </counter>
+    <counter>
+        <org>\כתובת התחלה</org>
+        <en>\Start Address</en>
+    </counter>
+    <counter>
+        <org>\מחשב אישי של משתמש</org>
+        <en>\User PC</en>
+    </counter>
+    <counter>
+        <org>\מרחב ממופה ללא גישה</org>
+        <en>\Mapped Space No Access</en>
+    </counter>
+    <counter>
+        <org>\מרחב ממופה לקריאה בלבד</org>
+        <en>\Mapped Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\מרחב ממופה לקריאה/כתיבה</org>
+        <en>\Mapped Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\עותק כתיבה של מרחב ממופה</org>
+        <en>\Mapped Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\מרחב הפעלה ממופה</org>
+        <en>\Mapped Space Executable</en>
+    </counter>
+    <counter>
+        <org>\מרחב הפעלה ממופה לקריאה בלבד</org>
+        <en>\Mapped Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\מרחב הפעלה ממופה לקריאה/כתיבה</org>
+        <en>\Mapped Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\עותק כתיבה להפעלה של מרחב ממופה</org>
+        <en>\Mapped Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\מרחב שמור ללא גישה</org>
+        <en>\Reserved Space No Access</en>
+    </counter>
+    <counter>
+        <org>\מרחב שמור לקריאה בלבד</org>
+        <en>\Reserved Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\מרחב שמור לקריאה/כתיבה</org>
+        <en>\Reserved Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\עותק כתיבה של מרחב שמור</org>
+        <en>\Reserved Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\מרחב הפעלה שמור</org>
+        <en>\Reserved Space Executable</en>
+    </counter>
+    <counter>
+        <org>\מרחב הפעלה שמור לקריאה בלבד</org>
+        <en>\Reserved Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\מרחב הפעלה שמור לקריאה/כתיבה</org>
+        <en>\Reserved Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\תמונה</org>
+        <en>\Image</en>
+    </counter>
+    <counter>
+        <org>\עותק כתיבה להפעלה של מרחב שמור</org>
+        <en>\Reserved Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\מרחב שלא הוקצה ללא גישה</org>
+        <en>\Unassigned Space No Access</en>
+    </counter>
+    <counter>
+        <org>\מרחב שלא הוקצה לקריאה בלבד</org>
+        <en>\Unassigned Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\מרחב שלא הוקצה לקריאה/כתיבה</org>
+        <en>\Unassigned Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\עותק כתיבה של מרחב שלא הוקצה</org>
+        <en>\Unassigned Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\מרחב הפעלה שלא הוקצה</org>
+        <en>\Unassigned Space Executable</en>
+    </counter>
+    <counter>
+        <org>\מרחב הפעלה שלא הוקצה לקריאה בלבד</org>
+        <en>\Unassigned Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\מרחב הפעלה שלא הוקצה לקריאה/כתיבה</org>
+        <en>\Unassigned Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\עותק כתיבה להפעלה של מרחב שלא הוקצה</org>
+        <en>\Unassigned Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\מרחב תמונה ללא גישה</org>
+        <en>\Image Space No Access</en>
+    </counter>
+    <counter>
+        <org>\מרחב תמונה לקריאה בלבד</org>
+        <en>\Image Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\מרחב תמונה לקריאה/כתיבה</org>
+        <en>\Image Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\עותק כתיבה של מרחב תמונה</org>
+        <en>\Image Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\מרחב הפעלה של תמונה</org>
+        <en>\Image Space Executable</en>
+    </counter>
+    <counter>
+        <org>\מרחב הפעלה של תמונה לקריאה בלבד</org>
+        <en>\Image Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\מרחב הפעלה של תמונה לקריאה/כתיבה</org>
+        <en>\Image Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\עותק כתיבה להפעלה של מרחב תמונה</org>
+        <en>\Image Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\בתים שמורים של תמונה</org>
+        <en>\Bytes Image Reserved</en>
+    </counter>
+    <counter>
+        <org>\בתים פנויים של תמונה</org>
+        <en>\Bytes Image Free</en>
+    </counter>
+    <counter>
+        <org>\בתים שמורים</org>
+        <en>\Bytes Reserved</en>
+    </counter>
+    <counter>
+        <org>\בתים פנויים</org>
+        <en>\Bytes Free</en>
+    </counter>
+    <counter>
+        <org>\מזהה תהליך</org>
+        <en>\ID Process</en>
+    </counter>
+    <counter>
+        <org>\מרחב כתובות תהליך</org>
+        <en>\Process Address Space</en>
+    </counter>
+    <counter>
+        <org>\ללא גישה</org>
+        <en>\No Access</en>
+    </counter>
+    <counter>
+        <org>\קריאה בלבד</org>
+        <en>\Read Only</en>
+    </counter>
+    <counter>
+        <org>\קריאה/כתיבה</org>
+        <en>\Read/Write</en>
+    </counter>
+    <counter>
+        <org>\עותק כתיבה</org>
+        <en>\Write Copy</en>
+    </counter>
+    <counter>
+        <org>\הפעלה</org>
+        <en>\Executable</en>
+    </counter>
+    <counter>
+        <org>\הפעלה לקריאה בלבד</org>
+        <en>\Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\הפעלה לקריאה/כתיבה</org>
+        <en>\Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\עותק כתיבה להפעלה</org>
+        <en>\Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\מזהה הליך משנה (Thread)</org>
+        <en>\ID Thread</en>
+    </counter>
+    <counter>
+        <org>\קבלות Mailslot שנכשלו</org>
+        <en>\Mailslot Receives Failed</en>
+    </counter>
+    <counter>
+        <org>\כתיבות Mailslot שנכשלו</org>
+        <en>\Mailslot Writes Failed</en>
+    </counter>
+    <counter>
+        <org>\פתיחות Mailslot שנכשלו/שניה</org>
+        <en>\Mailslot Opens Failed/sec</en>
+    </counter>
+    <counter>
+        <org>\הודעות ראשיות כפולות</org>
+        <en>\Duplicate Master Announcements</en>
+    </counter>
+    <counter>
+        <org>\יחידות נתונים לא חוקיות/שניה</org>
+        <en>\Illegal Datagrams/sec</en>
+    </counter>
+    <counter>
+        <org>\פרטי הליכי משנה (Thread)</org>
+        <en>\Thread Details</en>
+    </counter>
+    <counter>
+        <org>\בתים של מטמון</org>
+        <en>\Cache Bytes</en>
+    </counter>
+    <counter>
+        <org>\שיא בתים של מטמון</org>
+        <en>\Cache Bytes Peak</en>
+    </counter>
+    <counter>
+        <org>\קלט עמודים/שניה</org>
+        <en>\Pages Input/sec</en>
+    </counter>
+    <counter>
+        <org>\עמודי מעבר שיועדו מחדש/שניה</org>
+        <en>\Transition Pages RePurposed/sec</en>
+    </counter>
+    <counter>
+        <org>\בתים ששודרו</org>
+        <en>\Bytes Transmitted</en>
+    </counter>
+    <counter>
+        <org>\בתים שהתקבלו</org>
+        <en>\Bytes Received</en>
+    </counter>
+    <counter>
+        <org>\מסגרות ששודרו</org>
+        <en>\Frames Transmitted</en>
+    </counter>
+    <counter>
+        <org>\מסגרות שהתקבלו.</org>
+        <en>\Frames Received.</en>
+    </counter>
+    <counter>
+        <org>\אחוז דחיסה של נתונים יוצאים</org>
+        <en>\Percent Compression Out</en>
+    </counter>
+    <counter>
+        <org>\אחוז דחיסה של נתונים נכנסים</org>
+        <en>\Percent Compression In</en>
+    </counter>
+    <counter>
+        <org>\שגיאות CRC</org>
+        <en>\CRC Errors</en>
+    </counter>
+    <counter>
+        <org>\שגיאות זמן קצוב</org>
+        <en>\Timeout Errors</en>
+    </counter>
+    <counter>
+        <org>\שגיאות גלישה טורית</org>
+        <en>\Serial Overrun Errors</en>
+    </counter>
+    <counter>
+        <org>\שגיאות יישור</org>
+        <en>\Alignment Errors</en>
+    </counter>
+    <counter>
+        <org>\שגיאות גלישת מאגר</org>
+        <en>\Buffer Overrun Errors</en>
+    </counter>
+    <counter>
+        <org>\סה''כ שגיאות</org>
+        <en>\Total Errors</en>
+    </counter>
+    <counter>
+        <org>\בתים ששודרו/שניה</org>
+        <en>\Bytes Transmitted/Sec</en>
+    </counter>
+    <counter>
+        <org>\בתים שהתקבלו/שניה</org>
+        <en>\Bytes Received/Sec</en>
+    </counter>
+    <counter>
+        <org>\מסגרות ששודרו/שניה</org>
+        <en>\Frames Transmitted/Sec</en>
+    </counter>
+    <counter>
+        <org>\מסגרות שהתקבלו/שניה</org>
+        <en>\Frames Received/Sec</en>
+    </counter>
+    <counter>
+        <org>\סה''כ שגיאות/שניה</org>
+        <en>\Total Errors/Sec</en>
+    </counter>
+    <counter>
+        <org>\סה''כ חיבורים</org>
+        <en>\Total Connections</en>
+    </counter>
+    <counter>
+        <org>\שרת WINS</org>
+        <en>\WINS Server</en>
+    </counter>
+    <counter>
+        <org>\רישומים ייחודיים/שניה</org>
+        <en>\Unique Registrations/sec</en>
+    </counter>
+    <counter>
+        <org>\רישומי קבוצה/שניה</org>
+        <en>\Group Registrations/sec</en>
+    </counter>
+    <counter>
+        <org>\מספר כולל של רישומים/שניה</org>
+        <en>\Total Number of Registrations/sec</en>
+    </counter>
+    <counter>
+        <org>\חידושים ייחודיים/שניה</org>
+        <en>\Unique Renewals/sec</en>
+    </counter>
+    <counter>
+        <org>\חידושי קבוצה/שניה</org>
+        <en>\Group Renewals/sec</en>
+    </counter>
+    <counter>
+        <org>\מספר כולל של חידושים/שניה</org>
+        <en>\Total Number of Renewals/sec</en>
+    </counter>
+    <counter>
+        <org>\פעולות שחרור/שניה</org>
+        <en>\Releases/sec</en>
+    </counter>
+    <counter>
+        <org>\שאילתות/שניה</org>
+        <en>\Queries/sec</en>
+    </counter>
+    <counter>
+        <org>\התנגשויות ייחודיות/שניה</org>
+        <en>\Unique Conflicts/sec</en>
+    </counter>
+    <counter>
+        <org>\התנגשויות קבוצה/שניה</org>
+        <en>\Group Conflicts/sec</en>
+    </counter>
+    <counter>
+        <org>\מספר כולל של התנגשויות/שניה</org>
+        <en>\Total Number of Conflicts/sec</en>
+    </counter>
+    <counter>
+        <org>\פעולות שחרור שהצליחו/שניה</org>
+        <en>\Successful Releases/sec</en>
+    </counter>
+    <counter>
+        <org>\פעולות שחרור שנכשלו/שניה</org>
+        <en>\Failed Releases/sec</en>
+    </counter>
+    <counter>
+        <org>\שאילתות שהצליחו/שניה</org>
+        <en>\Successful Queries/sec</en>
+    </counter>
+    <counter>
+        <org>\שאילתות שנכשלו/שניה</org>
+        <en>\Failed Queries/sec</en>
+    </counter>
+    <counter>
+        <org>\ספירת מזהים ייחודיים (Handle)</org>
+        <en>\Handle Count</en>
+    </counter>
+    <counter>
+        <org>\זיכרון מרבי בקובץ החלפה</org>
+        <en>\Max Paged Memory</en>
+    </counter>
+    <counter>
+        <org>\זיכרון נוכחי בקובץ החלפה</org>
+        <en>\Current Paged Memory</en>
+    </counter>
+    <counter>
+        <org>\זיכרון מרבי שאינו בקובץ החלפה</org>
+        <en>\Max NonPaged Memory</en>
+    </counter>
+    <counter>
+        <org>\זיכרון נוכחי שאינו בקובץ החלפה</org>
+        <en>\Current NonPaged memory</en>
+    </counter>
+    <counter>
+        <org>\הפעלות נוכחיות</org>
+        <en>\Current Sessions</en>
+    </counter>
+    <counter>
+        <org>\מספר מרבי של הפעלות</org>
+        <en>\Maximum Sessions</en>
+    </counter>
+    <counter>
+        <org>\הקבצים הפתוחים הנוכחיים</org>
+        <en>\Current Files Open</en>
+    </counter>
+    <counter>
+        <org>\מספר מרבי של קבצים פתוחים</org>
+        <en>\Maximum Files Open</en>
+    </counter>
+    <counter>
+        <org>\כניסות שנכשלו</org>
+        <en>\Failed Logons</en>
+    </counter>
+    <counter>
+        <org>\נתונים שנקראו/שניה</org>
+        <en>\Data Read/sec</en>
+    </counter>
+    <counter>
+        <org>\נתונים שנכתבו/שניה</org>
+        <en>\Data Written/sec</en>
+    </counter>
+    <counter>
+        <org>\נתונים שהתקבלו/שניה</org>
+        <en>\Data Received/sec</en>
+    </counter>
+    <counter>
+        <org>\נתונים ששודרו/שניה</org>
+        <en>\Data Transmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\אורך תור נוכחי</org>
+        <en>\Current Queue Length</en>
+    </counter>
+    <counter>
+        <org>\אורך תור מרבי</org>
+        <en>\Maximum Queue Length</en>
+    </counter>
+    <counter>
+        <org>\הליכי משנה (Thread) נוכחיים</org>
+        <en>\Current Threads</en>
+    </counter>
+    <counter>
+        <org>\הליכי משנה (Thread) מרביים</org>
+        <en>\Maximum Threads</en>
+    </counter>
+    <counter>
+        <org>\מנות נכנסות/שניה</org>
+        <en>\Packets In/sec</en>
+    </counter>
+    <counter>
+        <org>\מנות יוצאות/שניה</org>
+        <en>\Packets Out/sec</en>
+    </counter>
+    <counter>
+        <org>\בתים נכנסים/שניה</org>
+        <en>\Bytes In/sec</en>
+    </counter>
+    <counter>
+        <org>\בתים יוצאים/שניה</org>
+        <en>\Bytes Out/sec</en>
+    </counter>
+    <counter>
+        <org>\זמן ממוצע/מנת DDP</org>
+        <en>\Average Time/DDP Packet</en>
+    </counter>
+    <counter>
+        <org>\מנות DDP/שניה</org>
+        <en>\DDP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\זמן ממוצע/מנת AARP</org>
+        <en>\Average Time/AARP Packet</en>
+    </counter>
+    <counter>
+        <org>\מנות AARP/שניה</org>
+        <en>\AARP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\זמן ממוצע/מנת ATP</org>
+        <en>\Average Time/ATP Packet</en>
+    </counter>
+    <counter>
+        <org>\מנות ATP/שניה</org>
+        <en>\ATP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\זמן ממוצע/מנת NBP</org>
+        <en>\Average Time/NBP Packet</en>
+    </counter>
+    <counter>
+        <org>\מנות NBP/שניה</org>
+        <en>\NBP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\זמן ממוצע/מנת ZIP</org>
+        <en>\Average Time/ZIP Packet</en>
+    </counter>
+    <counter>
+        <org>\מנות ZIP/שניה</org>
+        <en>\ZIP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\זמן ממוצע/מנת RTMP</org>
+        <en>\Average Time/RTMP Packet</en>
+    </counter>
+    <counter>
+        <org>\מנות RTMP/שניה</org>
+        <en>\RTMP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\נסיונות חוזרים מקומיים של ATP</org>
+        <en>\ATP Retries Local</en>
+    </counter>
+    <counter>
+        <org>\זמנים קצובים לתגובת ATP</org>
+        <en>\ATP Response Timouts</en>
+    </counter>
+    <counter>
+        <org>\תגובת ATP XO/שניה</org>
+        <en>\ATP XO Response/Sec</en>
+    </counter>
+    <counter>
+        <org>\תגובת ATP ALO/שניה</org>
+        <en>\ATP ALO Response/Sec</en>
+    </counter>
+    <counter>
+        <org>\שחרור ATP שהתקבל/שניה</org>
+        <en>\ATP Recvd Release/Sec</en>
+    </counter>
+    <counter>
+        <org>\מאגר נוכחי שאינו בקובץ החלפה</org>
+        <en>\Current NonPaged Pool</en>
+    </counter>
+    <counter>
+        <org>\מנות שנותבו פנימה/שניה</org>
+        <en>\Packets Routed In/Sec</en>
+    </counter>
+    <counter>
+        <org>\מנות שהושמטו</org>
+        <en>\Packets dropped</en>
+    </counter>
+    <counter>
+        <org>\נסיונות חוזרים מרוחקים של ATP</org>
+        <en>\ATP Retries Remote</en>
+    </counter>
+    <counter>
+        <org>\מנות שנותבו החוצה/שניה</org>
+        <en>\Packets Routed Out/Sec</en>
+    </counter>
+    <counter>
+        <org>\מקטע רשת</org>
+        <en>\Network Segment</en>
+    </counter>
+    <counter>
+        <org>\סה''כ מסגרות שהתקבלו/שניה</org>
+        <en>\Total frames received/second</en>
+    </counter>
+    <counter>
+        <org>\סה''כ בתים שהתקבלו/שניה</org>
+        <en>\Total bytes received/second</en>
+    </counter>
+    <counter>
+        <org>\מסגרות שידור שהתקבלו/שניה</org>
+        <en>\Broadcast frames received/second</en>
+    </counter>
+    <counter>
+        <org>\מסגרות שידור לקבוצה שהתקבלו/שניה</org>
+        <en>\Multicast frames received/second</en>
+    </counter>
+    <counter>
+        <org>\% ניצול רשת</org>
+        <en>\% Network utilization</en>
+    </counter>
+    <counter>
+        <org>\% מסגרות שידור</org>
+        <en>\% Broadcast Frames</en>
+    </counter>
+    <counter>
+        <org>\% מסגרות שידור לקבוצה</org>
+        <en>\% Multicast Frames</en>
+    </counter>
+    <counter>
+        <org>\טלפוניה</org>
+        <en>\Telephony</en>
+    </counter>
+    <counter>
+        <org>\קווים</org>
+        <en>\Lines</en>
+    </counter>
+    <counter>
+        <org>\מכשירי טלפון</org>
+        <en>\Telephone Devices</en>
+    </counter>
+    <counter>
+        <org>\קווים פעילים</org>
+        <en>\Active Lines</en>
+    </counter>
+    <counter>
+        <org>\טלפונים פעילים</org>
+        <en>\Active Telephones</en>
+    </counter>
+    <counter>
+        <org>\שיחות יוצאות/שניה</org>
+        <en>\Outgoing Calls/sec</en>
+    </counter>
+    <counter>
+        <org>\שיחות נכנסות/שניה</org>
+        <en>\Incoming Calls/sec</en>
+    </counter>
+    <counter>
+        <org>\יישומי לקוח</org>
+        <en>\Client Apps</en>
+    </counter>
+    <counter>
+        <org>\שיחות יוצאות נוכחיות</org>
+        <en>\Current Outgoing Calls</en>
+    </counter>
+    <counter>
+        <org>\שיחות נכנסות נוכחיות</org>
+        <en>\Current Incoming Calls</en>
+    </counter>
+    <counter>
+        <org>\ספירת NCP של קריאת Packet Burst/שניה</org>
+        <en>\Packet Burst Read NCP Count/sec</en>
+    </counter>
+    <counter>
+        <org>\זמנים קצובים לקריאת Packet Burst/שניה</org>
+        <en>\Packet Burst Read Timeouts/sec</en>
+    </counter>
+    <counter>
+        <org>\ספירת NCP של כתיבת Packet Burst/שניה</org>
+        <en>\Packet Burst Write NCP Count/sec</en>
+    </counter>
+    <counter>
+        <org>\זמנים קצובים לכתיבת Packet Burst/שניה</org>
+        <en>\Packet Burst Write Timeouts/sec</en>
+    </counter>
+    <counter>
+        <org>\קלט-פלט של Packet Burst/שניה</org>
+        <en>\Packet Burst IO/sec</en>
+    </counter>
+    <counter>
+        <org>\סה''כ כניסות</org>
+        <en>\Logon Total</en>
+    </counter>
+    <counter>
+        <org>\תורי עבודה של שרת</org>
+        <en>\Server Work Queues</en>
+    </counter>
+    <counter>
+        <org>\אורך תור</org>
+        <en>\Queue Length</en>
+    </counter>
+    <counter>
+        <org>\הליכי משנה (Thread) פעילים</org>
+        <en>\Active Threads</en>
+    </counter>
+    <counter>
+        <org>\הליכי משנה (Thread) זמינים</org>
+        <en>\Available Threads</en>
+    </counter>
+    <counter>
+        <org>\פריטי עבודה זמינים</org>
+        <en>\Available Work Items</en>
+    </counter>
+    <counter>
+        <org>\פריטי עבודה שאולים</org>
+        <en>\Borrowed Work Items</en>
+    </counter>
+    <counter>
+        <org>\מחסורים בפריטי עבודה</org>
+        <en>\Work Item Shortages</en>
+    </counter>
+    <counter>
+        <org>\לקוחות נוכחיים</org>
+        <en>\Current Clients</en>
+    </counter>
+    <counter>
+        <org>\בתים שהועברו/שניה</org>
+        <en>\Bytes Transferred/sec</en>
+    </counter>
+    <counter>
+        <org>\בתים שנקראו/שניה</org>
+        <en>\Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\בתים שנכתבו/שניה</org>
+        <en>\Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\סה''כ פעולות/שניה</org>
+        <en>\Total Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\קריאות DPC שהוצבו בתור/שניה</org>
+        <en>\DPCs Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\קצב DPC</org>
+        <en>\DPC Rate</en>
+    </counter>
+    <counter>
+        <org>\סה''כ קריאות DPC שהוצבו בתור/שניה</org>
+        <en>\Total DPCs Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\סה''כ קצב DPC</org>
+        <en>\Total DPC Rate</en>
+    </counter>
+    <counter>
+        <org>\% מיכסת רישום בשימוש</org>
+        <en>\% Registry Quota In Use</en>
+    </counter>
+    <counter>
+        <org>\זיכרון VL</org>
+        <en>\VL Memory</en>
+    </counter>
+    <counter>
+        <org>\% גודל וירטואלי של VLM בשימוש</org>
+        <en>\VLM % Virtual Size In Use</en>
+    </counter>
+    <counter>
+        <org>\גודל וירטואלי של VLM</org>
+        <en>\VLM Virtual Size</en>
+    </counter>
+    <counter>
+        <org>\שיא גודל וירטואלי של VLM</org>
+        <en>\VLM Virtual Size Peak</en>
+    </counter>
+    <counter>
+        <org>\גודל וירטואלי זמין של VLM</org>
+        <en>\VLM Virtual Size Available</en>
+    </counter>
+    <counter>
+        <org>\Commit Charge של VLM</org>
+        <en>\VLM Commit Charge</en>
+    </counter>
+    <counter>
+        <org>\שיא Commit Charge של VLM</org>
+        <en>\VLM Commit Charge Peak</en>
+    </counter>
+    <counter>
+        <org>\Commit Charge של VLM עבור המערכת</org>
+        <en>\System VLM Commit Charge</en>
+    </counter>
+    <counter>
+        <org>\שיא Commit Charge של VLM עבור המערכת</org>
+        <en>\System VLM Commit Charge Peak</en>
+    </counter>
+    <counter>
+        <org>\Commit Charge משותף של VLM עבור המערכת</org>
+        <en>\System VLM Shared Commit Charge</en>
+    </counter>
+    <counter>
+        <org>\קילו-בתים זמינים</org>
+        <en>\Available KBytes</en>
+    </counter>
+    <counter>
+        <org>\מגה-בתים זמינים</org>
+        <en>\Available MBytes</en>
+    </counter>
+    <counter>
+        <org>\אורך תור דיסק ממוצע</org>
+        <en>\Avg. Disk Queue Length</en>
+    </counter>
+    <counter>
+        <org>\אורך ממוצע של תור לקריאת דיסק</org>
+        <en>\Avg. Disk Read Queue Length</en>
+    </counter>
+    <counter>
+        <org>\אורך ממוצע של תור לכתיבת דיסק</org>
+        <en>\Avg. Disk Write Queue Length</en>
+    </counter>
+    <counter>
+        <org>\% בתים שהוקצו בשימוש</org>
+        <en>\% Committed Bytes In Use</en>
+    </counter>
+    <counter>
+        <org>\תמונה מלאה</org>
+        <en>\Full Image</en>
+    </counter>
+    <counter>
+        <org>\מזהה תהליך יוצר</org>
+        <en>\Creating Process ID</en>
+    </counter>
+    <counter>
+        <org>\פעולות קריאה של קלט-פלט/שניה</org>
+        <en>\IO Read Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\פעולות כתיבה של קלט-פלט/שניה</org>
+        <en>\IO Write Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\פעולות נתונים של קלט-פלט/שניה</org>
+        <en>\IO Data Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\פעולות אחרות של קלט-פלט/שניה</org>
+        <en>\IO Other Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\בתים לקריאה של קלט-פלט/שניה</org>
+        <en>\IO Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\בתים לכתיבה של קלט-פלט/שניה</org>
+        <en>\IO Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\בתי נתונים של קלט-פלט/שניה</org>
+        <en>\IO Data Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\בתים אחרים של קלט-פלט/שניה</org>
+        <en>\IO Other Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\תור הדפסה</org>
+        <en>\Print Queue</en>
+    </counter>
+    <counter>
+        <org>\סה''כ משימות שהודפסו</org>
+        <en>\Total Jobs Printed</en>
+    </counter>
+    <counter>
+        <org>\בתים שהודפסו/שניה</org>
+        <en>\Bytes Printed/sec</en>
+    </counter>
+    <counter>
+        <org>\סה''כ עמודים שהודפסו</org>
+        <en>\Total Pages Printed</en>
+    </counter>
+    <counter>
+        <org>\משימות</org>
+        <en>\Jobs</en>
+    </counter>
+    <counter>
+        <org>\הפניות</org>
+        <en>\References</en>
+    </counter>
+    <counter>
+        <org>\הפניות מרביות</org>
+        <en>\Max References</en>
+    </counter>
+    <counter>
+        <org>\משימות מודפסות ברקע</org>
+        <en>\Jobs Spooling</en>
+    </counter>
+    <counter>
+        <org>\מספר מרבי של משימות מודפסות ברקע</org>
+        <en>\Max Jobs Spooling</en>
+    </counter>
+    <counter>
+        <org>\שגיאות מחסור בנייר</org>
+        <en>\Out of Paper Errors</en>
+    </counter>
+    <counter>
+        <org>\שגיאות מסוג 'לא מוכן'</org>
+        <en>\Not Ready Errors</en>
+    </counter>
+    <counter>
+        <org>\שגיאות משימה</org>
+        <en>\Job Errors</en>
+    </counter>
+    <counter>
+        <org>\ספור קריאות למדפסת רשת</org>
+        <en>\Enumerate Network Printer Calls</en>
+    </counter>
+    <counter>
+        <org>\הוסף קריאות למדפסת רשת</org>
+        <en>\Add Network Printer Calls</en>
+    </counter>
+    <counter>
+        <org>\ערכת עבודה - פרטית</org>
+        <en>\Working Set - Private</en>
+    </counter>
+    <counter>
+        <org>\ערכת עבודה - משותפת</org>
+        <en>\Working Set - Shared</en>
+    </counter>
+    <counter>
+        <org>\% זמן חוסר פעילות</org>
+        <en>\% Idle Time</en>
+    </counter>
+    <counter>
+        <org>\קלט-פלט מפוצל/שניה</org>
+        <en>\Split IO/Sec</en>
+    </counter>
+    <counter>
+        <org>\אובייקט משימה</org>
+        <en>\Job Object</en>
+    </counter>
+    <counter>
+        <org>\% זמן מעבד נוכחי</org>
+        <en>\Current % Processor Time</en>
+    </counter>
+    <counter>
+        <org>\% זמן מצב משתמש נוכחי</org>
+        <en>\Current % User Mode Time</en>
+    </counter>
+    <counter>
+        <org>\% זמן מצב ליבה נוכחי</org>
+        <en>\Current % Kernel Mode Time</en>
+    </counter>
+    <counter>
+        <org>\אלפיות שניה בפרק זמן זה - מעבד</org>
+        <en>\This Period mSec - Processor</en>
+    </counter>
+    <counter>
+        <org>\אלפיות שניה בפרק זמן זה - מצב משתמש</org>
+        <en>\This Period mSec - User Mode</en>
+    </counter>
+    <counter>
+        <org>\אלפיות שניה בפרק זמן זה - מצב ליבה</org>
+        <en>\This Period mSec - Kernel Mode</en>
+    </counter>
+    <counter>
+        <org>\עמודים/שניה</org>
+        <en>\Pages/Sec</en>
+    </counter>
+    <counter>
+        <org>\ספירת תהליכים - סה''כ</org>
+        <en>\Process Count - Total</en>
+    </counter>
+    <counter>
+        <org>\ספירת תהליכים - פעילים</org>
+        <en>\Process Count - Active</en>
+    </counter>
+    <counter>
+        <org>\ספירת תהליכים - הסתיימו</org>
+        <en>\Process Count - Terminated</en>
+    </counter>
+    <counter>
+        <org>\סה''כ אלפיות שניה - מעבד</org>
+        <en>\Total mSec - Processor</en>
+    </counter>
+    <counter>
+        <org>\סה''כ אלפיות שניה - מצב משתמש</org>
+        <en>\Total mSec - User Mode</en>
+    </counter>
+    <counter>
+        <org>\סה''כ אלפיות שניה - מצב ליבה</org>
+        <en>\Total mSec - Kernel Mode</en>
+    </counter>
+    <counter>
+        <org>\המנה שהתקבלה גדולה מדי</org>
+        <en>\Received Packet Too Big</en>
+    </counter>
+    <counter>
+        <org>\התקבלו - שאילתת חברות</org>
+        <en>\Received Membership Query</en>
+    </counter>
+    <counter>
+        <org>\התקבלו - דיווח חברות</org>
+        <en>\Received Membership Report</en>
+    </counter>
+    <counter>
+        <org>\התקבלו - צמצום חברות</org>
+        <en>\Received Membership Reduction</en>
+    </counter>
+    <counter>
+        <org>\התקבלו - בקשת נתב</org>
+        <en>\Received Router Solicit</en>
+    </counter>
+    <counter>
+        <org>\התקבלו - פרסום נתב</org>
+        <en>\Received Router Advert</en>
+    </counter>
+    <counter>
+        <org>\פרטי אובייקט משימה</org>
+        <en>\Job Object Details</en>
+    </counter>
+    <counter>
+        <org>\התקבלו - בקשת שכן</org>
+        <en>\Received Neighbor Solicit</en>
+    </counter>
+    <counter>
+        <org>\התקבלו - פרסום שכן</org>
+        <en>\Received Neighbor Advert</en>
+    </counter>
+    <counter>
+        <org>\המנה שנשלחה גדולה מדי</org>
+        <en>\Sent Packet Too Big</en>
+    </counter>
+    <counter>
+        <org>\נשלחו - שאילתת חברות</org>
+        <en>\Sent Membership Query</en>
+    </counter>
+    <counter>
+        <org>\נשלחו - דיווח חברות</org>
+        <en>\Sent Membership Report</en>
+    </counter>
+    <counter>
+        <org>\נשלחו - צמצום חברות</org>
+        <en>\Sent Membership Reduction</en>
+    </counter>
+    <counter>
+        <org>\נשלחו - בקשת נתב</org>
+        <en>\Sent Router Solicit</en>
+    </counter>
+    <counter>
+        <org>\נשלחו - פרסום נתב</org>
+        <en>\Sent Router Advert</en>
+    </counter>
+    <counter>
+        <org>\נשלחו - בקשת שכן</org>
+        <en>\Sent Neighbor Solicit</en>
+    </counter>
+    <counter>
+        <org>\נשלחו - פרסום שכן</org>
+        <en>\Sent Neighbor Advert</en>
+    </counter>
+    <counter>
+        <org>\סטטיסטיקה כלל-מערכתית של אבטחה</org>
+        <en>\Security System-Wide Statistics</en>
+    </counter>
+    <counter>
+        <org>\אימותי NTLM</org>
+        <en>\NTLM Authentications</en>
+    </counter>
+    <counter>
+        <org>\אימותי Kerberos</org>
+        <en>\Kerberos Authentications</en>
+    </counter>
+    <counter>
+        <org>\בקשות KDC AS</org>
+        <en>\KDC AS Requests</en>
+    </counter>
+    <counter>
+        <org>\בקשות KDC TGS</org>
+        <en>\KDC TGS Requests</en>
+    </counter>
+    <counter>
+        <org>\ערכי מטמון הפעלות של Schannel</org>
+        <en>\Schannel Session Cache Entries</en>
+    </counter>
+    <counter>
+        <org>\ערכים פעילים במטמון הפעלות של Schannel</org>
+        <en>\Active Schannel Session Cache Entries</en>
+    </counter>
+    <counter>
+        <org>\לחיצות ידיים מלאות בצד הלקוח של SSL</org>
+        <en>\SSL Client-Side Full Handshakes</en>
+    </counter>
+    <counter>
+        <org>\לחיצות ידיים של חיבור מחדש בצד הלקוח של SSL</org>
+        <en>\SSL Client-Side Reconnect Handshakes</en>
+    </counter>
+    <counter>
+        <org>\לחיצות ידיים מלאות בצד השרת של SSL</org>
+        <en>\SSL Server-Side Full Handshakes</en>
+    </counter>
+    <counter>
+        <org>\לחיצות ידיים של חיבור מחדש בצד השרת של SSL</org>
+        <en>\SSL Server-Side Reconnect Handshakes</en>
+    </counter>
+    <counter>
+        <org>\אימותי תקציר</org>
+        <en>\Digest Authentications</en>
+    </counter>
+    <counter>
+        <org>\סטטיסטיקת אבטחה לפי תהליך</org>
+        <en>\Security Per-Process Statistics</en>
+    </counter>
+    <counter>
+        <org>\מזהים ייחודיים (Handle) של אישורים</org>
+        <en>\Credential Handles</en>
+    </counter>
+    <counter>
+        <org>\מזהים ייחודיים (Handle) של הקשרים</org>
+        <en>\Context Handles</en>
+    </counter>
+    <counter>
+        <org>\בתים של רשימות עמודים פנויים ומאופסים</org>
+        <en>\Free &amp; Zero Page List Bytes</en>
+    </counter>
+    <counter>
+        <org>\בתים של רשימת עמודים שהשתנו</org>
+        <en>\Modified Page List Bytes</en>
+    </counter>
+    <counter>
+        <org>\בתי Reserve של מטמון בהמתנה</org>
+        <en>\Standby Cache Reserve Bytes</en>
+    </counter>
+    <counter>
+        <org>\בתים בעדיפות רגילה של מטמון בהמתנה</org>
+        <en>\Standby Cache Normal Priority Bytes</en>
+    </counter>
+    <counter>
+        <org>\בתי ליבה של מטמון בהמתנה</org>
+        <en>\Standby Cache Core Bytes</en>
+    </counter>
+    <counter>
+        <org>\% זמן חוסר פעילות</org>
+        <en>\% Idle Time</en>
+    </counter>
+    <counter>
+        <org>\% זמן C1</org>
+        <en>\% C1 Time</en>
+    </counter>
+    <counter>
+        <org>\% זמן C2</org>
+        <en>\% C2 Time</en>
+    </counter>
+    <counter>
+        <org>\% זמן C3</org>
+        <en>\% C3 Time</en>
+    </counter>
+    <counter>
+        <org>\מעברי C1/שניה</org>
+        <en>\C1 Transitions/sec</en>
+    </counter>
+    <counter>
+        <org>\מעברי C2/שניה</org>
+        <en>\C2 Transitions/sec</en>
+    </counter>
+    <counter>
+        <org>\מעברי C3/שניה</org>
+        <en>\C3 Transitions/sec</en>
+    </counter>
+    <counter>
+        <org>\ערימה</org>
+        <en>\Heap</en>
+    </counter>
+    <counter>
+        <org>\בתים שהוקצו</org>
+        <en>\Committed Bytes</en>
+    </counter>
+    <counter>
+        <org>\בתים שנשמרו</org>
+        <en>\Reserved Bytes</en>
+    </counter>
+    <counter>
+        <org>\בתים וירטואליים</org>
+        <en>\Virtual Bytes</en>
+    </counter>
+    <counter>
+        <org>\בתים פנויים</org>
+        <en>\Free Bytes</en>
+    </counter>
+    <counter>
+        <org>\אורך רשימת שחרורים</org>
+        <en>\Free List Length</en>
+    </counter>
+    <counter>
+        <org>\קצב הקצאה ממוצע</org>
+        <en>\Avg. alloc rate</en>
+    </counter>
+    <counter>
+        <org>\קצב שחרור ממוצע</org>
+        <en>\Avg. free rate</en>
+    </counter>
+    <counter>
+        <org>\אורך טווחים שלא שהוקצו</org>
+        <en>\Uncommitted Ranges Length</en>
+    </counter>
+    <counter>
+        <org>\הקצאות - שחרורים</org>
+        <en>\Allocs - Frees</en>
+    </counter>
+    <counter>
+        <org>\הקצאות שאוחסנו במטמון/שניה</org>
+        <en>\Cached Allocs/sec</en>
+    </counter>
+    <counter>
+        <org>\שחרורים שאוחסנו במטמון/שניה</org>
+        <en>\Cached Frees/sec</en>
+    </counter>
+    <counter>
+        <org>\הקצאות &lt;1K/שניה</org>
+        <en>\Allocs &lt;1K/sec</en>
+    </counter>
+    <counter>
+        <org>\שחרורים &lt;1K/שניה</org>
+        <en>\Frees &lt;1K/sec</en>
+    </counter>
+    <counter>
+        <org>\הקצאות 1-8K/שניה</org>
+        <en>\Allocs 1-8K/sec</en>
+    </counter>
+    <counter>
+        <org>\שחרורים 1-8K/שניה</org>
+        <en>\Frees 1-8K/sec</en>
+    </counter>
+    <counter>
+        <org>\הקצאות מעל 8K/שניה</org>
+        <en>\Allocs over 8K/sec</en>
+    </counter>
+    <counter>
+        <org>\שחרורים מעל 8K/שניה</org>
+        <en>\Frees over 8K/sec</en>
+    </counter>
+    <counter>
+        <org>\סה''כ הקצאות/שניה</org>
+        <en>\Total Allocs/sec</en>
+    </counter>
+    <counter>
+        <org>\סה''כ שחרורים/שניה</org>
+        <en>\Total Frees/sec</en>
+    </counter>
+    <counter>
+        <org>\בלוקים במטמון ערימה</org>
+        <en>\Blocks in Heap Cache</en>
+    </counter>
+    <counter>
+        <org>\עומק המטמון הגדול ביותר</org>
+        <en>\Largest Cache Depth</en>
+    </counter>
+    <counter>
+        <org>\% פיצול</org>
+        <en>\% Fragmentation</en>
+    </counter>
+    <counter>
+        <org>\% פיצול VA</org>
+        <en>\% VAFragmentation</en>
+    </counter>
+    <counter>
+        <org>\התמודדות עם נעילת ערימה</org>
+        <en>\Heap Lock contention</en>
+    </counter>
+    <counter>
+        <org>\סמן קצה</org>
+        <en>\End Marker</en>
+    </counter>
+</Counters>

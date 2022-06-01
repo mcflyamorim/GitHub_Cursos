@@ -1,0 +1,4 @@
+DECLARE @i Float  
+WHILE 1=1
+  SET @i = CHECKSUM(NEWID())
+GO

@@ -1,0 +1,4 @@
+1 - Run parallel query 
+2 - Open new session, check resource_description and wait_type on sys.dm_os_waiting_tasks
+3 - Open new session, run update on OrdersBig to lock an Order
+4 - Run parallel query... (one thread will be blocked)... check sys.dm_os_waiting_tasks

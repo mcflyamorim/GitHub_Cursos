@@ -1,0 +1,26 @@
+https://docs.oracle.com/cd/E13157_01/wlevs/docs30/jdbc_drivers/mssqlserver.html
+
+// Set the first parameter of the statement
+	            ps.setObject( 1, "Fabiano Amorim", Types.VARCHAR) ;
+
+
+CODIGO FALTANDO
+"SendStringParametersAsUnicode=false;" +
+
+SendStringParametersAsUnicode
+OPTIONAL
+{true | false}. Determines whether string parameters are sent to the Microsoft SQL Server database in Unicode or in the default character encoding of the database.
+If set to true (the default), string parameters are sent to Microsoft SQL Server in Unicode.
+If set to false, the driver sends string parameters to the database in the default character encoding of the database, which can improve performance because the server does not need to convert Unicode characters to the default encoding.
+If a value is specified for the CodePageOverride property and this property is set to true, this property is ignored and a warning is generated.
+See Performance Considerations for information about configuring this property for optimal performance.
+The default is true.
+
+
+SelectMethod
+OPTIONAL
+{direct | cursor}. A hint to the driver that determines whether the driver requests a database cursor for Select statements. Performance and behavior of the driver are affected by this property, which is defined as a hint because the driver may not always be able to satisfy the requested method.
+If set to direct (the default), the database server sends the complete result set in a single response to the driver when responding to a query. A server-side database cursor is not created if the requested result set type is a forward-only result set.Typically, responses are not cached by the driver. Using this method, the driver must process the entire response to a query before another query is submitted. If another query is submitted (using a different statement on the same connection, for example), the driver caches the response to the first query before submitting the second query. Typically, the Direct method performs better than the Cursor method.
+If set to cursor, a server-side cursor is requested. When returning forward-only result sets, the rows are retrieved from the server in blocks. The setFetchSize() method can be used to control the number of rows that are retrieved for each request when forward-only result sets are returned. Performance tests show that, when returning forward-only result sets, the value of Statement.setFetchSize() significantly impacts performance. There is no simple rule for determining the setFetchSize() value that you should use. Oracle recommends that you experiment with different setFetchSize() values to determine which value gives the best performance for your application. The cursor method is useful for queries that produce a large amount of data, particularly if multiple open result sets are used.
+See Performance Considerations for information about configuring this property for optimal performance.
+The default is Direct.

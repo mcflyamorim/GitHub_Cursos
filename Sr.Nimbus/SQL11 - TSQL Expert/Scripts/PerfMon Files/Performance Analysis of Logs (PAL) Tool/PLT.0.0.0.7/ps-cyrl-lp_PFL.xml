@@ -1,0 +1,2531 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Counters>
+    <counter>
+        <org>\[bPgw0](ŜУşτēм !)</org>
+        <en>\System</en>
+    </counter>
+    <counter>
+        <org>\[rJMrW](Мèмōřу !)</org>
+        <en>\Memory</en>
+    </counter>
+    <counter>
+        <org>\[Lmu1Y](% Рґōςėş§ǿґ Ŧîmĕ !!! )</org>
+        <en>\% Processor Time</en>
+    </counter>
+    <counter>
+        <org>\[Q6Kdb](₣іľе Γεāð Őφęŗάťїθйś/şéċ !!! !!)</org>
+        <en>\File Read Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\[0GWHM](₣ΐľē Ẃгįтě Ωφēřατìōήѕ/šєĉ !!! !!!)</org>
+        <en>\File Write Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\[X8V1V](₣ΐłε Ĉöñŧŗσļ Φρ℮ŕäтϊблš/şéς !!! !!!)</org>
+        <en>\File Control Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\[cgh4E](₣īĺ℮ Ѓєǻď Ъŷτěŝ/§ęć !!! !)</org>
+        <en>\File Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[cGvxJ](₣їłе Ẅґíтè Βўţ℮ş/ŝέс !!! !)</org>
+        <en>\File Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[a4sAm](₣íĺê Çθπтŕθľ ΒУтεŝ/ѕĕς !!! !!)</org>
+        <en>\File Control Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[KRC01](Λνªіļáъłê Ъγťєś !!!)</org>
+        <en>\Available Bytes</en>
+    </counter>
+    <counter>
+        <org>\[9Ro83](Čσmmíτţĕđ Ьўτ℮ş !!!)</org>
+        <en>\Committed Bytes</en>
+    </counter>
+    <counter>
+        <org>\[BHxtP](Þдġë ₣āυľтś/ѕэć !!!)</org>
+        <en>\Page Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\[ZhTUc](Ćõmмιτ ₤іmίт !!!)</org>
+        <en>\Commit Limit</en>
+    </counter>
+    <counter>
+        <org>\[v3Mlv](Ẁѓΐŧё Ćóρĩēş/§éç !!! )</org>
+        <en>\Write Copies/sec</en>
+    </counter>
+    <counter>
+        <org>\[qEuv6](Тřāпѕϊŧîōŉ ₣åüĺţš/ѕ℮ĉ !!! !)</org>
+        <en>\Transition Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\[hgcy7](Čąснê ₣ąûļτ§/şéç !!! )</org>
+        <en>\Cache Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\[7cYXW](Ďєmäηď Žęяó ₣āũℓţŝ/ŝέč !!! !!)</org>
+        <en>\Demand Zero Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\[RkY23](Рåġêѕ/ŝеç !!)</org>
+        <en>\Pages/sec</en>
+    </counter>
+    <counter>
+        <org>\[lwWMt](Ρãġĕ Ŗèãđś/ѕεç !!!)</org>
+        <en>\Page Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\[frmEW](Ρѓõćеŝşøґ Qúєüέ ₤ēňģτн !!! !!)</org>
+        <en>\Processor Queue Length</en>
+    </counter>
+    <counter>
+        <org>\[MiOvH](Тђŗĕáδ Ѕтāтë !!!)</org>
+        <en>\Thread State</en>
+    </counter>
+    <counter>
+        <org>\[QNd8I](Рǻģĕś Öûťφũτ/śęĉ !!! )</org>
+        <en>\Pages Output/sec</en>
+    </counter>
+    <counter>
+        <org>\[KNdhj](Ρãģê Ẃѓіŧëş/ŝëç !!!)</org>
+        <en>\Page Writes/sec</en>
+    </counter>
+    <counter>
+        <org>\[IEHUY](Βřθш§ĕѓ !)</org>
+        <en>\Browser</en>
+    </counter>
+    <counter>
+        <org>\[Se1a4](Āйήõϋиċеmëⁿŧѕ Šеѓν℮г/ŝėç !!! !!)</org>
+        <en>\Announcements Server/sec</en>
+    </counter>
+    <counter>
+        <org>\[je91H](Ρõбĺ Þáģέδ Вутèŝ !!! )</org>
+        <en>\Pool Paged Bytes</en>
+    </counter>
+    <counter>
+        <org>\[sxQpg](Рőōŀ ∏ôπрäģėď βỳтεś !!! !)</org>
+        <en>\Pool Nonpaged Bytes</en>
+    </counter>
+    <counter>
+        <org>\[3Y7UP](Рôôŀ Þãģèď Δŀļοċš !!! )</org>
+        <en>\Pool Paged Allocs</en>
+    </counter>
+    <counter>
+        <org>\[lIBWM](Рõоľ Ŋôηþαġєð Άłłôčś !!! !)</org>
+        <en>\Pool Nonpaged Allocs</en>
+    </counter>
+    <counter>
+        <org>\[yN2S0](Þóόℓ Рăĝεđ Γėѕιδĕήť Βуťêś !!! !!!)</org>
+        <en>\Pool Paged Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\[w4IZD](Ŝуśţęm Çöđε Тòťåļ Βγţēѕ !!! !!)</org>
+        <en>\System Code Total Bytes</en>
+    </counter>
+    <counter>
+        <org>\[j53Lj](Şуšţ℮м Сôďε Ŗĕ§íđєητ Βýŧėš !!! !!!)</org>
+        <en>\System Code Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\[BAOQS](Ѕỳşŧзm Ðгіνĕґ Ťóťâľ βýтéŝ !!! !!!)</org>
+        <en>\System Driver Total Bytes</en>
+    </counter>
+    <counter>
+        <org>\[xZwLA](Ѕу§τęм Đŕïνêŕ Ŗĕśīδєйт ßÿτęŝ !!! !!!)</org>
+        <en>\System Driver Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\[IVxmR](Ѕŷŝτěm Ċαçĥе Яëšϊðёŉт Вŷтзš !!! !!!)</org>
+        <en>\System Cache Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\[3tyKq](Àńлоûлĉêмĕņťś Ďόмǻĩŋ/§ές !!! !!)</org>
+        <en>\Announcements Domain/sec</en>
+    </counter>
+    <counter>
+        <org>\[KsSKJ](Еℓĕсŧīоŉ Þάĉκетś/şε¢ !!! !)</org>
+        <en>\Election Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\[Hi8gw](Мăϊℓśŀθť Ŵŕїтèѕ/ŝéς !!! !)</org>
+        <en>\Mailslot Writes/sec</en>
+    </counter>
+    <counter>
+        <org>\[pZJy7](Ŝěяνèř Łïšт Ѓёqцε§τѕ/śэç !!! !!)</org>
+        <en>\Server List Requests/sec</en>
+    </counter>
+    <counter>
+        <org>\[3Y3D7](Сάсђë !)</org>
+        <en>\Cache</en>
+    </counter>
+    <counter>
+        <org>\[UdVJI](Ðǻтà Мăþş/šèç !!!)</org>
+        <en>\Data Maps/sec</en>
+    </counter>
+    <counter>
+        <org>\[TF9lh](ŚУňç Đąťą Μąφş/šĕç !!! )</org>
+        <en>\Sync Data Maps/sec</en>
+    </counter>
+    <counter>
+        <org>\[5ET86](Ąŝулċ Ďąťά Маþś/śέç !!! !)</org>
+        <en>\Async Data Maps/sec</en>
+    </counter>
+    <counter>
+        <org>\[WyAp9](Đăтă Μāр Ħíŧś % !!!)</org>
+        <en>\Data Map Hits %</en>
+    </counter>
+    <counter>
+        <org>\[RF4OU](Ďăтá Μαφ Þιņѕ/şέċ !!! )</org>
+        <en>\Data Map Pins/sec</en>
+    </counter>
+    <counter>
+        <org>\[jKQiR](Þΐη Ŕέªďѕ/ŝėς !!!)</org>
+        <en>\Pin Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\[nvKS4](Śўŋς Ρίй Гěªδѕ/şєć !!! )</org>
+        <en>\Sync Pin Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\[SSyUf](∆śуηç Þĩи Ŗέâðş/ŝєς !!! !)</org>
+        <en>\Async Pin Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\[2YsRQ](Þίл Ŕéăð Нìτş % !!!)</org>
+        <en>\Pin Read Hits %</en>
+    </counter>
+    <counter>
+        <org>\[44WMY](Çŏφÿ Ŕēãď§/ѕэç !!!)</org>
+        <en>\Copy Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\[4sW2K](Šўņč ĈŏφУ Яеàđś/śёç !!! !)</org>
+        <en>\Sync Copy Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\[kUtid](Â§уήċ Ċöρỳ Řêдďś/ѕêç !!! !)</org>
+        <en>\Async Copy Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\[FpHds](Ċøφγ Ґеăđ Ĥìťŝ % !!! )</org>
+        <en>\Copy Read Hits %</en>
+    </counter>
+    <counter>
+        <org>\[CVTH0](МĐŁ Γéáðѕ/ŝεć !!!)</org>
+        <en>\MDL Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\[h2j4R](Şýñ¢ ΜĎĹ Řэдđѕ/šėс !!! )</org>
+        <en>\Sync MDL Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\[QE66F](Äŝγŋĉ ΜĐĹ Ŕėåďś/§еć !!! !)</org>
+        <en>\Async MDL Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\[mm0Yw](МĐ£ Ґēаđ Ħíтѕ % !!!)</org>
+        <en>\MDL Read Hits %</en>
+    </counter>
+    <counter>
+        <org>\[shhYL](Яėâð ∆ĥēаđŝ/şëс !!!)</org>
+        <en>\Read Aheads/sec</en>
+    </counter>
+    <counter>
+        <org>\[dDrGJ](₣аšτ Ґèªďś/ş℮ς !!!)</org>
+        <en>\Fast Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\[U3Agb](ŠУηĉ ₣áѕŧ Ѓěаδś/ѕēς !!! !)</org>
+        <en>\Sync Fast Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\[zxTvL](Â§уиċ ₣âŝт Гęàδŝ/§ёć !!! !)</org>
+        <en>\Async Fast Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\[IWV6S](₣αşτ Яёãδ Γê§бúяçє Μíśѕ℮ŝ/ѕĕç !!! !!! )</org>
+        <en>\Fast Read Resource Misses/sec</en>
+    </counter>
+    <counter>
+        <org>\[lb6pS](₣аѕτ Ґëäð Νθт Рõşŝιвℓè§/ŝєĉ !!! !!!)</org>
+        <en>\Fast Read Not Possibles/sec</en>
+    </counter>
+    <counter>
+        <org>\[7MrM7](Ĺãžŷ Ẅŕĭтэ ₣ŀµšнēš/šёс !!! !!)</org>
+        <en>\Lazy Write Flushes/sec</en>
+    </counter>
+    <counter>
+        <org>\[n9fAY](Ŀăźý Ẅяіţё Ράĝёѕ/ŝęć !!! !)</org>
+        <en>\Lazy Write Pages/sec</en>
+    </counter>
+    <counter>
+        <org>\[20oYr](Ðаŧá ₣ℓμŝћεş/§℮ç !!! )</org>
+        <en>\Data Flushes/sec</en>
+    </counter>
+    <counter>
+        <org>\[O7pyC](Ðäτà ₣ĺüѕђ Þдġεś/§℮ć !!! !)</org>
+        <en>\Data Flush Pages/sec</en>
+    </counter>
+    <counter>
+        <org>\[ehobw](% Ũ§эг Ţîме !!)</org>
+        <en>\% User Time</en>
+    </counter>
+    <counter>
+        <org>\[akkCg](% Ρřινіļэģëđ Тíмέ !!! )</org>
+        <en>\% Privileged Time</en>
+    </counter>
+    <counter>
+        <org>\[PLnNW](Ċóⁿţę×ť Ŝẁīτćĥèš/śéç !!! !)</org>
+        <en>\Context Switches/sec</en>
+    </counter>
+    <counter>
+        <org>\[aL8OG](Їπťεѓѓµртѕ/ŝέç !!!)</org>
+        <en>\Interrupts/sec</en>
+    </counter>
+    <counter>
+        <org>\[3HAxk](Ѕỳѕτ℮м €άľľś/ѕēĉ !!! )</org>
+        <en>\System Calls/sec</en>
+    </counter>
+    <counter>
+        <org>\[NOxE5](Ľêνèℓ 1 ŦĿΒ ₣ĩłľş/§еç !!! !)</org>
+        <en>\Level 1 TLB Fills/sec</en>
+    </counter>
+    <counter>
+        <org>\[Foxci](Ľèνêĺ 2 ŦĻβ ₣ϊĺľş/šэς !!! !)</org>
+        <en>\Level 2 TLB Fills/sec</en>
+    </counter>
+    <counter>
+        <org>\[N0461](Ėйůмèгāтίσņŝ Šėřνéŗ/§ēċ !!! !!)</org>
+        <en>\Enumerations Server/sec</en>
+    </counter>
+    <counter>
+        <org>\[25E6N](Éήµмεřáŧîőлŝ Đôмăíл/şέç !!! !!)</org>
+        <en>\Enumerations Domain/sec</en>
+    </counter>
+    <counter>
+        <org>\[wX7Vw](Εпцмěґαţīōñѕ Ŏťћėґ/ŝ℮ć !!! !!)</org>
+        <en>\Enumerations Other/sec</en>
+    </counter>
+    <counter>
+        <org>\[feUHi](Мī§ŝéð Ŝėяνэя ∆πηóûиçĕmĕŉţś !!! !!!)</org>
+        <en>\Missed Server Announcements</en>
+    </counter>
+    <counter>
+        <org>\[YVBfy](Мĭššêď Мάïŀ§ļøτ Ďåŧǻğяăm§ !!! !!!)</org>
+        <en>\Missed Mailslot Datagrams</en>
+    </counter>
+    <counter>
+        <org>\[DgzDI](Мίśѕēđ Šēѓνēя Ľĩşť Ѓêqųěѕťš !!! !!!)</org>
+        <en>\Missed Server List Requests</en>
+    </counter>
+    <counter>
+        <org>\[i9nbd](Šēґνзѓ Ăńńοūлćэ Άŀļöĉăţíöŋ§ ₣åϊļэđ/śĕč !!! !!! !!)</org>
+        <en>\Server Announce Allocations Failed/sec</en>
+    </counter>
+    <counter>
+        <org>\[ynrOz](Μåίŀ§ŀôŧ Άłļôçãţίøⁿŝ ₣ǻϊℓєδ !!! !!!)</org>
+        <en>\Mailslot Allocations Failed</en>
+    </counter>
+    <counter>
+        <org>\[XpxTK](Vΐŗτũǻĺ Βỳŧέś Рεâк !!! )</org>
+        <en>\Virtual Bytes Peak</en>
+    </counter>
+    <counter>
+        <org>\[ccX71](Vĭґŧůǻℓ Ъÿτёş !!!)</org>
+        <en>\Virtual Bytes</en>
+    </counter>
+    <counter>
+        <org>\[3Fg73](Шбѓќίήģ Šéŧ Ρêдк !!! )</org>
+        <en>\Working Set Peak</en>
+    </counter>
+    <counter>
+        <org>\[CQMqg](Ŵöґкїņģ Śεť !!)</org>
+        <en>\Working Set</en>
+    </counter>
+    <counter>
+        <org>\[aJgRd](Рãġè ₣ĩĺé Вýτéś Ρзάķ !!! !)</org>
+        <en>\Page File Bytes Peak</en>
+    </counter>
+    <counter>
+        <org>\[qkzL6](Рáğé ₣ĭłε Ъýŧє§ !!!)</org>
+        <en>\Page File Bytes</en>
+    </counter>
+    <counter>
+        <org>\[gtwPO](Рřīνдťз Ъуτěŝ !!!)</org>
+        <en>\Private Bytes</en>
+    </counter>
+    <counter>
+        <org>\[SlK5a](Ǻŋñòμисêмэŋťś Ŧотåļ/śεć !!! !!)</org>
+        <en>\Announcements Total/sec</en>
+    </counter>
+    <counter>
+        <org>\[O6dbt](Έⁿůмéѓăтīǿπѕ Τòτάŀ/ѕэċ !!! !!)</org>
+        <en>\Enumerations Total/sec</en>
+    </counter>
+    <counter>
+        <org>\[BDp4g](Čűгяèñŧ Ďìśк Qůзùè Ŀęпģŧħ !!! !!!)</org>
+        <en>\Current Disk Queue Length</en>
+    </counter>
+    <counter>
+        <org>\[Y2a1r](% Ðí§κ Ŧįmë !!)</org>
+        <en>\% Disk Time</en>
+    </counter>
+    <counter>
+        <org>\[HMJJ9](% Ðїŝĸ Гεдď Ţιmè !!! )</org>
+        <en>\% Disk Read Time</en>
+    </counter>
+    <counter>
+        <org>\[4aqkF](% Ðі§ķ Ẅгιтэ Ťïмě !!! )</org>
+        <en>\% Disk Write Time</en>
+    </counter>
+    <counter>
+        <org>\[RnaTI](Āνğ. Đΐŝκ śĕ¢/Ŧŗáŋŝƒëя !!! !!)</org>
+        <en>\Avg. Disk sec/Transfer</en>
+    </counter>
+    <counter>
+        <org>\[HYC61](Ανğ. Ðĭ§ќ şёс/Яëάđ !!! )</org>
+        <en>\Avg. Disk sec/Read</en>
+    </counter>
+    <counter>
+        <org>\[W2Ma6](Άνġ. Ðįѕķ śес/Ẃгιтё !!! !)</org>
+        <en>\Avg. Disk sec/Write</en>
+    </counter>
+    <counter>
+        <org>\[wWaQ4](Đîšк Тѓáиśƒėґŝ/ѕέс !!! )</org>
+        <en>\Disk Transfers/sec</en>
+    </counter>
+    <counter>
+        <org>\[RbxYb](Ðïѕк Řĕâđş/śęς !!!)</org>
+        <en>\Disk Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\[lP8wt](Ďĭѕĸ Ŵгіτęŝ/šêĉ !!!)</org>
+        <en>\Disk Writes/sec</en>
+    </counter>
+    <counter>
+        <org>\[4xVVU](Đīśķ Ьỳŧê§/şές !!!)</org>
+        <en>\Disk Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[RdmID](Ðīşќ Яēąð ßγτë§/ѕěς !!! !)</org>
+        <en>\Disk Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[VkxSw](Đīѕĸ Ẁŗίтз βУŧэš/şзç !!! !)</org>
+        <en>\Disk Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[pcXQ7](Āνğ. Ðι§ķ ßýťēş/Ţŗãⁿşƒеř !!! !!)</org>
+        <en>\Avg. Disk Bytes/Transfer</en>
+    </counter>
+    <counter>
+        <org>\[WizHT](Âνĝ. Đί§ķ Ъÿţĕš/Ґèąδ !!! !)</org>
+        <en>\Avg. Disk Bytes/Read</en>
+    </counter>
+    <counter>
+        <org>\[eH2J4](Дνĝ. Ďįśκ Ьŷťєś/Шŗīτ℮ !!! !)</org>
+        <en>\Avg. Disk Bytes/Write</en>
+    </counter>
+    <counter>
+        <org>\[2rv6o](Þŕóčёşş !)</org>
+        <en>\Process</en>
+    </counter>
+    <counter>
+        <org>\[BVbW9](Тнŕ℮аď !)</org>
+        <en>\Thread</en>
+    </counter>
+    <counter>
+        <org>\[RJZPe](РĥУŝïсªļĎΐѕķ !!!)</org>
+        <en>\PhysicalDisk</en>
+    </counter>
+    <counter>
+        <org>\[9NMnz](ĽöğіĉаłĐíѕќ !!)</org>
+        <en>\LogicalDisk</en>
+    </counter>
+    <counter>
+        <org>\[147SF](Ρŗöçεŝ§óґ !!)</org>
+        <en>\Processor</en>
+    </counter>
+    <counter>
+        <org>\[OyyaB](% Ţòŧął Рřőċέş§öѓ Ťïmé !!! !!)</org>
+        <en>\% Total Processor Time</en>
+    </counter>
+    <counter>
+        <org>\[omi3I](% Ţôţâļ Ц§эŗ Ţιmз !!! )</org>
+        <en>\% Total User Time</en>
+    </counter>
+    <counter>
+        <org>\[ycocL](% Ťǿţªľ Рґîνΐļéġêδ Ťίмз !!! !!)</org>
+        <en>\% Total Privileged Time</en>
+    </counter>
+    <counter>
+        <org>\[opHM1](Ťøтдŀ Іňŧěґґμрţş/śëç !!! !)</org>
+        <en>\Total Interrupts/sec</en>
+    </counter>
+    <counter>
+        <org>\[Yr3TA](Ρгőčэşśє§ !!)</org>
+        <en>\Processes</en>
+    </counter>
+    <counter>
+        <org>\[itXFu](Τђřёąðѕ !)</org>
+        <en>\Threads</en>
+    </counter>
+    <counter>
+        <org>\[LiwHx](Ëνĕŋŧś !)</org>
+        <en>\Events</en>
+    </counter>
+    <counter>
+        <org>\[eoKOw](Ѕêmåрĥŏř℮š !!)</org>
+        <en>\Semaphores</en>
+    </counter>
+    <counter>
+        <org>\[U5Mwp](Мµţêхεŝ !)</org>
+        <en>\Mutexes</en>
+    </counter>
+    <counter>
+        <org>\[l7E42](Şёсτìоⁿ§ !)</org>
+        <en>\Sections</en>
+    </counter>
+    <counter>
+        <org>\[32khY](Óъĵэ¢тś !)</org>
+        <en>\Objects</en>
+    </counter>
+    <counter>
+        <org>\[TxYyH](Ґĕðīяέсţöŗ !!)</org>
+        <en>\Redirector</en>
+    </counter>
+    <counter>
+        <org>\[xh5Ur](Ьуŧеş Ґęċëїνεď/şęς !!! )</org>
+        <en>\Bytes Received/sec</en>
+    </counter>
+    <counter>
+        <org>\[YIDDI](Ρǻ¢κзτš Яēčзΐνєđ/şěċ !!! !)</org>
+        <en>\Packets Received/sec</en>
+    </counter>
+    <counter>
+        <org>\[YBsVg](Ŗєąď βýŧęš Þáĝіńģ/şë¢ !!! !)</org>
+        <en>\Read Bytes Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\[JEEu6](Ŕ℮âð Βÿŧзš Νŏπ-Þăĝΐήġ/śèç !!! !!!)</org>
+        <en>\Read Bytes Non-Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\[ByE6V](Ŕзāδ Ьÿţєś Çăčнέ/ѕē¢ !!! !)</org>
+        <en>\Read Bytes Cache/sec</en>
+    </counter>
+    <counter>
+        <org>\[3Ibvx](Ґęаđ Βýтęѕ Иèтωøŗķ/šèς !!! !!)</org>
+        <en>\Read Bytes Network/sec</en>
+    </counter>
+    <counter>
+        <org>\[0EQT4](Ъÿţэŝ Ţѓåŋѕмìŧτęδ/ѕéč !!! !)</org>
+        <en>\Bytes Transmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\[ihmqA](Рαċκéτ§ Тŗǻпŝмĭτŧєđ/ŝέĉ !!! !!)</org>
+        <en>\Packets Transmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\[XbKFB](Ẁґíτé ВУťёş Ρàğîиĝ/ѕêć !!! !!)</org>
+        <en>\Write Bytes Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\[GXjVP](Шŗĭτέ ßýŧе§ Иõп-Ρáğîπģ/šèĉ !!! !!!)</org>
+        <en>\Write Bytes Non-Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\[BmNmu](Ẃřîтė βŷτĕš Ċáćħè/šέć !!! !)</org>
+        <en>\Write Bytes Cache/sec</en>
+    </counter>
+    <counter>
+        <org>\[UllJt](Ŵŕїţê ßýŧéš Пєţωøгκ/§ěč !!! !!)</org>
+        <en>\Write Bytes Network/sec</en>
+    </counter>
+    <counter>
+        <org>\[p3G0t](Геâδ Оρєŗáтïõŉŝ/šэċ !!! !)</org>
+        <en>\Read Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\[ZTZj2](Ѓëаδ Ωφęгāтĩоηѕ Гåñďøм/§ēĉ !!! !!!)</org>
+        <en>\Read Operations Random/sec</en>
+    </counter>
+    <counter>
+        <org>\[h6R8C](Язäð Ρǻςкëťś/šзċ !!! )</org>
+        <en>\Read Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\[SrjAX](Ґêåδ§ Ĺǻяğε/§ėč !!!)</org>
+        <en>\Reads Large/sec</en>
+    </counter>
+    <counter>
+        <org>\[kznL7](Ґэąð Ρäčκ℮ť§ Šmăļĺ/ŝėς !!! !!)</org>
+        <en>\Read Packets Small/sec</en>
+    </counter>
+    <counter>
+        <org>\[PLUII](Ŵгíťз Óрèгªŧϊóлš/§еċ !!! !)</org>
+        <en>\Write Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\[akg7r](Шґĭţê Ώрĕřаτĩøñś Ŗäŋđом/§εć !!! !!!)</org>
+        <en>\Write Operations Random/sec</en>
+    </counter>
+    <counter>
+        <org>\[d3yXz](Ẅяĩτè Ρâĉкεţѕ/ŝ℮č !!! )</org>
+        <en>\Write Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\[rbZGd](Ŵяįţèś Ľǻѓğз/šèć !!! )</org>
+        <en>\Writes Large/sec</en>
+    </counter>
+    <counter>
+        <org>\[brU4Z](Ẅгïţê Þǻčķĕťѕ Ŝмάℓŀ/ѕěç !!! !!)</org>
+        <en>\Write Packets Small/sec</en>
+    </counter>
+    <counter>
+        <org>\[JdWkf](Γĕáδş Ðęňιêð/ѕê¢ !!! )</org>
+        <en>\Reads Denied/sec</en>
+    </counter>
+    <counter>
+        <org>\[5WZmB](Ẃгіτĕş Đęⁿï℮ď/§єς !!! )</org>
+        <en>\Writes Denied/sec</en>
+    </counter>
+    <counter>
+        <org>\[569w1](Лзťшθґκ Σřяóгš/šèç !!! )</org>
+        <en>\Network Errors/sec</en>
+    </counter>
+    <counter>
+        <org>\[vDwHA](Şěŕνэŕ Šėšśíòŋ§ !!!)</org>
+        <en>\Server Sessions</en>
+    </counter>
+    <counter>
+        <org>\[W2Wac](Ŝэґνэŗ Гėćōллěçťš !!! )</org>
+        <en>\Server Reconnects</en>
+    </counter>
+    <counter>
+        <org>\[hKlhd](€ŏⁿйĕстš Çόŕ℮ !!!)</org>
+        <en>\Connects Core</en>
+    </counter>
+    <counter>
+        <org>\[iqRh2](Ċόńηеçť§ £âи Мãйâġег 2.0 !!! !!)</org>
+        <en>\Connects Lan Manager 2.0</en>
+    </counter>
+    <counter>
+        <org>\[pmajv](Ċσлиëčτš Łäи Мάⁿáĝ℮ѓ 2.1 !!! !!)</org>
+        <en>\Connects Lan Manager 2.1</en>
+    </counter>
+    <counter>
+        <org>\[eJtag](Сσήⁿэ¢τѕ Щĭňðοωś ŅŤ !!! !)</org>
+        <en>\Connects Windows NT</en>
+    </counter>
+    <counter>
+        <org>\[ddcQI](Ŝёѓνэг Đĭšçōήňеćťş !!! )</org>
+        <en>\Server Disconnects</en>
+    </counter>
+    <counter>
+        <org>\[CfDKx](Šèřνёŕ Ŝę§śìοŉѕ Ήűиģ !!! !)</org>
+        <en>\Server Sessions Hung</en>
+    </counter>
+    <counter>
+        <org>\[fkKp6](Ŝĕŕν℮ґ !)</org>
+        <en>\Server</en>
+    </counter>
+    <counter>
+        <org>\[Zjnfy](Тĥřĕãđ Ẃāїт Řëдšσń !!! )</org>
+        <en>\Thread Wait Reason</en>
+    </counter>
+    <counter>
+        <org>\[NqRyU](Ŝéѕŝϊǿйŝ Тΐм℮δ Ωųţ !!! )</org>
+        <en>\Sessions Timed Out</en>
+    </counter>
+    <counter>
+        <org>\[r5Zz3](Śеŝşîбйŝ Εѓґǿѓĕđ Óùτ !!! !)</org>
+        <en>\Sessions Errored Out</en>
+    </counter>
+    <counter>
+        <org>\[QvC5S](Śèšŝїбñş Ľøģģέð Ōƒƒ !!! !)</org>
+        <en>\Sessions Logged Off</en>
+    </counter>
+    <counter>
+        <org>\[bBJOi](Ŝέ§ŝïθπš ₣ôŗсέď Οƒƒ !!! !)</org>
+        <en>\Sessions Forced Off</en>
+    </counter>
+    <counter>
+        <org>\[6y65I](Єѓŗогŝ Ŀοġоή !!!)</org>
+        <en>\Errors Logon</en>
+    </counter>
+    <counter>
+        <org>\[XDMmn](Σřґŏяŝ Äċ¢ēš§ Ρęґмϊѕšΐøйś !!! !!!)</org>
+        <en>\Errors Access Permissions</en>
+    </counter>
+    <counter>
+        <org>\[nGxGf](Ëггôѓ§ Ğгǻйтĕď Ąčćë§§ !!! !)</org>
+        <en>\Errors Granted Access</en>
+    </counter>
+    <counter>
+        <org>\[bp6rr](Ёŕřōѓŝ Śўšтем !!!)</org>
+        <en>\Errors System</en>
+    </counter>
+    <counter>
+        <org>\[oruT1](Βŀσĉкίлġ Яеqŭêšτ§ Řĕĵėčтēď !!! !!!)</org>
+        <en>\Blocking Requests Rejected</en>
+    </counter>
+    <counter>
+        <org>\[esndq](Шõяĸ Іťęm Šĥöгτăģéѕ !!! !)</org>
+        <en>\Work Item Shortages</en>
+    </counter>
+    <counter>
+        <org>\[YCOiV](₣īłéş Ωφзлєď Тŏтªℓ !!! )</org>
+        <en>\Files Opened Total</en>
+    </counter>
+    <counter>
+        <org>\[RxOoY](₣īļēŝ Ōφэл !!)</org>
+        <en>\Files Open</en>
+    </counter>
+    <counter>
+        <org>\[87vPF](₣íłз Ďϊřзċτōѓŷ Ѕęдřčнéş !!! !!)</org>
+        <en>\File Directory Searches</en>
+    </counter>
+    <counter>
+        <org>\[WIN8Q](Ρòõℓ Йõňрåġèđ ₣áιłµгè§ !!! !!)</org>
+        <en>\Pool Nonpaged Failures</en>
+    </counter>
+    <counter>
+        <org>\[T7wX3](Рθøŀ Ņǿņрãģеδ Рεдķ !!! )</org>
+        <en>\Pool Nonpaged Peak</en>
+    </counter>
+    <counter>
+        <org>\[LUYiQ](Ρθόŀ Ρàĝзď ₣åįłûř℮ş !!! !)</org>
+        <en>\Pool Paged Failures</en>
+    </counter>
+    <counter>
+        <org>\[rGhGp](Þοοł Ρǻģέδ Ρęàĸ !!!)</org>
+        <en>\Pool Paged Peak</en>
+    </counter>
+    <counter>
+        <org>\[q0v7Z](Ъÿţεś Ţóŧåℓ/ѕęć !!!)</org>
+        <en>\Bytes Total/sec</en>
+    </counter>
+    <counter>
+        <org>\[BY9Lb](Ĉŭŕřéńτ Ćоmmäŋðš !!! )</org>
+        <en>\Current Commands</en>
+    </counter>
+    <counter>
+        <org>\[YRVcD](∏ẀĽϊŉķ ŃêťßЇØЅ !!!)</org>
+        <en>\NWLink NetBIOS</en>
+    </counter>
+    <counter>
+        <org>\[IN75v](Þąčќēťŝ/ŝęς !!)</org>
+        <en>\Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\[V4c3e](Ċǿⁿтè×т ßľθçκš Qūзųéď/śєс !!! !!!)</org>
+        <en>\Context Blocks Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\[Wmbvs](₣ĩĺê Ðäŧà Ǿрęѓąţΐőⁿ§/šές !!! !!)</org>
+        <en>\File Data Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\[pgM0H](% ₣řέε Ѕφдčē !!!)</org>
+        <en>\% Free Space</en>
+    </counter>
+    <counter>
+        <org>\[2aqqd](₣ŗеë Μěğαъỳťêš !!!)</org>
+        <en>\Free Megabytes</en>
+    </counter>
+    <counter>
+        <org>\[DqP6t](Çоñⁿēςţіõⁿś Оρэή !!! )</org>
+        <en>\Connections Open</en>
+    </counter>
+    <counter>
+        <org>\[nqRcr](Ċōиηęçτĩǿπѕ Νö Яëţŗіέś !!! !!)</org>
+        <en>\Connections No Retries</en>
+    </counter>
+    <counter>
+        <org>\[NGfSN](Сσηйэčŧїθπŝ Ẃĭτħ Яєτґιēŝ !!! !!)</org>
+        <en>\Connections With Retries</en>
+    </counter>
+    <counter>
+        <org>\[uZloN](Ðіşċόήñè¢ţ§ Ŀόсаℓ !!! )</org>
+        <en>\Disconnects Local</en>
+    </counter>
+    <counter>
+        <org>\[D9Wge](Ďіѕςøήиèςŧ§ Ґėmóтè !!! )</org>
+        <en>\Disconnects Remote</en>
+    </counter>
+    <counter>
+        <org>\[IQf3r](₣ăιŀůřэš ₤īпк !!!)</org>
+        <en>\Failures Link</en>
+    </counter>
+    <counter>
+        <org>\[IrLZO](₣àĭŀцřзš Åðǻрŧέŗ !!! )</org>
+        <en>\Failures Adapter</en>
+    </counter>
+    <counter>
+        <org>\[5dSY0](Ĉõńńзçτīöл Ŝéšѕìŏи Τĭmęοúŧ§ !!! !!!)</org>
+        <en>\Connection Session Timeouts</en>
+    </counter>
+    <counter>
+        <org>\[aTRuD](Ćòņл℮сţїσņѕ Ćάήĉêŀëď !!! !)</org>
+        <en>\Connections Canceled</en>
+    </counter>
+    <counter>
+        <org>\[QGjAQ](₣áΐĺũґε§ Ŕęѕόùŕĉе Ŕэmōťē !!! !!)</org>
+        <en>\Failures Resource Remote</en>
+    </counter>
+    <counter>
+        <org>\[1V2Q2](₣âîľüřēš Гёŝоµřçè Ļőçǻĺ !!! !!)</org>
+        <en>\Failures Resource Local</en>
+    </counter>
+    <counter>
+        <org>\[u828T](₣αїŀúřёŝ Ņōτ ₣öџňδ !!! )</org>
+        <en>\Failures Not Found</en>
+    </counter>
+    <counter>
+        <org>\[M9Kb0](₣äĩℓµяèś Ňó Ľĭ§τёл !!! )</org>
+        <en>\Failures No Listen</en>
+    </counter>
+    <counter>
+        <org>\[E46ej](Ďáτåĝгàmŝ/şєć !!!)</org>
+        <en>\Datagrams/sec</en>
+    </counter>
+    <counter>
+        <org>\[i8Z7A](Ďǻτдğŕåm Ьỳţэѕ/şĕ¢ !!! )</org>
+        <en>\Datagram Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[xpwkB](Đâťăġѓåmś Ŝелť/śėĉ !!! )</org>
+        <en>\Datagrams Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\[tQqEe](Đǻτăğѓªм ßУťєś Ѕεńŧ/§ēç !!! !!)</org>
+        <en>\Datagram Bytes Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\[vYRWv](Ðáτªğґǻmŝ Ŗзċęίνéδ/ѕеç !!! !!)</org>
+        <en>\Datagrams Received/sec</en>
+    </counter>
+    <counter>
+        <org>\[FKM5w](Ðãťàğѓам Ъýτê§ Ŗéĉèινεδ/šές !!! !!!)</org>
+        <en>\Datagram Bytes Received/sec</en>
+    </counter>
+    <counter>
+        <org>\[piAiI](Ρąćκęŧѕ Ѕėит/šєċ !!! )</org>
+        <en>\Packets Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\[z2T8f](₣ґαmęŝ/ŝєċ !!)</org>
+        <en>\Frames/sec</en>
+    </counter>
+    <counter>
+        <org>\[VLHYV](₣ѓαmë βýŧėѕ/ŝěč !!!)</org>
+        <en>\Frame Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[Yy7Ss](₣řàmĕš Ѕèлţ/ѕέ¢ !!!)</org>
+        <en>\Frames Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\[Wo2BU](₣гămê Вуţé§ Şěήť/ŝεċ !!! !)</org>
+        <en>\Frame Bytes Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\[8O3HS](₣яªмęŝ Ŗë¢ęìνèď/§ěç !!! !)</org>
+        <en>\Frames Received/sec</en>
+    </counter>
+    <counter>
+        <org>\[N61f3](₣řαме ЬУτêś Яёςеīνεδ/śěç !!! !!)</org>
+        <en>\Frame Bytes Received/sec</en>
+    </counter>
+    <counter>
+        <org>\[zgLiU](₣řåmé§ Ґě-Śεήт/śě¢ !!! )</org>
+        <en>\Frames Re-Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\[Vf2BV](₣ґămę ßŷťеş Ŗє-Ѕëήŧ/ѕè¢ !!! !!)</org>
+        <en>\Frame Bytes Re-Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\[MmGFc](₣řåмέѕ Ґëĵε¢τέð/śες !!! !)</org>
+        <en>\Frames Rejected/sec</en>
+    </counter>
+    <counter>
+        <org>\[PpBmg](₣гªмє Βўτэś Ŗēјêčтēδ/§ĕς !!! !!)</org>
+        <en>\Frame Bytes Rejected/sec</en>
+    </counter>
+    <counter>
+        <org>\[l2Dy2](Èхρìřăτϊοņś Γě§рбйš℮ !!! !)</org>
+        <en>\Expirations Response</en>
+    </counter>
+    <counter>
+        <org>\[1MgZd](Е×ρίѓаŧĭōŉś Åçĸ !!!)</org>
+        <en>\Expirations Ack</en>
+    </counter>
+    <counter>
+        <org>\[HHn9e](Ŵĩлďθщ Şéŋď Мαжíмΰм !!! !)</org>
+        <en>\Window Send Maximum</en>
+    </counter>
+    <counter>
+        <org>\[H7001](Шїⁿđǿш Śéйδ Áνэřäĝē !!! !)</org>
+        <en>\Window Send Average</en>
+    </counter>
+    <counter>
+        <org>\[OWTJb](Ρіģġÿьäċķ Ã¢к Qûėűёδ/§ėς !!! !!)</org>
+        <en>\Piggyback Ack Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\[i1933](Ρïģĝŷъǻĉќ Д¢ķ Τĭмêǿūтş !!! !!)</org>
+        <en>\Piggyback Ack Timeouts</en>
+    </counter>
+    <counter>
+        <org>\[x7Egn](ПŴĿïиĸ ЇΡХ !!)</org>
+        <en>\NWLink IPX</en>
+    </counter>
+    <counter>
+        <org>\[f1J5k](ΝŴĹìлк ŜРХ !!)</org>
+        <en>\NWLink SPX</en>
+    </counter>
+    <counter>
+        <org>\[4EAEP](ŇęτЬ∑ÛÍ !)</org>
+        <en>\NetBEUI</en>
+    </counter>
+    <counter>
+        <org>\[kZqSq](ПэτЪĘЦĬ Ŗ℮§οųґ¢э !!! )</org>
+        <en>\NetBEUI Resource</en>
+    </counter>
+    <counter>
+        <org>\[RveEB](Ųś℮ď Ма×ίмŭm !!!)</org>
+        <en>\Used Maximum</en>
+    </counter>
+    <counter>
+        <org>\[LN2kr](Ú§ěδ Дνęŕâğē !!!)</org>
+        <en>\Used Average</en>
+    </counter>
+    <counter>
+        <org>\[eoT1J](Τîме§ Ë×ĥąũѕťеď !!!)</org>
+        <en>\Times Exhausted</en>
+    </counter>
+    <counter>
+        <org>\[4GxUR](ÑβŦ Ćόπŋĕçтĩοñ !!!)</org>
+        <en>\NBT Connection</en>
+    </counter>
+    <counter>
+        <org>\[L2ex8](Βÿţέѕ Ѕέńτ/ѕéс !!!)</org>
+        <en>\Bytes Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\[D1Ybr](Тŏтαℓ βỳтέš/šèς !!!)</org>
+        <en>\Total Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[5dWn0](Νэťшòґĸ Ĭⁿţєяƒаčé !!! )</org>
+        <en>\Network Interface</en>
+    </counter>
+    <counter>
+        <org>\[EjqyZ](Ъŷŧēŝ/ѕз¢ !!)</org>
+        <en>\Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[ReHfS](Ċüяѓёπţ ßàńďẁîďτĥ !!! )</org>
+        <en>\Current Bandwidth</en>
+    </counter>
+    <counter>
+        <org>\[YJ1GD](Рåčκèťś Яéсєίνёđ Ųиĩςάśτ/ѕєς !!! !!!)</org>
+        <en>\Packets Received Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\[ctAsD](Ρä¢кèтŝ Ѓęċзìνèð Ñòή-Цńĭсä§ŧ/ş℮ć !!! !!! !)</org>
+        <en>\Packets Received Non-Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\[KPMqi](Раςкзŧŝ Гéсèіνэδ Ðιѕċãгđëď !!! !!!)</org>
+        <en>\Packets Received Discarded</en>
+    </counter>
+    <counter>
+        <org>\[V017s](Рáċкэţ§ Яé¢ёĭνêð Èѓŗбŗŝ !!! !!)</org>
+        <en>\Packets Received Errors</en>
+    </counter>
+    <counter>
+        <org>\[RBKaF](Þâĉќêŧѕ Ŗέċëϊνéđ Цŉķйόщň !!! !!)</org>
+        <en>\Packets Received Unknown</en>
+    </counter>
+    <counter>
+        <org>\[oIFO7](Þâċкěτŝ Ѕεňт Ųηΐ¢άѕŧ/ŝēċ !!! !!)</org>
+        <en>\Packets Sent Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\[DN792](Ρăčќéť§ Ѕéŉŧ Пøи-Üπĭςªѕт/šėс !!! !!!)</org>
+        <en>\Packets Sent Non-Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\[B20ew](Рāсќéťş ŌūťБσϋŉď Ðī§ċаѓδëδ !!! !!!)</org>
+        <en>\Packets Outbound Discarded</en>
+    </counter>
+    <counter>
+        <org>\[mNMuG](Рäćкėŧѕ Όúтъοųлđ Зřŗőŗś !!! !!)</org>
+        <en>\Packets Outbound Errors</en>
+    </counter>
+    <counter>
+        <org>\[m4kJa](Οΰτρυť Qϋęůë ₤ĕŋĝτђ !!! !)</org>
+        <en>\Output Queue Length</en>
+    </counter>
+    <counter>
+        <org>\[llldQ](ІРν4 )</org>
+        <en>\IPv4</en>
+    </counter>
+    <counter>
+        <org>\[HE4mP](ĬÞν6 )</org>
+        <en>\IPv6</en>
+    </counter>
+    <counter>
+        <org>\[pNWcL](Đαтάĝяąмŝ Яèčéϊνéđ Ħэàđёŕ Ēґřθŕŝ !!! !!! !)</org>
+        <en>\Datagrams Received Header Errors</en>
+    </counter>
+    <counter>
+        <org>\[q9Fzj](Ðάτªĝгαмš Ŕĕсзіνēð Áδðгĕŝş Êгŕǿѓ§ !!! !!! !)</org>
+        <en>\Datagrams Received Address Errors</en>
+    </counter>
+    <counter>
+        <org>\[vfNzJ](Ðāτàĝґäмš ₣ǿяẁâѓďєδ/ŝэĉ !!! !!)</org>
+        <en>\Datagrams Forwarded/sec</en>
+    </counter>
+    <counter>
+        <org>\[PYG9O](Đдτǻģřáмŝ Ґэçзϊνëδ Ůŉќńôŵπ Ρѓõтǿ¢óľ !!! !!! !)</org>
+        <en>\Datagrams Received Unknown Protocol</en>
+    </counter>
+    <counter>
+        <org>\[C7qtj](Ďăŧāģяãmś Ѓε¢℮ïνęδ Ðΐśčªгđэď !!! !!!)</org>
+        <en>\Datagrams Received Discarded</en>
+    </counter>
+    <counter>
+        <org>\[kHuG4](Ðãţâĝřǻмş Яĕćĕīνęđ Đέℓĭν℮гêδ/§єč !!! !!! !)</org>
+        <en>\Datagrams Received Delivered/sec</en>
+    </counter>
+    <counter>
+        <org>\[yNYBZ](Ďǻτāğŕªm§ Θũťвόūйď Đίšçäřðéδ !!! !!!)</org>
+        <en>\Datagrams Outbound Discarded</en>
+    </counter>
+    <counter>
+        <org>\[DUQir](Ðåťàğŗам§ Φΰтъöüйđ Ňõ Γõŭŧе !!! !!!)</org>
+        <en>\Datagrams Outbound No Route</en>
+    </counter>
+    <counter>
+        <org>\[VYFb0](₣ŕåģмêňŧŝ Γзċéΐνéď/śеč !!! !!)</org>
+        <en>\Fragments Received/sec</en>
+    </counter>
+    <counter>
+        <org>\[3vWoF](₣ѓαğмéňŧš Γе-άšşĕmъĺęδ/šéĉ !!! !!!)</org>
+        <en>\Fragments Re-assembled/sec</en>
+    </counter>
+    <counter>
+        <org>\[Jprqa](₣яąĝмэйţ Гё-άśśëmвľγ ₣ăїłùѓěş !!! !!! )</org>
+        <en>\Fragment Re-assembly Failures</en>
+    </counter>
+    <counter>
+        <org>\[X1shP](₣řåģмёπťęδ Ðªţăģѓάmś/ŝê¢ !!! !!)</org>
+        <en>\Fragmented Datagrams/sec</en>
+    </counter>
+    <counter>
+        <org>\[il5D4](₣řªğмěήŧãţįóŋ ₣ąíℓùгэѕ !!! !!)</org>
+        <en>\Fragmentation Failures</en>
+    </counter>
+    <counter>
+        <org>\[BnXq2](₣ŕäğмєпţ§ Ĉŕěªŧěδ/ŝэς !!! !)</org>
+        <en>\Fragments Created/sec</en>
+    </counter>
+    <counter>
+        <org>\[URCmR](ΊСМР )</org>
+        <en>\ICMP</en>
+    </counter>
+    <counter>
+        <org>\[Bf1OC](Мзѕšаġë§/şêć !!!)</org>
+        <en>\Messages/sec</en>
+    </counter>
+    <counter>
+        <org>\[OBp8G](М℮ş§áġêŝ Řεĉεіνéð/ŝéс !!! !)</org>
+        <en>\Messages Received/sec</en>
+    </counter>
+    <counter>
+        <org>\[KoZRv](Μзŝ§αğ℮ѕ Яęсēįνєδ Еŗяоŗş !!! !!)</org>
+        <en>\Messages Received Errors</en>
+    </counter>
+    <counter>
+        <org>\[kdScD](Řėćéĩνεδ Ďє§τ. ЏπŕёάċħаБĺě !!! !!!)</org>
+        <en>\Received Dest. Unreachable</en>
+    </counter>
+    <counter>
+        <org>\[s7KJD](Ř℮ćèĩνèδ Ťίмέ Éжčêэðεð !!! !!)</org>
+        <en>\Received Time Exceeded</en>
+    </counter>
+    <counter>
+        <org>\[StffX](Гēсėīνзď Рåřаm℮ţēŕ Рřōьłеm !!! !!!)</org>
+        <en>\Received Parameter Problem</en>
+    </counter>
+    <counter>
+        <org>\[ccIas](Ŗє¢èìνėđ Śòųŕ¢з Qųěηċĥ !!! !!)</org>
+        <en>\Received Source Quench</en>
+    </counter>
+    <counter>
+        <org>\[vZr2p](Гēсēïνěð Ŕзðίŗεčţ/şєς !!! !)</org>
+        <en>\Received Redirect/sec</en>
+    </counter>
+    <counter>
+        <org>\[QChOX](Яέ¢еϊνēδ Ë¢ħо/š℮č !!! )</org>
+        <en>\Received Echo/sec</en>
+    </counter>
+    <counter>
+        <org>\[ouDa7](Ґєĉέіνěð Ĕсђō Яěφłу/ѕε¢ !!! !!)</org>
+        <en>\Received Echo Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\[A4JMq](Γєċèΐνєď Ţіmėѕŧαмρ/§èċ !!! !!)</org>
+        <en>\Received Timestamp/sec</en>
+    </counter>
+    <counter>
+        <org>\[2gQIa](Гĕсзїν℮ď Тĩméśτáмþ Яέрŀÿ/śęč !!! !!!)</org>
+        <en>\Received Timestamp Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\[k8H8i](Γε¢еīνзđ Àððřё§§ Μãŝк !!! !)</org>
+        <en>\Received Address Mask</en>
+    </counter>
+    <counter>
+        <org>\[dfrci](Γè¢èïνёď Ąððґêŝś Μãšк Яēφľÿ !!! !!!)</org>
+        <en>\Received Address Mask Reply</en>
+    </counter>
+    <counter>
+        <org>\[AFMbb](Мэ§ŝãġёś Ѕěñτ/ŝέс !!! )</org>
+        <en>\Messages Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\[raWWy](Меѕŝāģę§ ΘűтБõųиď Êѓгőřѕ !!! !!)</org>
+        <en>\Messages Outbound Errors</en>
+    </counter>
+    <counter>
+        <org>\[n5p2I](Ŝèñŧ Đэşŧįŋάţΐоή Ùñřéαĉђåъŀε !!! !!!)</org>
+        <en>\Sent Destination Unreachable</en>
+    </counter>
+    <counter>
+        <org>\[guls2](Ѕèŉţ Ŧìmè Ėжĉèèďęð !!! )</org>
+        <en>\Sent Time Exceeded</en>
+    </counter>
+    <counter>
+        <org>\[Z8cm0](Šзñţ Ρâřàмέŧęя Ρѓõъļēм !!! !!)</org>
+        <en>\Sent Parameter Problem</en>
+    </counter>
+    <counter>
+        <org>\[X4Wjh](Ѕęпτ Şθŭґċз Qũεπćђ !!! )</org>
+        <en>\Sent Source Quench</en>
+    </counter>
+    <counter>
+        <org>\[HvlUH](Şєπт Яéđįŕε¢τ/šëç !!! )</org>
+        <en>\Sent Redirect/sec</en>
+    </counter>
+    <counter>
+        <org>\[DeVK6](Śєлт Εĉнö/şёс !!!)</org>
+        <en>\Sent Echo/sec</en>
+    </counter>
+    <counter>
+        <org>\[n7gpT](Ŝěńť Є¢ĥō Гėρļỳ/şзς !!! !)</org>
+        <en>\Sent Echo Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\[I1Pkj](Ŝéηť Ŧĭmєşťăмρ/§έс !!! )</org>
+        <en>\Sent Timestamp/sec</en>
+    </counter>
+    <counter>
+        <org>\[Y3jlH](Ŝеŉť Тϊмèŝτâмρ ΓėφŀУ/śê¢ !!! !!)</org>
+        <en>\Sent Timestamp Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\[fCiAq](Şėňţ Δδďяėšš Мάšķ !!! )</org>
+        <en>\Sent Address Mask</en>
+    </counter>
+    <counter>
+        <org>\[NokLt](Ѕεñŧ Åđδгëşś Мªśķ Гєφłỳ !!! !!)</org>
+        <en>\Sent Address Mask Reply</en>
+    </counter>
+    <counter>
+        <org>\[lLFQK](ŤÇÞν4 !)</org>
+        <en>\TCPv4</en>
+    </counter>
+    <counter>
+        <org>\[I0gwP](Šĕġmёⁿţš/şëċ !!!)</org>
+        <en>\Segments/sec</en>
+    </counter>
+    <counter>
+        <org>\[7VS8T](Çσņŉěċŧįőńѕ Ěśťдвľΐ§ђεď !!! !!)</org>
+        <en>\Connections Established</en>
+    </counter>
+    <counter>
+        <org>\[0Tya7](Сοññё¢тįøήѕ Α¢ťíνē !!! )</org>
+        <en>\Connections Active</en>
+    </counter>
+    <counter>
+        <org>\[YgdvZ](Ćоηńěçтīоň§ Ρаŝŝΐν℮ !!! !)</org>
+        <en>\Connections Passive</en>
+    </counter>
+    <counter>
+        <org>\[cvPXK](Çǿηŋęċтĩöń ₣âϊĺцґ℮§ !!! !)</org>
+        <en>\Connection Failures</en>
+    </counter>
+    <counter>
+        <org>\[LsYib](Çопπéċтīθñŝ Ŕęѕěŧ !!! )</org>
+        <en>\Connections Reset</en>
+    </counter>
+    <counter>
+        <org>\[yJUNa](Śєġmĕñτś Гēςέìνёð/şëс !!! !)</org>
+        <en>\Segments Received/sec</en>
+    </counter>
+    <counter>
+        <org>\[zXhsY](Ѕěġмèŋţş Ś℮ⁿţ/ѕёć !!! )</org>
+        <en>\Segments Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\[97hxb](Śéĝmєлţ§ Яєτяãñśmįťтёδ/ŝèč !!! !!!)</org>
+        <en>\Segments Retransmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\[QA5tt](ŪÐÞν4 !)</org>
+        <en>\UDPv4</en>
+    </counter>
+    <counter>
+        <org>\[R7Cle](% Ťσţàł ĐРČ Ţìmе !!! )</org>
+        <en>\% Total DPC Time</en>
+    </counter>
+    <counter>
+        <org>\[lxGwD](% Τøţдľ Įňτ℮ѓґџрт Ťιmĕ !!! !!)</org>
+        <en>\% Total Interrupt Time</en>
+    </counter>
+    <counter>
+        <org>\[P1H4J](Ðāтăģгǻмş Иò Ρóяτ/§êċ !!! !)</org>
+        <en>\Datagrams No Port/sec</en>
+    </counter>
+    <counter>
+        <org>\[uJPPF](Ðàťдġѓάмš Ŕëсėïν℮ð Эгŕőřś !!! !!!)</org>
+        <en>\Datagrams Received Errors</en>
+    </counter>
+    <counter>
+        <org>\[D463e](Đΐ§к Ŝŧöŗάģє Ūñΐţ !!! )</org>
+        <en>\Disk Storage Unit</en>
+    </counter>
+    <counter>
+        <org>\[An9h4](Дļłóςăťϊôŉ ₣âĭłūŕèš !!! !)</org>
+        <en>\Allocation Failures</en>
+    </counter>
+    <counter>
+        <org>\[anIRU](Šγšťзm Ûρ Тĭмε !!!)</org>
+        <en>\System Up Time</en>
+    </counter>
+    <counter>
+        <org>\[eBzh5](Ѕўšтèм Ħāπđŀē €θŭпт !!! !)</org>
+        <en>\System Handle Count</en>
+    </counter>
+    <counter>
+        <org>\[Nr9j5](₣яєє Ѕýşţέm Ραğе ТάБĺë Ėήτгіěŝ !!! !!! )</org>
+        <en>\Free System Page Table Entries</en>
+    </counter>
+    <counter>
+        <org>\[S27hx](Ťђґęªð €оůиţ !!!)</org>
+        <en>\Thread Count</en>
+    </counter>
+    <counter>
+        <org>\[4cEVw](Рŗίøгĭţу Вàšе !!!)</org>
+        <en>\Priority Base</en>
+    </counter>
+    <counter>
+        <org>\[fiIi7](Έľаþšėđ Ŧΐmê !!!)</org>
+        <en>\Elapsed Time</en>
+    </counter>
+    <counter>
+        <org>\[hpbqd](Λŀīĝπmзήť ₣ίжύρ§/şĕč !!! !)</org>
+        <en>\Alignment Fixups/sec</en>
+    </counter>
+    <counter>
+        <org>\[zciMB](Єжćēφťìôŉ Đĭšφâŧ¢ћёş/śёċ !!! !!)</org>
+        <en>\Exception Dispatches/sec</en>
+    </counter>
+    <counter>
+        <org>\[jhQIx](₣ŀόαтίиġ Эмũℓàťіοп§/§ëċ !!! !!)</org>
+        <en>\Floating Emulations/sec</en>
+    </counter>
+    <counter>
+        <org>\[OXf0S](₤òğøπ/śєς !!)</org>
+        <en>\Logon/sec</en>
+    </counter>
+    <counter>
+        <org>\[4vvrL](ÞŕΐбřîτУ Ĉūяŕëñτ !!! )</org>
+        <en>\Priority Current</en>
+    </counter>
+    <counter>
+        <org>\[7fp02](% ĎΡÇ Ťîmė !!)</org>
+        <en>\% DPC Time</en>
+    </counter>
+    <counter>
+        <org>\[sBf70](% Īⁿŧéґѓūρŧ Ŧïме !!! )</org>
+        <en>\% Interrupt Time</en>
+    </counter>
+    <counter>
+        <org>\[ZkYVN](Рãģϊлĝ ₣ΐłе !!)</org>
+        <en>\Paging File</en>
+    </counter>
+    <counter>
+        <org>\[l9Hvs](% Úŝдğє !)</org>
+        <en>\% Usage</en>
+    </counter>
+    <counter>
+        <org>\[8Zzm6](% Űśдġ℮ Реάκ !!!)</org>
+        <en>\% Usage Peak</en>
+    </counter>
+    <counter>
+        <org>\[Doplw](Ŝŧàŗт Δδδѓĕšś !!!)</org>
+        <en>\Start Address</en>
+    </counter>
+    <counter>
+        <org>\[7NpAi](Űŝэŕ ÞĊ !)</org>
+        <en>\User PC</en>
+    </counter>
+    <counter>
+        <org>\[g1HKi](Мăφρёð Ѕрãĉе По Дċĉěѕš !!! !!)</org>
+        <en>\Mapped Space No Access</en>
+    </counter>
+    <counter>
+        <org>\[Eq2A2](Мªрρēδ Ѕφāς℮ Гěάď ÓлĺУ !!! !!)</org>
+        <en>\Mapped Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\[mlNzv](Мдρþęđ Śρă¢ё Ř℮âð/Шяίтê !!! !!)</org>
+        <en>\Mapped Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\[2ghRW](Мªрþєď Şþàćз Щяΐţé Ćθρÿ !!! !!)</org>
+        <en>\Mapped Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\[ZSfw6](Μáþφєđ Śрåċé Ěхзčΰţāьĺè !!! !!)</org>
+        <en>\Mapped Space Executable</en>
+    </counter>
+    <counter>
+        <org>\[8ShHZ](Мăφþėδ Šþªςě Êхèč Гėãð ŐņłУ !!! !!!)</org>
+        <en>\Mapped Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\[2eg5c](Μåрφĕď Šрăċê Êх℮ć Яёàđ/Щѓίťё !!! !!!)</org>
+        <en>\Mapped Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\[uX7ER](Мдρрëð Şφâςè Ехęċ Ẃŕîтε Ċθþý !!! !!!)</org>
+        <en>\Mapped Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\[sxMUM](Ŕ℮ŝĕŕνèđ Śþăĉё Ńő Āςсзşѕ !!! !!)</org>
+        <en>\Reserved Space No Access</en>
+    </counter>
+    <counter>
+        <org>\[Q2xRH](Ѓèśέřνėđ Ѕφªсε Ѓėάð Øŋℓγ !!! !!)</org>
+        <en>\Reserved Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\[33T08](Γëšêřνеđ Ѕρªĉē Яєáđ/Ŵŕιтė !!! !!!)</org>
+        <en>\Reserved Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\[Ti5OH](Гέşéяνεđ Şþąĉê Ẃřĭтĕ ČôþУ !!! !!!)</org>
+        <en>\Reserved Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\[ECVmu](Ŕėŝëѓνěð Ѕφāçē Ėхзĉůтдвℓ℮ !!! !!!)</org>
+        <en>\Reserved Space Executable</en>
+    </counter>
+    <counter>
+        <org>\[cgJW0](Ґĕšєřνєδ Ѕφãċë Е×ες Ŗęâď Фñŀý !!! !!! )</org>
+        <en>\Reserved Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\[xNl7l](Ґэšëřνěð Şρаċ℮ Ëжèć Ґєдδ/Щřîтз !!! !!! )</org>
+        <en>\Reserved Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\[TJx3N](Ίмάğэ !)</org>
+        <en>\Image</en>
+    </counter>
+    <counter>
+        <org>\[31kb8](Řęѕěřνёď Ŝрāčé Ę×ê¢ Ẁŗΐţë Čõφў !!! !!! )</org>
+        <en>\Reserved Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\[mtVQK](Ůпãŝѕïĝńέð Śρą¢ε Ňο Áćсêѕš !!! !!!)</org>
+        <en>\Unassigned Space No Access</en>
+    </counter>
+    <counter>
+        <org>\[IzROR](Ųňáşşіĝŉěð Şφäç℮ Ŕēąď Фŋĺŷ !!! !!!)</org>
+        <en>\Unassigned Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\[J7niL](Цлäѕşĭģņέδ Şρąċе Γёäď/Ẁґíτē !!! !!!)</org>
+        <en>\Unassigned Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\[uS850](Ûņªš§ιģиеď Ŝφá¢ě Щѓīтę €οþγ !!! !!!)</org>
+        <en>\Unassigned Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\[kM8ha](Ůйǻŝşįġŋėð Ѕрåςέ Зжęсúŧãьł℮ !!! !!!)</org>
+        <en>\Unassigned Space Executable</en>
+    </counter>
+    <counter>
+        <org>\[retdf](Џиã§ŝīġήέď Śрāĉê Зхè¢ Яεаđ Флľγ !!! !!! )</org>
+        <en>\Unassigned Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\[hQrkS](Ųйªśѕìġņέď Ѕþǻ¢ę Єхέс Яèǻď/Ŵŗîťē !!! !!! !)</org>
+        <en>\Unassigned Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\[SrKZV](Цήåššΐģπěð Ŝрасε Έхèĉ Щŗìтĕ Ĉòφý !!! !!! !)</org>
+        <en>\Unassigned Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\[yIRJ2](Ϊmàġє Ŝρªςє Ńό Ã¢ĉěśš !!! !)</org>
+        <en>\Image Space No Access</en>
+    </counter>
+    <counter>
+        <org>\[GLQOE](Įmàģě Śрάçэ Γéąδ Όňŀγ !!! !)</org>
+        <en>\Image Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\[gpkda](Ìмáġê Şράςё Ŗéąď/Ẅяĭţэ !!! !!)</org>
+        <en>\Image Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\[qMj5Y](Їмаģè Śρāсê Шŗĭŧз Ċσру !!! !!)</org>
+        <en>\Image Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\[PttBA](Íмáġē Śρàĉé É×ęĉύτдвℓé !!! !!)</org>
+        <en>\Image Space Executable</en>
+    </counter>
+    <counter>
+        <org>\[VxC2O](Ĭmªģε Ѕρǻċе Є×εĉ Ŕėαδ Οňľý !!! !!!)</org>
+        <en>\Image Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\[GJWy9](Ĩmǻģє Ѕραςė Єхěč Γėàđ/Щгĭτê !!! !!!)</org>
+        <en>\Image Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\[RpVn9](Ϊмдğė Ѕþā¢е Ę×έ¢ Ẃřіţє Сőφу !!! !!!)</org>
+        <en>\Image Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\[eqIm4](Ьγтęѕ Ìmăġε Řэś℮яνèδ !!! !)</org>
+        <en>\Bytes Image Reserved</en>
+    </counter>
+    <counter>
+        <org>\[55rpg](Ьỳтéŝ Їmåġε ₣ґэέ !!! )</org>
+        <en>\Bytes Image Free</en>
+    </counter>
+    <counter>
+        <org>\[GlIWW](ßўт℮ş Řęŝёŕνέď !!!)</org>
+        <en>\Bytes Reserved</en>
+    </counter>
+    <counter>
+        <org>\[jz0xS](Βγţĕѕ ₣řеё !!)</org>
+        <en>\Bytes Free</en>
+    </counter>
+    <counter>
+        <org>\[EDS5E](ÌĐ Рřôćėѕѕ !!)</org>
+        <en>\ID Process</en>
+    </counter>
+    <counter>
+        <org>\[YMEtb](Рґόčεšş ∆đďяèšś Šρáςε !!! !)</org>
+        <en>\Process Address Space</en>
+    </counter>
+    <counter>
+        <org>\[lSQ92](Ňб Д¢ςέş§ !!)</org>
+        <en>\No Access</en>
+    </counter>
+    <counter>
+        <org>\[wbuaa](Гεáð Òиļу !!)</org>
+        <en>\Read Only</en>
+    </counter>
+    <counter>
+        <org>\[aHN74](Гέåδ/Шґíţε !!)</org>
+        <en>\Read/Write</en>
+    </counter>
+    <counter>
+        <org>\[HXhQl](Ŵґíŧé Ćбφỳ !!)</org>
+        <en>\Write Copy</en>
+    </counter>
+    <counter>
+        <org>\[ayCOG](ĘжзčύţªБłé !!)</org>
+        <en>\Executable</en>
+    </counter>
+    <counter>
+        <org>\[v9VN7](Έ×ęς Γėдð ΦйľУ !!!)</org>
+        <en>\Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\[3TjO9](Єжėс Ґěāδ/Щŗіťе !!!)</org>
+        <en>\Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\[miKnz](Έжēс Щгĭţэ Ċŏρў !!!)</org>
+        <en>\Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\[KVFqn](ĮÐ Ţĥřëäδ !!)</org>
+        <en>\ID Thread</en>
+    </counter>
+    <counter>
+        <org>\[S0b7q](Мдïĺśŀõт Ґēćëĩνėѕ ₣äĩℓέδ !!! !!)</org>
+        <en>\Mailslot Receives Failed</en>
+    </counter>
+    <counter>
+        <org>\[HdXj9](Μдìĺšļόť Ẅѓітε§ ₣άíļëð !!! !!)</org>
+        <en>\Mailslot Writes Failed</en>
+    </counter>
+    <counter>
+        <org>\[yVZXu](Μâíľŝľǿŧ Орзήś ₣ăĩℓéđ/šêċ !!! !!!)</org>
+        <en>\Mailslot Opens Failed/sec</en>
+    </counter>
+    <counter>
+        <org>\[X8rzI](Ďϋφľĭćąŧē Мǻŝτëг Ǻňηŏūπ¢еmέňŧѕ !!! !!! )</org>
+        <en>\Duplicate Master Announcements</en>
+    </counter>
+    <counter>
+        <org>\[Rllua](Іĺłēģǻℓ Ďáтдğґãмš/ѕ℮ç !!! !)</org>
+        <en>\Illegal Datagrams/sec</en>
+    </counter>
+    <counter>
+        <org>\[YnGO4](Ťнřĕдď Đêťªΐℓѕ !!!)</org>
+        <en>\Thread Details</en>
+    </counter>
+    <counter>
+        <org>\[lE4cj](€аčħë βγţēŝ !!)</org>
+        <en>\Cache Bytes</en>
+    </counter>
+    <counter>
+        <org>\[3iSqZ](Ċаċђε Βγτέѕ Ρèãκ !!! )</org>
+        <en>\Cache Bytes Peak</en>
+    </counter>
+    <counter>
+        <org>\[qcLQZ](Рάģëş İпþџť/ş℮ċ !!!)</org>
+        <en>\Pages Input/sec</en>
+    </counter>
+    <counter>
+        <org>\[RsOW1](Ťґåπ§íтΐōπ Ρâĝзś ЯêÞцѓþőŝεď/şеç !!! !!! )</org>
+        <en>\Transition Pages RePurposed/sec</en>
+    </counter>
+    <counter>
+        <org>\[0FBvn](ßуťęѕ Ŧŕдлŝmΐťŧĕď !!! )</org>
+        <en>\Bytes Transmitted</en>
+    </counter>
+    <counter>
+        <org>\[CO14k](ßуŧеš Ґє¢еïν℮ď !!!)</org>
+        <en>\Bytes Received</en>
+    </counter>
+    <counter>
+        <org>\[GQQDl](₣ŕămєѕ Ŧŕªήşмĩťтєδ !!! )</org>
+        <en>\Frames Transmitted</en>
+    </counter>
+    <counter>
+        <org>\[rVNas](₣ґâmĕś Ŕèçěîνёď. !!! )</org>
+        <en>\Frames Received.</en>
+    </counter>
+    <counter>
+        <org>\[XM9BM](Þêґćēŉŧ Ċθмφŗěšѕιőñ Õϋţ !!! !!)</org>
+        <en>\Percent Compression Out</en>
+    </counter>
+    <counter>
+        <org>\[9res0](Рεŗċ℮ηť Čômρřэśѕίθη Ìп !!! !!)</org>
+        <en>\Percent Compression In</en>
+    </counter>
+    <counter>
+        <org>\[aCYJM](ČҐĈ Ёŕгóŗş !!)</org>
+        <en>\CRC Errors</en>
+    </counter>
+    <counter>
+        <org>\[fZ0E6](Тîmэŏůŧ Ěгяöŗš !!!)</org>
+        <en>\Timeout Errors</en>
+    </counter>
+    <counter>
+        <org>\[RSARe](Ѕěѓΐāŀ Óνеяŗŭπ Єŗяŏŕŝ !!! !)</org>
+        <en>\Serial Overrun Errors</en>
+    </counter>
+    <counter>
+        <org>\[aR46P](Ãĺïĝηmέŉť Ëŕŗόŗѕ !!! )</org>
+        <en>\Alignment Errors</en>
+    </counter>
+    <counter>
+        <org>\[Y5CSz](Βцƒƒĕя Óνēгřűи Σřřøяš !!! !)</org>
+        <en>\Buffer Overrun Errors</en>
+    </counter>
+    <counter>
+        <org>\[2aC4j](Тǿŧäĺ Σřгǿгş !!!)</org>
+        <en>\Total Errors</en>
+    </counter>
+    <counter>
+        <org>\[agCD8](ßУťеѕ Ťřäņšmίтťεδ/Şëς !!! !)</org>
+        <en>\Bytes Transmitted/Sec</en>
+    </counter>
+    <counter>
+        <org>\[uZeQu](ßўτёś Ґεĉèįνеď/Ѕеċ !!! )</org>
+        <en>\Bytes Received/Sec</en>
+    </counter>
+    <counter>
+        <org>\[mEzuX](₣řäм℮ş Ţґªŋśмìŧтęđ/Šеς !!! !!)</org>
+        <en>\Frames Transmitted/Sec</en>
+    </counter>
+    <counter>
+        <org>\[meOoR](₣гªмêš Ř℮ćēіνēδ/Śěç !!! !)</org>
+        <en>\Frames Received/Sec</en>
+    </counter>
+    <counter>
+        <org>\[Elt6Q](Ŧóŧąĺ ∑řѓóяş/Ѕэ¢ !!! )</org>
+        <en>\Total Errors/Sec</en>
+    </counter>
+    <counter>
+        <org>\[ClJLz](Ťбτдł Ćőńñēçťϊòпś !!! )</org>
+        <en>\Total Connections</en>
+    </counter>
+    <counter>
+        <org>\[NG5cA](ШĨŇŜ Śёŕνęŕ !!)</org>
+        <en>\WINS Server</en>
+    </counter>
+    <counter>
+        <org>\[PCN8t](Űⁿìqůё Ŗėĝĭ§ŧгāťίолś/ŝёς !!! !!)</org>
+        <en>\Unique Registrations/sec</en>
+    </counter>
+    <counter>
+        <org>\[7SqqQ](Ğřǿüφ Řеģιѕŧѓǻŧïőήş/§эċ !!! !!)</org>
+        <en>\Group Registrations/sec</en>
+    </counter>
+    <counter>
+        <org>\[J1Sn7](Ŧöτãł ÑυmБ℮г όƒ Яэĝîŝтґãтîóпš/ѕĕç !!! !!! !)</org>
+        <en>\Total Number of Registrations/sec</en>
+    </counter>
+    <counter>
+        <org>\[mef0l](Ůņīqϋĕ Ґèйэщâℓŝ/§эċ !!! !)</org>
+        <en>\Unique Renewals/sec</en>
+    </counter>
+    <counter>
+        <org>\[UerU8](Ģѓóũφ Řëлëώάĺş/§зć !!! )</org>
+        <en>\Group Renewals/sec</en>
+    </counter>
+    <counter>
+        <org>\[lku4D](Ťôтàľ ∏υмъéŗ όƒ Ґєňëщåļş/§зĉ !!! !!!)</org>
+        <en>\Total Number of Renewals/sec</en>
+    </counter>
+    <counter>
+        <org>\[pK1tT](Яêŀèªšęš/ѕзċ !!!)</org>
+        <en>\Releases/sec</en>
+    </counter>
+    <counter>
+        <org>\[1OaZl](Qũêříэš/ŝĕç !!)</org>
+        <en>\Queries/sec</en>
+    </counter>
+    <counter>
+        <org>\[3L2mS](Ùήίqůě Çθйƒłιćťş/şĕć !!! !)</org>
+        <en>\Unique Conflicts/sec</en>
+    </counter>
+    <counter>
+        <org>\[mh1Zj](Ġѓòΰφ Çόлƒŀĩĉŧŝ/śёč !!! !)</org>
+        <en>\Group Conflicts/sec</en>
+    </counter>
+    <counter>
+        <org>\[AMpDs](Ťòτàŀ Ñµmьèŗ øƒ Čõňƒļїćŧѕ/ŝ℮ć !!! !!! )</org>
+        <en>\Total Number of Conflicts/sec</en>
+    </counter>
+    <counter>
+        <org>\[X7k6K](Śūċčéŝŝƒųļ Γёļêą§ĕš/§ěс !!! !!)</org>
+        <en>\Successful Releases/sec</en>
+    </counter>
+    <counter>
+        <org>\[LBCVs](₣ªíłзð Řěĺεąѕєş/şęċ !!! !)</org>
+        <en>\Failed Releases/sec</en>
+    </counter>
+    <counter>
+        <org>\[bTJp1](Ŝυссěŝşƒũĺ Qũëŗіėŝ/ŝεć !!! !!)</org>
+        <en>\Successful Queries/sec</en>
+    </counter>
+    <counter>
+        <org>\[ZwaQK](₣ªîļëð Qůέŕΐęş/šεč !!! )</org>
+        <en>\Failed Queries/sec</en>
+    </counter>
+    <counter>
+        <org>\[CusgS](Ηäňðℓе Ċσųит !!!)</org>
+        <en>\Handle Count</en>
+    </counter>
+    <counter>
+        <org>\[3ebBE](Μас₣īļз Ŝзѓνęѓ !!!)</org>
+        <en>\MacFile Server</en>
+    </counter>
+    <counter>
+        <org>\[DAzA3](Мªж Ρàģěď Мěmòґγ !!! )</org>
+        <en>\Max Paged Memory</en>
+    </counter>
+    <counter>
+        <org>\[L0Mrj](Čυŕяεлť Рăģєđ ΜемόŕУ !!! !)</org>
+        <en>\Current Paged Memory</en>
+    </counter>
+    <counter>
+        <org>\[uOgPX](Мáх ПǿŉΡǻġеđ Μέmоřÿ !!! !)</org>
+        <en>\Max NonPaged Memory</en>
+    </counter>
+    <counter>
+        <org>\[XLUYk](Čцŗяēпт ΝòŉΡάģεδ mеmŏŕỳ !!! !!)</org>
+        <en>\Current NonPaged memory</en>
+    </counter>
+    <counter>
+        <org>\[3B9Lk](Сûгřεηť Ŝëşѕïŏйš !!! )</org>
+        <en>\Current Sessions</en>
+    </counter>
+    <counter>
+        <org>\[cWADt](Мàхіmŭм Śèšѕíόñš !!! )</org>
+        <en>\Maximum Sessions</en>
+    </counter>
+    <counter>
+        <org>\[4C15O](Çũгяєńť ₣ίℓеś Оþёη !!! )</org>
+        <en>\Current Files Open</en>
+    </counter>
+    <counter>
+        <org>\[kP3hK](Μā×ĭмůм ₣īĺëš Óрėή !!! )</org>
+        <en>\Maximum Files Open</en>
+    </counter>
+    <counter>
+        <org>\[4GOT9](₣äįŀęð Ļöġοñš !!!)</org>
+        <en>\Failed Logons</en>
+    </counter>
+    <counter>
+        <org>\[zadej](Đàţα Řėāđ/ѕěç !!!)</org>
+        <en>\Data Read/sec</en>
+    </counter>
+    <counter>
+        <org>\[IwJRb](Ďąţª Ẃяĭŧτęл/§ęč !!! )</org>
+        <en>\Data Written/sec</en>
+    </counter>
+    <counter>
+        <org>\[XvOp2](Ðàťá Ґє¢ěινēδ/ŝέč !!! )</org>
+        <en>\Data Received/sec</en>
+    </counter>
+    <counter>
+        <org>\[q7cvQ](Ďατǻ Ţřаⁿ§міţţëđ/şéċ !!! !)</org>
+        <en>\Data Transmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\[xs3ga](Çùŗŗęñτ Qûéџę Łєйģτħ !!! !)</org>
+        <en>\Current Queue Length</en>
+    </counter>
+    <counter>
+        <org>\[pJPg3](Мå×ĩмūм Qûεџε Łēлĝţн !!! !)</org>
+        <en>\Maximum Queue Length</en>
+    </counter>
+    <counter>
+        <org>\[M8uvX](Ćůяŗėŉţ Тђřєâδѕ !!!)</org>
+        <en>\Current Threads</en>
+    </counter>
+    <counter>
+        <org>\[4eniZ](Μāжїmύm Ťћřèάδ§ !!!)</org>
+        <en>\Maximum Threads</en>
+    </counter>
+    <counter>
+        <org>\[Besro](ĀррļεŤαľĸ !!)</org>
+        <en>\AppleTalk</en>
+    </counter>
+    <counter>
+        <org>\[yMPU1](Þâċĸęтŝ Ìñ/šëć !!!)</org>
+        <en>\Packets In/sec</en>
+    </counter>
+    <counter>
+        <org>\[VBzeD](Ρåçќėťš Ωúţ/ş℮ς !!!)</org>
+        <en>\Packets Out/sec</en>
+    </counter>
+    <counter>
+        <org>\[zLjVe](Вýţěş Ĭŋ/šēċ !!!)</org>
+        <en>\Bytes In/sec</en>
+    </counter>
+    <counter>
+        <org>\[a08XM](ЪУŧєŝ Øũţ/šёč !!!)</org>
+        <en>\Bytes Out/sec</en>
+    </counter>
+    <counter>
+        <org>\[XxrxW](Дνέřâĝз Τímε/ĐÐР Рäċĸęť !!! !!)</org>
+        <en>\Average Time/DDP Packet</en>
+    </counter>
+    <counter>
+        <org>\[K41UF](ĎÐР Ρäсκέŧѕ/§е¢ !!!)</org>
+        <en>\DDP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\[YtLsY](Åνεѓàğĕ Ţïmέ/ÁΔŘР Ρдčкěŧ !!! !!)</org>
+        <en>\Average Time/AARP Packet</en>
+    </counter>
+    <counter>
+        <org>\[vNf7f](ÃΛΓÞ Þäčĸêťš/šеς !!! )</org>
+        <en>\AARP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\[Lj8lN](Åν℮яαĝē Ťΐmę/ǺŦΡ Þă¢ĸëτ !!! !!)</org>
+        <en>\Average Time/ATP Packet</en>
+    </counter>
+    <counter>
+        <org>\[3xn56](ÂΤÞ Ρà¢κёţš/şëç !!!)</org>
+        <en>\ATP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\[91Dua](Åνéŕãģė Ţїмĕ/ЙβР Þáċķετ !!! !!)</org>
+        <en>\Average Time/NBP Packet</en>
+    </counter>
+    <counter>
+        <org>\[udH8T](ÑЪΡ Þäćкέŧś/§еç !!!)</org>
+        <en>\NBP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\[m1l3t](Ăνзŕåģę Τĭmє/ΖΪΡ Þãċκет !!! !!)</org>
+        <en>\Average Time/ZIP Packet</en>
+    </counter>
+    <counter>
+        <org>\[tpxyu](ŻÍΡ Рάčќéтş/şєċ !!!)</org>
+        <en>\ZIP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\[GpgCj](Ăνέřªĝĕ Ţΐмέ/ГΤМР Ρâςкęτ !!! !!)</org>
+        <en>\Average Time/RTMP Packet</en>
+    </counter>
+    <counter>
+        <org>\[9j654](ЃŤМР Ράςĸэтş/šéć !!! )</org>
+        <en>\RTMP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\[PcE34](ǺΤР Яĕťгįεš £ô¢âŀ !!! )</org>
+        <en>\ATP Retries Local</en>
+    </counter>
+    <counter>
+        <org>\[ZkKE7](ǺΤР Я℮ѕрǿπѕė Ŧімοџтş !!! !)</org>
+        <en>\ATP Response Timouts</en>
+    </counter>
+    <counter>
+        <org>\[sEW10](ÄŢР χǾ Яèšþόŉšë/Ѕес !!! !)</org>
+        <en>\ATP XO Response/Sec</en>
+    </counter>
+    <counter>
+        <org>\[7hEQx](ĀŤР ΆĹΟ Ґ℮şрθñšέ/Šэç !!! !)</org>
+        <en>\ATP ALO Response/Sec</en>
+    </counter>
+    <counter>
+        <org>\[nVt1o](ΆТÞ Ѓē¢νď Гěĺèăşё/Ѕèċ !!! !)</org>
+        <en>\ATP Recvd Release/Sec</en>
+    </counter>
+    <counter>
+        <org>\[K0jEU](Ĉüřřεπţ ЛόηÞªġёδ Рσоŀ !!! !)</org>
+        <en>\Current NonPaged Pool</en>
+    </counter>
+    <counter>
+        <org>\[0FxRh](Þàçĸēť§ Ѓǿџťêď Іи/Ѕес !!! !)</org>
+        <en>\Packets Routed In/Sec</en>
+    </counter>
+    <counter>
+        <org>\[r8cMZ](Þâčκέťš ðгθφþ℮δ !!!)</org>
+        <en>\Packets dropped</en>
+    </counter>
+    <counter>
+        <org>\[8SH7X](ДŢР Яêţŕΐěş Ŗёmøтê !!! )</org>
+        <en>\ATP Retries Remote</en>
+    </counter>
+    <counter>
+        <org>\[s60ng](Ρàçќĕŧš Γőύťèđ Öūτ/Śėç !!! !!)</org>
+        <en>\Packets Routed Out/Sec</en>
+    </counter>
+    <counter>
+        <org>\[eAm64](Ńèŧшόгĸ Ѕèğмзηŧ !!!)</org>
+        <en>\Network Segment</en>
+    </counter>
+    <counter>
+        <org>\[U5MkZ](Τöťªℓ ƒřâmзŝ ґèĉēĩνεð/§е¢òńď !!! !!!)</org>
+        <en>\Total frames received/second</en>
+    </counter>
+    <counter>
+        <org>\[FaLXO](Ţòтαļ ъутεѕ řéčêіνзδ/şé¢όŋď !!! !!!)</org>
+        <en>\Total bytes received/second</en>
+    </counter>
+    <counter>
+        <org>\[QsAb4](Ъгõαďčąśτ ƒřāmė§ ŗěсęινēδ/ŝëćопď !!! !!! !)</org>
+        <en>\Broadcast frames received/second</en>
+    </counter>
+    <counter>
+        <org>\[rquId](Мŭļţĭçåşţ ƒгàмė§ řĕćέινεð/śë¢ŏŋδ !!! !!! !)</org>
+        <en>\Multicast frames received/second</en>
+    </counter>
+    <counter>
+        <org>\[4RUWP](% Йéтώǿŗķ ųťìļιżāŧίőņ !!! !)</org>
+        <en>\% Network utilization</en>
+    </counter>
+    <counter>
+        <org>\[24s6R](% Ьгôаδçąšт ₣ŕдmеş !!! )</org>
+        <en>\% Broadcast Frames</en>
+    </counter>
+    <counter>
+        <org>\[SxjoB](% Мūļтісâšτ ₣řämз§ !!! )</org>
+        <en>\% Multicast Frames</en>
+    </counter>
+    <counter>
+        <org>\[9nE35](Τёŀėρĥσňÿ !!)</org>
+        <en>\Telephony</en>
+    </counter>
+    <counter>
+        <org>\[4nYaI](Łιŋēš !)</org>
+        <en>\Lines</en>
+    </counter>
+    <counter>
+        <org>\[RChFA](Ŧęŀέþђóйё Đ℮νіĉзş !!! )</org>
+        <en>\Telephone Devices</en>
+    </counter>
+    <counter>
+        <org>\[SK38u](Λċţϊνĕ Ļìиě§ !!!)</org>
+        <en>\Active Lines</en>
+    </counter>
+    <counter>
+        <org>\[YKqr7](Άçţíνэ Ţêŀерђóиеš !!! )</org>
+        <en>\Active Telephones</en>
+    </counter>
+    <counter>
+        <org>\[YvBm0](Ωűтĝõіηģ Çαľŀś/§έċ !!! )</org>
+        <en>\Outgoing Calls/sec</en>
+    </counter>
+    <counter>
+        <org>\[Pk14Y](Įņĉбмίŋġ Сãľℓ§/ѕэč !!! )</org>
+        <en>\Incoming Calls/sec</en>
+    </counter>
+    <counter>
+        <org>\[MDPn6](Сļīěиť Дрρ§ !!)</org>
+        <en>\Client Apps</en>
+    </counter>
+    <counter>
+        <org>\[yx3wJ](Çùяязπţ Øūŧġσĩпġ Ĉåℓľş !!! !!)</org>
+        <en>\Current Outgoing Calls</en>
+    </counter>
+    <counter>
+        <org>\[4aZeY](€ūřгєŋτ Ìήćόмīηġ Сáļľ§ !!! !!)</org>
+        <en>\Current Incoming Calls</en>
+    </counter>
+    <counter>
+        <org>\[ACDre](Рάćκéţ Ьµřѕт Ŕėдð ЙĆР Čбųит/§еς !!! !!! )</org>
+        <en>\Packet Burst Read NCP Count/sec</en>
+    </counter>
+    <counter>
+        <org>\[4CSbL](Þάсќëţ Вūг§ţ Řеάδ Τîмęόüŧŝ/ѕεĉ !!! !!! )</org>
+        <en>\Packet Burst Read Timeouts/sec</en>
+    </counter>
+    <counter>
+        <org>\[LY21D](Ρäĉкэť Ьúгśť Ŵяιŧэ ŃÇΡ Сбμит/šèċ !!! !!! !)</org>
+        <en>\Packet Burst Write NCP Count/sec</en>
+    </counter>
+    <counter>
+        <org>\[7xOJm](Рǻςκэţ Ъűŗšţ Шгĭŧè Τĭmēоûťś/ŝëс !!! !!! )</org>
+        <en>\Packet Burst Write Timeouts/sec</en>
+    </counter>
+    <counter>
+        <org>\[i6tcZ](Ρǻĉκзт Вμяšτ ĨФ/ѕêĉ !!! !)</org>
+        <en>\Packet Burst IO/sec</en>
+    </counter>
+    <counter>
+        <org>\[ylV3o](£óģǿπ Ŧθťäł !!)</org>
+        <en>\Logon Total</en>
+    </counter>
+    <counter>
+        <org>\[hZJ5y](Ѕєгνεŕ Ẃōřќ Qϋĕúē§ !!! )</org>
+        <en>\Server Work Queues</en>
+    </counter>
+    <counter>
+        <org>\[DnPNL](Qűéúè Ĺēηġтħ !!!)</org>
+        <en>\Queue Length</en>
+    </counter>
+    <counter>
+        <org>\[NC1tN](Âċťĭνє Ţħŗêαð§ !!!)</org>
+        <en>\Active Threads</en>
+    </counter>
+    <counter>
+        <org>\[P3PnN](ÄνăĭŀâБłз Ŧћгĕάðś !!! )</org>
+        <en>\Available Threads</en>
+    </counter>
+    <counter>
+        <org>\[r4ckt](Ăνàΐļāьľз Шòѓķ Їţĕm§ !!! !)</org>
+        <en>\Available Work Items</en>
+    </counter>
+    <counter>
+        <org>\[yLdPx](Ьøґгòшêđ Шòґк Ίţэmѕ !!! !)</org>
+        <en>\Borrowed Work Items</en>
+    </counter>
+    <counter>
+        <org>\[mYI2U](Ẅόŗк Ϊťêм Ŝħòѓтäğėś !!! !)</org>
+        <en>\Work Item Shortages</en>
+    </counter>
+    <counter>
+        <org>\[MoICs](Сύѓѓēņт Čļĭёпŧš !!!)</org>
+        <en>\Current Clients</en>
+    </counter>
+    <counter>
+        <org>\[z1AIj](Вÿţēş Ťřáйşƒёŗŗэð/ѕēç !!! !)</org>
+        <en>\Bytes Transferred/sec</en>
+    </counter>
+    <counter>
+        <org>\[KaQ8N](Яēáď ßўţĕ§/şєć !!!)</org>
+        <en>\Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[JbIlQ](Шгïŧę Ъýтêš/ѕе¢ !!!)</org>
+        <en>\Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[jjiHb](Ťőŧǻł Òρěŕªτĭόñş/şзç !!! !)</org>
+        <en>\Total Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\[wEaDQ](ĎΡĆ§ Qџзϋěď/şę¢ !!!)</org>
+        <en>\DPCs Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\[HLdeZ](ĎΡĊ Řαţě !)</org>
+        <en>\DPC Rate</en>
+    </counter>
+    <counter>
+        <org>\[6Y0wH](Τøŧªℓ ÐРĊš Qυєůĕð/ѕéć !!! !)</org>
+        <en>\Total DPCs Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\[Bfl1D](Тöŧăℓ ÐΡĆ Ŕªŧê !!!)</org>
+        <en>\Total DPC Rate</en>
+    </counter>
+    <counter>
+        <org>\[icX8L](% Ŕėĝĭšťгý Qũöтá Īŉ Ųşé !!! !!)</org>
+        <en>\% Registry Quota In Use</en>
+    </counter>
+    <counter>
+        <org>\[Mkukm](V£ М℮móяУ !!)</org>
+        <en>\VL Memory</en>
+    </counter>
+    <counter>
+        <org>\[aARPf](VĽМ % Vιŕтцαĺ Ŝīžĕ Ίи Üš℮ !!! !!!)</org>
+        <en>\VLM % Virtual Size In Use</en>
+    </counter>
+    <counter>
+        <org>\[rKZ9E](V₤Μ Vιřťûáľ Šìžê !!! )</org>
+        <en>\VLM Virtual Size</en>
+    </counter>
+    <counter>
+        <org>\[a6Uhw](VĿМ Vїřŧμªŀ Ѕîżę Рзªќ !!! !)</org>
+        <en>\VLM Virtual Size Peak</en>
+    </counter>
+    <counter>
+        <org>\[gTgvb](VĽМ Víгтџăĺ Ѕîźє ǺνдіℓдБłэ !!! !!!)</org>
+        <en>\VLM Virtual Size Available</en>
+    </counter>
+    <counter>
+        <org>\[G49g1](VĻΜ Çömmіŧ Ćнåŗğэ !!! )</org>
+        <en>\VLM Commit Charge</en>
+    </counter>
+    <counter>
+        <org>\[QTL4z](V£М Çôмmіť Ĉћãŕĝë Рěαĸ !!! !!)</org>
+        <en>\VLM Commit Charge Peak</en>
+    </counter>
+    <counter>
+        <org>\[2nE07](Ŝу§тèм VĿМ Сοммιŧ Ćћдгģє !!! !!)</org>
+        <en>\System VLM Commit Charge</en>
+    </counter>
+    <counter>
+        <org>\[jYQsv](ŚУśţеm V₤Μ €οммϊţ €ħаŗģέ Ρёäĸ !!! !!! )</org>
+        <en>\System VLM Commit Charge Peak</en>
+    </counter>
+    <counter>
+        <org>\[II5v1](Ѕў§τєm VĹМ Ѕĥâґеδ Ćомmїţ Сђаѓġ℮ !!! !!! )</org>
+        <en>\System VLM Shared Commit Charge</en>
+    </counter>
+    <counter>
+        <org>\[FdnrI](Λνаĩļãвℓě Кßŷŧεŝ !!! )</org>
+        <en>\Available KBytes</en>
+    </counter>
+    <counter>
+        <org>\[a40fl](Àνǻΐļǻъℓë МΒỳťěš !!! )</org>
+        <en>\Available MBytes</en>
+    </counter>
+    <counter>
+        <org>\[LAUeK](Λνģ. Đįŝќ Qŭеџę Ŀėⁿġťђ !!! !!)</org>
+        <en>\Avg. Disk Queue Length</en>
+    </counter>
+    <counter>
+        <org>\[O99d7](Åνġ. Đîşκ Ŗ℮αđ Qũëűè Ľейġťн !!! !!!)</org>
+        <en>\Avg. Disk Read Queue Length</en>
+    </counter>
+    <counter>
+        <org>\[I4118](Áνĝ. Ďìšк Ŵѓϊτе Qúěůє ₤εñğτћ !!! !!!)</org>
+        <en>\Avg. Disk Write Queue Length</en>
+    </counter>
+    <counter>
+        <org>\[xil9u](% Ċömmĭŧťёð Ьуŧëѕ Ίⁿ Úşё !!! !!)</org>
+        <en>\% Committed Bytes In Use</en>
+    </counter>
+    <counter>
+        <org>\[royOx](₣ũĺĺ İmªġе !!)</org>
+        <en>\Full Image</en>
+    </counter>
+    <counter>
+        <org>\[eXizp](Čяёατĭπġ Ρѓőćєѕş ΪĐ !!! !)</org>
+        <en>\Creating Process ID</en>
+    </counter>
+    <counter>
+        <org>\[SEB3h](ΊØ Ѓéǻď Ōрεřåťĭōήš/şéč !!! !!)</org>
+        <en>\IO Read Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\[FckfN](ÍÔ Ẁгĭтє Θþėřāŧïθпѕ/šές !!! !!)</org>
+        <en>\IO Write Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\[NfOh2](ÌŎ Ðáţд Ǿрëŕåťϊθņş/§ěç !!! !!)</org>
+        <en>\IO Data Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\[bTVSS](ÎΩ Фťħēг Фþέŕάтΐóņѕ/§ěč !!! !!)</org>
+        <en>\IO Other Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\[lFd0N](ĬŐ Ґėдδ Βỳτέś/śëč !!! )</org>
+        <en>\IO Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[5QXoR](ĪÓ Ŵŕιтë Βγŧêŝ/ŝĕċ !!! )</org>
+        <en>\IO Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[XJ7nl](ÎΩ Ďăтǻ Ъýŧēŝ/śéç !!! )</org>
+        <en>\IO Data Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[VeT1z](ĬØ Ωŧħěŕ Вўŧεş/ŝèĉ !!! )</org>
+        <en>\IO Other Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\[hC858](Þґĭňţ Qŭεϋе !!)</org>
+        <en>\Print Queue</en>
+    </counter>
+    <counter>
+        <org>\[lUcAE](Ťбτдł ЈôБ§ Рříпτēδ !!! )</org>
+        <en>\Total Jobs Printed</en>
+    </counter>
+    <counter>
+        <org>\[iZ4A1](Вўťéš Þřιņţεð/ŝэс !!! )</org>
+        <en>\Bytes Printed/sec</en>
+    </counter>
+    <counter>
+        <org>\[Mg92g](Тőţáļ Рàģ℮ś Ряίиťзδ !!! !)</org>
+        <en>\Total Pages Printed</en>
+    </counter>
+    <counter>
+        <org>\[us9XW](ĴθБѕ )</org>
+        <en>\Jobs</en>
+    </counter>
+    <counter>
+        <org>\[ZVEme](Яёƒéґэпĉë§ !!)</org>
+        <en>\References</en>
+    </counter>
+    <counter>
+        <org>\[2lw9Z](Μá× Ŕέƒεřèήсėѕ !!!)</org>
+        <en>\Max References</en>
+    </counter>
+    <counter>
+        <org>\[lq5OP](ĴǿБş Ŝφόǿŀĩиğ !!!)</org>
+        <en>\Jobs Spooling</en>
+    </counter>
+    <counter>
+        <org>\[N23Bo](Мä× Јǿъŝ Ѕþόöŀΐņġ !!! )</org>
+        <en>\Max Jobs Spooling</en>
+    </counter>
+    <counter>
+        <org>\[4NKcq](Öûт ôƒ Раρëř Ėřŗŏřş !!! !)</org>
+        <en>\Out of Paper Errors</en>
+    </counter>
+    <counter>
+        <org>\[uGwxi](Лбτ Ґ℮ăďÿ Еяґόřş !!! )</org>
+        <en>\Not Ready Errors</en>
+    </counter>
+    <counter>
+        <org>\[UQuVl](ĴόБ Σяґόŗ§ !!)</org>
+        <en>\Job Errors</en>
+    </counter>
+    <counter>
+        <org>\[cmGKc](Έŋυмέяаţē Пèŧщøřќ Ргιήŧēŗ Ĉąℓŀś !!! !!! )</org>
+        <en>\Enumerate Network Printer Calls</en>
+    </counter>
+    <counter>
+        <org>\[qQ0AY](Άδđ ∏έтωǿŗк Рґϊⁿŧ℮ř Çąľłѕ !!! !!!)</org>
+        <en>\Add Network Printer Calls</en>
+    </counter>
+    <counter>
+        <org>\[Sa4Tx](Ẃǿŕкίлġ Ŝëτ - Рґίνáţэ !!! !)</org>
+        <en>\Working Set - Private</en>
+    </counter>
+    <counter>
+        <org>\[zx5DP](Ẃôŕкìñģ Ѕëт - Ŝĥąŗēď !!! !)</org>
+        <en>\Working Set - Shared</en>
+    </counter>
+    <counter>
+        <org>\[W1qS8](% Ϊðℓэ Тïмê !!)</org>
+        <en>\% Idle Time</en>
+    </counter>
+    <counter>
+        <org>\[VNDr7](Ѕρĺїţ ΊÕ/Ѕē¢ !!!)</org>
+        <en>\Split IO/Sec</en>
+    </counter>
+    <counter>
+        <org>\[27Lr0](ЈõБ ÔБјé¢ŧ !!)</org>
+        <en>\Job Object</en>
+    </counter>
+    <counter>
+        <org>\[ufsMv](Ĉūřѓěηť % Рŕö¢êŝśθг Ŧіmε !!! !!)</org>
+        <en>\Current % Processor Time</en>
+    </counter>
+    <counter>
+        <org>\[4nBzJ](Ċųґгěпţ % Űѕěř Мόδέ Τĭмε !!! !!)</org>
+        <en>\Current % User Mode Time</en>
+    </counter>
+    <counter>
+        <org>\[NPA5u](Ĉϋřŕėлт % Κèгⁿëĺ Μŏδє Τίmê !!! !!!)</org>
+        <en>\Current % Kernel Mode Time</en>
+    </counter>
+    <counter>
+        <org>\[0Rm7m](Ŧнíş Þëяίσð mЅëč - Рґŏçεşšòř !!! !!!)</org>
+        <en>\This Period mSec - Processor</en>
+    </counter>
+    <counter>
+        <org>\[Qx9LX](Ŧħΐѕ Þэгìθδ mŠëс - Ŭ§зѓ Мōđ℮ !!! !!!)</org>
+        <en>\This Period mSec - User Mode</en>
+    </counter>
+    <counter>
+        <org>\[qOUFP](Ŧђīş Þēяΐőď мЅеć - Κęŗņ℮ĺ Моδз !!! !!! )</org>
+        <en>\This Period mSec - Kernel Mode</en>
+    </counter>
+    <counter>
+        <org>\[MU30B](Ραģêѕ/Šèč !!)</org>
+        <en>\Pages/Sec</en>
+    </counter>
+    <counter>
+        <org>\[8LbHI](Ρѓό¢ęѕѕ Ċομпţ - Ťοţáł !!! !)</org>
+        <en>\Process Count - Total</en>
+    </counter>
+    <counter>
+        <org>\[APyW5](Ρяõċέŝѕ Çŏμпť - Åćŧĩνē !!! !!)</org>
+        <en>\Process Count - Active</en>
+    </counter>
+    <counter>
+        <org>\[22wN5](Þѓöςěѕś Ċοůńŧ - Ţегмîηαţєð !!! !!!)</org>
+        <en>\Process Count - Terminated</en>
+    </counter>
+    <counter>
+        <org>\[MOj4X](Тòтάľ mŜεč - Ряø¢εŝşθř !!! !!)</org>
+        <en>\Total mSec - Processor</en>
+    </counter>
+    <counter>
+        <org>\[ejCkU](Ťòτäľ мŠεċ - Ų§èѓ Мŏδе !!! !!)</org>
+        <en>\Total mSec - User Mode</en>
+    </counter>
+    <counter>
+        <org>\[gAx7t](Ťбτäĺ mŠєс - Ķёґлéŀ Мŏδё !!! !!)</org>
+        <en>\Total mSec - Kernel Mode</en>
+    </counter>
+    <counter>
+        <org>\[nhCw2](ŤĊΡν6 !)</org>
+        <en>\TCPv6</en>
+    </counter>
+    <counter>
+        <org>\[5XUid](ЏĐРν6 !)</org>
+        <en>\UDPv6</en>
+    </counter>
+    <counter>
+        <org>\[HbGQB](ĬČΜΡν6 !)</org>
+        <en>\ICMPv6</en>
+    </counter>
+    <counter>
+        <org>\[d0QHw](Ŕзçεîνéδ Рăċкéт Ťόő βìģ !!! !!)</org>
+        <en>\Received Packet Too Big</en>
+    </counter>
+    <counter>
+        <org>\[IrFuX](Ѓέçεіνęď МęmБεřşħїþ Qŭęгу !!! !!!)</org>
+        <en>\Received Membership Query</en>
+    </counter>
+    <counter>
+        <org>\[crX18](Γэ¢ęϊνėđ МēmБêѓѕнϊφ Γёþōяţ !!! !!!)</org>
+        <en>\Received Membership Report</en>
+    </counter>
+    <counter>
+        <org>\[B5OiB](Ŕëćèіνэđ Μёmвέя§нìþ Γ℮ďџčţįöⁿ !!! !!! )</org>
+        <en>\Received Membership Reduction</en>
+    </counter>
+    <counter>
+        <org>\[e5A4B](Ŕ℮¢эîνэď Γοūтęř Ѕŏľįċìť !!! !!)</org>
+        <en>\Received Router Solicit</en>
+    </counter>
+    <counter>
+        <org>\[LHprz](Řéčэїνёð Γöűŧēř ∆ðν℮ґτ !!! !!)</org>
+        <en>\Received Router Advert</en>
+    </counter>
+    <counter>
+        <org>\[zAgV6](Ĵőъ Οвĵεčŧ Ðέтãΐłѕ !!! )</org>
+        <en>\Job Object Details</en>
+    </counter>
+    <counter>
+        <org>\[0krla](Řэć℮ïνèď Пęîğђьοґ Šōļϊçìт !!! !!!)</org>
+        <en>\Received Neighbor Solicit</en>
+    </counter>
+    <counter>
+        <org>\[b2wR9](Ґè¢έîνέð ŇêΐģђБǿя ∆đν℮ґт !!! !!)</org>
+        <en>\Received Neighbor Advert</en>
+    </counter>
+    <counter>
+        <org>\[bqbM7](Ŝєⁿτ Рàскèτ Ťóŏ Ьîġ !!! !)</org>
+        <en>\Sent Packet Too Big</en>
+    </counter>
+    <counter>
+        <org>\[TaffX](Šέⁿţ Мëмьёŕ§ĥίφ Qůëŗу !!! !)</org>
+        <en>\Sent Membership Query</en>
+    </counter>
+    <counter>
+        <org>\[putVi](Ѕēпŧ МęmБêřşћíр Ŗèρóѓŧ !!! !!)</org>
+        <en>\Sent Membership Report</en>
+    </counter>
+    <counter>
+        <org>\[IolHj](Śéŋτ М℮mъèг§ĥїρ Ŕзďŭčтϊôи !!! !!!)</org>
+        <en>\Sent Membership Reduction</en>
+    </counter>
+    <counter>
+        <org>\[q85tw](Şэñт Ŕоųτėґ Ѕθłĩċĭт !!! !)</org>
+        <en>\Sent Router Solicit</en>
+    </counter>
+    <counter>
+        <org>\[7v1Jp](Ŝεņť Ŗōμŧ℮ř Άðνёгт !!! )</org>
+        <en>\Sent Router Advert</en>
+    </counter>
+    <counter>
+        <org>\[MnN9K](Śĕňţ Пèΐğĥъŏŗ Ѕŏŀϊςϊŧ !!! !)</org>
+        <en>\Sent Neighbor Solicit</en>
+    </counter>
+    <counter>
+        <org>\[eq7QU](Śęņŧ Иèĭĝнъōř Аδνеřт !!! !)</org>
+        <en>\Sent Neighbor Advert</en>
+    </counter>
+    <counter>
+        <org>\[2LV3s](Şêćΰŗîťу Ѕỳŝтзm-Ẃïđę Ŝтâтīѕŧįсѕ !!! !!! )</org>
+        <en>\Security System-Wide Statistics</en>
+    </counter>
+    <counter>
+        <org>\[BTOiH](ИŤĿМ Ǻμŧнêηťį¢ăťίǿņ§ !!! !)</org>
+        <en>\NTLM Authentications</en>
+    </counter>
+    <counter>
+        <org>\[WihDh](Ķēѓьέřòş Ąυŧĥеήŧīĉáτïбň§ !!! !!)</org>
+        <en>\Kerberos Authentications</en>
+    </counter>
+    <counter>
+        <org>\[fsFIM](ĶÐĆ ΔŠ Ѓεqύэšŧş !!!)</org>
+        <en>\KDC AS Requests</en>
+    </counter>
+    <counter>
+        <org>\[29jhR](ЌĐÇ ŢĞŞ Řèqμέŝŧ§ !!! )</org>
+        <en>\KDC TGS Requests</en>
+    </counter>
+    <counter>
+        <org>\[9lmav](Şçђåлπéľ Śę§ŝįôи Саċħë Єиŧяΐëѕ !!! !!! )</org>
+        <en>\Schannel Session Cache Entries</en>
+    </counter>
+    <counter>
+        <org>\[8IJDJ](Αčťίνε Ѕĉнǻπňęľ Ŝėşšіǿп Ćâ¢ĥê Ęⁿŧґįě§ !!! !!! !!)</org>
+        <en>\Active Schannel Session Cache Entries</en>
+    </counter>
+    <counter>
+        <org>\[XIoGS](ЅŜŁ €ℓīёŋτ-Şîđє ₣ύŀŀ Нāлďŝнāķέş !!! !!! )</org>
+        <en>\SSL Client-Side Full Handshakes</en>
+    </counter>
+    <counter>
+        <org>\[i7VjX](ŜŞ£ Čĺїёňţ-Şīđę Ŕэčόиήēćŧ Ηάŉðŝћãќēѕ !!! !!! !!)</org>
+        <en>\SSL Client-Side Reconnect Handshakes</en>
+    </counter>
+    <counter>
+        <org>\[qN2z7](ŜЅĽ Şеřνεŕ-Śϊðē ₣µĺľ Ηǻπđśħǻкëš !!! !!! )</org>
+        <en>\SSL Server-Side Full Handshakes</en>
+    </counter>
+    <counter>
+        <org>\[vkz3v](ŚŞ£ Şéŗνĕґ-Şįδє Ŕ℮çöŉńěċт Ħäηðѕĥªκєѕ !!! !!! !!)</org>
+        <en>\SSL Server-Side Reconnect Handshakes</en>
+    </counter>
+    <counter>
+        <org>\[Tqs43](Ďΐģéšŧ Αύτђėήтіςäтìòŋ§ !!! !!)</org>
+        <en>\Digest Authentications</en>
+    </counter>
+    <counter>
+        <org>\[vNjy6](Ѕėçüґΐтγ Ρēŗ-Ргŏсëѕś Ѕţαтįşтįčś !!! !!! )</org>
+        <en>\Security Per-Process Statistics</en>
+    </counter>
+    <counter>
+        <org>\[mUPfK](Ċŗэďэņτίąℓ Ħąŉďĺёś !!! )</org>
+        <en>\Credential Handles</en>
+    </counter>
+    <counter>
+        <org>\[Itfka](Čòпţê×τ Ħάⁿδℓεŝ !!!)</org>
+        <en>\Context Handles</en>
+    </counter>
+    <counter>
+        <org>\[ToYet](₣ŗέэ &amp; Żĕґǿ Þǻĝέ ₤ì§ť βўτė§ !!! !!!)</org>
+        <en>\Free &amp; Zero Page List Bytes</en>
+    </counter>
+    <counter>
+        <org>\[P70ds](Мōðĩƒîéð Ραġè Ļíŝť βỳŧěš !!! !!)</org>
+        <en>\Modified Page List Bytes</en>
+    </counter>
+    <counter>
+        <org>\[l8QKf](ŠŧаηðБŷ Ĉαçĥē Řεѕėѓνé ВУτ℮ŝ !!! !!!)</org>
+        <en>\Standby Cache Reserve Bytes</en>
+    </counter>
+    <counter>
+        <org>\[Qx54E](Şŧдņðъу Ĉаćћє Ňоřмαł Ρґιоŕĭŧỳ Ьўť℮ś !!! !!! !)</org>
+        <en>\Standby Cache Normal Priority Bytes</en>
+    </counter>
+    <counter>
+        <org>\[KteCv](ŜτåиđБў Ĉаćћė Çбŕè Ъÿŧєѕ !!! !!)</org>
+        <en>\Standby Cache Core Bytes</en>
+    </counter>
+    <counter>
+        <org>\[XGVdT](% Íðłё Ŧĭmë !!)</org>
+        <en>\% Idle Time</en>
+    </counter>
+    <counter>
+        <org>\[w9Uos](% Ç1 Ťímè !!)</org>
+        <en>\% C1 Time</en>
+    </counter>
+    <counter>
+        <org>\[QMrJ2](% Ĉ2 Ţїмē !!)</org>
+        <en>\% C2 Time</en>
+    </counter>
+    <counter>
+        <org>\[KV7EL](% С3 Ţįмė !!)</org>
+        <en>\% C3 Time</en>
+    </counter>
+    <counter>
+        <org>\[OWUMt](€1 Ŧŕāńšìŧιòή§/şεć !!! )</org>
+        <en>\C1 Transitions/sec</en>
+    </counter>
+    <counter>
+        <org>\[NOsOZ](Ć2 Ťѓàŋ§ίťìοñ§/§эс !!! )</org>
+        <en>\C2 Transitions/sec</en>
+    </counter>
+    <counter>
+        <org>\[qUqUk](Č3 Ťѓαŉśīтĭōиѕ/ŝэċ !!! )</org>
+        <en>\C3 Transitions/sec</en>
+    </counter>
+    <counter>
+        <org>\[mf2Lu](Ħέãφ )</org>
+        <en>\Heap</en>
+    </counter>
+    <counter>
+        <org>\[6aVgD](Çőмmϊťťéδ Ьўτèŝ !!!)</org>
+        <en>\Committed Bytes</en>
+    </counter>
+    <counter>
+        <org>\[gjNHv](Гė§έґνэδ ßýτ℮ś !!!)</org>
+        <en>\Reserved Bytes</en>
+    </counter>
+    <counter>
+        <org>\[4pJIP](Vîřŧũäł Вуťèš !!!)</org>
+        <en>\Virtual Bytes</en>
+    </counter>
+    <counter>
+        <org>\[yqCUg](₣ѓęê βýтеš !!)</org>
+        <en>\Free Bytes</en>
+    </counter>
+    <counter>
+        <org>\[jY7Um](₣ѓέė Łїşŧ Ĺēηģтђ !!! )</org>
+        <en>\Free List Length</en>
+    </counter>
+    <counter>
+        <org>\[9B4x7](Âνġ. ąļℓŏċ ѓäťє !!!)</org>
+        <en>\Avg. alloc rate</en>
+    </counter>
+    <counter>
+        <org>\[mzbnF](Áνģ. ƒŗëэ řªτё !!!)</org>
+        <en>\Avg. free rate</en>
+    </counter>
+    <counter>
+        <org>\[qeeOQ](Úηĉömмìŧţзđ Řåŋġέѕ Ľеŋĝţђ !!! !!!)</org>
+        <en>\Uncommitted Ranges Length</en>
+    </counter>
+    <counter>
+        <org>\[WjQ3c](Δļłσ¢ŝ - ₣řзę§ !!!)</org>
+        <en>\Allocs - Frees</en>
+    </counter>
+    <counter>
+        <org>\[yGizP](Ĉªсћęδ Ǻℓļθċ§/ŝεč !!! )</org>
+        <en>\Cached Allocs/sec</en>
+    </counter>
+    <counter>
+        <org>\[PAl1a](Čâĉħєđ ₣ѓεèŝ/§з¢ !!! )</org>
+        <en>\Cached Frees/sec</en>
+    </counter>
+    <counter>
+        <org>\[1xlE6](Åℓłǿĉŝ &lt;1Κ/ѕé¢ !!!)</org>
+        <en>\Allocs &lt;1K/sec</en>
+    </counter>
+    <counter>
+        <org>\[AGonf](₣яēз§ &lt;1Κ/śē¢ !!!)</org>
+        <en>\Frees &lt;1K/sec</en>
+    </counter>
+    <counter>
+        <org>\[dI3JT](Ăłŀοċѕ 1-8Κ/ŝęç !!!)</org>
+        <en>\Allocs 1-8K/sec</en>
+    </counter>
+    <counter>
+        <org>\[qH5Z6](₣ŕёεѕ 1-8К/š℮ç !!!)</org>
+        <en>\Frees 1-8K/sec</en>
+    </counter>
+    <counter>
+        <org>\[mbClu](Àĺļбçŝ ŏνĕŕ 8Ќ/ŝє¢ !!! )</org>
+        <en>\Allocs over 8K/sec</en>
+    </counter>
+    <counter>
+        <org>\[ovjYJ](₣яę℮ŝ óνэŕ 8Ķ/ŝę¢ !!! )</org>
+        <en>\Frees over 8K/sec</en>
+    </counter>
+    <counter>
+        <org>\[WHnAY](Ţоŧàĺ Ąĺļθćѕ/ŝë¢ !!! )</org>
+        <en>\Total Allocs/sec</en>
+    </counter>
+    <counter>
+        <org>\[6QqNV](Ťôťаℓ ₣řеêŝ/šεč !!!)</org>
+        <en>\Total Frees/sec</en>
+    </counter>
+    <counter>
+        <org>\[R07KU](Ьĺòçκѕ ĩп Ήзªφ €ǻсĥë !!! !)</org>
+        <en>\Blocks in Heap Cache</en>
+    </counter>
+    <counter>
+        <org>\[9456T](Łāŗģзšτ Çąċĥę Ďèþŧћ !!! !)</org>
+        <en>\Largest Cache Depth</en>
+    </counter>
+    <counter>
+        <org>\[abW4r](% ₣ŗаĝmεŋτǻťïōи !!!)</org>
+        <en>\% Fragmentation</en>
+    </counter>
+    <counter>
+        <org>\[7OVvu](% VÂ₣ѓдġмěňţâťíǿл !!! )</org>
+        <en>\% VAFragmentation</en>
+    </counter>
+    <counter>
+        <org>\[0b6hf](Ħ℮др ₤òçκ čõйŧ℮ⁿţïοη !!! !)</org>
+        <en>\Heap Lock contention</en>
+    </counter>
+    <counter>
+        <org>\[gdj4o](∑ńď Μаґĸέř !!)</org>
+        <en>\End Marker</en>
+    </counter>
+</Counters>

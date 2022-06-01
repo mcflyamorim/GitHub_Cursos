@@ -1,0 +1,1 @@
+"D:\Windows Kits\10\Debuggers\x64\windbg.exe" -y srv*d:\symbols*http://msdl.microsoft.com/download/symbols -pn sqlservr.exe

@@ -1,0 +1,2487 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Counters>
+    <counter>
+        <org>\Systém</org>
+        <en>\System</en>
+    </counter>
+    <counter>
+        <org>\Paměť</org>
+        <en>\Memory</en>
+    </counter>
+    <counter>
+        <org>\% času procesoru</org>
+        <en>\% Processor Time</en>
+    </counter>
+    <counter>
+        <org>\Operace čtení souborů/s</org>
+        <en>\File Read Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Operace zápisu souborů/s</org>
+        <en>\File Write Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Řídicí souborové operace/s</org>
+        <en>\File Control Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Bajty čtení souborů/s</org>
+        <en>\File Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Bajty zápisu souborů/s</org>
+        <en>\File Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Bajty ovládání souborů/s</org>
+        <en>\File Control Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Bajty k dispozici</org>
+        <en>\Available Bytes</en>
+    </counter>
+    <counter>
+        <org>\Svěřené bajty</org>
+        <en>\Committed Bytes</en>
+    </counter>
+    <counter>
+        <org>\Chyby stránek/s</org>
+        <en>\Page Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\Mez svěření</org>
+        <en>\Commit Limit</en>
+    </counter>
+    <counter>
+        <org>\Zápisy kopií/s</org>
+        <en>\Write Copies/sec</en>
+    </counter>
+    <counter>
+        <org>\Chyby převodu stavu/s</org>
+        <en>\Transition Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\Chyby mezipaměti/s</org>
+        <en>\Cache Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\Chyby nulových požadavků/s</org>
+        <en>\Demand Zero Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\Stránky/s</org>
+        <en>\Pages/sec</en>
+    </counter>
+    <counter>
+        <org>\Čtení stránek/s</org>
+        <en>\Page Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Délka fronty procesoru</org>
+        <en>\Processor Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Stav podprocesu</org>
+        <en>\Thread State</en>
+    </counter>
+    <counter>
+        <org>\Výstup stránek/s</org>
+        <en>\Pages Output/sec</en>
+    </counter>
+    <counter>
+        <org>\Zápisy stránek/s</org>
+        <en>\Page Writes/sec</en>
+    </counter>
+    <counter>
+        <org>\Prohlížeč</org>
+        <en>\Browser</en>
+    </counter>
+    <counter>
+        <org>\Ohlášení serverů/s</org>
+        <en>\Announcements Server/sec</en>
+    </counter>
+    <counter>
+        <org>\Bajty stránkovaného fondu</org>
+        <en>\Pool Paged Bytes</en>
+    </counter>
+    <counter>
+        <org>\Bajty nestránkovaného fondu</org>
+        <en>\Pool Nonpaged Bytes</en>
+    </counter>
+    <counter>
+        <org>\Vyhrazení stránkovaného fondu</org>
+        <en>\Pool Paged Allocs</en>
+    </counter>
+    <counter>
+        <org>\Vyhrazení nestránkovaného fondu</org>
+        <en>\Pool Nonpaged Allocs</en>
+    </counter>
+    <counter>
+        <org>\Rezidentní bajty stránkovaného fondu</org>
+        <en>\Pool Paged Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\Celkem bajtů kódu systému</org>
+        <en>\System Code Total Bytes</en>
+    </counter>
+    <counter>
+        <org>\Rezidentní bajty kódu systému</org>
+        <en>\System Code Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\Celkem bajtů systémových ovladačů</org>
+        <en>\System Driver Total Bytes</en>
+    </counter>
+    <counter>
+        <org>\Rezidentní bajty systémových ovladačů</org>
+        <en>\System Driver Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\Rezidentní bajty systémové mezipaměti</org>
+        <en>\System Cache Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\Ohlášení domény/s</org>
+        <en>\Announcements Domain/sec</en>
+    </counter>
+    <counter>
+        <org>\Pakety hlasování/s</org>
+        <en>\Election Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Zápisy do zásuvky pošty/s</org>
+        <en>\Mailslot Writes/sec</en>
+    </counter>
+    <counter>
+        <org>\Žádosti seznamu serverů/s</org>
+        <en>\Server List Requests/sec</en>
+    </counter>
+    <counter>
+        <org>\Mezipaměť</org>
+        <en>\Cache</en>
+    </counter>
+    <counter>
+        <org>\Mapování dat/s</org>
+        <en>\Data Maps/sec</en>
+    </counter>
+    <counter>
+        <org>\Synchronní mapování dat/s</org>
+        <en>\Sync Data Maps/sec</en>
+    </counter>
+    <counter>
+        <org>\Asynchronní mapování dat/s</org>
+        <en>\Async Data Maps/sec</en>
+    </counter>
+    <counter>
+        <org>\Zásahy mapování dat %</org>
+        <en>\Data Map Hits %</en>
+    </counter>
+    <counter>
+        <org>\Držení mapování dat/s</org>
+        <en>\Data Map Pins/sec</en>
+    </counter>
+    <counter>
+        <org>\Čtení držení/s</org>
+        <en>\Pin Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Synchronní čtení držení/s</org>
+        <en>\Sync Pin Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Asynchronní čtení držení/s</org>
+        <en>\Async Pin Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Zásahy čtení držení %</org>
+        <en>\Pin Read Hits %</en>
+    </counter>
+    <counter>
+        <org>\Čtení kopií/s</org>
+        <en>\Copy Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Synchronní čtení kopií/s</org>
+        <en>\Sync Copy Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Asynchronní čtení kopií/s</org>
+        <en>\Async Copy Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Zásahy čtení kopií %</org>
+        <en>\Copy Read Hits %</en>
+    </counter>
+    <counter>
+        <org>\Čtení MDL/s</org>
+        <en>\MDL Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Synchronní čtení MDL/s</org>
+        <en>\Sync MDL Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Asynchronní čtení MDL/s</org>
+        <en>\Async MDL Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Zásahy čtení MDL %</org>
+        <en>\MDL Read Hits %</en>
+    </counter>
+    <counter>
+        <org>\Dopředná čtení/s</org>
+        <en>\Read Aheads/sec</en>
+    </counter>
+    <counter>
+        <org>\Rychlá čtení/s</org>
+        <en>\Fast Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Synchronní rychlá čtení/s</org>
+        <en>\Sync Fast Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Asynchronní rychlá čtení/s</org>
+        <en>\Async Fast Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Neúspěšné přístupy k prostředkům rychlého čtení/s</org>
+        <en>\Fast Read Resource Misses/sec</en>
+    </counter>
+    <counter>
+        <org>\Neumožněná rychlá čtení/s</org>
+        <en>\Fast Read Not Possibles/sec</en>
+    </counter>
+    <counter>
+        <org>\Dopsání opožděných zápisů/s</org>
+        <en>\Lazy Write Flushes/sec</en>
+    </counter>
+    <counter>
+        <org>\Stránky opožděných zápisů/s</org>
+        <en>\Lazy Write Pages/sec</en>
+    </counter>
+    <counter>
+        <org>\Dopsání dat/s</org>
+        <en>\Data Flushes/sec</en>
+    </counter>
+    <counter>
+        <org>\Dopsání dat stránek/s</org>
+        <en>\Data Flush Pages/sec</en>
+    </counter>
+    <counter>
+        <org>\% uživatelského času</org>
+        <en>\% User Time</en>
+    </counter>
+    <counter>
+        <org>\% privilegovaného času</org>
+        <en>\% Privileged Time</en>
+    </counter>
+    <counter>
+        <org>\Přepnutí kontextu/s</org>
+        <en>\Context Switches/sec</en>
+    </counter>
+    <counter>
+        <org>\Přerušení/s</org>
+        <en>\Interrupts/sec</en>
+    </counter>
+    <counter>
+        <org>\Volání systému/s</org>
+        <en>\System Calls/sec</en>
+    </counter>
+    <counter>
+        <org>\Výplní TLB úrovně 1/s</org>
+        <en>\Level 1 TLB Fills/sec</en>
+    </counter>
+    <counter>
+        <org>\Výplní TLB úrovně 2/s</org>
+        <en>\Level 2 TLB Fills/sec</en>
+    </counter>
+    <counter>
+        <org>\Vyčíslení serverů/s</org>
+        <en>\Enumerations Server/sec</en>
+    </counter>
+    <counter>
+        <org>\Vyčíslení domén/s</org>
+        <en>\Enumerations Domain/sec</en>
+    </counter>
+    <counter>
+        <org>\Vyčíslení ostatních/s</org>
+        <en>\Enumerations Other/sec</en>
+    </counter>
+    <counter>
+        <org>\Minutí ohlášení serverů</org>
+        <en>\Missed Server Announcements</en>
+    </counter>
+    <counter>
+        <org>\Minutí datagramů zásuvek pošty</org>
+        <en>\Missed Mailslot Datagrams</en>
+    </counter>
+    <counter>
+        <org>\Minutí žádostí seznamu serverů</org>
+        <en>\Missed Server List Requests</en>
+    </counter>
+    <counter>
+        <org>\Chybné alokace ohlášení serverů/s</org>
+        <en>\Server Announce Allocations Failed/sec</en>
+    </counter>
+    <counter>
+        <org>\Chybné alokace zásuvek pošty</org>
+        <en>\Mailslot Allocations Failed</en>
+    </counter>
+    <counter>
+        <org>\Vrchol virtuálních bajtů</org>
+        <en>\Virtual Bytes Peak</en>
+    </counter>
+    <counter>
+        <org>\Virtuální bajty</org>
+        <en>\Virtual Bytes</en>
+    </counter>
+    <counter>
+        <org>\Vrchol pracovní sady</org>
+        <en>\Working Set Peak</en>
+    </counter>
+    <counter>
+        <org>\Pracovní sada</org>
+        <en>\Working Set</en>
+    </counter>
+    <counter>
+        <org>\Vrchol bajtů stránkovacího souboru</org>
+        <en>\Page File Bytes Peak</en>
+    </counter>
+    <counter>
+        <org>\Bajty stránkovacích souborů</org>
+        <en>\Page File Bytes</en>
+    </counter>
+    <counter>
+        <org>\Nesdílené bajty</org>
+        <en>\Private Bytes</en>
+    </counter>
+    <counter>
+        <org>\Celkem ohlášení/s</org>
+        <en>\Announcements Total/sec</en>
+    </counter>
+    <counter>
+        <org>\Celkem vyčíslení/s</org>
+        <en>\Enumerations Total/sec</en>
+    </counter>
+    <counter>
+        <org>\Aktuální délka fronty disku</org>
+        <en>\Current Disk Queue Length</en>
+    </counter>
+    <counter>
+        <org>\% času disku</org>
+        <en>\% Disk Time</en>
+    </counter>
+    <counter>
+        <org>\% času čtení disku</org>
+        <en>\% Disk Read Time</en>
+    </counter>
+    <counter>
+        <org>\% času zapisování disku</org>
+        <en>\% Disk Write Time</en>
+    </counter>
+    <counter>
+        <org>\Střední doba disku/přenos</org>
+        <en>\Avg. Disk sec/Transfer</en>
+    </counter>
+    <counter>
+        <org>\Střední doba disku/čtení</org>
+        <en>\Avg. Disk sec/Read</en>
+    </counter>
+    <counter>
+        <org>\Střední doba disku/zápis</org>
+        <en>\Avg. Disk sec/Write</en>
+    </counter>
+    <counter>
+        <org>\Přenosy disku/s</org>
+        <en>\Disk Transfers/sec</en>
+    </counter>
+    <counter>
+        <org>\Čtení z disku/s</org>
+        <en>\Disk Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Zápisy na disk/s</org>
+        <en>\Disk Writes/sec</en>
+    </counter>
+    <counter>
+        <org>\Bajtů disku/s</org>
+        <en>\Disk Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Bajty čtení z disku/s</org>
+        <en>\Disk Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Bajty zapisování na disk/s</org>
+        <en>\Disk Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Střední počet bajtů disku/přenos</org>
+        <en>\Avg. Disk Bytes/Transfer</en>
+    </counter>
+    <counter>
+        <org>\Střední počet bajtů disku/čtení</org>
+        <en>\Avg. Disk Bytes/Read</en>
+    </counter>
+    <counter>
+        <org>\Střední počet bajtů disku/zápis</org>
+        <en>\Avg. Disk Bytes/Write</en>
+    </counter>
+    <counter>
+        <org>\Proces</org>
+        <en>\Process</en>
+    </counter>
+    <counter>
+        <org>\Podproces</org>
+        <en>\Thread</en>
+    </counter>
+    <counter>
+        <org>\Fyzický disk</org>
+        <en>\PhysicalDisk</en>
+    </counter>
+    <counter>
+        <org>\Logický disk</org>
+        <en>\LogicalDisk</en>
+    </counter>
+    <counter>
+        <org>\Procesor</org>
+        <en>\Processor</en>
+    </counter>
+    <counter>
+        <org>\% celkem času procesoru</org>
+        <en>\% Total Processor Time</en>
+    </counter>
+    <counter>
+        <org>\% celkem uživatelského času</org>
+        <en>\% Total User Time</en>
+    </counter>
+    <counter>
+        <org>\% celkem privilegovaného času</org>
+        <en>\% Total Privileged Time</en>
+    </counter>
+    <counter>
+        <org>\Celkem přerušení/s</org>
+        <en>\Total Interrupts/sec</en>
+    </counter>
+    <counter>
+        <org>\Procesy</org>
+        <en>\Processes</en>
+    </counter>
+    <counter>
+        <org>\Podprocesy</org>
+        <en>\Threads</en>
+    </counter>
+    <counter>
+        <org>\Události</org>
+        <en>\Events</en>
+    </counter>
+    <counter>
+        <org>\Semafory</org>
+        <en>\Semaphores</en>
+    </counter>
+    <counter>
+        <org>\Mutexy</org>
+        <en>\Mutexes</en>
+    </counter>
+    <counter>
+        <org>\Sekce</org>
+        <en>\Sections</en>
+    </counter>
+    <counter>
+        <org>\Objekty</org>
+        <en>\Objects</en>
+    </counter>
+    <counter>
+        <org>\Přesměrovač</org>
+        <en>\Redirector</en>
+    </counter>
+    <counter>
+        <org>\Přijaté bajty/s</org>
+        <en>\Bytes Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Přijaté pakety/s</org>
+        <en>\Packets Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Čtení stránkovaných bajtů/s</org>
+        <en>\Read Bytes Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\Čtení nestránkovaných bajtů/s</org>
+        <en>\Read Bytes Non-Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\Čtení bajtů mezipaměti/s</org>
+        <en>\Read Bytes Cache/sec</en>
+    </counter>
+    <counter>
+        <org>\Čtení bajtů sítě/s</org>
+        <en>\Read Bytes Network/sec</en>
+    </counter>
+    <counter>
+        <org>\Odeslané bajty/s</org>
+        <en>\Bytes Transmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\Odeslané pakety/s</org>
+        <en>\Packets Transmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\Zápisy stránkovaných bajtů/s</org>
+        <en>\Write Bytes Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\Zápisy nestránkovaných bajtů/s</org>
+        <en>\Write Bytes Non-Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\Zápisy bajtů mezipaměti/s</org>
+        <en>\Write Bytes Cache/sec</en>
+    </counter>
+    <counter>
+        <org>\Zápisy bajtů do sítě/s</org>
+        <en>\Write Bytes Network/sec</en>
+    </counter>
+    <counter>
+        <org>\Operací čtení/s</org>
+        <en>\Read Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Operací náhodného čtení/s</org>
+        <en>\Read Operations Random/sec</en>
+    </counter>
+    <counter>
+        <org>\Čtení paketů/s</org>
+        <en>\Read Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Velká čtení/s</org>
+        <en>\Reads Large/sec</en>
+    </counter>
+    <counter>
+        <org>\Malá čtení paketů/s</org>
+        <en>\Read Packets Small/sec</en>
+    </counter>
+    <counter>
+        <org>\Operací zápisu/s</org>
+        <en>\Write Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Operací náhodného zápisu/s</org>
+        <en>\Write Operations Random/sec</en>
+    </counter>
+    <counter>
+        <org>\Zápisy paketů/s</org>
+        <en>\Write Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Velké zápisy/s</org>
+        <en>\Writes Large/sec</en>
+    </counter>
+    <counter>
+        <org>\Malé zápisy paketů/s</org>
+        <en>\Write Packets Small/sec</en>
+    </counter>
+    <counter>
+        <org>\Čtení zamítnuto/s</org>
+        <en>\Reads Denied/sec</en>
+    </counter>
+    <counter>
+        <org>\Zápisy zamítnuté/s</org>
+        <en>\Writes Denied/sec</en>
+    </counter>
+    <counter>
+        <org>\Chyby sítě/s</org>
+        <en>\Network Errors/sec</en>
+    </counter>
+    <counter>
+        <org>\Relace serveru</org>
+        <en>\Server Sessions</en>
+    </counter>
+    <counter>
+        <org>\Připojování serveru</org>
+        <en>\Server Reconnects</en>
+    </counter>
+    <counter>
+        <org>\Hlavní připojení</org>
+        <en>\Connects Core</en>
+    </counter>
+    <counter>
+        <org>\Připojení Lan Manager 2.0</org>
+        <en>\Connects Lan Manager 2.0</en>
+    </counter>
+    <counter>
+        <org>\Připojení Lan Manager 2.1</org>
+        <en>\Connects Lan Manager 2.1</en>
+    </counter>
+    <counter>
+        <org>\Připojení Windows NT</org>
+        <en>\Connects Windows NT</en>
+    </counter>
+    <counter>
+        <org>\Odpojení serveru</org>
+        <en>\Server Disconnects</en>
+    </counter>
+    <counter>
+        <org>\Ztracené relace serveru</org>
+        <en>\Server Sessions Hung</en>
+    </counter>
+    <counter>
+        <org>\Důvod čekání podprocesu</org>
+        <en>\Thread Wait Reason</en>
+    </counter>
+    <counter>
+        <org>\Vypršelé relace</org>
+        <en>\Sessions Timed Out</en>
+    </counter>
+    <counter>
+        <org>\Chybné relace</org>
+        <en>\Sessions Errored Out</en>
+    </counter>
+    <counter>
+        <org>\Odhlášené relace</org>
+        <en>\Sessions Logged Off</en>
+    </counter>
+    <counter>
+        <org>\Odpojené relace</org>
+        <en>\Sessions Forced Off</en>
+    </counter>
+    <counter>
+        <org>\Chyby přihlášení</org>
+        <en>\Errors Logon</en>
+    </counter>
+    <counter>
+        <org>\Chyby přístupových práv</org>
+        <en>\Errors Access Permissions</en>
+    </counter>
+    <counter>
+        <org>\Chyby udělených práv</org>
+        <en>\Errors Granted Access</en>
+    </counter>
+    <counter>
+        <org>\Chyby systému</org>
+        <en>\Errors System</en>
+    </counter>
+    <counter>
+        <org>\Zamítnuté žádosti zablokování</org>
+        <en>\Blocking Requests Rejected</en>
+    </counter>
+    <counter>
+        <org>\Nedostatky pracovních položek</org>
+        <en>\Work Item Shortages</en>
+    </counter>
+    <counter>
+        <org>\Celkem otevřených souborů</org>
+        <en>\Files Opened Total</en>
+    </counter>
+    <counter>
+        <org>\Otevřené soubory</org>
+        <en>\Files Open</en>
+    </counter>
+    <counter>
+        <org>\Hledání souborů v adresářích</org>
+        <en>\File Directory Searches</en>
+    </counter>
+    <counter>
+        <org>\Chyby nestránkovaného fondu</org>
+        <en>\Pool Nonpaged Failures</en>
+    </counter>
+    <counter>
+        <org>\Vrchol nestránkovaného fondu</org>
+        <en>\Pool Nonpaged Peak</en>
+    </counter>
+    <counter>
+        <org>\Chyby stránkovaného fondu</org>
+        <en>\Pool Paged Failures</en>
+    </counter>
+    <counter>
+        <org>\Vrchol stránkovaného fondu</org>
+        <en>\Pool Paged Peak</en>
+    </counter>
+    <counter>
+        <org>\Bajty celkem/s</org>
+        <en>\Bytes Total/sec</en>
+    </counter>
+    <counter>
+        <org>\Aktuální příkazy</org>
+        <en>\Current Commands</en>
+    </counter>
+    <counter>
+        <org>\Služba NWLink pro rozhraní NetBIOS</org>
+        <en>\NWLink NetBIOS</en>
+    </counter>
+    <counter>
+        <org>\Pakety/s</org>
+        <en>\Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Bloky kontextu ve frontě/s</org>
+        <en>\Context Blocks Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\Datové souborové operace/s</org>
+        <en>\File Data Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\% volného místa</org>
+        <en>\% Free Space</en>
+    </counter>
+    <counter>
+        <org>\Volné megabajty</org>
+        <en>\Free Megabytes</en>
+    </counter>
+    <counter>
+        <org>\Otevřená připojení</org>
+        <en>\Connections Open</en>
+    </counter>
+    <counter>
+        <org>\Připojení napoprvé</org>
+        <en>\Connections No Retries</en>
+    </counter>
+    <counter>
+        <org>\Připojení opakované</org>
+        <en>\Connections With Retries</en>
+    </counter>
+    <counter>
+        <org>\Místní odpojení</org>
+        <en>\Disconnects Local</en>
+    </counter>
+    <counter>
+        <org>\Dálková odpojení</org>
+        <en>\Disconnects Remote</en>
+    </counter>
+    <counter>
+        <org>\Chyby propojení</org>
+        <en>\Failures Link</en>
+    </counter>
+    <counter>
+        <org>\Chyby adaptéru</org>
+        <en>\Failures Adapter</en>
+    </counter>
+    <counter>
+        <org>\Připojení s vypršenou relací</org>
+        <en>\Connection Session Timeouts</en>
+    </counter>
+    <counter>
+        <org>\Stornovaná připojení</org>
+        <en>\Connections Canceled</en>
+    </counter>
+    <counter>
+        <org>\Chyby vzdálených prostředků</org>
+        <en>\Failures Resource Remote</en>
+    </counter>
+    <counter>
+        <org>\Chyby místních prostředků</org>
+        <en>\Failures Resource Local</en>
+    </counter>
+    <counter>
+        <org>\Chyby nenalezení</org>
+        <en>\Failures Not Found</en>
+    </counter>
+    <counter>
+        <org>\Chyby nenaslouchání</org>
+        <en>\Failures No Listen</en>
+    </counter>
+    <counter>
+        <org>\Datagramy/s</org>
+        <en>\Datagrams/sec</en>
+    </counter>
+    <counter>
+        <org>\Bajty datagramů/s</org>
+        <en>\Datagram Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Odeslané datagramy/s</org>
+        <en>\Datagrams Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Odeslané bajty datagramů/s</org>
+        <en>\Datagram Bytes Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Přijaté datagramy/s</org>
+        <en>\Datagrams Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Přijaté bajty datagramů/s</org>
+        <en>\Datagram Bytes Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Odeslané pakety/s</org>
+        <en>\Packets Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Rámce/s</org>
+        <en>\Frames/sec</en>
+    </counter>
+    <counter>
+        <org>\Bajty rámců/s</org>
+        <en>\Frame Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Odeslané rámce/s</org>
+        <en>\Frames Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Odeslané bajty rámců/s</org>
+        <en>\Frame Bytes Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Přijaté rámce/s</org>
+        <en>\Frames Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Přijaté bajty rámců/s</org>
+        <en>\Frame Bytes Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Rámce odeslané znovu/s</org>
+        <en>\Frames Re-Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Bajty rámců odeslaných znovu/s</org>
+        <en>\Frame Bytes Re-Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Zamítnuté rámce/s</org>
+        <en>\Frames Rejected/sec</en>
+    </counter>
+    <counter>
+        <org>\Zamítnuté bajty rámců/s</org>
+        <en>\Frame Bytes Rejected/sec</en>
+    </counter>
+    <counter>
+        <org>\Vypršení odezvy</org>
+        <en>\Expirations Response</en>
+    </counter>
+    <counter>
+        <org>\Vypršení potvrzení</org>
+        <en>\Expirations Ack</en>
+    </counter>
+    <counter>
+        <org>\Maximální odeslání (okno)</org>
+        <en>\Window Send Maximum</en>
+    </counter>
+    <counter>
+        <org>\Střední odesílací okno</org>
+        <en>\Window Send Average</en>
+    </counter>
+    <counter>
+        <org>\Složená potvrzení ve frontě/s</org>
+        <en>\Piggyback Ack Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\Vypršení složených potvrzení</org>
+        <en>\Piggyback Ack Timeouts</en>
+    </counter>
+    <counter>
+        <org>\IPX NWLink</org>
+        <en>\NWLink IPX</en>
+    </counter>
+    <counter>
+        <org>\SPX NWLink</org>
+        <en>\NWLink SPX</en>
+    </counter>
+    <counter>
+        <org>\Prostředek NetBEUI</org>
+        <en>\NetBEUI Resource</en>
+    </counter>
+    <counter>
+        <org>\Využité maximum</org>
+        <en>\Used Maximum</en>
+    </counter>
+    <counter>
+        <org>\Využitý střed</org>
+        <en>\Used Average</en>
+    </counter>
+    <counter>
+        <org>\Počet vyčerpání</org>
+        <en>\Times Exhausted</en>
+    </counter>
+    <counter>
+        <org>\Připojení NBT</org>
+        <en>\NBT Connection</en>
+    </counter>
+    <counter>
+        <org>\Odeslané bajty/s</org>
+        <en>\Bytes Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Celkem bajtů/s</org>
+        <en>\Total Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Rozhraní sítě</org>
+        <en>\Network Interface</en>
+    </counter>
+    <counter>
+        <org>\Bajty/s</org>
+        <en>\Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Aktuální šířka pásma</org>
+        <en>\Current Bandwidth</en>
+    </counter>
+    <counter>
+        <org>\Přijaté jednosměrové pakety/s</org>
+        <en>\Packets Received Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\Přijaté nejednosměrové pakety/s</org>
+        <en>\Packets Received Non-Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\Vyřazené přijaté pakety</org>
+        <en>\Packets Received Discarded</en>
+    </counter>
+    <counter>
+        <org>\Chyby přijatých paketů</org>
+        <en>\Packets Received Errors</en>
+    </counter>
+    <counter>
+        <org>\Přijaté pakety neznámé</org>
+        <en>\Packets Received Unknown</en>
+    </counter>
+    <counter>
+        <org>\Odeslané jednosměrové pakety/s</org>
+        <en>\Packets Sent Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\Odeslané nejednosměrové pakety/s</org>
+        <en>\Packets Sent Non-Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\Vyřazené odchozí pakety</org>
+        <en>\Packets Outbound Discarded</en>
+    </counter>
+    <counter>
+        <org>\Chyby odchozích paketů</org>
+        <en>\Packets Outbound Errors</en>
+    </counter>
+    <counter>
+        <org>\Délka fronty výstupu</org>
+        <en>\Output Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Chyby hlaviček přijatých datagramů</org>
+        <en>\Datagrams Received Header Errors</en>
+    </counter>
+    <counter>
+        <org>\Chyby adres přijatých datagramů</org>
+        <en>\Datagrams Received Address Errors</en>
+    </counter>
+    <counter>
+        <org>\Předané datagramy/s</org>
+        <en>\Datagrams Forwarded/sec</en>
+    </counter>
+    <counter>
+        <org>\Neznámý protokol přijatých datagramů</org>
+        <en>\Datagrams Received Unknown Protocol</en>
+    </counter>
+    <counter>
+        <org>\Vyřazené přijaté datagramy</org>
+        <en>\Datagrams Received Discarded</en>
+    </counter>
+    <counter>
+        <org>\Doručené přijaté datagramy/s</org>
+        <en>\Datagrams Received Delivered/sec</en>
+    </counter>
+    <counter>
+        <org>\Vyřazené odchozí datagramy</org>
+        <en>\Datagrams Outbound Discarded</en>
+    </counter>
+    <counter>
+        <org>\Odchozí datagramy bez směrování</org>
+        <en>\Datagrams Outbound No Route</en>
+    </counter>
+    <counter>
+        <org>\Přijaté fragmenty/s</org>
+        <en>\Fragments Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Fragmenty zpětně složené/s</org>
+        <en>\Fragments Re-assembled/sec</en>
+    </counter>
+    <counter>
+        <org>\Chyby zpětného skládání fragmentů</org>
+        <en>\Fragment Re-assembly Failures</en>
+    </counter>
+    <counter>
+        <org>\Fragmentování datagramů/s</org>
+        <en>\Fragmented Datagrams/sec</en>
+    </counter>
+    <counter>
+        <org>\Chyby fragmentování</org>
+        <en>\Fragmentation Failures</en>
+    </counter>
+    <counter>
+        <org>\Fragmenty vytvořené/s</org>
+        <en>\Fragments Created/sec</en>
+    </counter>
+    <counter>
+        <org>\Zprávy/s</org>
+        <en>\Messages/sec</en>
+    </counter>
+    <counter>
+        <org>\Přijaté zprávy/s</org>
+        <en>\Messages Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Chyby přijatých zpráv</org>
+        <en>\Messages Received Errors</en>
+    </counter>
+    <counter>
+        <org>\Přijaté zprávy Cíl nedostupný</org>
+        <en>\Received Dest. Unreachable</en>
+    </counter>
+    <counter>
+        <org>\Přijaté zprávy Čas překročen</org>
+        <en>\Received Time Exceeded</en>
+    </counter>
+    <counter>
+        <org>\Přijaté zprávy Problém parametru</org>
+        <en>\Received Parameter Problem</en>
+    </counter>
+    <counter>
+        <org>\Přijaté zprávy Zdroj vyčerpán</org>
+        <en>\Received Source Quench</en>
+    </counter>
+    <counter>
+        <org>\Přijaté zprávy Přesměrování/s</org>
+        <en>\Received Redirect/sec</en>
+    </counter>
+    <counter>
+        <org>\Přijaté zprávy Echo/s</org>
+        <en>\Received Echo/sec</en>
+    </counter>
+    <counter>
+        <org>\Přijaté zprávy Odpověď echa/s</org>
+        <en>\Received Echo Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\Přijaté zprávy Časová značka/s</org>
+        <en>\Received Timestamp/sec</en>
+    </counter>
+    <counter>
+        <org>\Přijaté zprávy Odpověď časové značky/s</org>
+        <en>\Received Timestamp Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\Přijaté zprávy Maska adresy</org>
+        <en>\Received Address Mask</en>
+    </counter>
+    <counter>
+        <org>\Přijaté zprávy Odpověď masky adresy</org>
+        <en>\Received Address Mask Reply</en>
+    </counter>
+    <counter>
+        <org>\Odeslané zprávy/s</org>
+        <en>\Messages Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Chyby odchozích zpráv</org>
+        <en>\Messages Outbound Errors</en>
+    </counter>
+    <counter>
+        <org>\Odeslané zprávy Cíl nedostupný</org>
+        <en>\Sent Destination Unreachable</en>
+    </counter>
+    <counter>
+        <org>\Odeslané zprávy Čas překročen</org>
+        <en>\Sent Time Exceeded</en>
+    </counter>
+    <counter>
+        <org>\Odeslané zprávy Problém parametru</org>
+        <en>\Sent Parameter Problem</en>
+    </counter>
+    <counter>
+        <org>\Odeslané zprávy Zdroj vyčerpán</org>
+        <en>\Sent Source Quench</en>
+    </counter>
+    <counter>
+        <org>\Odeslané zprávy Přesměrování/s</org>
+        <en>\Sent Redirect/sec</en>
+    </counter>
+    <counter>
+        <org>\Odeslané zprávy Echo/s</org>
+        <en>\Sent Echo/sec</en>
+    </counter>
+    <counter>
+        <org>\Odeslané zprávy Odpověď echa/s</org>
+        <en>\Sent Echo Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\Odeslané zprávy Časová značka/s</org>
+        <en>\Sent Timestamp/sec</en>
+    </counter>
+    <counter>
+        <org>\Odeslané zprávy Odpověď časové značky/s</org>
+        <en>\Sent Timestamp Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\Odeslané zprávy Maska adresy</org>
+        <en>\Sent Address Mask</en>
+    </counter>
+    <counter>
+        <org>\Odeslané zprávy Odpověď masky adresy</org>
+        <en>\Sent Address Mask Reply</en>
+    </counter>
+    <counter>
+        <org>\Segmenty/s</org>
+        <en>\Segments/sec</en>
+    </counter>
+    <counter>
+        <org>\Navázaná připojení</org>
+        <en>\Connections Established</en>
+    </counter>
+    <counter>
+        <org>\Aktivní připojení</org>
+        <en>\Connections Active</en>
+    </counter>
+    <counter>
+        <org>\Pasivní připojení</org>
+        <en>\Connections Passive</en>
+    </counter>
+    <counter>
+        <org>\Chyby připojení</org>
+        <en>\Connection Failures</en>
+    </counter>
+    <counter>
+        <org>\Resetovaná připojení</org>
+        <en>\Connections Reset</en>
+    </counter>
+    <counter>
+        <org>\Přijaté segmenty/s</org>
+        <en>\Segments Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Odeslané segmenty/s</org>
+        <en>\Segments Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Segmenty odeslané znovu/s</org>
+        <en>\Segments Retransmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\% celkového času DPC</org>
+        <en>\% Total DPC Time</en>
+    </counter>
+    <counter>
+        <org>\% celkového času přerušení</org>
+        <en>\% Total Interrupt Time</en>
+    </counter>
+    <counter>
+        <org>\Datagramy bez portu/s</org>
+        <en>\Datagrams No Port/sec</en>
+    </counter>
+    <counter>
+        <org>\Chyby přijatých datagramů</org>
+        <en>\Datagrams Received Errors</en>
+    </counter>
+    <counter>
+        <org>\Jednotka diskové paměti</org>
+        <en>\Disk Storage Unit</en>
+    </counter>
+    <counter>
+        <org>\Chyby vyhrazení</org>
+        <en>\Allocation Failures</en>
+    </counter>
+    <counter>
+        <org>\Doba provozu systému</org>
+        <en>\System Up Time</en>
+    </counter>
+    <counter>
+        <org>\Počet popisovačů systému</org>
+        <en>\System Handle Count</en>
+    </counter>
+    <counter>
+        <org>\Volné položky stránkovací tabulky systému</org>
+        <en>\Free System Page Table Entries</en>
+    </counter>
+    <counter>
+        <org>\Počet podprocesů</org>
+        <en>\Thread Count</en>
+    </counter>
+    <counter>
+        <org>\Základní priorita</org>
+        <en>\Priority Base</en>
+    </counter>
+    <counter>
+        <org>\Uplynulý čas</org>
+        <en>\Elapsed Time</en>
+    </counter>
+    <counter>
+        <org>\Nápravy zarovnání/s</org>
+        <en>\Alignment Fixups/sec</en>
+    </counter>
+    <counter>
+        <org>\Odbavení výjimek/s</org>
+        <en>\Exception Dispatches/sec</en>
+    </counter>
+    <counter>
+        <org>\Emulace pohyblivé čárky/s</org>
+        <en>\Floating Emulations/sec</en>
+    </counter>
+    <counter>
+        <org>\Přihlášení/s</org>
+        <en>\Logon/sec</en>
+    </counter>
+    <counter>
+        <org>\Aktuální priorita</org>
+        <en>\Priority Current</en>
+    </counter>
+    <counter>
+        <org>\% času DPC</org>
+        <en>\% DPC Time</en>
+    </counter>
+    <counter>
+        <org>\% času přerušení</org>
+        <en>\% Interrupt Time</en>
+    </counter>
+    <counter>
+        <org>\Stránkovací soubor</org>
+        <en>\Paging File</en>
+    </counter>
+    <counter>
+        <org>\% využití</org>
+        <en>\% Usage</en>
+    </counter>
+    <counter>
+        <org>\% vrchol využití</org>
+        <en>\% Usage Peak</en>
+    </counter>
+    <counter>
+        <org>\Adresa začátku</org>
+        <en>\Start Address</en>
+    </counter>
+    <counter>
+        <org>\Programový čítač uživatele</org>
+        <en>\User PC</en>
+    </counter>
+    <counter>
+        <org>\Mapovaná paměť Bez přístupu</org>
+        <en>\Mapped Space No Access</en>
+    </counter>
+    <counter>
+        <org>\Mapovaná paměť Jen pro čtení</org>
+        <en>\Mapped Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\Mapovaná paměť Čtení/zápis</org>
+        <en>\Mapped Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Mapovaná paměť Zápis/kopírování</org>
+        <en>\Mapped Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Mapovaná paměť Pro spouštění</org>
+        <en>\Mapped Space Executable</en>
+    </counter>
+    <counter>
+        <org>\Mapovaná paměť Pro spouštění/čtení</org>
+        <en>\Mapped Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\Mapovaná paměť Pro spouštění/čtení/zápis</org>
+        <en>\Mapped Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Mapovaná paměť Pro spouštění/zápis/kopírování</org>
+        <en>\Mapped Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Rezervovaná paměť Bez přístupu</org>
+        <en>\Reserved Space No Access</en>
+    </counter>
+    <counter>
+        <org>\Rezervovaná paměť Jen čtení</org>
+        <en>\Reserved Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\Rezervovaná paměť Čtení/zápis</org>
+        <en>\Reserved Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Rezervovaná paměť Zápis kopie</org>
+        <en>\Reserved Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Rezervovaná paměť Pro spouštění</org>
+        <en>\Reserved Space Executable</en>
+    </counter>
+    <counter>
+        <org>\Rezervovaná paměť Pro spouštění/čtení</org>
+        <en>\Reserved Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\Rezervovaná paměť Pro spouštění/čtení/zápis</org>
+        <en>\Reserved Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Bitová kopie</org>
+        <en>\Image</en>
+    </counter>
+    <counter>
+        <org>\Rezervovaná paměť Pro spouštění, zápis a kopírování</org>
+        <en>\Reserved Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Nepřiřazená paměť Bez přístupu</org>
+        <en>\Unassigned Space No Access</en>
+    </counter>
+    <counter>
+        <org>\Nepřiřazená paměť Jen čtení</org>
+        <en>\Unassigned Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\Nepřiřazená paměť Čtení/zápis</org>
+        <en>\Unassigned Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Nepřiřazená paměť Zápis/kopírování</org>
+        <en>\Unassigned Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Nepřiřazená paměť Pro spouštění</org>
+        <en>\Unassigned Space Executable</en>
+    </counter>
+    <counter>
+        <org>\Nepřiřazená paměť Pro spouštění/čtení</org>
+        <en>\Unassigned Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\Nepřiřazená paměť Pro spouštění/čtení/zápis</org>
+        <en>\Unassigned Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Nepřiřazená paměť Pro spouštění/zápis/kopírování</org>
+        <en>\Unassigned Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Paměť bitových kopií Bez přístupu</org>
+        <en>\Image Space No Access</en>
+    </counter>
+    <counter>
+        <org>\Paměť bitových kopií Jen pro čtení</org>
+        <en>\Image Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\Paměť bitových kopií Čtení/zápis</org>
+        <en>\Image Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Paměť bitových kopií Zápis/kopírování</org>
+        <en>\Image Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Paměť bitových kopií Pro spouštění</org>
+        <en>\Image Space Executable</en>
+    </counter>
+    <counter>
+        <org>\Paměť bitových kopií Pro spouštění/čtení</org>
+        <en>\Image Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\Paměť bitových kopií Pro spouštění/čtení/zápis</org>
+        <en>\Image Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Paměť bitových kopií Pro spouštění/zápis/kopírování</org>
+        <en>\Image Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Rezervované bajty bitových kopií</org>
+        <en>\Bytes Image Reserved</en>
+    </counter>
+    <counter>
+        <org>\Volné bajty bitových kopií</org>
+        <en>\Bytes Image Free</en>
+    </counter>
+    <counter>
+        <org>\Rezervované bajty</org>
+        <en>\Bytes Reserved</en>
+    </counter>
+    <counter>
+        <org>\Volné bajty</org>
+        <en>\Bytes Free</en>
+    </counter>
+    <counter>
+        <org>\ID procesu</org>
+        <en>\ID Process</en>
+    </counter>
+    <counter>
+        <org>\Adresní prostor procesu</org>
+        <en>\Process Address Space</en>
+    </counter>
+    <counter>
+        <org>\Žádný přístup</org>
+        <en>\No Access</en>
+    </counter>
+    <counter>
+        <org>\Jen pro čtení</org>
+        <en>\Read Only</en>
+    </counter>
+    <counter>
+        <org>\Čtení/zápis</org>
+        <en>\Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Zápis/kopírování</org>
+        <en>\Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Pro spouštění</org>
+        <en>\Executable</en>
+    </counter>
+    <counter>
+        <org>\Pro spouštění/čtení</org>
+        <en>\Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\Pro spouštění/čtení/zápis</org>
+        <en>\Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Pro spouštění/zápis/kopírování</org>
+        <en>\Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\ID podprocesu</org>
+        <en>\ID Thread</en>
+    </counter>
+    <counter>
+        <org>\Chyby příjmu zásuvek pošty</org>
+        <en>\Mailslot Receives Failed</en>
+    </counter>
+    <counter>
+        <org>\Chyby zápisu zásuvek pošty</org>
+        <en>\Mailslot Writes Failed</en>
+    </counter>
+    <counter>
+        <org>\Chyby otevření zásuvek pošty/s</org>
+        <en>\Mailslot Opens Failed/sec</en>
+    </counter>
+    <counter>
+        <org>\Ohlášení duplicity hlavního</org>
+        <en>\Duplicate Master Announcements</en>
+    </counter>
+    <counter>
+        <org>\Neplatné datagramy/s</org>
+        <en>\Illegal Datagrams/sec</en>
+    </counter>
+    <counter>
+        <org>\Podrobnosti podprocesů</org>
+        <en>\Thread Details</en>
+    </counter>
+    <counter>
+        <org>\Bajty mezipaměti</org>
+        <en>\Cache Bytes</en>
+    </counter>
+    <counter>
+        <org>\Vrchol bajtů mezipaměti</org>
+        <en>\Cache Bytes Peak</en>
+    </counter>
+    <counter>
+        <org>\Vstup stránek/s</org>
+        <en>\Pages Input/sec</en>
+    </counter>
+    <counter>
+        <org>\Změn účelu stran přenosu/s</org>
+        <en>\Transition Pages RePurposed/sec</en>
+    </counter>
+    <counter>
+        <org>\Odeslané bajty</org>
+        <en>\Bytes Transmitted</en>
+    </counter>
+    <counter>
+        <org>\Přijaté bajty</org>
+        <en>\Bytes Received</en>
+    </counter>
+    <counter>
+        <org>\Odeslané rámce</org>
+        <en>\Frames Transmitted</en>
+    </counter>
+    <counter>
+        <org>\Přijaté rámce</org>
+        <en>\Frames Received.</en>
+    </counter>
+    <counter>
+        <org>\Výstupní kompresní poměr</org>
+        <en>\Percent Compression Out</en>
+    </counter>
+    <counter>
+        <org>\Vstupní kompresní poměr</org>
+        <en>\Percent Compression In</en>
+    </counter>
+    <counter>
+        <org>\Chyby CRC</org>
+        <en>\CRC Errors</en>
+    </counter>
+    <counter>
+        <org>\Počet chyb vypršení časového limitu</org>
+        <en>\Timeout Errors</en>
+    </counter>
+    <counter>
+        <org>\Počet chyb sériového přeběhu</org>
+        <en>\Serial Overrun Errors</en>
+    </counter>
+    <counter>
+        <org>\Počet chyb zarovnání</org>
+        <en>\Alignment Errors</en>
+    </counter>
+    <counter>
+        <org>\Počet chyb přeběhu vyrovnávací paměti</org>
+        <en>\Buffer Overrun Errors</en>
+    </counter>
+    <counter>
+        <org>\Celkový počet chyb</org>
+        <en>\Total Errors</en>
+    </counter>
+    <counter>
+        <org>\Odeslané bajty/s</org>
+        <en>\Bytes Transmitted/Sec</en>
+    </counter>
+    <counter>
+        <org>\Přijaté bajty/s</org>
+        <en>\Bytes Received/Sec</en>
+    </counter>
+    <counter>
+        <org>\Odeslané rámce/s</org>
+        <en>\Frames Transmitted/Sec</en>
+    </counter>
+    <counter>
+        <org>\Přijaté rámce/s</org>
+        <en>\Frames Received/Sec</en>
+    </counter>
+    <counter>
+        <org>\Celkový počet chyb/s</org>
+        <en>\Total Errors/Sec</en>
+    </counter>
+    <counter>
+        <org>\Celkový počet připojení</org>
+        <en>\Total Connections</en>
+    </counter>
+    <counter>
+        <org>\Server WINS</org>
+        <en>\WINS Server</en>
+    </counter>
+    <counter>
+        <org>\Jedinečné registrace/s</org>
+        <en>\Unique Registrations/sec</en>
+    </counter>
+    <counter>
+        <org>\Registrace skupin/s</org>
+        <en>\Group Registrations/sec</en>
+    </counter>
+    <counter>
+        <org>\Celkový počet registrací/s</org>
+        <en>\Total Number of Registrations/sec</en>
+    </counter>
+    <counter>
+        <org>\Jedinečná obnovení/s</org>
+        <en>\Unique Renewals/sec</en>
+    </counter>
+    <counter>
+        <org>\Obnovení skupin/s</org>
+        <en>\Group Renewals/sec</en>
+    </counter>
+    <counter>
+        <org>\Celkový počet obnovení/s</org>
+        <en>\Total Number of Renewals/sec</en>
+    </counter>
+    <counter>
+        <org>\Uvolnění/s</org>
+        <en>\Releases/sec</en>
+    </counter>
+    <counter>
+        <org>\Dotazy/s</org>
+        <en>\Queries/sec</en>
+    </counter>
+    <counter>
+        <org>\Jedinečné konflikty/s</org>
+        <en>\Unique Conflicts/sec</en>
+    </counter>
+    <counter>
+        <org>\Konflikty skupin/s</org>
+        <en>\Group Conflicts/sec</en>
+    </counter>
+    <counter>
+        <org>\Celkový počet konfliktů/s</org>
+        <en>\Total Number of Conflicts/sec</en>
+    </counter>
+    <counter>
+        <org>\Úspěšná uvolnění/s</org>
+        <en>\Successful Releases/sec</en>
+    </counter>
+    <counter>
+        <org>\Chybná uvolnění/s</org>
+        <en>\Failed Releases/sec</en>
+    </counter>
+    <counter>
+        <org>\Úspěšné dotazy/s</org>
+        <en>\Successful Queries/sec</en>
+    </counter>
+    <counter>
+        <org>\Chybné dotazy/s</org>
+        <en>\Failed Queries/sec</en>
+    </counter>
+    <counter>
+        <org>\Počet popisovačů</org>
+        <en>\Handle Count</en>
+    </counter>
+    <counter>
+        <org>\Server MacFile</org>
+        <en>\MacFile Server</en>
+    </counter>
+    <counter>
+        <org>\Max. stránkované paměti</org>
+        <en>\Max Paged Memory</en>
+    </counter>
+    <counter>
+        <org>\Aktuální stránkovaná paměť</org>
+        <en>\Current Paged Memory</en>
+    </counter>
+    <counter>
+        <org>\Max. nestránkované paměti</org>
+        <en>\Max NonPaged Memory</en>
+    </counter>
+    <counter>
+        <org>\Aktuální nestránkovaná paměť</org>
+        <en>\Current NonPaged memory</en>
+    </counter>
+    <counter>
+        <org>\Aktuální relace</org>
+        <en>\Current Sessions</en>
+    </counter>
+    <counter>
+        <org>\Maximum relací</org>
+        <en>\Maximum Sessions</en>
+    </counter>
+    <counter>
+        <org>\Aktuální otevřené soubory</org>
+        <en>\Current Files Open</en>
+    </counter>
+    <counter>
+        <org>\Maximum otevřených souborů</org>
+        <en>\Maximum Files Open</en>
+    </counter>
+    <counter>
+        <org>\Chybná přihlášení</org>
+        <en>\Failed Logons</en>
+    </counter>
+    <counter>
+        <org>\Čtení dat/s</org>
+        <en>\Data Read/sec</en>
+    </counter>
+    <counter>
+        <org>\Zápisy dat/s</org>
+        <en>\Data Written/sec</en>
+    </counter>
+    <counter>
+        <org>\Přijatá data/s</org>
+        <en>\Data Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Odeslaná data/s</org>
+        <en>\Data Transmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\Aktuální délka fronty</org>
+        <en>\Current Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Maximální délka fronty</org>
+        <en>\Maximum Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Aktuální podprocesy</org>
+        <en>\Current Threads</en>
+    </counter>
+    <counter>
+        <org>\Maximum podprocesů</org>
+        <en>\Maximum Threads</en>
+    </counter>
+    <counter>
+        <org>\Přijaté pakety/s</org>
+        <en>\Packets In/sec</en>
+    </counter>
+    <counter>
+        <org>\Odeslané pakety/s</org>
+        <en>\Packets Out/sec</en>
+    </counter>
+    <counter>
+        <org>\Přijaté bajty/s</org>
+        <en>\Bytes In/sec</en>
+    </counter>
+    <counter>
+        <org>\Odeslané bajty/s</org>
+        <en>\Bytes Out/sec</en>
+    </counter>
+    <counter>
+        <org>\Střední doba/Paket DDP</org>
+        <en>\Average Time/DDP Packet</en>
+    </counter>
+    <counter>
+        <org>\Pakety DDP/s</org>
+        <en>\DDP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Střední doba/Paket AARP</org>
+        <en>\Average Time/AARP Packet</en>
+    </counter>
+    <counter>
+        <org>\Pakety AARP/s</org>
+        <en>\AARP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Střední doba/Paket ATP</org>
+        <en>\Average Time/ATP Packet</en>
+    </counter>
+    <counter>
+        <org>\Pakety ATP/s</org>
+        <en>\ATP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Střední doba/Paket NBP</org>
+        <en>\Average Time/NBP Packet</en>
+    </counter>
+    <counter>
+        <org>\Pakety NBP/s</org>
+        <en>\NBP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Střední doba/Paket ZIP</org>
+        <en>\Average Time/ZIP Packet</en>
+    </counter>
+    <counter>
+        <org>\Pakety ZIP/s</org>
+        <en>\ZIP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Střední doba/Paket RTMP</org>
+        <en>\Average Time/RTMP Packet</en>
+    </counter>
+    <counter>
+        <org>\Pakety RTMP/s</org>
+        <en>\RTMP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Místní opakování ATP</org>
+        <en>\ATP Retries Local</en>
+    </counter>
+    <counter>
+        <org>\Překročení lhůt odezvy ATP</org>
+        <en>\ATP Response Timouts</en>
+    </counter>
+    <counter>
+        <org>\Odezvy ATP XO/s</org>
+        <en>\ATP XO Response/Sec</en>
+    </counter>
+    <counter>
+        <org>\Odezvy ATP ALO/s</org>
+        <en>\ATP ALO Response/Sec</en>
+    </counter>
+    <counter>
+        <org>\Přijatá uvolnění ATP/s</org>
+        <en>\ATP Recvd Release/Sec</en>
+    </counter>
+    <counter>
+        <org>\Aktuální nestránkovaný fond</org>
+        <en>\Current NonPaged Pool</en>
+    </counter>
+    <counter>
+        <org>\Pakety směrované dovnitř/s</org>
+        <en>\Packets Routed In/Sec</en>
+    </counter>
+    <counter>
+        <org>\Vyřazené pakety</org>
+        <en>\Packets dropped</en>
+    </counter>
+    <counter>
+        <org>\Opakované žádosti ATP</org>
+        <en>\ATP Retries Remote</en>
+    </counter>
+    <counter>
+        <org>\Pakety směrované ven/s</org>
+        <en>\Packets Routed Out/Sec</en>
+    </counter>
+    <counter>
+        <org>\Segment sítě</org>
+        <en>\Network Segment</en>
+    </counter>
+    <counter>
+        <org>\Přijaté rámce celkem/s</org>
+        <en>\Total frames received/second</en>
+    </counter>
+    <counter>
+        <org>\Přijaté bajty celkem/s</org>
+        <en>\Total bytes received/second</en>
+    </counter>
+    <counter>
+        <org>\Přijaté rámce všesměrového vysílání/s</org>
+        <en>\Broadcast frames received/second</en>
+    </counter>
+    <counter>
+        <org>\Přijaté rámce vícesměrového vysílání/s</org>
+        <en>\Multicast frames received/second</en>
+    </counter>
+    <counter>
+        <org>\% Využití sítě</org>
+        <en>\% Network utilization</en>
+    </counter>
+    <counter>
+        <org>\% Rámce všesměrové</org>
+        <en>\% Broadcast Frames</en>
+    </counter>
+    <counter>
+        <org>\% Rámce vícesměrové</org>
+        <en>\% Multicast Frames</en>
+    </counter>
+    <counter>
+        <org>\Telefonní subsystém</org>
+        <en>\Telephony</en>
+    </counter>
+    <counter>
+        <org>\Řádky</org>
+        <en>\Lines</en>
+    </counter>
+    <counter>
+        <org>\Telefonní zařízení</org>
+        <en>\Telephone Devices</en>
+    </counter>
+    <counter>
+        <org>\Aktivní linky</org>
+        <en>\Active Lines</en>
+    </counter>
+    <counter>
+        <org>\Aktivní telefony</org>
+        <en>\Active Telephones</en>
+    </counter>
+    <counter>
+        <org>\Odchozí hovory/s</org>
+        <en>\Outgoing Calls/sec</en>
+    </counter>
+    <counter>
+        <org>\Příchozí hovory/s</org>
+        <en>\Incoming Calls/sec</en>
+    </counter>
+    <counter>
+        <org>\Aplikace klientů</org>
+        <en>\Client Apps</en>
+    </counter>
+    <counter>
+        <org>\Aktuální odchozí hovory</org>
+        <en>\Current Outgoing Calls</en>
+    </counter>
+    <counter>
+        <org>\Aktuální příchozí hovory</org>
+        <en>\Current Incoming Calls</en>
+    </counter>
+    <counter>
+        <org>\Počet dávek paketů čtení NCP/s</org>
+        <en>\Packet Burst Read NCP Count/sec</en>
+    </counter>
+    <counter>
+        <org>\Opakování dávek paketů čtení/s</org>
+        <en>\Packet Burst Read Timeouts/sec</en>
+    </counter>
+    <counter>
+        <org>\Počet dávek paketů zápisu NCP/s</org>
+        <en>\Packet Burst Write NCP Count/sec</en>
+    </counter>
+    <counter>
+        <org>\Opakování dávek paketů zápisu/s</org>
+        <en>\Packet Burst Write Timeouts/sec</en>
+    </counter>
+    <counter>
+        <org>\I/O dávek paketů/s</org>
+        <en>\Packet Burst IO/sec</en>
+    </counter>
+    <counter>
+        <org>\Celkem připojení</org>
+        <en>\Logon Total</en>
+    </counter>
+    <counter>
+        <org>\Pracovní fronty serveru</org>
+        <en>\Server Work Queues</en>
+    </counter>
+    <counter>
+        <org>\Délka fronty</org>
+        <en>\Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Aktivní podprocesy</org>
+        <en>\Active Threads</en>
+    </counter>
+    <counter>
+        <org>\Dostupné podprocesy</org>
+        <en>\Available Threads</en>
+    </counter>
+    <counter>
+        <org>\Dostupné pracovní položky</org>
+        <en>\Available Work Items</en>
+    </counter>
+    <counter>
+        <org>\Vypůjčené pracovní položky</org>
+        <en>\Borrowed Work Items</en>
+    </counter>
+    <counter>
+        <org>\Nedostatky pracovních položek</org>
+        <en>\Work Item Shortages</en>
+    </counter>
+    <counter>
+        <org>\Aktuální počet klientů</org>
+        <en>\Current Clients</en>
+    </counter>
+    <counter>
+        <org>\Bajty přenesené/s</org>
+        <en>\Bytes Transferred/sec</en>
+    </counter>
+    <counter>
+        <org>\Bajty přečtené/s</org>
+        <en>\Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Bajty zapsané/s</org>
+        <en>\Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Celkem operací/s</org>
+        <en>\Total Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Volání DPC ve frontě/s</org>
+        <en>\DPCs Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\Rychlost volání DPC</org>
+        <en>\DPC Rate</en>
+    </counter>
+    <counter>
+        <org>\Celkem volání DPC ve frontě/s</org>
+        <en>\Total DPCs Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\Celková rychlost volání DPC</org>
+        <en>\Total DPC Rate</en>
+    </counter>
+    <counter>
+        <org>\% využití přídělu registru</org>
+        <en>\% Registry Quota In Use</en>
+    </counter>
+    <counter>
+        <org>\Paměť VLM</org>
+        <en>\VL Memory</en>
+    </counter>
+    <counter>
+        <org>\Paměť VLM - % využití virtuální velikosti</org>
+        <en>\VLM % Virtual Size In Use</en>
+    </counter>
+    <counter>
+        <org>\Virtuální velikost paměti VLM</org>
+        <en>\VLM Virtual Size</en>
+    </counter>
+    <counter>
+        <org>\Špička paměti VLM s virtuální velikostí</org>
+        <en>\VLM Virtual Size Peak</en>
+    </counter>
+    <counter>
+        <org>\Virtuální velikost paměti VLM k dispozici</org>
+        <en>\VLM Virtual Size Available</en>
+    </counter>
+    <counter>
+        <org>\Objem svěření paměti VLM</org>
+        <en>\VLM Commit Charge</en>
+    </counter>
+    <counter>
+        <org>\Vrcholový objem svěření paměti VLM</org>
+        <en>\VLM Commit Charge Peak</en>
+    </counter>
+    <counter>
+        <org>\Objem svěření systémové paměti VLM</org>
+        <en>\System VLM Commit Charge</en>
+    </counter>
+    <counter>
+        <org>\Vrcholový objem svěření systémové paměti VLM</org>
+        <en>\System VLM Commit Charge Peak</en>
+    </counter>
+    <counter>
+        <org>\Objem svěření systémové sdílené paměti VLM</org>
+        <en>\System VLM Shared Commit Charge</en>
+    </counter>
+    <counter>
+        <org>\Počet kB k dispozici</org>
+        <en>\Available KBytes</en>
+    </counter>
+    <counter>
+        <org>\Počet MB k dispozici</org>
+        <en>\Available MBytes</en>
+    </counter>
+    <counter>
+        <org>\Střední délka fronty disku</org>
+        <en>\Avg. Disk Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Střední délka fronty čtení disku</org>
+        <en>\Avg. Disk Read Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Střední délka fronty zápisu disku</org>
+        <en>\Avg. Disk Write Queue Length</en>
+    </counter>
+    <counter>
+        <org>\% využití svěřených bajtů</org>
+        <en>\% Committed Bytes In Use</en>
+    </counter>
+    <counter>
+        <org>\Úplná bitová kopie</org>
+        <en>\Full Image</en>
+    </counter>
+    <counter>
+        <org>\ID vytvářejícího procesu</org>
+        <en>\Creating Process ID</en>
+    </counter>
+    <counter>
+        <org>\Vstupně-výstupní operace čtení/s</org>
+        <en>\IO Read Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Vstupně-výstupní operace zápisu/s</org>
+        <en>\IO Write Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Vstupně-výstupní datové operace/s</org>
+        <en>\IO Data Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Jiné vstupně-výstupní operace/s</org>
+        <en>\IO Other Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Bajty vstupně-výstupních operací čtení/s</org>
+        <en>\IO Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Bajty vstupně-výstupních operací zápisu/s</org>
+        <en>\IO Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Bajty vstupně-výstupních datových operací/s</org>
+        <en>\IO Data Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Bajty jiných vstupně-výstupních operací/s</org>
+        <en>\IO Other Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Tisková fronta</org>
+        <en>\Print Queue</en>
+    </counter>
+    <counter>
+        <org>\Celkový počet vytisknutých úloh</org>
+        <en>\Total Jobs Printed</en>
+    </counter>
+    <counter>
+        <org>\Počet bajtů vytisknutých za sekundu</org>
+        <en>\Bytes Printed/sec</en>
+    </counter>
+    <counter>
+        <org>\Celkový počet vytisknutých stránek</org>
+        <en>\Total Pages Printed</en>
+    </counter>
+    <counter>
+        <org>\Počet úloh</org>
+        <en>\Jobs</en>
+    </counter>
+    <counter>
+        <org>\Počet odkazů</org>
+        <en>\References</en>
+    </counter>
+    <counter>
+        <org>\Maximální počet odkazů</org>
+        <en>\Max References</en>
+    </counter>
+    <counter>
+        <org>\Počet zařazovaných úloh</org>
+        <en>\Jobs Spooling</en>
+    </counter>
+    <counter>
+        <org>\Maximální počet zařazovaných úloh</org>
+        <en>\Max Jobs Spooling</en>
+    </counter>
+    <counter>
+        <org>\Počet chyb typu Došel papír</org>
+        <en>\Out of Paper Errors</en>
+    </counter>
+    <counter>
+        <org>\Počet chyb typu Tiskárna není připravena</org>
+        <en>\Not Ready Errors</en>
+    </counter>
+    <counter>
+        <org>\Počet chyb úloh</org>
+        <en>\Job Errors</en>
+    </counter>
+    <counter>
+        <org>\Počet volání na výčet síťových tiskáren</org>
+        <en>\Enumerate Network Printer Calls</en>
+    </counter>
+    <counter>
+        <org>\Počet volání na přidání síťové tiskárny</org>
+        <en>\Add Network Printer Calls</en>
+    </counter>
+    <counter>
+        <org>\Pracovní sada - soukromá</org>
+        <en>\Working Set - Private</en>
+    </counter>
+    <counter>
+        <org>\Pracovní sada - sdílená</org>
+        <en>\Working Set - Shared</en>
+    </counter>
+    <counter>
+        <org>\% času nečinnosti</org>
+        <en>\% Idle Time</en>
+    </counter>
+    <counter>
+        <org>\Dělení vstupně-výstupních operací/s</org>
+        <en>\Split IO/Sec</en>
+    </counter>
+    <counter>
+        <org>\Objekt Úloha</org>
+        <en>\Job Object</en>
+    </counter>
+    <counter>
+        <org>\Aktuální % času procesoru</org>
+        <en>\Current % Processor Time</en>
+    </counter>
+    <counter>
+        <org>\Aktuální % času uživatelského režimu</org>
+        <en>\Current % User Mode Time</en>
+    </counter>
+    <counter>
+        <org>\Aktuální % času režimu jádra</org>
+        <en>\Current % Kernel Mode Time</en>
+    </counter>
+    <counter>
+        <org>\Tato perioda ms - procesor</org>
+        <en>\This Period mSec - Processor</en>
+    </counter>
+    <counter>
+        <org>\Tato perioda ms - uživatelský režim</org>
+        <en>\This Period mSec - User Mode</en>
+    </counter>
+    <counter>
+        <org>\Tato perioda - režim jádra</org>
+        <en>\This Period mSec - Kernel Mode</en>
+    </counter>
+    <counter>
+        <org>\Stránky/s</org>
+        <en>\Pages/Sec</en>
+    </counter>
+    <counter>
+        <org>\Počet procesů - celkem</org>
+        <en>\Process Count - Total</en>
+    </counter>
+    <counter>
+        <org>\Počet procesů - aktivní</org>
+        <en>\Process Count - Active</en>
+    </counter>
+    <counter>
+        <org>\Počet procesů - ukončené</org>
+        <en>\Process Count - Terminated</en>
+    </counter>
+    <counter>
+        <org>\Celkem ms - procesor</org>
+        <en>\Total mSec - Processor</en>
+    </counter>
+    <counter>
+        <org>\Celkem ms - uživatelský režim</org>
+        <en>\Total mSec - User Mode</en>
+    </counter>
+    <counter>
+        <org>\Celkem ms - režim jádra</org>
+        <en>\Total mSec - Kernel Mode</en>
+    </counter>
+    <counter>
+        <org>\Přijatý paket je příliš velký</org>
+        <en>\Received Packet Too Big</en>
+    </counter>
+    <counter>
+        <org>\Přijatý dotaz členství</org>
+        <en>\Received Membership Query</en>
+    </counter>
+    <counter>
+        <org>\Přijatá zpráva o členství</org>
+        <en>\Received Membership Report</en>
+    </counter>
+    <counter>
+        <org>\Přijaté zredukování členství</org>
+        <en>\Received Membership Reduction</en>
+    </counter>
+    <counter>
+        <org>\Přijaté žádosti směrovače</org>
+        <en>\Received Router Solicit</en>
+    </counter>
+    <counter>
+        <org>\Přijatá inzerování směrovače</org>
+        <en>\Received Router Advert</en>
+    </counter>
+    <counter>
+        <org>\Podrobnosti objektu Úloha</org>
+        <en>\Job Object Details</en>
+    </counter>
+    <counter>
+        <org>\Přijaté žádosti sousedů</org>
+        <en>\Received Neighbor Solicit</en>
+    </counter>
+    <counter>
+        <org>\Přijaté inzerování sousedů</org>
+        <en>\Received Neighbor Advert</en>
+    </counter>
+    <counter>
+        <org>\Odeslaný paket je příliš velký</org>
+        <en>\Sent Packet Too Big</en>
+    </counter>
+    <counter>
+        <org>\Odeslaný dotaz členství</org>
+        <en>\Sent Membership Query</en>
+    </counter>
+    <counter>
+        <org>\Odeslaná zpráva členství</org>
+        <en>\Sent Membership Report</en>
+    </counter>
+    <counter>
+        <org>\Odeslané zredukování členství</org>
+        <en>\Sent Membership Reduction</en>
+    </counter>
+    <counter>
+        <org>\Odeslané žádosti směrovače</org>
+        <en>\Sent Router Solicit</en>
+    </counter>
+    <counter>
+        <org>\Odeslaná inzerování směrovače</org>
+        <en>\Sent Router Advert</en>
+    </counter>
+    <counter>
+        <org>\Odeslané žádosti sousedů</org>
+        <en>\Sent Neighbor Solicit</en>
+    </counter>
+    <counter>
+        <org>\Odeslaná inzerování sousedů</org>
+        <en>\Sent Neighbor Advert</en>
+    </counter>
+    <counter>
+        <org>\Statistika zabezpečení celého systému</org>
+        <en>\Security System-Wide Statistics</en>
+    </counter>
+    <counter>
+        <org>\Ověřování NTLM</org>
+        <en>\NTLM Authentications</en>
+    </counter>
+    <counter>
+        <org>\Ověřování pomocí protokolu Kerberos</org>
+        <en>\Kerberos Authentications</en>
+    </counter>
+    <counter>
+        <org>\Žádosti KDC AS</org>
+        <en>\KDC AS Requests</en>
+    </counter>
+    <counter>
+        <org>\Žádosti KDC TGS</org>
+        <en>\KDC TGS Requests</en>
+    </counter>
+    <counter>
+        <org>\Položky relační mezipaměti kanálu Schannel</org>
+        <en>\Schannel Session Cache Entries</en>
+    </counter>
+    <counter>
+        <org>\Aktivní položky relační mezipaměti kanálu Schannel</org>
+        <en>\Active Schannel Session Cache Entries</en>
+    </counter>
+    <counter>
+        <org>\Úplné ověřování zabezpečení SSL metodou handshake na straně klienta</org>
+        <en>\SSL Client-Side Full Handshakes</en>
+    </counter>
+    <counter>
+        <org>\Opětovná ověření zabezpečení SSL metodou handshake na straně klienta</org>
+        <en>\SSL Client-Side Reconnect Handshakes</en>
+    </counter>
+    <counter>
+        <org>\Úplné ověřování zabezpečení SSL metodou handshake na straně serveru</org>
+        <en>\SSL Server-Side Full Handshakes</en>
+    </counter>
+    <counter>
+        <org>\Opětovná ověření zabezpečení SSL metodou handshake na straně serveru</org>
+        <en>\SSL Server-Side Reconnect Handshakes</en>
+    </counter>
+    <counter>
+        <org>\Ověřování algoritmem Digest</org>
+        <en>\Digest Authentications</en>
+    </counter>
+    <counter>
+        <org>\Statistika zabezpečení podle procesů</org>
+        <en>\Security Per-Process Statistics</en>
+    </counter>
+    <counter>
+        <org>\Popisovače pověření</org>
+        <en>\Credential Handles</en>
+    </counter>
+    <counter>
+        <org>\Popisovače kontextu</org>
+        <en>\Context Handles</en>
+    </counter>
+    <counter>
+        <org>\Čítač Bajty seznamu volných a vynulovaných stránek</org>
+        <en>\Free &amp; Zero Page List Bytes</en>
+    </counter>
+    <counter>
+        <org>\Čítač Bajty seznamu změněných stránek</org>
+        <en>\Modified Page List Bytes</en>
+    </counter>
+    <counter>
+        <org>\Rezervní bajty mezipaměti v úsporném režimu</org>
+        <en>\Standby Cache Reserve Bytes</en>
+    </counter>
+    <counter>
+        <org>\Bajty mezipaměti v úsporném režimu s normální prioritou</org>
+        <en>\Standby Cache Normal Priority Bytes</en>
+    </counter>
+    <counter>
+        <org>\Základní bajty mezipaměti v úsporném režimu</org>
+        <en>\Standby Cache Core Bytes</en>
+    </counter>
+    <counter>
+        <org>\% času nečinnosti</org>
+        <en>\% Idle Time</en>
+    </counter>
+    <counter>
+        <org>\% Čas C1</org>
+        <en>\% C1 Time</en>
+    </counter>
+    <counter>
+        <org>\% Čas C2</org>
+        <en>\% C2 Time</en>
+    </counter>
+    <counter>
+        <org>\% Čas C3</org>
+        <en>\% C3 Time</en>
+    </counter>
+    <counter>
+        <org>\Přeměny/s C1</org>
+        <en>\C1 Transitions/sec</en>
+    </counter>
+    <counter>
+        <org>\Přeměny/s C2</org>
+        <en>\C2 Transitions/sec</en>
+    </counter>
+    <counter>
+        <org>\Přeměny/s C3</org>
+        <en>\C3 Transitions/sec</en>
+    </counter>
+    <counter>
+        <org>\Halda</org>
+        <en>\Heap</en>
+    </counter>
+    <counter>
+        <org>\Svěřené bajty</org>
+        <en>\Committed Bytes</en>
+    </counter>
+    <counter>
+        <org>\Rezervované bajty</org>
+        <en>\Reserved Bytes</en>
+    </counter>
+    <counter>
+        <org>\Virtuální bajty</org>
+        <en>\Virtual Bytes</en>
+    </counter>
+    <counter>
+        <org>\Volné bajty</org>
+        <en>\Free Bytes</en>
+    </counter>
+    <counter>
+        <org>\Délka seznamu uvolnění</org>
+        <en>\Free List Length</en>
+    </counter>
+    <counter>
+        <org>\Průměrná doba přiřazení</org>
+        <en>\Avg. alloc rate</en>
+    </counter>
+    <counter>
+        <org>\Průměrná doba uvolnění</org>
+        <en>\Avg. free rate</en>
+    </counter>
+    <counter>
+        <org>\Délka neodeslaných rozsahů</org>
+        <en>\Uncommitted Ranges Length</en>
+    </counter>
+    <counter>
+        <org>\Přiřazení - uvolnění</org>
+        <en>\Allocs - Frees</en>
+    </counter>
+    <counter>
+        <org>\Přiřazení mezipaměti/s</org>
+        <en>\Cached Allocs/sec</en>
+    </counter>
+    <counter>
+        <org>\Uvolnění mezipaměti/s</org>
+        <en>\Cached Frees/sec</en>
+    </counter>
+    <counter>
+        <org>\Přiřazení &lt;1 kB/s</org>
+        <en>\Allocs &lt;1K/sec</en>
+    </counter>
+    <counter>
+        <org>\Uvolnění &lt;1 kB/s</org>
+        <en>\Frees &lt;1K/sec</en>
+    </counter>
+    <counter>
+        <org>\Přiřazení 1-8 kB/s</org>
+        <en>\Allocs 1-8K/sec</en>
+    </counter>
+    <counter>
+        <org>\Uvolnění 1-8 kB/s</org>
+        <en>\Frees 1-8K/sec</en>
+    </counter>
+    <counter>
+        <org>\Přiřazení &gt;8 kB/s</org>
+        <en>\Allocs over 8K/sec</en>
+    </counter>
+    <counter>
+        <org>\Uvolnění &gt;8 kB/s</org>
+        <en>\Frees over 8K/sec</en>
+    </counter>
+    <counter>
+        <org>\Celkem přiřazení/s</org>
+        <en>\Total Allocs/sec</en>
+    </counter>
+    <counter>
+        <org>\Celkem uvolnění/s</org>
+        <en>\Total Frees/sec</en>
+    </counter>
+    <counter>
+        <org>\Bloků v mezipaměti haldy</org>
+        <en>\Blocks in Heap Cache</en>
+    </counter>
+    <counter>
+        <org>\Největší hloubka mezipaměti</org>
+        <en>\Largest Cache Depth</en>
+    </counter>
+    <counter>
+        <org>\% fragmentace</org>
+        <en>\% Fragmentation</en>
+    </counter>
+    <counter>
+        <org>\% fragmentace VA</org>
+        <en>\% VAFragmentation</en>
+    </counter>
+    <counter>
+        <org>\Neshoda uzamčení haldy</org>
+        <en>\Heap Lock contention</en>
+    </counter>
+    <counter>
+        <org>\Značka konce</org>
+        <en>\End Marker</en>
+    </counter>
+</Counters>

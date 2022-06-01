@@ -1,0 +1,614 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Counters>
+    <counter><org>\Logische schijf(</org><en>\LogicalDisk(</en></counter>
+    <counter><org>\Gemiddelde leestijd schijf</org><en>\Avg. Disk sec/Read</en></counter>
+    <counter><org>\Gemiddelde schrijftijd schijf</org><en>\Avg. Disk sec/Write</en></counter>
+    <counter><org>\Schijfoverdrachten per seconde</org><en>\Disk Transfers/sec</en></counter>
+    <counter><org>\Aantal vrije megabytes</org><en>\Free Megabytes</en></counter>
+    <counter><org>\Geheugen</org><en>\Memory</en></counter>
+    <counter><org>\Beschikbare megabytes (MB)</org><en>\Available MBytes</en></counter>
+    <counter><org>\Systeempaginatabelvermeldingen vrij</org><en>\Free System Page Table Entries</en></counter>
+    <counter><org>\Pagina's invoer per seconde</org><en>\Pages Input/sec</en></counter>
+    <counter><org>\Pagina's per seconde</org><en>\Pages/sec</en></counter>
+    <counter><org>\Niet-wisselbaar geheugen: bytes</org><en>\Pool Nonpaged Bytes</en></counter>
+    <counter><org>\Wisselbaar geheugen: bytes</org><en>\Pool Paged Bytes</en></counter>
+    <counter><org>\Systeemcache: residente bytes</org><en>\System Cache Resident Bytes</en></counter>
+    <counter><org>\Netwerkinterface(</org><en>\Network Interface(</en></counter>
+    <counter><org>\Totaal aantal bytes per seconde</org><en>\Bytes Total/sec</en></counter>
+    <counter><org>\Wachtrijlengte uitvoer</org><en>\Output Queue Length</en></counter>
+    <counter><org>\Wisselbestand(</org><en>\Paging File(</en></counter>
+    <counter><org>\Percentage piekgebruik</org><en>\% Usage Peak</en></counter>
+    <counter><org>\Percentage in gebruik</org><en>\% Usage</en></counter>
+    <counter><org>\Fysieke schijf(</org><en>\PhysicalDisk(</en></counter>
+    <counter><org>\Proces(</org><en>\Process(</en></counter>
+    <counter><org>\Percentage processortijd</org><en>\% Processor Time</en></counter>
+    <counter><org>\Aantal ingangen</org><en>\Handle Count</en></counter>
+    <counter><org>\I/O-gegevensbewerkingen per seconde</org><en>\IO Data Operations/sec</en></counter>
+    <counter><org>\Andere I/O-bewerkingen per seconde</org><en>\IO Other Operations/sec</en></counter>
+    <counter><org>\Eigen bytes</org><en>\Private Bytes</en></counter>
+    <counter><org>\Aantal threads</org><en>\Thread Count</en></counter>
+    <counter><org>\Virtuele bytes</org><en>\Virtual Bytes</en></counter>
+    <counter><org>\Werkset</org><en>\Working Set</en></counter>
+    <counter><org>\Processor(</org><en>\Processor(</en></counter>
+    <counter><org>\Percentage interrupt-tijd</org><en>\% Interrupt Time</en></counter>
+    <counter><org>\Percentage tijd in beschermde modus</org><en>\% Privileged Time</en></counter>
+    <counter><org>\Systeem</org><en>\System</en></counter>
+    <counter><org>\Contextoverschakelingen per seconde</org><en>\Context Switches/sec</en></counter>
+    <counter><org>\Lengte van de processorwachtrij</org><en>\Processor Queue Length</en></counter>
+    <counter><org>\Leesbewerkingen per seconde</org><en>\File Read Operations/sec</en></counter>
+    <counter><org>\Schrijfbewerkingen per seconde</org><en>\File Write Operations/sec</en></counter>
+    <counter><org>\Bestandsbeheerbewerkingen per seconde</org><en>\File Control Operations/sec</en></counter>
+    <counter><org>\Bestandsleesbewerkingen in bytes per seconde</org><en>\File Read Bytes/sec</en></counter>
+    <counter><org>\Bestandsschrijfbewerkingen in bytes per seconde</org><en>\File Write Bytes/sec</en></counter>
+    <counter><org>\Bestandsbeheer in bytes per seconde</org><en>\File Control Bytes/sec</en></counter>
+    <counter><org>\Beschikbare bytes</org><en>\Available Bytes</en></counter>
+    <counter><org>\Toegewezen bytes</org><en>\Committed Bytes</en></counter>
+    <counter><org>\Paginafouten per seconde</org><en>\Page Faults/sec</en></counter>
+    <counter><org>\Toewijzingslimiet</org><en>\Commit Limit</en></counter>
+    <counter><org>\Schrijven van kopieën per seconde</org><en>\Write Copies/sec</en></counter>
+    <counter><org>\Overgangsfouten per seconde</org><en>\Transition Faults/sec</en></counter>
+    <counter><org>\Cachefouten per seconde</org><en>\Cache Faults/sec</en></counter>
+    <counter><org>\Fouten in verband met nulverzoeken per seconde</org><en>\Demand Zero Faults/sec</en></counter>
+    <counter><org>\Paginaleesbewerkingen per seconde</org><en>\Page Reads/sec</en></counter>
+    <counter><org>\Threadstatus</org><en>\Thread State</en></counter>
+    <counter><org>\Pagina's uitvoer per seconde</org><en>\Pages Output/sec</en></counter>
+    <counter><org>\Paginaschrijfbewerkingen per seconde</org><en>\Page Writes/sec</en></counter>
+    <counter><org>\Meldingen server per seconde</org><en>\Announcements Server/sec</en></counter>
+    <counter><org>\Wisselbaar geheugen: toewijzingen</org><en>\Pool Paged Allocs</en></counter>
+    <counter><org>\Niet-wisselbaar geheugen: toewijzingen</org><en>\Pool Nonpaged Allocs</en></counter>
+    <counter><org>\Wisselbaar geheugen: residente bytes</org><en>\Pool Paged Resident Bytes</en></counter>
+    <counter><org>\Systeemcode: totaal aantal bytes</org><en>\System Code Total Bytes</en></counter>
+    <counter><org>\Systeemcode: residente bytes</org><en>\System Code Resident Bytes</en></counter>
+    <counter><org>\Systeemstuurprogramma: totaal aantal bytes</org><en>\System Driver Total Bytes</en></counter>
+    <counter><org>\Systeemstuurprogramma: residente bytes</org><en>\System Driver Resident Bytes</en></counter>
+    <counter><org>\Meldingen domein per seconde</org><en>\Announcements Domain/sec</en></counter>
+    <counter><org>\Verkiezingspakketten per seconde</org><en>\Election Packets/sec</en></counter>
+    <counter><org>\Mailslotschrijfbewerkingen per seconde</org><en>\Mailslot Writes/sec</en></counter>
+    <counter><org>\Serverlijst: aanvragen per seconde</org><en>\Server List Requests/sec</en></counter>
+    <counter><org>\Gegevenstoewijzingen per seconde</org><en>\Data Maps/sec</en></counter>
+    <counter><org>\Synchrone gegevenstoewijzingen per seconde</org><en>\Sync Data Maps/sec</en></counter>
+    <counter><org>\Asynchrone gegevenstoewijzingen per seconde</org><en>\Async Data Maps/sec</en></counter>
+    <counter><org>\Percentage gegevenstoewijzingen opgelost</org><en>\Data Map Hits %</en></counter>
+    <counter><org>\Gegevenstoewijzingen vastgehouden per seconde</org><en>\Data Map Pins/sec</en></counter>
+    <counter><org>\Lezen van vastgehouden pagina's per seconde</org><en>\Pin Reads/sec</en></counter>
+    <counter><org>\Synchroon lezen van vastgehouden pagina's per seconde</org><en>\Sync Pin Reads/sec</en></counter>
+    <counter><org>\Asynchroon lezen van vastgehouden pagina's per seconde</org><en>\Async Pin Reads/sec</en></counter>
+    <counter><org>\Percentage direct lezen van vastgehouden pagina's per seconde</org><en>\Pin Read Hits %</en></counter>
+    <counter><org>\Kopiëren en lezen per seconde</org><en>\Copy Reads/sec</en></counter>
+    <counter><org>\Synchroon kopiëren en lezen per seconde</org><en>\Sync Copy Reads/sec</en></counter>
+    <counter><org>\Asynchroon kopiëren en lezen per seconde</org><en>\Async Copy Reads/sec</en></counter>
+    <counter><org>\Percentage direct kopiëren en lezen</org><en>\Copy Read Hits %</en></counter>
+    <counter><org>\MDL-leesbewerkingen per seconde</org><en>\MDL Reads/sec</en></counter>
+    <counter><org>\Synchrone MDL-leesbewerkingen per seconde</org><en>\Sync MDL Reads/sec</en></counter>
+    <counter><org>\Asynchrone MDL-leesbewerkingen per seconde</org><en>\Async MDL Reads/sec</en></counter>
+    <counter><org>\Percentage directe MDL-leesbewerkingen</org><en>\MDL Read Hits %</en></counter>
+    <counter><org>\Opeenvolgende leesbewerkingen per seconde</org><en>\Read Aheads/sec</en></counter>
+    <counter><org>\Snelle leesbewerkingen per seconde</org><en>\Fast Reads/sec</en></counter>
+    <counter><org>\Synchrone snelle leesbewerkingen per seconde</org><en>\Sync Fast Reads/sec</en></counter>
+    <counter><org>\Asynchrone snelle leesbewerkingen per seconde</org><en>\Async Fast Reads/sec</en></counter>
+    <counter><org>\Mislukte snelle leesbewerkingen per seconde</org><en>\Fast Read Resource Misses/sec</en></counter>
+    <counter><org>\Onuitvoerbare snelle leesbewerkingen per seconde</org><en>\Fast Read Not Possibles/sec</en></counter>
+    <counter><org>\Langzame schrijfbewerkingen per seconde</org><en>\Lazy Write Flushes/sec</en></counter>
+    <counter><org>\Langzaam geschreven pagina's per seconde</org><en>\Lazy Write Pages/sec</en></counter>
+    <counter><org>\Leegmaken cache per seconde</org><en>\Data Flushes/sec</en></counter>
+    <counter><org>\Leegmaken cachepagina's per seconde</org><en>\Data Flush Pages/sec</en></counter>
+    <counter><org>\Percentage tijd in gebruikersmodus</org><en>\% User Time</en></counter>
+    <counter><org>\Interrupts per seconde</org><en>\Interrupts/sec</en></counter>
+    <counter><org>\Systeemaanroepen per seconde</org><en>\System Calls/sec</en></counter>
+    <counter><org>\TLB-opvullingen op niveau 1 per seconde</org><en>\Level 1 TLB Fills/sec</en></counter>
+    <counter><org>\TLB-opvullingen op niveau 2 per seconde</org><en>\Level 2 TLB Fills/sec</en></counter>
+    <counter><org>\Inventarisaties server per seconde</org><en>\Enumerations Server/sec</en></counter>
+    <counter><org>\Inventarisaties domein per seconde</org><en>\Enumerations Domain/sec</en></counter>
+    <counter><org>\Overige inventarisaties per seconde</org><en>\Enumerations Other/sec</en></counter>
+    <counter><org>\Mislukte servermeldingen</org><en>\Missed Server Announcements</en></counter>
+    <counter><org>\Mislukte mailslotdatagrammen</org><en>\Missed Mailslot Datagrams</en></counter>
+    <counter><org>\Mislukte serverlijstaanvragen</org><en>\Missed Server List Requests</en></counter>
+    <counter><org>\Mislukte servermeldingstoewijzingen per seconde</org><en>\Server Announce Allocations Failed/sec</en></counter>
+    <counter><org>\Mislukte mailslottoewijzingen</org><en>\Mailslot Allocations Failed</en></counter>
+    <counter><org>\Piekwaarde virtuele bytes</org><en>\Virtual Bytes Peak</en></counter>
+    <counter><org>\Piekwaarde in werkset</org><en>\Working Set Peak</en></counter>
+    <counter><org>\Piekwaarde wisselbestanden (bytes)</org><en>\Page File Bytes Peak</en></counter>
+    <counter><org>\Wisselbestanden (bytes)</org><en>\Page File Bytes</en></counter>
+    <counter><org>\Totaal aantal meldingen per seconde</org><en>\Announcements Total/sec</en></counter>
+    <counter><org>\Totaal aantal inventarisaties per seconde</org><en>\Enumerations Total/sec</en></counter>
+    <counter><org>\Huidige wachtrijlengte op de schijf</org><en>\Current Disk Queue Length</en></counter>
+    <counter><org>\Percentage schijftijd</org><en>\% Disk Time</en></counter>
+    <counter><org>\Percentage schijfleestijd</org><en>\% Disk Read Time</en></counter>
+    <counter><org>\Percentage schijfschrijftijd</org><en>\% Disk Write Time</en></counter>
+    <counter><org>\Gemiddelde tijd schijfoverdracht</org><en>\Avg. Disk sec/Transfer</en></counter>
+    <counter><org>\Schijf lezen per seconde</org><en>\Disk Reads/sec</en></counter>
+    <counter><org>\Schijf schrijven per seconde</org><en>\Disk Writes/sec</en></counter>
+    <counter><org>\Geschreven en gelezen bytes per seconde</org><en>\Disk Bytes/sec</en></counter>
+    <counter><org>\Gelezen bytes per seconde</org><en>\Disk Read Bytes/sec</en></counter>
+    <counter><org>\Geschreven bytes per seconde</org><en>\Disk Write Bytes/sec</en></counter>
+    <counter><org>\Gemiddeld aantal bytes per overdracht schijf</org><en>\Avg. Disk Bytes/Transfer</en></counter>
+    <counter><org>\Gemiddeld aantal gelezen bytes</org><en>\Avg. Disk Bytes/Read</en></counter>
+    <counter><org>\Gemiddeld aantal geschreven bytes</org><en>\Avg. Disk Bytes/Write</en></counter>
+    <counter><org>\Proces</org><en>\Process</en></counter>
+    <counter><org>\Fysieke schijf</org><en>\PhysicalDisk</en></counter>
+    <counter><org>\Logische schijf</org><en>\LogicalDisk</en></counter>
+    <counter><org>\Percentage totale processortijd</org><en>\% Total Processor Time</en></counter>
+    <counter><org>\Percentage totale tijd in gebruikersmodus</org><en>\% Total User Time</en></counter>
+    <counter><org>\Percentage totale tijd in beschermde modus</org><en>\% Total Privileged Time</en></counter>
+    <counter><org>\Totaal aantal interrupts per seconde</org><en>\Total Interrupts/sec</en></counter>
+    <counter><org>\Processen</org><en>\Processes</en></counter>
+    <counter><org>\Gebeurtenissen</org><en>\Events</en></counter>
+    <counter><org>\Semaforen</org><en>\Semaphores</en></counter>
+    <counter><org>\Mutexen</org><en>\Mutexes</en></counter>
+    <counter><org>\Secties</org><en>\Sections</en></counter>
+    <counter><org>\Objecten</org><en>\Objects</en></counter>
+    <counter><org>\Ontvangen bytes per seconde</org><en>\Bytes Received/sec</en></counter>
+    <counter><org>\Ontvangen pakketten per seconde</org><en>\Packets Received/sec</en></counter>
+    <counter><org>\Gelezen gepagineerde bytes per seconde</org><en>\Read Bytes Paging/sec</en></counter>
+    <counter><org>\Gelezen niet-gepagineerde bytes per seconde</org><en>\Read Bytes Non-Paging/sec</en></counter>
+    <counter><org>\Gelezen cachebytes per seconde</org><en>\Read Bytes Cache/sec</en></counter>
+    <counter><org>\Gelezen netwerkbytes per seconde</org><en>\Read Bytes Network/sec</en></counter>
+    <counter><org>\Verzonden bytes per seconde</org><en>\Bytes Transmitted/sec</en></counter>
+    <counter><org>\Verzonden pakketten per seconde</org><en>\Packets Transmitted/sec</en></counter>
+    <counter><org>\Geschreven gepagineerde bytes per seconde</org><en>\Write Bytes Paging/sec</en></counter>
+    <counter><org>\Geschreven niet-gepagineerde bytes per seconde</org><en>\Write Bytes Non-Paging/sec</en></counter>
+    <counter><org>\Geschreven cachebytes per seconde</org><en>\Write Bytes Cache/sec</en></counter>
+    <counter><org>\Geschreven netwerkbytes per seconde</org><en>\Write Bytes Network/sec</en></counter>
+    <counter><org>\Leesbewerkingen per seconde</org><en>\Read Operations/sec</en></counter>
+    <counter><org>\Directe leesbewerkingen per seconde</org><en>\Read Operations Random/sec</en></counter>
+    <counter><org>\Leesopdrachtpakketten per seconde</org><en>\Read Packets/sec</en></counter>
+    <counter><org>\Grote leesopdrachten per seconde</org><en>\Reads Large/sec</en></counter>
+    <counter><org>\Kleine leesopdrachten per seconde</org><en>\Read Packets Small/sec</en></counter>
+    <counter><org>\Schrijfbewerkingen per seconde</org><en>\Write Operations/sec</en></counter>
+    <counter><org>\Directe schrijfbewerkingen per seconde</org><en>\Write Operations Random/sec</en></counter>
+    <counter><org>\Schrijfopdrachtpakketten per seconde</org><en>\Write Packets/sec</en></counter>
+    <counter><org>\Grote schrijfopdrachten per seconde</org><en>\Writes Large/sec</en></counter>
+    <counter><org>\Kleine schrijfopdrachten per seconde</org><en>\Write Packets Small/sec</en></counter>
+    <counter><org>\Geweigerde leesopdrachten per seconde</org><en>\Reads Denied/sec</en></counter>
+    <counter><org>\Geweigerde schrijfopdrachten per seconde</org><en>\Writes Denied/sec</en></counter>
+    <counter><org>\Netwerkfouten per seconde</org><en>\Network Errors/sec</en></counter>
+    <counter><org>\Serversessies</org><en>\Server Sessions</en></counter>
+    <counter><org>\Aantal verbindingen hersteld</org><en>\Server Reconnects</en></counter>
+    <counter><org>\Kernverbindingen</org><en>\Connects Core</en></counter>
+    <counter><org>\Lanman 2.0-verbindingen</org><en>\Connects Lan Manager 2.0</en></counter>
+    <counter><org>\Lanman 2.1-verbindingen</org><en>\Connects Lan Manager 2.1</en></counter>
+    <counter><org>\Windows NT-verbindingen</org><en>\Connects Windows NT</en></counter>
+    <counter><org>\Verbroken verbindingen met server</org><en>\Server Disconnects</en></counter>
+    <counter><org>\Hangende serversessies</org><en>\Server Sessions Hung</en></counter>
+    <counter><org>\Redenen voor wachtende threads</org><en>\Thread Wait Reason</en></counter>
+    <counter><org>\Time-outs van sessie</org><en>\Sessions Timed Out</en></counter>
+    <counter><org>\Vanwege fouten gesloten sessies</org><en>\Sessions Errored Out</en></counter>
+    <counter><org>\Afgemelde sessies</org><en>\Sessions Logged Off</en></counter>
+    <counter><org>\Gedwongen afgemelde sessies</org><en>\Sessions Forced Off</en></counter>
+    <counter><org>\Aanmeldingsfouten</org><en>\Errors Logon</en></counter>
+    <counter><org>\Toegangsrechtfouten</org><en>\Errors Access Permissions</en></counter>
+    <counter><org>\Valideringsfouten</org><en>\Errors Granted Access</en></counter>
+    <counter><org>\Systeemfouten</org><en>\Errors System</en></counter>
+    <counter><org>\Blokkeren van aanvragen geweigerd</org><en>\Blocking Requests Rejected</en></counter>
+    <counter><org>\Tekort aan werkitems</org><en>\Work Item Shortages</en></counter>
+    <counter><org>\Totale aantal bestanden geopend</org><en>\Files Opened Total</en></counter>
+    <counter><org>\Aantal open bestanden</org><en>\Files Open</en></counter>
+    <counter><org>\Aantal zoekprocessen</org><en>\File Directory Searches</en></counter>
+    <counter><org>\Mislukte toewijzingen in niet-wisselbaar geheugen</org><en>\Pool Nonpaged Failures</en></counter>
+    <counter><org>\Piekwaarde niet-wisselbaar geheugen</org><en>\Pool Nonpaged Peak</en></counter>
+    <counter><org>\Mislukte toewijzingen in wisselbaar geheugen</org><en>\Pool Paged Failures</en></counter>
+    <counter><org>\Piekwaarde in wisselbare geheugen</org><en>\Pool Paged Peak</en></counter>
+    <counter><org>\Huidige opdrachten</org><en>\Current Commands</en></counter>
+    <counter><org>\Pakketten per seconde</org><en>\Packets/sec</en></counter>
+    <counter><org>\Contextblokken in wachtrij geplaatst per seconde</org><en>\Context Blocks Queued/sec</en></counter>
+    <counter><org>\Bestandsgegevensbewerkingen per seconde</org><en>\File Data Operations/sec</en></counter>
+    <counter><org>\Percentage vrije ruimte</org><en>\% Free Space</en></counter>
+    <counter><org>\Open verbindingen</org><en>\Connections Open</en></counter>
+    <counter><org>\Verbindingen in een poging</org><en>\Connections No Retries</en></counter>
+    <counter><org>\Verbindingen in meerdere pogingen</org><en>\Connections With Retries</en></counter>
+    <counter><org>\Verbroken lokale verbindingen</org><en>\Disconnects Local</en></counter>
+    <counter><org>\Verbroken externe verbindingen</org><en>\Disconnects Remote</en></counter>
+    <counter><org>\Koppelingsfout</org><en>\Failures Link</en></counter>
+    <counter><org>\Adapterfouten</org><en>\Failures Adapter</en></counter>
+    <counter><org>\Vanwege tijdsduur gesloten sessies</org><en>\Connection Session Timeouts</en></counter>
+    <counter><org>\Geannuleerde verbindingen</org><en>\Connections Canceled</en></counter>
+    <counter><org>\Externe bronfout</org><en>\Failures Resource Remote</en></counter>
+    <counter><org>\Lokale bronfout</org><en>\Failures Resource Local</en></counter>
+    <counter><org>\Fouten, niet gevonden</org><en>\Failures Not Found</en></counter>
+    <counter><org>\Fouten, niet actief</org><en>\Failures No Listen</en></counter>
+    <counter><org>\Datagrammen per seconde</org><en>\Datagrams/sec</en></counter>
+    <counter><org>\Datagrambytes per seconde</org><en>\Datagram Bytes/sec</en></counter>
+    <counter><org>\Verzonden datagrammen per seconde</org><en>\Datagrams Sent/sec</en></counter>
+    <counter><org>\Verzonden datagrambytes per seconde</org><en>\Datagram Bytes Sent/sec</en></counter>
+    <counter><org>\Ontvangen datagrammen per seconde</org><en>\Datagrams Received/sec</en></counter>
+    <counter><org>\Ontvangen datagrambytes per seconde</org><en>\Datagram Bytes Received/sec</en></counter>
+    <counter><org>\Verzonden pakketten per seconde</org><en>\Packets Sent/sec</en></counter>
+    <counter><org>\Frames per seconde</org><en>\Frames/sec</en></counter>
+    <counter><org>\Framebytes per seconde</org><en>\Frame Bytes/sec</en></counter>
+    <counter><org>\Verzonden frames per seconde</org><en>\Frames Sent/sec</en></counter>
+    <counter><org>\Verzonden framebytes per seconde</org><en>\Frame Bytes Sent/sec</en></counter>
+    <counter><org>\Ontvangen frames per seconde</org><en>\Frames Received/sec</en></counter>
+    <counter><org>\Ontvangen framebytes per seconde</org><en>\Frame Bytes Received/sec</en></counter>
+    <counter><org>\Opnieuw verzonden frames per seconde</org><en>\Frames Re-Sent/sec</en></counter>
+    <counter><org>\Opnieuw verzonden framebytes per seconde</org><en>\Frame Bytes Re-Sent/sec</en></counter>
+    <counter><org>\Geweigerde frames per seconde</org><en>\Frames Rejected/sec</en></counter>
+    <counter><org>\Geweigerde framebytes per seconde</org><en>\Frame Bytes Rejected/sec</en></counter>
+    <counter><org>\Reactievervaltijden</org><en>\Expirations Response</en></counter>
+    <counter><org>\Ontvangstbevestigingsvervaltijden</org><en>\Expirations Ack</en></counter>
+    <counter><org>\Het te versturen maximum</org><en>\Window Send Maximum</en></counter>
+    <counter><org>\Gemiddeld aantal verzonden bytes</org><en>\Window Send Average</en></counter>
+    <counter><org>\Mee te sturen ontvangstbevestiging in wachtrij per seconde</org><en>\Piggyback Ack Queued/sec</en></counter>
+    <counter><org>\Time-outs mee te sturen ontvangstbevestiging</org><en>\Piggyback Ack Timeouts</en></counter>
+    <counter><org>\NetBEUI-bron</org><en>\NetBEUI Resource</en></counter>
+    <counter><org>\Gebruikt maximum</org><en>\Used Maximum</en></counter>
+    <counter><org>\Gebruikt gemiddelde</org><en>\Used Average</en></counter>
+    <counter><org>\Aantal keren uitgeput</org><en>\Times Exhausted</en></counter>
+    <counter><org>\NBT-verbinding</org><en>\NBT Connection</en></counter>
+    <counter><org>\Verzonden bytes per seconde</org><en>\Bytes Sent/sec</en></counter>
+    <counter><org>\Totaal aantal bytes per seconde</org><en>\Total Bytes/sec</en></counter>
+    <counter><org>\Netwerkinterface</org><en>\Network Interface</en></counter>
+    <counter><org>\Bytes per seconde</org><en>\Bytes/sec</en></counter>
+    <counter><org>\Huidige bandbreedte</org><en>\Current Bandwidth</en></counter>
+    <counter><org>\Ontvangen unicast-pakketten per seconde</org><en>\Packets Received Unicast/sec</en></counter>
+    <counter><org>\Ontvangen niet-unicast-pakketten per seconde</org><en>\Packets Received Non-Unicast/sec</en></counter>
+    <counter><org>\Genegeerde ontvangen pakketten</org><en>\Packets Received Discarded</en></counter>
+    <counter><org>\Ontvangen pakketten met fouten</org><en>\Packets Received Errors</en></counter>
+    <counter><org>\Onbekende ontvangen pakketten</org><en>\Packets Received Unknown</en></counter>
+    <counter><org>\Verzonden unicast-pakketten per seconde</org><en>\Packets Sent Unicast/sec</en></counter>
+    <counter><org>\Verzonden niet-unicast-pakketten per seconde</org><en>\Packets Sent Non-Unicast/sec</en></counter>
+    <counter><org>\Genegeerde uitgaande pakketten</org><en>\Packets Outbound Discarded</en></counter>
+    <counter><org>\Uitgaande pakketten met fouten</org><en>\Packets Outbound Errors</en></counter>
+    <counter><org>\Ontvangen datagrammen met headerfouten</org><en>\Datagrams Received Header Errors</en></counter>
+    <counter><org>\Ontvangen datagrammen met adresfouten</org><en>\Datagrams Received Address Errors</en></counter>
+    <counter><org>\Doorgestuurde datagrammen per seconde</org><en>\Datagrams Forwarded/sec</en></counter>
+    <counter><org>\Ontvangen datagrammen met onjuist protocol</org><en>\Datagrams Received Unknown Protocol</en></counter>
+    <counter><org>\Genegeerde ontvangen datagrammen</org><en>\Datagrams Received Discarded</en></counter>
+    <counter><org>\Afgeleverde ontvangen datagrammen per seconde</org><en>\Datagrams Received Delivered/sec</en></counter>
+    <counter><org>\Genegeerde uitgaande datagrammen</org><en>\Datagrams Outbound Discarded</en></counter>
+    <counter><org>\Uitgaande datagrammen zonder route</org><en>\Datagrams Outbound No Route</en></counter>
+    <counter><org>\Fragmenten ontvangen per seconde</org><en>\Fragments Received/sec</en></counter>
+    <counter><org>\Fragmenten opnieuw opgebouwd per seconde</org><en>\Fragments Re-assembled/sec</en></counter>
+    <counter><org>\Fouten bij opnieuw opbouwen fragment</org><en>\Fragment Re-assembly Failures</en></counter>
+    <counter><org>\Gefragmenteerde datagrammen per seconde</org><en>\Fragmented Datagrams/sec</en></counter>
+    <counter><org>\Fragmentatiefouten</org><en>\Fragmentation Failures</en></counter>
+    <counter><org>\Gemaakte fragmenten per seconde</org><en>\Fragments Created/sec</en></counter>
+    <counter><org>\Berichten per seconde</org><en>\Messages/sec</en></counter>
+    <counter><org>\Berichten ontvangen per seconde</org><en>\Messages Received/sec</en></counter>
+    <counter><org>\Berichten ontvangen met fouten</org><en>\Messages Received Errors</en></counter>
+    <counter><org>\Ontvangen met bestemming onbereikbaar</org><en>\Received Dest. Unreachable</en></counter>
+    <counter><org>\Ontvangen met tijd overschreden</org><en>\Received Time Exceeded</en></counter>
+    <counter><org>\Ontvangen parameterproblemen</org><en>\Received Parameter Problem</en></counter>
+    <counter><org>\Ontvangen source-quench</org><en>\Received Source Quench</en></counter>
+    <counter><org>\Ontvangen omleidingen per seconde</org><en>\Received Redirect/sec</en></counter>
+    <counter><org>\Ontvangen echo per seconde</org><en>\Received Echo/sec</en></counter>
+    <counter><org>\Ontvangen antwoord op echo's per seconde</org><en>\Received Echo Reply/sec</en></counter>
+    <counter><org>\Ontvangen tijdstempels per seconde</org><en>\Received Timestamp/sec</en></counter>
+    <counter><org>\Ontvangen antwoord op tijdstempels per seconde</org><en>\Received Timestamp Reply/sec</en></counter>
+    <counter><org>\Ontvangen adresmasker</org><en>\Received Address Mask</en></counter>
+    <counter><org>\Ontvangen antwoord op adresmasker</org><en>\Received Address Mask Reply</en></counter>
+    <counter><org>\Verzonden berichten per seconde</org><en>\Messages Sent/sec</en></counter>
+    <counter><org>\Uitgaande berichten met fouten</org><en>\Messages Outbound Errors</en></counter>
+    <counter><org>\Verzonden met bestemming onbereikbaar</org><en>\Sent Destination Unreachable</en></counter>
+    <counter><org>\Verzonden met tijd overschreden</org><en>\Sent Time Exceeded</en></counter>
+    <counter><org>\Verzonden parameterproblemen</org><en>\Sent Parameter Problem</en></counter>
+    <counter><org>\Verzonden source-quench</org><en>\Sent Source Quench</en></counter>
+    <counter><org>\Verzonden omleidingen per seconde</org><en>\Sent Redirect/sec</en></counter>
+    <counter><org>\Verzonden echo's per seconde</org><en>\Sent Echo/sec</en></counter>
+    <counter><org>\Verzonden antwoord op echo's per seconde</org><en>\Sent Echo Reply/sec</en></counter>
+    <counter><org>\Verzonden tijdstempels per seconde</org><en>\Sent Timestamp/sec</en></counter>
+    <counter><org>\Verzonden antwoord op tijdstempels per seconde</org><en>\Sent Timestamp Reply/sec</en></counter>
+    <counter><org>\Verzonden adresmasker</org><en>\Sent Address Mask</en></counter>
+    <counter><org>\Verzonden antwoord op adresmasker</org><en>\Sent Address Mask Reply</en></counter>
+    <counter><org>\Segmenten per seconde</org><en>\Segments/sec</en></counter>
+    <counter><org>\Vaste verbindingen</org><en>\Connections Established</en></counter>
+    <counter><org>\Actieve verbindingen</org><en>\Connections Active</en></counter>
+    <counter><org>\Passieve verbindingen</org><en>\Connections Passive</en></counter>
+    <counter><org>\Verbindingsfouten</org><en>\Connection Failures</en></counter>
+    <counter><org>\Verbindingen opnieuw instellen</org><en>\Connections Reset</en></counter>
+    <counter><org>\Segmenten ontvangen per seconde</org><en>\Segments Received/sec</en></counter>
+    <counter><org>\Segmenten verzonden per seconde</org><en>\Segments Sent/sec</en></counter>
+    <counter><org>\Opnieuw uitgezonden segmenten per seconde</org><en>\Segments Retransmitted/sec</en></counter>
+    <counter><org>\Percentage totale DPC-tijd</org><en>\% Total DPC Time</en></counter>
+    <counter><org>\Percentage totale interrupt-tijd</org><en>\% Total Interrupt Time</en></counter>
+    <counter><org>\Ontvangen datagrammen zonder poort per seconde</org><en>\Datagrams No Port/sec</en></counter>
+    <counter><org>\Ontvangen datagrammen met fouten</org><en>\Datagrams Received Errors</en></counter>
+    <counter><org>\Schijfopslageenheid</org><en>\Disk Storage Unit</en></counter>
+    <counter><org>\Toewijzingsfouten</org><en>\Allocation Failures</en></counter>
+    <counter><org>\Systeem ingeschakeld</org><en>\System Up Time</en></counter>
+    <counter><org>\Aantal systeemingangen</org><en>\System Handle Count</en></counter>
+    <counter><org>\Prioriteit basis</org><en>\Priority Base</en></counter>
+    <counter><org>\Verstreken tijd</org><en>\Elapsed Time</en></counter>
+    <counter><org>\Uitlijning - reparaties per seconde</org><en>\Alignment Fixups/sec</en></counter>
+    <counter><org>\Uitzonderingen verzonden per seconde</org><en>\Exception Dispatches/sec</en></counter>
+    <counter><org>\Drijvende komma-emulaties per seconde</org><en>\Floating Emulations/sec</en></counter>
+    <counter><org>\Aanmeldingen per seconde</org><en>\Logon/sec</en></counter>
+    <counter><org>\Prioriteit huidige</org><en>\Priority Current</en></counter>
+    <counter><org>\Percentage DPC-tijd</org><en>\% DPC Time</en></counter>
+    <counter><org>\Wisselbestand</org><en>\Paging File</en></counter>
+    <counter><org>\Beginadres</org><en>\Start Address</en></counter>
+    <counter><org>\Gebruikersprogrammakenmerk</org><en>\User PC</en></counter>
+    <counter><org>\Toegewezen ruimte - Geen toegang</org><en>\Mapped Space No Access</en></counter>
+    <counter><org>\Toegewezen ruimte - Alleen-lezen</org><en>\Mapped Space Read Only</en></counter>
+    <counter><org>\Toegewezen ruimte - Lezen en schrijven</org><en>\Mapped Space Read/Write</en></counter>
+    <counter><org>\Toegewezen ruimte - Schrijven en kopiëren</org><en>\Mapped Space Write Copy</en></counter>
+    <counter><org>\Toegewezen ruimte - Uitvoerbaar</org><en>\Mapped Space Executable</en></counter>
+    <counter><org>\Toegewezen ruimte - Uitvoeren/Alleen-lezen</org><en>\Mapped Space Exec Read Only</en></counter>
+    <counter><org>\Toegewezen ruimte - Uitvoeren/Lezen/Schrijven</org><en>\Mapped Space Exec Read/Write</en></counter>
+    <counter><org>\Toegewezen ruimte - Uitvoeren/Schrijven en kopiëren</org><en>\Mapped Space Exec Write Copy</en></counter>
+    <counter><org>\Gereserveerde ruimte - Geen toegang</org><en>\Reserved Space No Access</en></counter>
+    <counter><org>\Gereserveerde ruimte - Alleen-lezen</org><en>\Reserved Space Read Only</en></counter>
+    <counter><org>\Gereserveerde ruimte - Lezen/Schrijven</org><en>\Reserved Space Read/Write</en></counter>
+    <counter><org>\Gereserveerde ruimte - Schrijven en kopiëren</org><en>\Reserved Space Write Copy</en></counter>
+    <counter><org>\Gereserveerde ruimte - Uitvoerbaar</org><en>\Reserved Space Executable</en></counter>
+    <counter><org>\Gereserveerde ruimte - Uitvoeren/Alleen-lezen</org><en>\Reserved Space Exec Read Only</en></counter>
+    <counter><org>\Gereserveerde ruimte - Uitvoeren/Lezen/Schrijven</org><en>\Reserved Space Exec Read/Write</en></counter>
+    <counter><org>\Gereserveerde ruimte - Uitvoeren/Schrijven en kopiëren</org><en>\Reserved Space Exec Write Copy</en></counter>
+    <counter><org>\Niet-overdraagbare ruimte - Geen toegang</org><en>\Unassigned Space No Access</en></counter>
+    <counter><org>\Niet-overdraagbare ruimte - Alleen-lezen</org><en>\Unassigned Space Read Only</en></counter>
+    <counter><org>\Niet-overdraagbare ruimte - Lezen/Schrijven</org><en>\Unassigned Space Read/Write</en></counter>
+    <counter><org>\Niet-overdraagbare ruimte - Schrijven en kopiëren</org><en>\Unassigned Space Write Copy</en></counter>
+    <counter><org>\Niet-overdraagbare ruimte - Uitvoerbaar</org><en>\Unassigned Space Executable</en></counter>
+    <counter><org>\Niet-overdraagbare ruimte - Uitvoeren/Alleen-lezen</org><en>\Unassigned Space Exec Read Only</en></counter>
+    <counter><org>\Niet-overdraagbare ruimte - Uitvoeren/Lezen/Schrijven</org><en>\Unassigned Space Exec Read/Write</en></counter>
+    <counter><org>\Niet-overdraagbare ruimte - Uitvoeren/Schrijven en kopiëren</org><en>\Unassigned Space Exec Write Copy</en></counter>
+    <counter><org>\Imageruimte - Geen toegang</org><en>\Image Space No Access</en></counter>
+    <counter><org>\Imageruimte - Alleen-lezen</org><en>\Image Space Read Only</en></counter>
+    <counter><org>\Imageruimte - Lezen/Schrijven</org><en>\Image Space Read/Write</en></counter>
+    <counter><org>\Imageruimte - Schrijven en kopiëren</org><en>\Image Space Write Copy</en></counter>
+    <counter><org>\Imageruimte - Uitvoerbaar</org><en>\Image Space Executable</en></counter>
+    <counter><org>\Imageruimte - Uitvoeren/Alleen-lezen</org><en>\Image Space Exec Read Only</en></counter>
+    <counter><org>\Imageruimte - Uitvoeren/Lezen/Schrijven</org><en>\Image Space Exec Read/Write</en></counter>
+    <counter><org>\Imageruimte - Uitvoeren/Schrijven en kopiëren</org><en>\Image Space Exec Write Copy</en></counter>
+    <counter><org>\Aantal bytes gereserveerd voor images</org><en>\Bytes Image Reserved</en></counter>
+    <counter><org>\Vrije bytes voor images</org><en>\Bytes Image Free</en></counter>
+    <counter><org>\Gereserveerde bytes</org><en>\Bytes Reserved</en></counter>
+    <counter><org>\Vrije bytes</org><en>\Bytes Free</en></counter>
+    <counter><org>\Proces-id</org><en>\ID Process</en></counter>
+    <counter><org>\Procesadresruimte</org><en>\Process Address Space</en></counter>
+    <counter><org>\Geen toegang</org><en>\No Access</en></counter>
+    <counter><org>\Alleen-lezen</org><en>\Read Only</en></counter>
+    <counter><org>\Lezen/Schrijven</org><en>\Read/Write</en></counter>
+    <counter><org>\Schrijven en kopiëren</org><en>\Write Copy</en></counter>
+    <counter><org>\Uitvoerbaar</org><en>\Executable</en></counter>
+    <counter><org>\Uitvoeren/Alleen-lezen</org><en>\Exec Read Only</en></counter>
+    <counter><org>\Uitvoeren/Lezen/Schrijven</org><en>\Exec Read/Write</en></counter>
+    <counter><org>\Uitvoeren/schrijven en kopiëren</org><en>\Exec Write Copy</en></counter>
+    <counter><org>\Thread-id</org><en>\ID Thread</en></counter>
+    <counter><org>\Mailslot ontvangen mislukt</org><en>\Mailslot Receives Failed</en></counter>
+    <counter><org>\Mailslotschrijfbewerkingen mislukt</org><en>\Mailslot Writes Failed</en></counter>
+    <counter><org>\Mailslot openen mislukt per seconde</org><en>\Mailslot Opens Failed/sec</en></counter>
+    <counter><org>\Meldingen dubbele hoofdoverzichtserver</org><en>\Duplicate Master Announcements</en></counter>
+    <counter><org>\Illegale datagrammen per seconde</org><en>\Illegal Datagrams/sec</en></counter>
+    <counter><org>\Threadgegevens</org><en>\Thread Details</en></counter>
+    <counter><org>\Cachebytes</org><en>\Cache Bytes</en></counter>
+    <counter><org>\Maximaal bereikt gebruik cachebytes</org><en>\Cache Bytes Peak</en></counter>
+    <counter><org>\Overgangspagina's met nieuw doel per seconde</org><en>\Transition Pages RePurposed/sec</en></counter>
+    <counter><org>\Verzonden bytes</org><en>\Bytes Transmitted</en></counter>
+    <counter><org>\Ontvangen bytes</org><en>\Bytes Received</en></counter>
+    <counter><org>\Verzonden frames</org><en>\Frames Transmitted</en></counter>
+    <counter><org>\Ontvangen frames.</org><en>\Frames Received.</en></counter>
+    <counter><org>\Compressiefactor Out</org><en>\Percent Compression Out</en></counter>
+    <counter><org>\Compressiefactor In</org><en>\Percent Compression In</en></counter>
+    <counter><org>\CRC-fouten</org><en>\CRC Errors</en></counter>
+    <counter><org>\Time-outfouten</org><en>\Timeout Errors</en></counter>
+    <counter><org>\Seriële overschrijdingsfouten</org><en>\Serial Overrun Errors</en></counter>
+    <counter><org>\Uitlijningsfouten</org><en>\Alignment Errors</en></counter>
+    <counter><org>\Bufferoverschrijdingsfouten</org><en>\Buffer Overrun Errors</en></counter>
+    <counter><org>\Totale fouten</org><en>\Total Errors</en></counter>
+    <counter><org>\Verzonden bytes per seconde</org><en>\Bytes Transmitted/Sec</en></counter>
+    <counter><org>\Ontvangen bytes per seconde</org><en>\Bytes Received/Sec</en></counter>
+    <counter><org>\Verzonden frames per seconde</org><en>\Frames Transmitted/Sec</en></counter>
+    <counter><org>\Ontvangen frames per seconde</org><en>\Frames Received/Sec</en></counter>
+    <counter><org>\Totale fouten per seconde</org><en>\Total Errors/Sec</en></counter>
+    <counter><org>\Totale verbindingen</org><en>\Total Connections</en></counter>
+    <counter><org>\WINS-server</org><en>\WINS Server</en></counter>
+    <counter><org>\Unieke registraties per seconde</org><en>\Unique Registrations/sec</en></counter>
+    <counter><org>\Groepsregistraties per seconde</org><en>\Group Registrations/sec</en></counter>
+    <counter><org>\Totaal aantal registraties per seconde</org><en>\Total Number of Registrations/sec</en></counter>
+    <counter><org>\Unieke vernieuwingen per seconde</org><en>\Unique Renewals/sec</en></counter>
+    <counter><org>\Groepsvernieuwingen per seconde</org><en>\Group Renewals/sec</en></counter>
+    <counter><org>\Totaal aantal vernieuwingen per seconde</org><en>\Total Number of Renewals/sec</en></counter>
+    <counter><org>\Totaal aantal vrijgegeven per seconde</org><en>\Releases/sec</en></counter>
+    <counter><org>\Query's per seconde</org><en>\Queries/sec</en></counter>
+    <counter><org>\Unieke conflicten per seconde</org><en>\Unique Conflicts/sec</en></counter>
+    <counter><org>\Groepconflicten per seconde</org><en>\Group Conflicts/sec</en></counter>
+    <counter><org>\Totaal aantal conflicten per seconde</org><en>\Total Number of Conflicts/sec</en></counter>
+    <counter><org>\Succesvol vrijgegeven per seconde</org><en>\Successful Releases/sec</en></counter>
+    <counter><org>\Mislukt vrijgegeven per seconde</org><en>\Failed Releases/sec</en></counter>
+    <counter><org>\Geslaagde query's per seconde</org><en>\Successful Queries/sec</en></counter>
+    <counter><org>\Mislukte query's per seconde</org><en>\Failed Queries/sec</en></counter>
+    <counter><org>\MacFile-server</org><en>\MacFile Server</en></counter>
+    <counter><org>\Maximaal wisselbaar geheugen</org><en>\Max Paged Memory</en></counter>
+    <counter><org>\Huidig wisselbaar geheugen</org><en>\Current Paged Memory</en></counter>
+    <counter><org>\Maximaal niet-wisselbaar geheugen</org><en>\Max NonPaged Memory</en></counter>
+    <counter><org>\Huidig niet-wisselbaar geheugen</org><en>\Current NonPaged memory</en></counter>
+    <counter><org>\Huidige sessies</org><en>\Current Sessions</en></counter>
+    <counter><org>\Maximum sessies</org><en>\Maximum Sessions</en></counter>
+    <counter><org>\Huidige bestanden open</org><en>\Current Files Open</en></counter>
+    <counter><org>\Maximum bestanden open</org><en>\Maximum Files Open</en></counter>
+    <counter><org>\Mislukte aanmeldingen</org><en>\Failed Logons</en></counter>
+    <counter><org>\Gegevens gelezen per seconde</org><en>\Data Read/sec</en></counter>
+    <counter><org>\Gegevens geschreven per seconde</org><en>\Data Written/sec</en></counter>
+    <counter><org>\Gegevens ontvangen per seconde</org><en>\Data Received/sec</en></counter>
+    <counter><org>\Gegevens verzonden per seconde</org><en>\Data Transmitted/sec</en></counter>
+    <counter><org>\Huidige wachtrijlengte</org><en>\Current Queue Length</en></counter>
+    <counter><org>\Maximum lengte wachtrij</org><en>\Maximum Queue Length</en></counter>
+    <counter><org>\Huidige threads</org><en>\Current Threads</en></counter>
+    <counter><org>\Maximum threads</org><en>\Maximum Threads</en></counter>
+    <counter><org>\Pakketten in per seconde</org><en>\Packets In/sec</en></counter>
+    <counter><org>\Pakketten uit per seconde</org><en>\Packets Out/sec</en></counter>
+    <counter><org>\Bytes in per seconde</org><en>\Bytes In/sec</en></counter>
+    <counter><org>\Bytes uit per seconde</org><en>\Bytes Out/sec</en></counter>
+    <counter><org>\Gemiddelde tijd/DDP-pakket</org><en>\Average Time/DDP Packet</en></counter>
+    <counter><org>\DDP-pakketten per seconde</org><en>\DDP Packets/sec</en></counter>
+    <counter><org>\Gemiddelde tijd/AARP-pakket</org><en>\Average Time/AARP Packet</en></counter>
+    <counter><org>\AARP-pakketten per seconde</org><en>\AARP Packets/sec</en></counter>
+    <counter><org>\Gemiddelde tijd/ATP-pakket</org><en>\Average Time/ATP Packet</en></counter>
+    <counter><org>\ATP-pakketten per seconde</org><en>\ATP Packets/sec</en></counter>
+    <counter><org>\Gemiddelde tijd/NBP-pakket</org><en>\Average Time/NBP Packet</en></counter>
+    <counter><org>\NBP-pakketten per seconde</org><en>\NBP Packets/sec</en></counter>
+    <counter><org>\Gemiddelde tijd/ZIP-pakket</org><en>\Average Time/ZIP Packet</en></counter>
+    <counter><org>\ZIP-pakketten per seconde</org><en>\ZIP Packets/sec</en></counter>
+    <counter><org>\Gemiddelde tijd/RTMP-pakket</org><en>\Average Time/RTMP Packet</en></counter>
+    <counter><org>\RTMP-pakketten per seconde</org><en>\RTMP Packets/sec</en></counter>
+    <counter><org>\ATP opnieuw lokaal</org><en>\ATP Retries Local</en></counter>
+    <counter><org>\ATP-reactietime-outs</org><en>\ATP Response Timouts</en></counter>
+    <counter><org>\ATP XO-reactie per seconde</org><en>\ATP XO Response/Sec</en></counter>
+    <counter><org>\ATP ALO-reactie per seconde</org><en>\ATP ALO Response/Sec</en></counter>
+    <counter><org>\ATP Recvd-vrijgegeven per seconde</org><en>\ATP Recvd Release/Sec</en></counter>
+    <counter><org>\Huidig niet-wisselbaar geheugen</org><en>\Current NonPaged Pool</en></counter>
+    <counter><org>\Pakketten naar poort per seconde</org><en>\Packets Routed In/Sec</en></counter>
+    <counter><org>\Verloren gegane pakketten</org><en>\Packets dropped</en></counter>
+    <counter><org>\ATP-aanvragen opnieuw</org><en>\ATP Retries Remote</en></counter>
+    <counter><org>\Pakketten naar poort per seconde</org><en>\Packets Routed Out/Sec</en></counter>
+    <counter><org>\Netwerksegment</org><en>\Network Segment</en></counter>
+    <counter><org>\Totaal aantal ontvangen frames per seconde</org><en>\Total frames received/second</en></counter>
+    <counter><org>\Totaal aantal ontvangen bytes per seconde</org><en>\Total bytes received/second</en></counter>
+    <counter><org>\Ontvangen Broadcast-frames per seconde</org><en>\Broadcast frames received/second</en></counter>
+    <counter><org>\Ontvangen Multicastframes per seconde</org><en>\Multicast frames received/second</en></counter>
+    <counter><org>\Percentage van netwerk in gebruik</org><en>\% Network utilization</en></counter>
+    <counter><org>\Percentage Broadcast-frames</org><en>\% Broadcast Frames</en></counter>
+    <counter><org>\Percentage Multicast-frames</org><en>\% Multicast Frames</en></counter>
+    <counter><org>\Telefonie</org><en>\Telephony</en></counter>
+    <counter><org>\Lijnen</org><en>\Lines</en></counter>
+    <counter><org>\Telefoonapparaten</org><en>\Telephone Devices</en></counter>
+    <counter><org>\Actieve lijnen</org><en>\Active Lines</en></counter>
+    <counter><org>\Actieve telefoons</org><en>\Active Telephones</en></counter>
+    <counter><org>\Uitgaande gesprekken per seconde</org><en>\Outgoing Calls/sec</en></counter>
+    <counter><org>\Binnenkomende gesprekken per seconde</org><en>\Incoming Calls/sec</en></counter>
+    <counter><org>\Clienttoepassingen</org><en>\Client Apps</en></counter>
+    <counter><org>\Aantal uitgaande gesprekken</org><en>\Current Outgoing Calls</en></counter>
+    <counter><org>\Huidig aantal binnenkomende gesprekken</org><en>\Current Incoming Calls</en></counter>
+    <counter><org>\Packet Burst Read NCP Count per seconde</org><en>\Packet Burst Read NCP Count/sec</en></counter>
+    <counter><org>\Packet Burst Read Time-outs per seconde</org><en>\Packet Burst Read Timeouts/sec</en></counter>
+    <counter><org>\Packet Burst Write NCP Count per seconde</org><en>\Packet Burst Write NCP Count/sec</en></counter>
+    <counter><org>\Packet Burst Write Time-outs per seconde</org><en>\Packet Burst Write Timeouts/sec</en></counter>
+    <counter><org>\Totaal aantal aanmeldingen</org><en>\Logon Total</en></counter>
+    <counter><org>\Serverwerkwachtrijen</org><en>\Server Work Queues</en></counter>
+    <counter><org>\Wachtrijlengte</org><en>\Queue Length</en></counter>
+    <counter><org>\Actieve threads</org><en>\Active Threads</en></counter>
+    <counter><org>\Beschikbare threads</org><en>\Available Threads</en></counter>
+    <counter><org>\Beschikbare werkitems</org><en>\Available Work Items</en></counter>
+    <counter><org>\Geleende werkitems</org><en>\Borrowed Work Items</en></counter>
+    <counter><org>\Huidige clients</org><en>\Current Clients</en></counter>
+    <counter><org>\Verplaatste bytes per seconde</org><en>\Bytes Transferred/sec</en></counter>
+    <counter><org>\Leesbewerkingen in bytes per seconde</org><en>\Read Bytes/sec</en></counter>
+    <counter><org>\Geschreven bytes per seconde</org><en>\Write Bytes/sec</en></counter>
+    <counter><org>\Totaal aantal bewerkingen per seconde</org><en>\Total Operations/sec</en></counter>
+    <counter><org>\DPC's in wachtrij geplaatst per seconde</org><en>\DPCs Queued/sec</en></counter>
+    <counter><org>\DPC-snelheid</org><en>\DPC Rate</en></counter>
+    <counter><org>\Totaal aantal DPC's in wachtrij geplaatst per seconde</org><en>\Total DPCs Queued/sec</en></counter>
+    <counter><org>\Totale DPC-snelheid</org><en>\Total DPC Rate</en></counter>
+    <counter><org>\Percentage registerquota in gebruik</org><en>\% Registry Quota In Use</en></counter>
+    <counter><org>\VLM (VL-geheugen)</org><en>\VL Memory</en></counter>
+    <counter><org>\VLM: percentage virtuele grootte in gebruik</org><en>\VLM % Virtual Size In Use</en></counter>
+    <counter><org>\VLM: virtuele grootte</org><en>\VLM Virtual Size</en></counter>
+    <counter><org>\VLM: maximale virtuele grootte</org><en>\VLM Virtual Size Peak</en></counter>
+    <counter><org>\VLM: beschikbare virtuele grootte</org><en>\VLM Virtual Size Available</en></counter>
+    <counter><org>\VLM: toegewezen geheugen</org><en>\VLM Commit Charge</en></counter>
+    <counter><org>\VLM: maximaal toegewezen geheugen</org><en>\VLM Commit Charge Peak</en></counter>
+    <counter><org>\Systeem-VLM: toegewezen geheugen</org><en>\System VLM Commit Charge</en></counter>
+    <counter><org>\Systeem-VLM: maximaal toegewezen geheugen</org><en>\System VLM Commit Charge Peak</en></counter>
+    <counter><org>\Systeem-VLM: gedeeld toegewezen geheugen</org><en>\System VLM Shared Commit Charge</en></counter>
+    <counter><org>\Beschikbare kilobytes (kB)</org><en>\Available KBytes</en></counter>
+    <counter><org>\Gemiddelde wachtrijlengte voor schijf</org><en>\Avg. Disk Queue Length</en></counter>
+    <counter><org>\Gemiddelde wachtrijlengte voor lezen</org><en>\Avg. Disk Read Queue Length</en></counter>
+    <counter><org>\Gemiddelde wachtrijlengte voor schrijven</org><en>\Avg. Disk Write Queue Length</en></counter>
+    <counter><org>\Percentage toegewezen bytes in gebruik</org><en>\% Committed Bytes In Use</en></counter>
+    <counter><org>\Volledig image</org><en>\Full Image</en></counter>
+    <counter><org>\Proces-id maken</org><en>\Creating Process ID</en></counter>
+    <counter><org>\I/O-leesbewerkingen per seconde</org><en>\IO Read Operations/sec</en></counter>
+    <counter><org>\I/O-schrijfbewerkingen per seconde</org><en>\IO Write Operations/sec</en></counter>
+    <counter><org>\I/O leesbytes per seconde</org><en>\IO Read Bytes/sec</en></counter>
+    <counter><org>\I/O-schrijfbytes per seconde</org><en>\IO Write Bytes/sec</en></counter>
+    <counter><org>\I/O-gegevensbytes per seconde</org><en>\IO Data Bytes/sec</en></counter>
+    <counter><org>\Andere I/O-bytes per seconde</org><en>\IO Other Bytes/sec</en></counter>
+    <counter><org>\Afdrukwachtrij</org><en>\Print Queue</en></counter>
+    <counter><org>\Totaal aantal afgedrukte taken</org><en>\Total Jobs Printed</en></counter>
+    <counter><org>\Aantal afgedrukte bytes per seconde</org><en>\Bytes Printed/sec</en></counter>
+    <counter><org>\Totaal aantal afgedrukte pagina's</org><en>\Total Pages Printed</en></counter>
+    <counter><org>\Taken</org><en>\Jobs</en></counter>
+    <counter><org>\Verwijzingen</org><en>\References</en></counter>
+    <counter><org>\Max. verwijzingen</org><en>\Max References</en></counter>
+    <counter><org>\Taken-spooling</org><en>\Jobs Spooling</en></counter>
+    <counter><org>\Max. taken-spooling</org><en>\Max Jobs Spooling</en></counter>
+    <counter><org>\"Papier op"-fouten</org><en>\Out of Paper Errors</en></counter>
+    <counter><org>\"Niet gereed"-fouten</org><en>\Not Ready Errors</en></counter>
+    <counter><org>\Taakfouten</org><en>\Job Errors</en></counter>
+    <counter><org>\Netwerkprinteraanroepen inventariseren</org><en>\Enumerate Network Printer Calls</en></counter>
+    <counter><org>\Netwerkprinteraanroepen toevoegen</org><en>\Add Network Printer Calls</en></counter>
+    <counter><org>\Werkset Persoonlijk</org><en>\Working Set - Private</en></counter>
+    <counter><org>\Werkset Gedeeld</org><en>\Working Set - Shared</en></counter>
+    <counter><org>\Percentage tijd niet-actief</org><en>\% Idle Time</en></counter>
+    <counter><org>\Gesplitste I/O-bewerkingen per seconde</org><en>\Split IO/Sec</en></counter>
+    <counter><org>\Taakobject</org><en>\Job Object</en></counter>
+    <counter><org>\Huidig percentage processortijd</org><en>\Current % Processor Time</en></counter>
+    <counter><org>\Huidig percentage tijd in gebruikersmodus</org><en>\Current % User Mode Time</en></counter>
+    <counter><org>\Huidig percentage tijd in kernelmodus</org><en>\Current % Kernel Mode Time</en></counter>
+    <counter><org>\Deze periode (msec.) - processor</org><en>\This Period mSec - Processor</en></counter>
+    <counter><org>\Deze periode (msec.) - gebruikersmodus</org><en>\This Period mSec - User Mode</en></counter>
+    <counter><org>\Deze periode (msec.) - kernelmodus</org><en>\This Period mSec - Kernel Mode</en></counter>
+    <counter><org>\Pagina's per seconde</org><en>\Pages/Sec</en></counter>
+    <counter><org>\Procesaantal - totaal</org><en>\Process Count - Total</en></counter>
+    <counter><org>\Procesaantal - actief</org><en>\Process Count - Active</en></counter>
+    <counter><org>\Procesaantal Afgebroken</org><en>\Process Count - Terminated</en></counter>
+    <counter><org>\Totaal (msec.) - processor</org><en>\Total mSec - Processor</en></counter>
+    <counter><org>\Totaal (msec.) - gebruikersmodus</org><en>\Total mSec - User Mode</en></counter>
+    <counter><org>\Totaal (msec.) - kernelmodus</org><en>\Total mSec - Kernel Mode</en></counter>
+    <counter><org>\Ontvangen pakketten te groot</org><en>\Received Packet Too Big</en></counter>
+    <counter><org>\Ontvangen lidmaatschapquery's</org><en>\Received Membership Query</en></counter>
+    <counter><org>\Ontvangen lidmaatschaprapporten</org><en>\Received Membership Report</en></counter>
+    <counter><org>\Ontvangen lidmaatschapreducties</org><en>\Received Membership Reduction</en></counter>
+    <counter><org>\Ontvangen routeraanvragen</org><en>\Received Router Solicit</en></counter>
+    <counter><org>\Ontvangen router-advertisements</org><en>\Received Router Advert</en></counter>
+    <counter><org>\Taakobjectgegevens</org><en>\Job Object Details</en></counter>
+    <counter><org>\Ontvangen neighbor-aanvragen</org><en>\Received Neighbor Solicit</en></counter>
+    <counter><org>\Ontvangen neighbor-advertisements</org><en>\Received Neighbor Advert</en></counter>
+    <counter><org>\Verzonden pakketten te groot</org><en>\Sent Packet Too Big</en></counter>
+    <counter><org>\Verzonden lidmaatschapquery's</org><en>\Sent Membership Query</en></counter>
+    <counter><org>\Verzonden lidmaatschaprapporten</org><en>\Sent Membership Report</en></counter>
+    <counter><org>\Verzonden lidmaatschapreducties</org><en>\Sent Membership Reduction</en></counter>
+    <counter><org>\Verzonden routeraanvragen</org><en>\Sent Router Solicit</en></counter>
+    <counter><org>\Verzonden router-advertisements</org><en>\Sent Router Advert</en></counter>
+    <counter><org>\Verzonden neighbor-aanvragen</org><en>\Sent Neighbor Solicit</en></counter>
+    <counter><org>\Verzonden neighbor-advertisements</org><en>\Sent Neighbor Advert</en></counter>
+    <counter><org>\Systeemwijde beveiligingsstatistieken</org><en>\Security System-Wide Statistics</en></counter>
+    <counter><org>\NTLM-verificaties</org><en>\NTLM Authentications</en></counter>
+    <counter><org>\Kerberos-verificaties</org><en>\Kerberos Authentications</en></counter>
+    <counter><org>\KDC AS-aanvragen</org><en>\KDC AS Requests</en></counter>
+    <counter><org>\KDC TGS-aanvragen</org><en>\KDC TGS Requests</en></counter>
+    <counter><org>\Vermeldingen in Schannel-sessiecache</org><en>\Schannel Session Cache Entries</en></counter>
+    <counter><org>\Actieve vermeldingen in Schannel-sessiecache</org><en>\Active Schannel Session Cache Entries</en></counter>
+    <counter><org>\Volledige SSL-handshakes aan de clientzijde</org><en>\SSL Client-Side Full Handshakes</en></counter>
+    <counter><org>\SSL-handshakes voor opnieuw verbinden aan de clientzijde</org><en>\SSL Client-Side Reconnect Handshakes</en></counter>
+    <counter><org>\Volledige SSL-handshakes aan de serverzijde</org><en>\SSL Server-Side Full Handshakes</en></counter>
+    <counter><org>\SSL-handshakes voor opnieuw verbinden aan de serverzijde</org><en>\SSL Server-Side Reconnect Handshakes</en></counter>
+    <counter><org>\Digest-verificaties</org><en>\Digest Authentications</en></counter>
+    <counter><org>\Beveiligingsstatistieken per proces</org><en>\Security Per-Process Statistics</en></counter>
+    <counter><org>\Referentie-ingangen</org><en>\Credential Handles</en></counter>
+    <counter><org>\Contextingangen</org><en>\Context Handles</en></counter>
+    <counter><org>\Bytes voor vrije &amp; lege paginalijst</org><en>\Free &amp; Zero Page List Bytes</en></counter>
+    <counter><org>\Bytes voor aangepaste paginalijst</org><en>\Modified Page List Bytes</en></counter>
+    <counter><org>\Bytes voor reserve stand-bycache</org><en>\Standby Cache Reserve Bytes</en></counter>
+    <counter><org>\Bytes voor stand-bycache met normale prioriteit</org><en>\Standby Cache Normal Priority Bytes</en></counter>
+    <counter><org>\Bytes voor basis stand-bycache</org><en>\Standby Cache Core Bytes</en></counter>
+    <counter><org>\Percentage tijd C1</org><en>\% C1 Time</en></counter>
+    <counter><org>\Percentage tijd C2</org><en>\% C2 Time</en></counter>
+    <counter><org>\Percentage tijd C3</org><en>\% C3 Time</en></counter>
+    <counter><org>\C1-overdrachten per seconde</org><en>\C1 Transitions/sec</en></counter>
+    <counter><org>\C2-overdrachten per seconde</org><en>\C2 Transitions/sec</en></counter>
+    <counter><org>\C3-overdrachten per seconde</org><en>\C3 Transitions/sec</en></counter>
+    <counter><org>\Gereserveerde bytes</org><en>\Reserved Bytes</en></counter>
+    <counter><org>\Vrije bytes</org><en>\Free Bytes</en></counter>
+    <counter><org>\Lengte vrije lijst</org><en>\Free List Length</en></counter>
+    <counter><org>\Gem. toewijzingssnelheid</org><en>\Avg. alloc rate</en></counter>
+    <counter><org>\Gem. vrijgeefsnelheid</org><en>\Avg. free rate</en></counter>
+    <counter><org>\Lengte van niet-toegewezen bereik</org><en>\Uncommitted Ranges Length</en></counter>
+    <counter><org>\Toegewezen - Vrij</org><en>\Allocs - Frees</en></counter>
+    <counter><org>\In cache geplaatste toewijzingen per seconde</org><en>\Cached Allocs/sec</en></counter>
+    <counter><org>\In cache geplaatste vrije bytes per seconde</org><en>\Cached Frees/sec</en></counter>
+    <counter><org>\Toewijzingen van minder dan 1 kB per seconde</org><en>\Allocs &lt;1K/sec</en></counter>
+    <counter><org>\Vrije bytes &lt;1 kB/sec</org><en>\Frees &lt;1K/sec</en></counter>
+    <counter><org>\Toewijzingen van 1 t/m 8 kB per seconde</org><en>\Allocs 1-8K/sec</en></counter>
+    <counter><org>\Vrije bytes van 1 t/m 8 kB per seconde</org><en>\Frees 1-8K/sec</en></counter>
+    <counter><org>\Toewijzingen van meer dan 8 kB per seconde</org><en>\Allocs over 8K/sec</en></counter>
+    <counter><org>\Vrije bytes van meer dan 8 kB per seconde</org><en>\Frees over 8K/sec</en></counter>
+    <counter><org>\Totaal aantal toewijzingen per seconde</org><en>\Total Allocs/sec</en></counter>
+    <counter><org>\Totaal aantal vrije bytes per seconde</org><en>\Total Frees/sec</en></counter>
+    <counter><org>\Blokken in heap-cache</org><en>\Blocks in Heap Cache</en></counter>
+    <counter><org>\Grootste cache-diepte</org><en>\Largest Cache Depth</en></counter>
+    <counter><org>\% fragmentatie</org><en>\% Fragmentation</en></counter>
+    <counter><org>\% VA-fragmentering</org><en>\% VAFragmentation</en></counter>
+    <counter><org>\Heap-vergrendelingsconflict</org><en>\Heap Lock contention</en></counter>
+    <counter><org>\Eindmarkering</org><en>\End Marker</en></counter>
+</Counters>

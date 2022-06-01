@@ -1,0 +1,6 @@
+1 - Por que está demorando? 
+2 - Qual query está lenta? 
+3 - Como melhorar a performance? 
+
+
+Min memory per query ... :-(

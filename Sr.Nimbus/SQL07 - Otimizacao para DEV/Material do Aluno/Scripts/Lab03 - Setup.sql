@@ -1,0 +1,122 @@
+USE tempdb
+go
+
+IF OBJECT_ID('Usuario') IS NOT NULL
+	DROP TABLE Usuario
+
+CREATE TABLE Usuario
+(Codigo INT IDENTITY(1,1) NOT NULL,
+ Nome VARCHAR(200) NOT NULL,
+ Senha VARCHAR(200) NOT NULL)
+GO
+
+DECLARE @I INT = 1
+
+WHILE @I < 110
+BEGIN
+	INSERT INTO Usuario (Nome, Senha) VALUES ('Usuario' + CAST (@i AS VARCHAR), '123456')
+	SET @I = @I + 1
+END
+go
+
+IF OBJECT_ID('InsereNovoUsuario') IS NOT NULL
+	DROP PROCEDURE InsereNovoUsuario
+GO
+
+CREATE PROCEDURE InsereNovoUsuario
+	@nomeUsuario VARCHAR(200)
+AS
+BEGIN TRANSACTION
+
+IF OBJECT_ID('#TabelaTemp') IS NOT NULL
+	DROP TABLE #TabelaTemp
+
+DECLARE @Codigo INT
+DECLARE @Senha UNIQUEIDENTIFIER
+
+INSERT INTO dbo.Usuario (Nome, Senha) VALUES (@nomeUsuario, '')
+SELECT @Codigo = SCOPE_IDENTITY();
+
+WITH CTE AS
+(SELECT NEWID() AS ChaveSenha UNION
+ SELECT NEWID() UNION
+ SELECT NEWID() UNION
+ SELECT NEWID() UNION
+ SELECT NEWID() UNION
+ SELECT NEWID() UNION
+ SELECT NEWID() UNION
+ SELECT NEWID() UNION
+ SELECT NEWID() UNION
+ SELECT NEWID() UNION
+ SELECT NEWID() UNION
+ SELECT NEWID() UNION
+ SELECT NEWID())
+SELECT 
+	A.ChaveSenha as C1,
+	B.ChaveSenha as C2,
+	C.ChaveSenha as C3,
+	D.ChaveSenha as C4,
+	E.ChaveSenha as C5,
+	F.ChaveSenha AS C6
+INTO #TabelaTemp
+FROM CTE AS A
+CROSS JOIN CTE AS B
+CROSS JOIN CTE as C
+CROSS JOIN CTE AS D
+CROSS JOIN CTE AS E
+CROSS JOIN CTE AS F
+
+SELECT TOP 3 @Senha = C3
+FROM #TabelaTemp TABLESAMPLE(1)
+ORDER BY C2
+
+UPDATE Usuario
+	SET Senha = CAST(@Senha AS VARCHAR(200))
+WHERE Codigo = @Codigo
+
+COMMIT TRANSACTION
+go
+
+IF OBJECT_ID('Simulacao01') IS NOT NULL
+	DROP PROCEDURE Simulacao01
+GO
+
+CREATE PROCEDURE Simulacao01
+AS
+
+DECLARE @I INT = 1000
+DECLARE @nome VARCHAR(200)
+
+WHILE @I < 2000
+BEGIN
+	WAITFOR DELAY '00:00:20'
+	SET @nome = 'Usuario' + CAST (@I AS VARCHAR)
+	EXEC InsereNovoUsuario @nome
+	SET @I = @I + 1
+END
+GO
+
+
+IF OBJECT_ID('Simulacao02') IS NOT NULL
+	DROP PROCEDURE Simulacao02
+GO
+
+CREATE PROCEDURE Simulacao02
+AS
+
+DECLARE @I INT = 1
+DECLARE @nome VARCHAR(200)
+
+WHILE @I < 2000000
+BEGIN
+	WAITFOR DELAY '00:00:00.500'
+	SET @nome = 'Usuario' + CAST ((@I % 100) + 1 AS VARCHAR)	
+	
+	SELECT Codigo from Usuario
+	where Nome = @nome and Senha = '123456'
+	
+	RAISERROR ('Usuario autenticado com sucesso!', 10, 1) with nowait
+	
+	SET @I = @I + 1
+END
+GO

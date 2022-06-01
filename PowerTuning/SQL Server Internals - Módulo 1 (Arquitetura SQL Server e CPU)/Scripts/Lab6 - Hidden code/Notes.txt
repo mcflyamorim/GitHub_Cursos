@@ -1,0 +1,13 @@
+1 - Uma applicação está enviando um código t-sql malicioso para o BD na VM2 (iniciar VM2 no hyper-v)... Como DBA, você precisa identificar o t-sql enviado para o servidor e reportar para seus superiores... como fazer?
+
+
+Lab6 - 
+1 - Microsoft message analyzer
+2 - Configurar demo para logar e enviar t-sql para VM1... pacotes precisam vir de fora da maq, ou seja, app tem q estar em outra máq... 
+3 - Iniciar trace capturando tudo... 
+4 - Filtrar message analyzer para pegar apenas pacotes vindo do ip da maq rodando a app... (IPv4.Source == 172.17.23.145)
+5 - identificar os pacotes vindo em reassembledtcp
+6 - pegar a destionation port mencionadas no reassembledtcp... ou pegar a porta no tcp/ip no config manager do sql
+7 - stop no trace
+8 - tools, options, parsing ... Adicionar as portas obtidas acima no TDS
+9 - adicionar nova coluna no grid, selecionar TDS/SQLBatch/SQLBatchPacketData/SQLText

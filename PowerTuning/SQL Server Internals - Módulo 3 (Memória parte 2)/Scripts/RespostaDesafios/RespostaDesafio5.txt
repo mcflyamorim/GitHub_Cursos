@@ -1,0 +1,15 @@
+1 - O que está acontecendo? Por que algumas consultas estão falhando?
+-- testlimit64 esta te matando ... 
+2 - Você consegue obter a resposta da pergunta acima utilizando o dump gerado? 
+
+srv*c:\Symbols*http://msdl.microsoft.com/download/symbols;
+.reload /f
+lmvm sqlservr
+!analyze –v
+k
+!findstack sqlservr!CDmpDump
+~<threadnumber>s
+
+
+3 - Como fazer pra que o SQL não de mais erro? 
+-- stop running shit in your SQL Server baby... 

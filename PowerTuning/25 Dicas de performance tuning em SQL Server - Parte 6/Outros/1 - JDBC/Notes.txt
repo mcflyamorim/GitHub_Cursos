@@ -1,0 +1,30 @@
+https://docs.microsoft.com/en-us/sql/connect/jdbc/setting-the-connection-properties?view=sql-server-ver15
+
+// Set the first parameter of the statement
+	            ps.setObject( 1, "Fabiano Amorim", Types.VARCHAR) ;
+
+
+CODIGO FALTANDO
+"SendStringParametersAsUnicode=false;" +
+
+
+sendStringParameters...
+AsUnicode
+
+boolean
+["true" | "false"]
+true	sendStringParametersAsUnicode
+
+If the sendStringParametersAsUnicode property is set to "true", String parameters are sent to the server in Unicode format.
+
+If the sendStringParametersAsUnicode property is set to "false", String parameters are sent to the server in non-Unicode format such as ASCII/MBCS instead of Unicode.
+
+The default value for the sendStringParametersAsUnicode property is "true".
+
+Note: The sendStringParametersAsUnicode property is only checked when sending a parameter value with CHAR, VARCHAR, or LONGVARCHAR JDBC types. The new JDBC 4.0 national character methods, such as the setNString, setNCharacterStream, and setNClob methods of SQLServerPreparedStatement and SQLServerCallableStatement classes, always send their parameter values to the server in Unicode regardless of the setting of this property.
+
+For optimal performance with the CHAR, VARCHAR, and LONGVARCHAR JDBC data types, an application should set the sendStringParametersAsUnicode property to "false" and use the setString, setCharacterStream, and setClob non-national character methods of the SQLServerPreparedStatement and SQLServerCallableStatement classes.
+
+When the application sets the sendStringParametersAsUnicode property to "false" and uses a non-national character method to access Unicode data types on the server side (such as nchar, nvarchar and ntext), some data might be lost if the database collation does not support the characters in the String parameters passed by the non-national character method.
+
+Note that an application should use the setNString, setNCharacterStream, and setNClob national character methods of the SQLServerPreparedStatement and SQLServerCallableStatement classes for the NCHAR, NVARCHAR, and LONGNVARCHAR JDBC data types.

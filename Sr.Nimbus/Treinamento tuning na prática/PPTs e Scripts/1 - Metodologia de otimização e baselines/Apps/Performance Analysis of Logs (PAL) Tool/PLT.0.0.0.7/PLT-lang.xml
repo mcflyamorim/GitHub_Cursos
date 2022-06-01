@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<languages>
+  <language>
+    <displayName>German</displayName>
+    <fileName>de-DE_PFL.xml</fileName>
+  </language>
+  <language>
+    <displayName>French</displayName>
+    <fileName>fr-FR_PFL.xml</fileName>
+  </language>
+  <language>
+    <displayName>Spanish</displayName>
+    <fileName>es-ES_PFL.xml</fileName>
+  </language>
+  <language>
+    <displayName>Dutch</displayName>
+    <fileName>nl-NL_PFL.xml</fileName>
+  </language>
+  <language>
+    <displayName>Magyar</displayName>
+    <fileName>hu-HU_PFL.xml</fileName>
+  </language>
+</languages>

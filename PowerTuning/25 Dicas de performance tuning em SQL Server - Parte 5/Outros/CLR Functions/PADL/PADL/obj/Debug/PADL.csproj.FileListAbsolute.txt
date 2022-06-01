@@ -1,0 +1,4 @@
+C:\Fabiano\Trabalho\Sr.Nimbus\Cursos\SQL11 - TSQL Expert\Scripts\CLR Functions\PADL\PADL\bin\Debug\PADL.dll
+C:\Fabiano\Trabalho\Sr.Nimbus\Cursos\SQL11 - TSQL Expert\Scripts\CLR Functions\PADL\PADL\bin\Debug\PADL.pdb
+C:\Fabiano\Trabalho\Sr.Nimbus\Cursos\SQL11 - TSQL Expert\Scripts\CLR Functions\PADL\PADL\obj\Debug\PADL.dll
+C:\Fabiano\Trabalho\Sr.Nimbus\Cursos\SQL11 - TSQL Expert\Scripts\CLR Functions\PADL\PADL\obj\Debug\PADL.pdb

@@ -1,0 +1,718 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Counters>
+    <counter><org>\Archivo de paginación</org><en>\Paging File</en></counter>
+    <counter><org>\% Uso</org><en>\% Usage</en></counter>
+    <counter><org>\% Uso máximo</org><en>\% Usage Peak</en></counter>
+    <counter><org>\DiscoLógico(</org><en>\LogicalDisk(</en></counter>
+    <counter><org>\Media en segundos/lectura</org><en>\Avg. Disk sec/Read</en></counter>
+    <counter><org>\Media en segundos/escritura</org><en>\Avg. Disk sec/Write</en></counter>
+    <counter><org>\Transferencias de s.</org><en>\Disk Transfers/sec</en></counter>
+    <counter><org>\Megabytes libres</org><en>\Free Megabytes</en></counter>
+    <counter><org>\Memoria</org><en>\Memory</en></counter>
+    <counter><org>\MBytes disponibles</org><en>\Available MBytes</en></counter>
+    <counter><org>\Entradas libres de la tabla de páginas del sistema</org><en>\Free System Page Table Entries</en></counter>
+    <counter><org>\Páginas de entrada/s.</org><en>\Pages Input/sec</en></counter>
+    <counter><org>\Páginas/s</org><en>\Pages/sec</en></counter>
+    <counter><org>\Bytes de bloque no paginado</org><en>\Pool Nonpaged Bytes</en></counter>
+    <counter><org>\Bytes de bloque paginado</org><en>\Pool Paged Bytes</en></counter>
+    <counter><org>\Bytes residentes de caché del sistema</org><en>\System Cache Resident Bytes</en></counter>
+    <counter><org>\Interfaz de red(</org><en>\Network Interface(</en></counter>
+    <counter><org>\Ancho de banda actual</org><en>\Current Bandwidth</en></counter>
+    <counter><org>\Total de bytes/s.</org><en>\Bytes Total/sec</en></counter>
+    <counter><org>\Longitud de la cola de salida</org><en>\Output Queue Length</en></counter>
+    <counter><org>\Archivo de paginación(</org><en>\Paging File(</en></counter>
+    <counter><org>\DiscoFísico(</org><en>\PhysicalDisk(</en></counter>
+    <counter><org>\Proceso(</org><en>\Process(</en></counter>
+    <counter><org>\% de tiempo de procesador</org><en>\% Processor Time</en></counter>
+    <counter><org>\Cantidad de manipuladores</org><en>\Handle Count</en></counter>
+    <counter><org>\Operaciones de datos de E/S /s.</org><en>\IO Data Operations/sec</en></counter>
+    <counter><org>\Otras operaciones de E/S /s.</org><en>\IO Other Operations/sec</en></counter>
+    <counter><org>\Bytes privados</org><en>\Private Bytes</en></counter>
+    <counter><org>\Número de subprocesos (subprocesos)</org><en>\Thread Count</en></counter>
+    <counter><org>\Bytes del espacio virtual</org><en>\Virtual Bytes</en></counter>
+    <counter><org>\Espacio de trabajo</org><en>\Working Set</en></counter>
+    <counter><org>\Procesador(</org><en>\Processor(</en></counter>
+    <counter><org>\% de tiempo de interrupción</org><en>\% Interrupt Time</en></counter>
+    <counter><org>\% Tiempo privilegiado</org><en>\% Privileged Time</en></counter>
+    <counter><org>\Sistema</org><en>\System</en></counter>
+    <counter><org>\Cambios de s.</org><en>\Context Switches/sec</en></counter>
+    <counter><org>\Longitud de la cola del procesador</org><en>\Processor Queue Length</en></counter>
+    <counter><org>\% de cuota de Registro en uso</org><en>\% Registry Quota In Use</en></counter>
+    <counter><org>\Llamadas del s.</org><en> Calls/sec</en></counter>
+    <counter><org>\Bytes de lectura de archivo/s.</org><en>\File Read Bytes/sec</en></counter>
+    <counter><org>\Bytes de control de archivos /s.</org><en>\File Control Bytes/sec</en></counter>
+    <counter><org>\Operaciones de control de archivos /s.</org><en>\File Control Operations/sec</en></counter>
+    <counter><org>\Operaciones de escritura de archivo/s.</org><en>\File Write Operations/sec</en></counter>
+    <counter><org>\Operaciones de lectura de archivo/s.</org><en>\File Read Operations/sec</en></counter>
+    <counter><org>\Arreglos de alineación/s.</org><en>\Alignment Fixups/sec</en></counter>
+    <counter><org>\Procesos</org><en>\Processes</en></counter>
+    <counter><org>\Bytes de escritura de archivo/s.</org><en>\File Write Bytes/sec</en></counter>
+    <counter><org>\Tiempo de actividad del sistema</org><en> Up Time</en></counter>
+    <counter><org>\Emulaciones de punto flotante/s.</org><en>\Floating Emulations/sec</en></counter>
+    <counter><org>\Operaciones con datos de archivo /s.</org><en>\File Data Operations/sec</en></counter>
+    <counter><org>\Procesamiento de excepciones/s.</org><en>\Exception Dispatches/sec</en></counter>
+    <counter><org>\Subproceso o subproceso</org><en>\Threads</en></counter>
+    <counter><org>\Prioridad base</org><en>\Priority Base</en></counter>
+    <counter><org>\Errores de página/s.</org><en>\Page Faults/sec</en></counter>
+    <counter><org>\Tiempo transcurrido</org><en>\Elapsed Time</en></counter>
+    <counter><org>\Bytes de datos E/S /s.</org><en>\IO Data Bytes/sec</en></counter>
+    <counter><org>\Núm. de bytes escritos E/S /s.</org><en>\IO Write Bytes/sec</en></counter>
+    <counter><org>\Núm. de bytes leídoss E/S /s.</org><en>\IO Read Bytes/sec</en></counter>
+    <counter><org>\% de tiempo de usuario</org><en>\% User Time</en></counter>
+    <counter><org>\Uso máximo de espacio virtual</org><en>\Virtual Bytes Peak</en></counter>
+    <counter><org>\Otros Bytes de E/S /s.</org><en>\IO Other Bytes/sec</en></counter>
+    <counter><org>\Uso máximo del espacio de trabajo</org><en>\Working Set Peak</en></counter>
+    <counter><org>\Núm. de operaciones de lectura de E/S /s.</org><en>\IO Read Operations/sec</en></counter>
+    <counter><org>\Creando Id. de proceso</org><en>\Creating Process ID</en></counter>
+    <counter><org>\Bytes del archivo de Páginas</org><en>\Page File Bytes</en></counter>
+    <counter><org>\Identificador del proceso</org><en>\ID Process</en></counter>
+    <counter><org>\Interrupciones/s.</org><en>\Interrupts/sec</en></counter>
+    <counter><org>\% de tiempo de DPC</org><en>\% DPC Time</en></counter>
+    <counter><org>\Transiciones C1/seg</org><en>\C1 Transitions/sec</en></counter>
+    <counter><org>\Transiciones C2/seg</org><en>\C2 Transitions/sec</en></counter>
+    <counter><org>\Velocidad DPC</org><en>\DPC Rate</en></counter>
+    <counter><org>\Transiciones C3/seg</org><en>\C3 Transitions/sec</en></counter>
+    <counter><org>\% tiempo inactivo</org><en>\% Idle Time</en></counter>
+    <counter><org>\DPCs haciendo cola/s.</org><en>\DPCs Queued/sec</en></counter>
+    <counter><org>\Tiempo % C1</org><en>\% C1 Time</en></counter>
+    <counter><org>\Tiempo % C2</org><en>\% C2 Time</en></counter>
+    <counter><org>\Tiempo % C3</org><en>\% C3 Time</en></counter>
+    <counter><org>\Bytes residentes de código del sistema</org><en> Code Resident Bytes</en></counter>
+    <counter><org>\Páginas de transición redirigidas/s</org><en>\Transition Pages RePurposed/sec</en></counter>
+    <counter><org>\Asignaciones de bloque no paginado</org><en>\Pool Nonpaged Allocs</en></counter>
+    <counter><org>\Páginas de salida/s.</org><en>\Pages Output/sec</en></counter>
+    <counter><org>\Copias de escritura/s.</org><en>\Write Copies/sec</en></counter>
+    <counter><org>\Errores de transición/s.</org><en>\Transition Faults/sec</en></counter>
+    <counter><org>\Lecturas de página/s</org><en>\Page Reads/sec</en></counter>
+    <counter><org>\Total de bytes de código del sistema</org><en> Code Total Bytes</en></counter>
+    <counter><org>\Bytes disponibles</org><en>\Available Bytes</en></counter>
+    <counter><org>\Asignaciones de bloque paginado</org><en>\Pool Paged Allocs</en></counter>
+    <counter><org>\Uso máximo de los bytes de caché</org><en>\Cache Bytes Peak</en></counter>
+    <counter><org>\Bytes comprometidos</org><en>\Committed Bytes</en></counter>
+    <counter><org>\% de bytes asignados en uso</org><en>\% Committed Bytes In Use</en></counter>
+    <counter><org>\Escrituras de página/s.</org><en>\Page Writes/sec</en></counter>
+    <counter><org>\Límite comprometido</org><en>\Commit Limit</en></counter>
+    <counter><org>\Total de bytes de controladores del sistema</org><en> Driver Total Bytes</en></counter>
+    <counter><org>\Bytes residentes de caché del sistema</org><en> Cache Resident Bytes</en></counter>
+    <counter><org>\Errores de caché/s.</org><en>\Cache Faults/sec</en></counter>
+    <counter><org>\KBytes disponibles</org><en>\Available KBytes</en></counter>
+    <counter><org>\Bytes de caché</org><en>\Cache Bytes</en></counter>
+    <counter><org>\Bytes residentes de bloque paginado</org><en>\Pool Paged Resident Bytes</en></counter>
+    <counter><org>\Bytes residentes de controladores del sistema</org><en> Driver Resident Bytes</en></counter>
+    <counter><org>\Errores de petición de cero/s.</org><en>\Demand Zero Faults/sec</en></counter>
+    <counter><org>\% Tiempo de escritura en disco</org><en>\% Disk Write Time</en></counter>
+    <counter><org>\Bytes de s.</org><en>\Disk Bytes/sec</en></counter>
+    <counter><org>\Media de bytes/lectura</org><en>\Avg. Disk Bytes/Read</en></counter>
+    <counter><org>\Long. media de la cola de disco</org><en>\Avg. Disk Queue Length</en></counter>
+    <counter><org>\Bytes Leídos de s.</org><en>\Disk Read Bytes/sec</en></counter>
+    <counter><org>\E/S divididas por s.</org><en>\Split IO/Sec</en></counter>
+    <counter><org>\Lecturas de s.</org><en>\Disk Reads/sec</en></counter>
+    <counter><org>\Longitud actual de la cola de disco</org><en>\Current Disk Queue Length</en></counter>
+    <counter><org>\Media de bytes/escritura</org><en>\Avg. Disk Bytes/Write</en></counter>
+    <counter><org>\Media de bytes/transferencia</org><en>\Avg. Disk Bytes/Transfer</en></counter>
+    <counter><org>\Escrituras en s.</org><en>\Disk Writes/sec</en></counter>
+    <counter><org>\Media en segundos/transferencia</org><en>\Avg. Disk sec/Transfer</en></counter>
+    <counter><org>\Bytes escritos en s.</org><en>\Disk Write Bytes/sec</en></counter>
+    <counter><org>\Long. promedio de cola de escritura de disco</org><en>\Avg. Disk Write Queue Length</en></counter>
+    <counter><org>\% Tiempo de disco</org><en>\% Disk Time</en></counter>
+    <counter><org>\% Tiempo de lectura de disco</org><en>\% Disk Read Time</en></counter>
+    <counter><org>\Long. promedio de cola de lectura de disco</org><en>\Avg. Disk Read Queue Length</en></counter>
+    <counter><org>\% de espacio libre</org><en>\% Free Space</en></counter>
+    <counter><org>\Bytes leídos de s.</org><en>\Disk Read Bytes/sec</en></counter>
+    <counter><org>\Long. promedio de cola de escritura de disco</org><en>\Avg. Disk Read Queue Length</en></counter>
+    <counter><org>\Archivo de paginación(_Total)\% de uso</org><en>\Paging File(_Total)\% Usage</en></counter>
+    <counter><org>\Discológico(</org><en>\LogicalDisk(</en></counter>
+    <counter><org>\Discofísico(</org><en>\PhysicalDisk(</en></counter>
+    <counter><org>\Operaciones de lectura/s</org><en>\Read Operations/sec</en></counter>
+    <counter><org>\Operaciones de escritura/s</org><en>\Write Operations/sec</en></counter>
+    <counter><org>\Promedio de segundos de disco/lectura</org><en>\Avg. Disk sec/Read</en></counter>
+    <counter><org>\Promedio de segundos de disco/escritura</org><en>\Avg. Disk sec/Write</en></counter>
+    <counter><org>\Longitud promedio de la cola de disco</org><en>\Avg. Disk Queue Length</en></counter>
+    <counter><org>\Bytes virtuales</org><en>\Virtual Bytes</en></counter>
+    <counter><org>\Operaciones de lectura de archivo/s</org><en>\File Read Operations/sec</en></counter>
+    <counter><org>\Operaciones de escritura de archivo/s</org><en>\File Write Operations/sec</en></counter>
+    <counter><org>\Operaciones de control de archivo/s</org><en>\File Control Operations/sec</en></counter>
+    <counter><org>\Bytes de lectura de archivo/s</org><en>\File Read Bytes/sec</en></counter>
+    <counter><org>\Bytes de escritura de archivo/s</org><en>\File Write Bytes/sec</en></counter>
+    <counter><org>\Bytes de control de archivo/s</org><en>\File Control Bytes/sec</en></counter>
+    <counter><org>\Bytes confirmados</org><en>\Committed Bytes</en></counter>
+    <counter><org>\Errores de página/s</org><en>\Page Faults/sec</en></counter>
+    <counter><org>\Límite de confirmación</org><en>\Commit Limit</en></counter>
+    <counter><org>\Copias de escritura/s</org><en>\Write Copies/sec</en></counter>
+    <counter><org>\Errores de transición/s</org><en>\Transition Faults/sec</en></counter>
+    <counter><org>\Errores de caché/s</org><en>\Cache Faults/sec</en></counter>
+    <counter><org>\Errores de solicitud de cero/s</org><en>\Demand Zero Faults/sec</en></counter>
+    <counter><org>\Lecturas de páginas/s</org><en>\Page Reads/sec</en></counter>
+    <counter><org>\Estado de subproceso</org><en>\Thread State</en></counter>
+    <counter><org>\Salida de páginas/s</org><en>\Pages Output/sec</en></counter>
+    <counter><org>\Escrituras de páginas/s</org><en>\Page Writes/sec</en></counter>
+    <counter><org>\Explorador</org><en>\Browser</en></counter>
+    <counter><org>\Anuncios de servidor/s</org><en>\Announcements Server/sec</en></counter>
+    <counter><org>\Total de bytes de código del sistema</org><en>\System Code Total Bytes</en></counter>
+    <counter><org>\Bytes residentes de código del sistema</org><en>\System Code Resident Bytes</en></counter>
+    <counter><org>\Total de bytes de controladores del sistema</org><en>\System Driver Total Bytes</en></counter>
+    <counter><org>\Bytes residentes de controladores del sistema</org><en>\System Driver Resident Bytes</en></counter>
+    <counter><org>\Anuncios de dominio/s</org><en>\Announcements Domain/sec</en></counter>
+    <counter><org>\Paquetes de elección/s</org><en>\Election Packets/sec</en></counter>
+    <counter><org>\Escrituras de buzón interproceso/s</org><en>\Mailslot Writes/sec</en></counter>
+    <counter><org>\Solicitudes de lista de servidores/s</org><en>\Server List Requests/sec</en></counter>
+    <counter><org>\Caché</org><en>\Cache</en></counter>
+    <counter><org>\Asignaciones de datos/s</org><en>\Data Maps/sec</en></counter>
+    <counter><org>\Asignaciones sincrónicas de datos/s</org><en>\Sync Data Maps/sec</en></counter>
+    <counter><org>\Asignaciones asincrónicas de datos/s</org><en>\Async Data Maps/sec</en></counter>
+    <counter><org>\% de aciertos en asignaciones de datos</org><en>\Data Map Hits %</en></counter>
+    <counter><org>\Asignaciones de datos ancladas/s</org><en>\Data Map Pins/sec</en></counter>
+    <counter><org>\Lecturas de anclaje/s</org><en>\Pin Reads/sec</en></counter>
+    <counter><org>\Lecturas sincrónicas de anclaje/s</org><en>\Sync Pin Reads/sec</en></counter>
+    <counter><org>\Lecturas asincrónicas de anclaje/s</org><en>\Async Pin Reads/sec</en></counter>
+    <counter><org>\% de aciertos de lecturas de anclaje</org><en>\Pin Read Hits %</en></counter>
+    <counter><org>\Lecturas de copia/s</org><en>\Copy Reads/sec</en></counter>
+    <counter><org>\Lecturas sincrónicas de copia/s</org><en>\Sync Copy Reads/sec</en></counter>
+    <counter><org>\Lecturas asincrónicas de copia/s</org><en>\Async Copy Reads/sec</en></counter>
+    <counter><org>\% de aciertos de lecturas de copia</org><en>\Copy Read Hits %</en></counter>
+    <counter><org>\Lecturas mediante MDL/s</org><en>\MDL Reads/sec</en></counter>
+    <counter><org>\Lecturas sincrónicas mediante MDL/s</org><en>\Sync MDL Reads/sec</en></counter>
+    <counter><org>\Lecturas asincrónicas mediante MDL/s</org><en>\Async MDL Reads/sec</en></counter>
+    <counter><org>\% de aciertos de lecturas mediante MDL</org><en>\MDL Read Hits %</en></counter>
+    <counter><org>\Lecturas anticipadas/s</org><en>\Read Aheads/sec</en></counter>
+    <counter><org>\Lecturas rápidas/s</org><en>\Fast Reads/sec</en></counter>
+    <counter><org>\Lecturas sincrónicas rápidas/s</org><en>\Sync Fast Reads/sec</en></counter>
+    <counter><org>\Lecturas asincrónicas rápidas/s</org><en>\Async Fast Reads/sec</en></counter>
+    <counter><org>\Errores de recursos de lecturas rápidas/s</org><en>\Fast Read Resource Misses/sec</en></counter>
+    <counter><org>\Lecturas rápidas no posibles/s</org><en>\Fast Read Not Possibles/sec</en></counter>
+    <counter><org>\Vaciados de escritura lenta/s</org><en>\Lazy Write Flushes/sec</en></counter>
+    <counter><org>\Páginas de escritura lenta/s</org><en>\Lazy Write Pages/sec</en></counter>
+    <counter><org>\Vaciados de datos/s</org><en>\Data Flushes/sec</en></counter>
+    <counter><org>\Páginas de vaciado de datos/s</org><en>\Data Flush Pages/sec</en></counter>
+    <counter><org>\% de tiempo privilegiado</org><en>\% Privileged Time</en></counter>
+    <counter><org>\Cambios de contexto/s</org><en>\Context Switches/sec</en></counter>
+    <counter><org>\Interrupciones/s</org><en>\Interrupts/sec</en></counter>
+    <counter><org>\Llamadas al sistema/s</org><en>\System Calls/sec</en></counter>
+    <counter><org>\Cargas de TLB de nivel 1/s</org><en>\Level 1 TLB Fills/sec</en></counter>
+    <counter><org>\Cargas de TLB de nivel 2/s</org><en>\Level 2 TLB Fills/sec</en></counter>
+    <counter><org>\Enumeraciones de servidor/s</org><en>\Enumerations Server/sec</en></counter>
+    <counter><org>\Enumeraciones de dominio/s</org><en>\Enumerations Domain/sec</en></counter>
+    <counter><org>\Enumeraciones de otros/s</org><en>\Enumerations Other/sec</en></counter>
+    <counter><org>\Anuncios de servidor perdidos</org><en>\Missed Server Announcements</en></counter>
+    <counter><org>\Datagramas de buzón interproceso perdidos</org><en>\Missed Mailslot Datagrams</en></counter>
+    <counter><org>\Solicitudes de lista de servidores perdidas</org><en>\Missed Server List Requests</en></counter>
+    <counter><org>\Asignaciones de anuncios de servidor con errores/s</org><en>\Server Announce Allocations Failed/sec</en></counter>
+    <counter><org>\Asignaciones de buzón interproceso con errores</org><en>\Mailslot Allocations Failed</en></counter>
+    <counter><org>\Uso máximo de bytes virtuales</org><en>\Virtual Bytes Peak</en></counter>
+    <counter><org>\Uso máximo de los bytes del archivo de paginación</org><en>\Page File Bytes Peak</en></counter>
+    <counter><org>\Bytes del archivo de paginación</org><en>\Page File Bytes</en></counter>
+    <counter><org>\Total de anuncios/s</org><en>\Announcements Total/sec</en></counter>
+    <counter><org>\Total de enumeraciones/s</org><en>\Enumerations Total/sec</en></counter>
+    <counter><org>\% de tiempo de disco</org><en>\% Disk Time</en></counter>
+    <counter><org>\% de tiempo de lectura de disco</org><en>\% Disk Read Time</en></counter>
+    <counter><org>\% de tiempo de escritura en disco</org><en>\% Disk Write Time</en></counter>
+    <counter><org>\Promedio de segundos de disco/transferencia</org><en>\Avg. Disk sec/Transfer</en></counter>
+    <counter><org>\Transferencias de disco/s</org><en>\Disk Transfers/sec</en></counter>
+    <counter><org>\Lecturas de disco/s</org><en>\Disk Reads/sec</en></counter>
+    <counter><org>\Escrituras en disco/s</org><en>\Disk Writes/sec</en></counter>
+    <counter><org>\Bytes de disco/s</org><en>\Disk Bytes/sec</en></counter>
+    <counter><org>\Bytes de lectura de disco/s</org><en>\Disk Read Bytes/sec</en></counter>
+    <counter><org>\Bytes de escritura en disco/s</org><en>\Disk Write Bytes/sec</en></counter>
+    <counter><org>\Promedio de bytes de disco/transferencia</org><en>\Avg. Disk Bytes/Transfer</en></counter>
+    <counter><org>\Promedio de bytes de disco/lectura</org><en>\Avg. Disk Bytes/Read</en></counter>
+    <counter><org>\Promedio de bytes de disco/escritura</org><en>\Avg. Disk Bytes/Write</en></counter>
+    <counter><org>\Proceso</org><en>\Process</en></counter>
+    <counter><org>\Subproceso</org><en>\Thread</en></counter>
+    <counter><org>\Disco físico</org><en>\PhysicalDisk</en></counter>
+    <counter><org>\Disco lógico</org><en>\LogicalDisk</en></counter>
+    <counter><org>\Procesador</org><en>\Processor</en></counter>
+    <counter><org>\% de tiempo total de procesador</org><en>\% Total Processor Time</en></counter>
+    <counter><org>\% de tiempo total de usuario</org><en>\% Total User Time</en></counter>
+    <counter><org>\% de tiempo total privilegiado</org><en>\% Total Privileged Time</en></counter>
+    <counter><org>\Total de interrupciones/s</org><en>\Total Interrupts/sec</en></counter>
+    <counter><org>\Subprocesos</org><en>\Threads</en></counter>
+    <counter><org>\Eventos</org><en>\Events</en></counter>
+    <counter><org>\Semáforos</org><en>\Semaphores</en></counter>
+    <counter><org>\Exclusiones mutuas</org><en>\Mutexes</en></counter>
+    <counter><org>\Secciones</org><en>\Sections</en></counter>
+    <counter><org>\Objetos</org><en>\Objects</en></counter>
+    <counter><org>\Bytes recibidos/s</org><en>\Bytes Received/sec</en></counter>
+    <counter><org>\Paquetes recibidos/s</org><en>\Packets Received/sec</en></counter>
+    <counter><org>\Bytes leídos de paginación/s</org><en>\Read Bytes Paging/sec</en></counter>
+    <counter><org>\Bytes leídos que no son de paginación/s</org><en>\Read Bytes Non-Paging/sec</en></counter>
+    <counter><org>\Bytes leídos de la caché/s</org><en>\Read Bytes Cache/sec</en></counter>
+    <counter><org>\Bytes leídos de la red/s</org><en>\Read Bytes Network/sec</en></counter>
+    <counter><org>\Bytes transmitidos/s</org><en>\Bytes Transmitted/sec</en></counter>
+    <counter><org>\Paquetes transmitidos/s</org><en>\Packets Transmitted/sec</en></counter>
+    <counter><org>\Bytes escritos en paginación/s</org><en>\Write Bytes Paging/sec</en></counter>
+    <counter><org>\Bytes escritos que no son de la paginación/s</org><en>\Write Bytes Non-Paging/sec</en></counter>
+    <counter><org>\Bytes escritos en la caché/s</org><en>\Write Bytes Cache/sec</en></counter>
+    <counter><org>\Bytes escritos en la red/s</org><en>\Write Bytes Network/sec</en></counter>
+    <counter><org>\Operaciones aleatorias de lectura/s</org><en>\Read Operations Random/sec</en></counter>
+    <counter><org>\Paquetes de lectura/s</org><en>\Read Packets/sec</en></counter>
+    <counter><org>\Operaciones de lectura grandes/s</org><en>\Reads Large/sec</en></counter>
+    <counter><org>\Paquetes de lectura pequeños/s</org><en>\Read Packets Small/sec</en></counter>
+    <counter><org>\Operaciones aleatorias de escritura/s</org><en>\Write Operations Random/sec</en></counter>
+    <counter><org>\Paquetes de escritura/s</org><en>\Write Packets/sec</en></counter>
+    <counter><org>\Operaciones de escritura grandes/s</org><en>\Writes Large/sec</en></counter>
+    <counter><org>\Paquetes de escritura pequeños/s</org><en>\Write Packets Small/sec</en></counter>
+    <counter><org>\Lecturas denegadas/s</org><en>\Reads Denied/sec</en></counter>
+    <counter><org>\Escrituras denegadas/s</org><en>\Writes Denied/sec</en></counter>
+    <counter><org>\Errores de red/s</org><en>\Network Errors/sec</en></counter>
+    <counter><org>\Sesiones del servidor</org><en>\Server Sessions</en></counter>
+    <counter><org>\Reconexiones del servidor</org><en>\Server Reconnects</en></counter>
+    <counter><org>\Conexiones de núcleo</org><en>\Connects Core</en></counter>
+    <counter><org>\Conexiones LAN Manager 2.0</org><en>\Connects Lan Manager 2.0</en></counter>
+    <counter><org>\Conexiones LAN Manager 2.1</org><en>\Connects Lan Manager 2.1</en></counter>
+    <counter><org>\Conexiones Windows NT</org><en>\Connects Windows NT</en></counter>
+    <counter><org>\Desconexiones del servidor</org><en>\Server Disconnects</en></counter>
+    <counter><org>\Sesiones suspendidas del servidor</org><en>\Server Sessions Hung</en></counter>
+    <counter><org>\Servidor</org><en>\Server</en></counter>
+    <counter><org>\Razón de espera del subproceso</org><en>\Thread Wait Reason</en></counter>
+    <counter><org>\Sesiones cuyo tiempo de espera terminó</org><en>\Sessions Timed Out</en></counter>
+    <counter><org>\Sesiones cerradas por un error</org><en>\Sessions Errored Out</en></counter>
+    <counter><org>\Sesiones cerradas</org><en>\Sessions Logged Off</en></counter>
+    <counter><org>\Sesiones cerradas forzadamente</org><en>\Sessions Forced Off</en></counter>
+    <counter><org>\Errores de inicio de sesión</org><en>\Errors Logon</en></counter>
+    <counter><org>\Errores de permisos de acceso</org><en>\Errors Access Permissions</en></counter>
+    <counter><org>\Errores de acceso concedido</org><en>\Errors Granted Access</en></counter>
+    <counter><org>\Errores del sistema</org><en>\Errors System</en></counter>
+    <counter><org>\Solicitudes de bloqueo rechazadas</org><en>\Blocking Requests Rejected</en></counter>
+    <counter><org>\Falta de elementos de trabajo</org><en>\Work Item Shortages</en></counter>
+    <counter><org>\Total de archivos abiertos</org><en>\Files Opened Total</en></counter>
+    <counter><org>\Archivos abiertos</org><en>\Files Open</en></counter>
+    <counter><org>\Búsquedas de directorio de archivos</org><en>\File Directory Searches</en></counter>
+    <counter><org>\Errores de bloque no paginado</org><en>\Pool Nonpaged Failures</en></counter>
+    <counter><org>\Uso máximo del bloque no paginado</org><en>\Pool Nonpaged Peak</en></counter>
+    <counter><org>\Errores de bloque paginado</org><en>\Pool Paged Failures</en></counter>
+    <counter><org>\Uso máximo del bloque paginado</org><en>\Pool Paged Peak</en></counter>
+    <counter><org>\Total de bytes/s</org><en>\Bytes Total/sec</en></counter>
+    <counter><org>\Comandos actuales</org><en>\Current Commands</en></counter>
+    <counter><org>\NetBIOS de NWLink</org><en>\NWLink NetBIOS</en></counter>
+    <counter><org>\Paquetes/s</org><en>\Packets/sec</en></counter>
+    <counter><org>\Bloques de contexto en cola/s</org><en>\Context Blocks Queued/sec</en></counter>
+    <counter><org>\Operaciones con datos de archivo/s</org><en>\File Data Operations/sec</en></counter>
+    <counter><org>\% de espacio disponible</org><en>\% Free Space</en></counter>
+    <counter><org>\Megabytes disponibles</org><en>\Free Megabytes</en></counter>
+    <counter><org>\Conexiones abiertas</org><en>\Connections Open</en></counter>
+    <counter><org>\Conexiones sin reintentos</org><en>\Connections No Retries</en></counter>
+    <counter><org>\Conexiones con reintentos</org><en>\Connections With Retries</en></counter>
+    <counter><org>\Desconexiones locales</org><en>\Disconnects Local</en></counter>
+    <counter><org>\Desconexiones remotas</org><en>\Disconnects Remote</en></counter>
+    <counter><org>\Errores de vinculación</org><en>\Failures Link</en></counter>
+    <counter><org>\Errores en el adaptador</org><en>\Failures Adapter</en></counter>
+    <counter><org>\Tiempos de espera agotados de sesión de conexión</org><en>\Connection Session Timeouts</en></counter>
+    <counter><org>\Conexiones canceladas</org><en>\Connections Canceled</en></counter>
+    <counter><org>\Errores de recursos remotos</org><en>\Failures Resource Remote</en></counter>
+    <counter><org>\Errores de recursos locales</org><en>\Failures Resource Local</en></counter>
+    <counter><org>\Errores no encontrados</org><en>\Failures Not Found</en></counter>
+    <counter><org>\Errores por no haber escucha</org><en>\Failures No Listen</en></counter>
+    <counter><org>\Datagramas/s</org><en>\Datagrams/sec</en></counter>
+    <counter><org>\Bytes de datagrama/s</org><en>\Datagram Bytes/sec</en></counter>
+    <counter><org>\Datagramas enviados/s</org><en>\Datagrams Sent/sec</en></counter>
+    <counter><org>\Bytes de datagrama enviados/s</org><en>\Datagram Bytes Sent/sec</en></counter>
+    <counter><org>\Datagramas recibidos/s</org><en>\Datagrams Received/sec</en></counter>
+    <counter><org>\Bytes de datagrama recibidos/s</org><en>\Datagram Bytes Received/sec</en></counter>
+    <counter><org>\Paquetes enviados/s</org><en>\Packets Sent/sec</en></counter>
+    <counter><org>\Tramas/s</org><en>\Frames/sec</en></counter>
+    <counter><org>\Bytes de trama/s</org><en>\Frame Bytes/sec</en></counter>
+    <counter><org>\Tramas enviadas/s</org><en>\Frames Sent/sec</en></counter>
+    <counter><org>\Bytes de trama enviados/s</org><en>\Frame Bytes Sent/sec</en></counter>
+    <counter><org>\Tramas recibidas/s</org><en>\Frames Received/sec</en></counter>
+    <counter><org>\Bytes de trama recibidos/s</org><en>\Frame Bytes Received/sec</en></counter>
+    <counter><org>\Tramas reenviadas/s</org><en>\Frames Re-Sent/sec</en></counter>
+    <counter><org>\Bytes de trama reenviados/s</org><en>\Frame Bytes Re-Sent/sec</en></counter>
+    <counter><org>\Tramas rechazadas/s</org><en>\Frames Rejected/sec</en></counter>
+    <counter><org>\Bytes de trama rechazados/s</org><en>\Frame Bytes Rejected/sec</en></counter>
+    <counter><org>\Expiraciones de respuesta</org><en>\Expirations Response</en></counter>
+    <counter><org>\Expiraciones de confirmación</org><en>\Expirations Ack</en></counter>
+    <counter><org>\Ventana de envío máxima</org><en>\Window Send Maximum</en></counter>
+    <counter><org>\Ventana de envío media</org><en>\Window Send Average</en></counter>
+    <counter><org>\Reconocimientos superpuestos en cola/s</org><en>\Piggyback Ack Queued/sec</en></counter>
+    <counter><org>\Tiempos de espera agotados de reconocimientos superpuestos</org><en>\Piggyback Ack Timeouts</en></counter>
+    <counter><org>\IPX de NWLink</org><en>\NWLink IPX</en></counter>
+    <counter><org>\SPX de NWLink</org><en>\NWLink SPX</en></counter>
+    <counter><org>\Recurso NetBEUI</org><en>\NetBEUI Resource</en></counter>
+    <counter><org>\Uso máximo</org><en>\Used Maximum</en></counter>
+    <counter><org>\Uso medio</org><en>\Used Average</en></counter>
+    <counter><org>\Recursos agotados</org><en>\Times Exhausted</en></counter>
+    <counter><org>\Conexión NBT</org><en>\NBT Connection</en></counter>
+    <counter><org>\Bytes enviados/s</org><en>\Bytes Sent/sec</en></counter>
+    <counter><org>\Total de bytes/s</org><en>\Total Bytes/sec</en></counter>
+    <counter><org>\Interfaz de red</org><en>\Network Interface</en></counter>
+    <counter><org>\Bytes/s</org><en>\Bytes/sec</en></counter>
+    <counter><org>\Paquetes de unidifusión recibidos/s</org><en>\Packets Received Unicast/sec</en></counter>
+    <counter><org>\Paquetes de no unidifusión recibidos/s</org><en>\Packets Received Non-Unicast/sec</en></counter>
+    <counter><org>\Paquetes recibidos descartados</org><en>\Packets Received Discarded</en></counter>
+    <counter><org>\Paquetes recibidos con errores</org><en>\Packets Received Errors</en></counter>
+    <counter><org>\Paquetes recibidos desconocidos</org><en>\Packets Received Unknown</en></counter>
+    <counter><org>\Paquetes de unidifusión enviados/s</org><en>\Packets Sent Unicast/sec</en></counter>
+    <counter><org>\Paquetes de no unidifusión enviados/s</org><en>\Packets Sent Non-Unicast/sec</en></counter>
+    <counter><org>\Paquetes de salida descartados</org><en>\Packets Outbound Discarded</en></counter>
+    <counter><org>\Paquetes de salida con errores</org><en>\Packets Outbound Errors</en></counter>
+    <counter><org>\Datagramas recibidos con errores de encabezado</org><en>\Datagrams Received Header Errors</en></counter>
+    <counter><org>\Datagramas recibidos con errores de dirección</org><en>\Datagrams Received Address Errors</en></counter>
+    <counter><org>\Datagramas reenviados/s</org><en>\Datagrams Forwarded/sec</en></counter>
+    <counter><org>\Datagramas recibidos con protocolo desconocido</org><en>\Datagrams Received Unknown Protocol</en></counter>
+    <counter><org>\Datagramas recibidos descartados</org><en>\Datagrams Received Discarded</en></counter>
+    <counter><org>\Datagramas recibidos entregados/s</org><en>\Datagrams Received Delivered/sec</en></counter>
+    <counter><org>\Datagramas de salida descartados</org><en>\Datagrams Outbound Discarded</en></counter>
+    <counter><org>\Datagramas de salida sin enrutamiento</org><en>\Datagrams Outbound No Route</en></counter>
+    <counter><org>\Fragmentos recibidos/s</org><en>\Fragments Received/sec</en></counter>
+    <counter><org>\Fragmentos reensamblados/s</org><en>\Fragments Re-assembled/sec</en></counter>
+    <counter><org>\Errores de reensamblado de fragmentos</org><en>\Fragment Re-assembly Failures</en></counter>
+    <counter><org>\Datagramas fragmentados/s</org><en>\Fragmented Datagrams/sec</en></counter>
+    <counter><org>\Errores de fragmentación</org><en>\Fragmentation Failures</en></counter>
+    <counter><org>\Fragmentos creados/s</org><en>\Fragments Created/sec</en></counter>
+    <counter><org>\Mensajes/s</org><en>\Messages/sec</en></counter>
+    <counter><org>\Mensajes recibidos/s</org><en>\Messages Received/sec</en></counter>
+    <counter><org>\Mensajes recibidos con errores</org><en>\Messages Received Errors</en></counter>
+    <counter><org>\Mensajes de destino inaccesible recibidos</org><en>\Received Dest. Unreachable</en></counter>
+    <counter><org>\Mensajes de tiempo superado recibidos</org><en>\Received Time Exceeded</en></counter>
+    <counter><org>\Mensajes de problemas de parámetros recibidos</org><en>\Received Parameter Problem</en></counter>
+    <counter><org>\Mensajes de control de flujo (source quench) recibidos</org><en>\Received Source Quench</en></counter>
+    <counter><org>\Mensajes de redirección recibidos/s</org><en>\Received Redirect/sec</en></counter>
+    <counter><org>\Mensajes de eco recibidos/s</org><en>\Received Echo/sec</en></counter>
+    <counter><org>\Mensajes de respuesta al eco recibidos/s</org><en>\Received Echo Reply/sec</en></counter>
+    <counter><org>\Mensajes de marca de tiempo recibidos/s</org><en>\Received Timestamp/sec</en></counter>
+    <counter><org>\Mensajes de respuesta a marca de tiempo recibidos/s</org><en>\Received Timestamp Reply/sec</en></counter>
+    <counter><org>\Mensajes de máscara de dirección recibidos</org><en>\Received Address Mask</en></counter>
+    <counter><org>\Mensajes de respuesta a máscara de dirección recibidos</org><en>\Received Address Mask Reply</en></counter>
+    <counter><org>\Mensajes enviados/s</org><en>\Messages Sent/sec</en></counter>
+    <counter><org>\Mensajes enviados con errores</org><en>\Messages Outbound Errors</en></counter>
+    <counter><org>\Mensajes de destino inaccesible enviados</org><en>\Sent Destination Unreachable</en></counter>
+    <counter><org>\Mensajes de tiempo superado enviados</org><en>\Sent Time Exceeded</en></counter>
+    <counter><org>\Mensajes de problemas de parámetros enviados</org><en>\Sent Parameter Problem</en></counter>
+    <counter><org>\Mensajes de control de flujo (source quench) enviados</org><en>\Sent Source Quench</en></counter>
+    <counter><org>\Mensajes de redirección enviados/s</org><en>\Sent Redirect/sec</en></counter>
+    <counter><org>\Mensajes de eco enviados/s</org><en>\Sent Echo/sec</en></counter>
+    <counter><org>\Mensajes de respuesta al eco enviados/s</org><en>\Sent Echo Reply/sec</en></counter>
+    <counter><org>\Mensajes de marca de tiempo enviados/s</org><en>\Sent Timestamp/sec</en></counter>
+    <counter><org>\Mensajes de respuesta a marca de tiempo enviados/s</org><en>\Sent Timestamp Reply/sec</en></counter>
+    <counter><org>\Mensajes de máscara de dirección enviados</org><en>\Sent Address Mask</en></counter>
+    <counter><org>\Mensajes de respuesta a máscara de dirección enviados</org><en>\Sent Address Mask Reply</en></counter>
+    <counter><org>\Segmentos/s</org><en>\Segments/sec</en></counter>
+    <counter><org>\Conexiones establecidas</org><en>\Connections Established</en></counter>
+    <counter><org>\Conexiones activas</org><en>\Connections Active</en></counter>
+    <counter><org>\Conexiones pasivas</org><en>\Connections Passive</en></counter>
+    <counter><org>\Errores de conexión</org><en>\Connection Failures</en></counter>
+    <counter><org>\Conexiones reinicializadas</org><en>\Connections Reset</en></counter>
+    <counter><org>\Segmentos recibidos/s</org><en>\Segments Received/sec</en></counter>
+    <counter><org>\Segmentos enviados/s</org><en>\Segments Sent/sec</en></counter>
+    <counter><org>\Segmentos retransmitidos/s</org><en>\Segments Retransmitted/sec</en></counter>
+    <counter><org>\% de tiempo total de DPC</org><en>\% Total DPC Time</en></counter>
+    <counter><org>\% de tiempo total de interrupción</org><en>\% Total Interrupt Time</en></counter>
+    <counter><org>\Datagramas sin puerto/s</org><en>\Datagrams No Port/sec</en></counter>
+    <counter><org>\Datagramas recibidos con errores</org><en>\Datagrams Received Errors</en></counter>
+    <counter><org>\Unidad de almacenamiento en disco</org><en>\Disk Storage Unit</en></counter>
+    <counter><org>\Errores de asignación</org><en>\Allocation Failures</en></counter>
+    <counter><org>\Tiempo de actividad del sistema</org><en>\System Up Time</en></counter>
+    <counter><org>\Número de identificadores del sistema</org><en>\System Handle Count</en></counter>
+    <counter><org>\Número de subprocesos</org><en>\Thread Count</en></counter>
+    <counter><org>\Correcciones de alineación/s</org><en>\Alignment Fixups/sec</en></counter>
+    <counter><org>\Envíos de excepciones/s</org><en>\Exception Dispatches/sec</en></counter>
+    <counter><org>\Emulaciones de punto flotante/s</org><en>\Floating Emulations/sec</en></counter>
+    <counter><org>\Inicios de sesión/s</org><en>\Logon/sec</en></counter>
+    <counter><org>\Prioridad actual</org><en>\Priority Current</en></counter>
+    <counter><org>\% de uso</org><en>\% Usage</en></counter>
+    <counter><org>\% de uso máximo</org><en>\% Usage Peak</en></counter>
+    <counter><org>\Dirección de inicio</org><en>\Start Address</en></counter>
+    <counter><org>\Contador de programa del usuario</org><en>\User PC</en></counter>
+    <counter><org>\Espacio asignado en Sin acceso</org><en>\Mapped Space No Access</en></counter>
+    <counter><org>\Espacio asignado en Sólo lectura</org><en>\Mapped Space Read Only</en></counter>
+    <counter><org>\Espacio asignado en Lectura/escritura</org><en>\Mapped Space Read/Write</en></counter>
+    <counter><org>\Espacio asignado en Escritura en copia</org><en>\Mapped Space Write Copy</en></counter>
+    <counter><org>\Espacio asignado en Ejecución</org><en>\Mapped Space Executable</en></counter>
+    <counter><org>\Espacio asignado en Ejecución y sólo lectura</org><en>\Mapped Space Exec Read Only</en></counter>
+    <counter><org>\Espacio asignado en Ejecución y lectura/escritura</org><en>\Mapped Space Exec Read/Write</en></counter>
+    <counter><org>\Espacio asignado en Ejecución y escritura en copia</org><en>\Mapped Space Exec Write Copy</en></counter>
+    <counter><org>\Espacio reservado en Sin acceso</org><en>\Reserved Space No Access</en></counter>
+    <counter><org>\Espacio reservado en Sólo lectura</org><en>\Reserved Space Read Only</en></counter>
+    <counter><org>\Espacio reservado en Lectura/escritura</org><en>\Reserved Space Read/Write</en></counter>
+    <counter><org>\Espacio reservado en Escritura en copia</org><en>\Reserved Space Write Copy</en></counter>
+    <counter><org>\Espacio reservado en Ejecución</org><en>\Reserved Space Executable</en></counter>
+    <counter><org>\Espacio reservado en Ejecución y sólo lectura</org><en>\Reserved Space Exec Read Only</en></counter>
+    <counter><org>\Espacio reservado en Ejecución y lectura/escritura</org><en>\Reserved Space Exec Read/Write</en></counter>
+    <counter><org>\Imagen</org><en>\Image</en></counter>
+    <counter><org>\Espacio reservado en Ejecución y escritura en copia</org><en>\Reserved Space Exec Write Copy</en></counter>
+    <counter><org>\Espacio no asignado en Sin acceso</org><en>\Unassigned Space No Access</en></counter>
+    <counter><org>\Espacio no asignado en Sólo lectura</org><en>\Unassigned Space Read Only</en></counter>
+    <counter><org>\Espacio no asignado en Lectura/escritura</org><en>\Unassigned Space Read/Write</en></counter>
+    <counter><org>\Espacio no asignado en Escritura en copia</org><en>\Unassigned Space Write Copy</en></counter>
+    <counter><org>\Espacio no asignado en Ejecución</org><en>\Unassigned Space Executable</en></counter>
+    <counter><org>\Espacio no asignado en Ejecución y sólo lectura</org><en>\Unassigned Space Exec Read Only</en></counter>
+    <counter><org>\Espacio no asignado en Ejecución y lectura/escritura</org><en>\Unassigned Space Exec Read/Write</en></counter>
+    <counter><org>\Espacio no asignado en Ejecución y escritura en copia</org><en>\Unassigned Space Exec Write Copy</en></counter>
+    <counter><org>\Espacio de imagen en Sin acceso</org><en>\Image Space No Access</en></counter>
+    <counter><org>\Espacio de imagen en Sólo lectura</org><en>\Image Space Read Only</en></counter>
+    <counter><org>\Espacio de imagen en Lectura/escritura</org><en>\Image Space Read/Write</en></counter>
+    <counter><org>\Espacio de imágenes en Escritura en copia</org><en>\Image Space Write Copy</en></counter>
+    <counter><org>\Espacio de imagen en Ejecución</org><en>\Image Space Executable</en></counter>
+    <counter><org>\Espacio de imagen en Ejecución y sólo lectura</org><en>\Image Space Exec Read Only</en></counter>
+    <counter><org>\Espacio de imagen en Ejecución y lectura/escritura</org><en>\Image Space Exec Read/Write</en></counter>
+    <counter><org>\Espacio de imagen en Ejecución y escritura en copia</org><en>\Image Space Exec Write Copy</en></counter>
+    <counter><org>\Bytes de imagen reservados</org><en>\Bytes Image Reserved</en></counter>
+    <counter><org>\Bytes de imagen disponibles</org><en>\Bytes Image Free</en></counter>
+    <counter><org>\Bytes reservados</org><en>\Bytes Reserved</en></counter>
+    <counter><org>\Bytes disponibles</org><en>\Bytes Free</en></counter>
+    <counter><org>\Id. de proceso</org><en>\ID Process</en></counter>
+    <counter><org>\Espacio de direcciones de proceso</org><en>\Process Address Space</en></counter>
+    <counter><org>\Sin acceso</org><en>\No Access</en></counter>
+    <counter><org>\Sólo lectura</org><en>\Read Only</en></counter>
+    <counter><org>\Lectura/escritura</org><en>\Read/Write</en></counter>
+    <counter><org>\Escritura en copia</org><en>\Write Copy</en></counter>
+    <counter><org>\Ejecución</org><en>\Executable</en></counter>
+    <counter><org>\Ejecución y sólo lectura</org><en>\Exec Read Only</en></counter>
+    <counter><org>\Ejecución y lectura/escritura</org><en>\Exec Read/Write</en></counter>
+    <counter><org>\Ejecución y escritura en copia</org><en>\Exec Write Copy</en></counter>
+    <counter><org>\Id. de subproceso</org><en>\ID Thread</en></counter>
+    <counter><org>\Recepciones de buzón interproceso con errores</org><en>\Mailslot Receives Failed</en></counter>
+    <counter><org>\Escrituras de buzón interproceso con errores</org><en>\Mailslot Writes Failed</en></counter>
+    <counter><org>\Aperturas de buzón interproceso con errores/s</org><en>\Mailslot Opens Failed/sec</en></counter>
+    <counter><org>\Anuncios maestros duplicados</org><en>\Duplicate Master Announcements</en></counter>
+    <counter><org>\Datagramas incorrectos/s</org><en>\Illegal Datagrams/sec</en></counter>
+    <counter><org>\Detalles de subprocesos</org><en>\Thread Details</en></counter>
+    <counter><org>\Entrada de páginas/s</org><en>\Pages Input/sec</en></counter>
+    <counter><org>\Páginas de transición reasignadas/s</org><en>\Transition Pages RePurposed/sec</en></counter>
+    <counter><org>\Bytes transmitidos</org><en>\Bytes Transmitted</en></counter>
+    <counter><org>\Bytes recibidos</org><en>\Bytes Received</en></counter>
+    <counter><org>\Tramas transmitidas</org><en>\Frames Transmitted</en></counter>
+    <counter><org>\Tramas recibidas</org><en>\Frames Received.</en></counter>
+    <counter><org>\Porcentaje de compresión de salida</org><en>\Percent Compression Out</en></counter>
+    <counter><org>\Porcentaje de compresión de entrada</org><en>\Percent Compression In</en></counter>
+    <counter><org>\Errores de CRC</org><en>\CRC Errors</en></counter>
+    <counter><org>\Errores de tiempo de espera</org><en>\Timeout Errors</en></counter>
+    <counter><org>\Errores de saturación serie</org><en>\Serial Overrun Errors</en></counter>
+    <counter><org>\Errores de alineación</org><en>\Alignment Errors</en></counter>
+    <counter><org>\Errores de saturación del búfer</org><en>\Buffer Overrun Errors</en></counter>
+    <counter><org>\Total de errores</org><en>\Total Errors</en></counter>
+    <counter><org>\Bytes transmitidos/s</org><en>\Bytes Transmitted/Sec</en></counter>
+    <counter><org>\Bytes recibidos/s</org><en>\Bytes Received/Sec</en></counter>
+    <counter><org>\Tramas transmitidas/s</org><en>\Frames Transmitted/Sec</en></counter>
+    <counter><org>\Tramas recibidas/s</org><en>\Frames Received/Sec</en></counter>
+    <counter><org>\Total de errores/s</org><en>\Total Errors/Sec</en></counter>
+    <counter><org>\Total de conexiones</org><en>\Total Connections</en></counter>
+    <counter><org>\Servidor WINS</org><en>\WINS Server</en></counter>
+    <counter><org>\Registros únicos/s</org><en>\Unique Registrations/sec</en></counter>
+    <counter><org>\Registros de grupo/s</org><en>\Group Registrations/sec</en></counter>
+    <counter><org>\Número total de registros/s</org><en>\Total Number of Registrations/sec</en></counter>
+    <counter><org>\Renovaciones únicas/s</org><en>\Unique Renewals/sec</en></counter>
+    <counter><org>\Renovaciones de grupo/s</org><en>\Group Renewals/sec</en></counter>
+    <counter><org>\Número total de renovaciones/s</org><en>\Total Number of Renewals/sec</en></counter>
+    <counter><org>\Liberaciones/s</org><en>\Releases/sec</en></counter>
+    <counter><org>\Consultas/s</org><en>\Queries/sec</en></counter>
+    <counter><org>\Conflictos únicos/s</org><en>\Unique Conflicts/sec</en></counter>
+    <counter><org>\Conflictos de grupo/s</org><en>\Group Conflicts/sec</en></counter>
+    <counter><org>\Número total de conflictos/s</org><en>\Total Number of Conflicts/sec</en></counter>
+    <counter><org>\Liberaciones correctas/s</org><en>\Successful Releases/sec</en></counter>
+    <counter><org>\Liberaciones con errores/s</org><en>\Failed Releases/sec</en></counter>
+    <counter><org>\Consultas correctas/s</org><en>\Successful Queries/sec</en></counter>
+    <counter><org>\Consultas con errores/s</org><en>\Failed Queries/sec</en></counter>
+    <counter><org>\Número de identificadores</org><en>\Handle Count</en></counter>
+    <counter><org>\Servidor MacFile</org><en>\MacFile Server</en></counter>
+    <counter><org>\Máximo de memoria paginada</org><en>\Max Paged Memory</en></counter>
+    <counter><org>\Memoria paginada actual</org><en>\Current Paged Memory</en></counter>
+    <counter><org>\Máximo de memoria no paginada</org><en>\Max NonPaged Memory</en></counter>
+    <counter><org>\Memoria no paginada actual</org><en>\Current NonPaged memory</en></counter>
+    <counter><org>\Sesiones actuales</org><en>\Current Sessions</en></counter>
+    <counter><org>\Máximo de sesiones</org><en>\Maximum Sessions</en></counter>
+    <counter><org>\Archivos abiertos actuales</org><en>\Current Files Open</en></counter>
+    <counter><org>\Máximo de archivos abiertos</org><en>\Maximum Files Open</en></counter>
+    <counter><org>\Inicios de sesión con errores</org><en>\Failed Logons</en></counter>
+    <counter><org>\Datos leídos/s</org><en>\Data Read/sec</en></counter>
+    <counter><org>\Datos escritos/s</org><en>\Data Written/sec</en></counter>
+    <counter><org>\Datos recibidos/s</org><en>\Data Received/sec</en></counter>
+    <counter><org>\Datos transmitidos/s</org><en>\Data Transmitted/sec</en></counter>
+    <counter><org>\Longitud de cola actual</org><en>\Current Queue Length</en></counter>
+    <counter><org>\Longitud máxima de cola</org><en>\Maximum Queue Length</en></counter>
+    <counter><org>\Subprocesos actuales</org><en>\Current Threads</en></counter>
+    <counter><org>\Máximo de subprocesos</org><en>\Maximum Threads</en></counter>
+    <counter><org>\Paquetes de entrada/s</org><en>\Packets In/sec</en></counter>
+    <counter><org>\Paquetes de salida/s</org><en>\Packets Out/sec</en></counter>
+    <counter><org>\Bytes de entrada/s</org><en>\Bytes In/sec</en></counter>
+    <counter><org>\Bytes de salida/s</org><en>\Bytes Out/sec</en></counter>
+    <counter><org>\Tiempo promedio/paquete DDP</org><en>\Average Time/DDP Packet</en></counter>
+    <counter><org>\Paquetes DDP/s</org><en>\DDP Packets/sec</en></counter>
+    <counter><org>\Tiempo promedio/paquete AARP</org><en>\Average Time/AARP Packet</en></counter>
+    <counter><org>\Paquetes AARP/s</org><en>\AARP Packets/sec</en></counter>
+    <counter><org>\Tiempo promedio/paquete ATP</org><en>\Average Time/ATP Packet</en></counter>
+    <counter><org>\Paquetes ATP/s</org><en>\ATP Packets/sec</en></counter>
+    <counter><org>\Tiempo promedio/paquete NBP</org><en>\Average Time/NBP Packet</en></counter>
+    <counter><org>\Paquetes NBP/s</org><en>\NBP Packets/sec</en></counter>
+    <counter><org>\Tiempo promedio/paquete ZIP</org><en>\Average Time/ZIP Packet</en></counter>
+    <counter><org>\Paquetes ZIP/s</org><en>\ZIP Packets/sec</en></counter>
+    <counter><org>\Tiempo promedio/paquete RTMP</org><en>\Average Time/RTMP Packet</en></counter>
+    <counter><org>\Paquetes RTMP/s</org><en>\RTMP Packets/sec</en></counter>
+    <counter><org>\Reintentos locales ATP</org><en>\ATP Retries Local</en></counter>
+    <counter><org>\Tiempos de espera agotados de respuestas ATP</org><en>\ATP Response Timouts</en></counter>
+    <counter><org>\Respuestas ATP XO/s</org><en>\ATP XO Response/Sec</en></counter>
+    <counter><org>\Respuestas ATP ALO/s</org><en>\ATP ALO Response/Sec</en></counter>
+    <counter><org>\Liberaciones de ATP recibidas/s</org><en>\ATP Recvd Release/Sec</en></counter>
+    <counter><org>\Bloque no paginado actual</org><en>\Current NonPaged Pool</en></counter>
+    <counter><org>\Paquetes de entrada enrutados/s</org><en>\Packets Routed In/Sec</en></counter>
+    <counter><org>\Paquetes descartados</org><en>\Packets dropped</en></counter>
+    <counter><org>\Reintentos remotos de ATP</org><en>\ATP Retries Remote</en></counter>
+    <counter><org>\Paquetes de salida enrutados/s</org><en>\Packets Routed Out/Sec</en></counter>
+    <counter><org>\Segmento de red</org><en>\Network Segment</en></counter>
+    <counter><org>\Total de tramas recibidas/s</org><en>\Total frames received/second</en></counter>
+    <counter><org>\Total de bytes recibidos/s</org><en>\Total bytes received/second</en></counter>
+    <counter><org>\Tramas de difusión recibidas/s</org><en>\Broadcast frames received/second</en></counter>
+    <counter><org>\Tramas de multidifusión recibidas/s</org><en>\Multicast frames received/second</en></counter>
+    <counter><org>\% de uso de red</org><en>\% Network utilization</en></counter>
+    <counter><org>\% de tramas de difusión</org><en>\% Broadcast Frames</en></counter>
+    <counter><org>\% de tramas de multidifusión</org><en>\% Multicast Frames</en></counter>
+    <counter><org>\Telefonía</org><en>\Telephony</en></counter>
+    <counter><org>\Líneas</org><en>\Lines</en></counter>
+    <counter><org>\Dispositivos telefónicos</org><en>\Telephone Devices</en></counter>
+    <counter><org>\Líneas activas</org><en>\Active Lines</en></counter>
+    <counter><org>\Teléfonos activos</org><en>\Active Telephones</en></counter>
+    <counter><org>\Llamadas salientes/s</org><en>\Outgoing Calls/sec</en></counter>
+    <counter><org>\Llamadas entrantes/s</org><en>\Incoming Calls/sec</en></counter>
+    <counter><org>\Aplicaciones cliente</org><en>\Client Apps</en></counter>
+    <counter><org>\Llamadas salientes actuales</org><en>\Current Outgoing Calls</en></counter>
+    <counter><org>\Llamadas entrantes actuales</org><en>\Current Incoming Calls</en></counter>
+    <counter><org>\Número de solicitudes de NCP de lectura de Packet Burst/s</org><en>\Packet Burst Read NCP Count/sec</en></counter>
+    <counter><org>\Tiempos de espera agotados de lectura de Packet Burst/s</org><en>\Packet Burst Read Timeouts/sec</en></counter>
+    <counter><org>\Número de solicitudes de NCP de escritura de Packet Burst/s</org><en>\Packet Burst Write NCP Count/sec</en></counter>
+    <counter><org>\Tiempos de espera agotados de escritura de Packet Burst/s</org><en>\Packet Burst Write Timeouts/sec</en></counter>
+    <counter><org>\ES de Packet Burst/s</org><en>\Packet Burst IO/sec</en></counter>
+    <counter><org>\Total de inicios de sesión</org><en>\Logon Total</en></counter>
+    <counter><org>\Colas de trabajo del servidor</org><en>\Server Work Queues</en></counter>
+    <counter><org>\Longitud de cola</org><en>\Queue Length</en></counter>
+    <counter><org>\Subprocesos activos</org><en>\Active Threads</en></counter>
+    <counter><org>\Subprocesos disponibles</org><en>\Available Threads</en></counter>
+    <counter><org>\Elementos de trabajo disponibles</org><en>\Available Work Items</en></counter>
+    <counter><org>\Elementos de trabajo prestados</org><en>\Borrowed Work Items</en></counter>
+    <counter><org>\Clientes actuales</org><en>\Current Clients</en></counter>
+    <counter><org>\Bytes transferidos/s</org><en>\Bytes Transferred/sec</en></counter>
+    <counter><org>\Bytes leídos/s</org><en>\Read Bytes/sec</en></counter>
+    <counter><org>\Bytes escritos/s</org><en>\Write Bytes/sec</en></counter>
+    <counter><org>\Total de operaciones/s</org><en>\Total Operations/sec</en></counter>
+    <counter><org>\DPC en cola/s</org><en>\DPCs Queued/sec</en></counter>
+    <counter><org>\Velocidad de DPC</org><en>\DPC Rate</en></counter>
+    <counter><org>\Total de DPC en cola/s</org><en>\Total DPCs Queued/sec</en></counter>
+    <counter><org>\Velocidad total de DPC</org><en>\Total DPC Rate</en></counter>
+    <counter><org>\Memoria VL</org><en>\VL Memory</en></counter>
+    <counter><org>\% de tamaño virtual VLM en uso</org><en>\VLM % Virtual Size In Use</en></counter>
+    <counter><org>\Tamaño virtual VLM</org><en>\VLM Virtual Size</en></counter>
+    <counter><org>\Uso máximo de tamaño virtual VLM</org><en>\VLM Virtual Size Peak</en></counter>
+    <counter><org>\Tamaño virtual VLM disponible</org><en>\VLM Virtual Size Available</en></counter>
+    <counter><org>\Carga de confirmación VLM</org><en>\VLM Commit Charge</en></counter>
+    <counter><org>\Uso máximo de carga de confirmación VLM</org><en>\VLM Commit Charge Peak</en></counter>
+    <counter><org>\Carga de confirmación VLM de sistema</org><en>\System VLM Commit Charge</en></counter>
+    <counter><org>\Uso máximo de carga de confirmación VLM de sistema</org><en>\System VLM Commit Charge Peak</en></counter>
+    <counter><org>\Carga de confirmación compartida VLM de sistema</org><en>\System VLM Shared Commit Charge</en></counter>
+    <counter><org>\Kbytes disponibles</org><en>\Available KBytes</en></counter>
+    <counter><org>\Mbytes disponibles</org><en>\Available MBytes</en></counter>
+    <counter><org>\Longitud promedio de cola de lectura de disco</org><en>\Avg. Disk Read Queue Length</en></counter>
+    <counter><org>\Longitud promedio de cola de escritura de disco</org><en>\Avg. Disk Write Queue Length</en></counter>
+    <counter><org>\% de bytes confirmados en uso</org><en>\% Committed Bytes In Use</en></counter>
+    <counter><org>\Imagen completa</org><en>\Full Image</en></counter>
+    <counter><org>\Id. de proceso de creación</org><en>\Creating Process ID</en></counter>
+    <counter><org>\Operaciones de ES de lectura/s</org><en>\IO Read Operations/sec</en></counter>
+    <counter><org>\Operaciones de ES de escritura/s</org><en>\IO Write Operations/sec</en></counter>
+    <counter><org>\Operaciones de ES de datos/s</org><en>\IO Data Operations/sec</en></counter>
+    <counter><org>\Otras operaciones de ES/s</org><en>\IO Other Operations/sec</en></counter>
+    <counter><org>\Bytes de lectura de ES/s</org><en>\IO Read Bytes/sec</en></counter>
+    <counter><org>\Bytes de escritura de ES/s</org><en>\IO Write Bytes/sec</en></counter>
+    <counter><org>\Bytes de datos ES/s</org><en>\IO Data Bytes/sec</en></counter>
+    <counter><org>\Otros bytes de ES/s</org><en>\IO Other Bytes/sec</en></counter>
+    <counter><org>\Cola de impresión</org><en>\Print Queue</en></counter>
+    <counter><org>\Número total de trabajos impresos</org><en>\Total Jobs Printed</en></counter>
+    <counter><org>\Bytes impresos/s</org><en>\Bytes Printed/sec</en></counter>
+    <counter><org>\Número total de páginas impresas</org><en>\Total Pages Printed</en></counter>
+    <counter><org>\Trabajos</org><en>\Jobs</en></counter>
+    <counter><org>\Referencias</org><en>\References</en></counter>
+    <counter><org>\Máximo de referencias</org><en>\Max References</en></counter>
+    <counter><org>\Trabajos en cola</org><en>\Jobs Spooling</en></counter>
+    <counter><org>\Número máximo de trabajos en cola</org><en>\Max Jobs Spooling</en></counter>
+    <counter><org>\Errores de papel agotado</org><en>\Out of Paper Errors</en></counter>
+    <counter><org>\Errores de impresora no lista</org><en>\Not Ready Errors</en></counter>
+    <counter><org>\Errores de trabajo</org><en>\Job Errors</en></counter>
+    <counter><org>\Llamadas de enumeración de impresora de red</org><en>\Enumerate Network Printer Calls</en></counter>
+    <counter><org>\Llamadas de adición de impresora de red</org><en>\Add Network Printer Calls</en></counter>
+    <counter><org>\Espacio de trabajo - Privado</org><en>\Working Set - Private</en></counter>
+    <counter><org>\Espacio de trabajo - Compartido</org><en>\Working Set - Shared</en></counter>
+    <counter><org>\% de tiempo inactivo</org><en>\% Idle Time</en></counter>
+    <counter><org>\ES divididas/s</org><en>\Split IO/Sec</en></counter>
+    <counter><org>\Objeto de trabajo</org><en>\Job Object</en></counter>
+    <counter><org>\% actual de tiempo de procesador</org><en>\Current % Processor Time</en></counter>
+    <counter><org>\% actual de tiempo en modo usuario</org><en>\Current % User Mode Time</en></counter>
+    <counter><org>\% actual de tiempo en modo kernel</org><en>\Current % Kernel Mode Time</en></counter>
+    <counter><org>\Este período ms - Procesador</org><en>\This Period mSec - Processor</en></counter>
+    <counter><org>\Este período ms - Modo usuario</org><en>\This Period mSec - User Mode</en></counter>
+    <counter><org>\Este período ms - Modo kernel</org><en>\This Period mSec - Kernel Mode</en></counter>
+    <counter><org>\Páginas/s</org><en>\Pages/Sec</en></counter>
+    <counter><org>\Número de procesos - Total</org><en>\Process Count - Total</en></counter>
+    <counter><org>\Número de procesos - Activos</org><en>\Process Count - Active</en></counter>
+    <counter><org>\Número de procesos - Terminados</org><en>\Process Count - Terminated</en></counter>
+    <counter><org>\Total ms - Procesador</org><en>\Total mSec - Processor</en></counter>
+    <counter><org>\Total ms - Modo usuario</org><en>\Total mSec - User Mode</en></counter>
+    <counter><org>\Total ms - Modo kernel</org><en>\Total mSec - Kernel Mode</en></counter>
+    <counter><org>\Paquetes demasiado grandes recibidos</org><en>\Received Packet Too Big</en></counter>
+    <counter><org>\Consultas de pertenencia recibidas</org><en>\Received Membership Query</en></counter>
+    <counter><org>\Informes de pertenencia recibidos</org><en>\Received Membership Report</en></counter>
+    <counter><org>\Reducciones de pertenencia recibidas</org><en>\Received Membership Reduction</en></counter>
+    <counter><org>\Solicitudes de enrutador recibidas</org><en>\Received Router Solicit</en></counter>
+    <counter><org>\Anuncios de enrutador recibidos</org><en>\Received Router Advert</en></counter>
+    <counter><org>\Detalles del objeto de trabajo</org><en>\Job Object Details</en></counter>
+    <counter><org>\Solicitudes de vecino recibidas</org><en>\Received Neighbor Solicit</en></counter>
+    <counter><org>\Anuncios de vecino recibidos</org><en>\Received Neighbor Advert</en></counter>
+    <counter><org>\Paquetes demasiado grandes enviados</org><en>\Sent Packet Too Big</en></counter>
+    <counter><org>\Consultas de pertenencia enviadas</org><en>\Sent Membership Query</en></counter>
+    <counter><org>\Informes de pertenencia enviados</org><en>\Sent Membership Report</en></counter>
+    <counter><org>\Reducciones de pertenencia enviadas</org><en>\Sent Membership Reduction</en></counter>
+    <counter><org>\Solicitudes de enrutador enviadas</org><en>\Sent Router Solicit</en></counter>
+    <counter><org>\Anuncios de enrutador enviados</org><en>\Sent Router Advert</en></counter>
+    <counter><org>\Solicitudes de vecino enviadas</org><en>\Sent Neighbor Solicit</en></counter>
+    <counter><org>\Anuncios de vecino enviados</org><en>\Sent Neighbor Advert</en></counter>
+    <counter><org>\Estadísticas de seguridad para todo el sistema</org><en>\Security System-Wide Statistics</en></counter>
+    <counter><org>\Autenticaciones NTLM</org><en>\NTLM Authentications</en></counter>
+    <counter><org>\Autenticaciones Kerberos</org><en>\Kerberos Authentications</en></counter>
+    <counter><org>\Solicitudes KDC AS</org><en>\KDC AS Requests</en></counter>
+    <counter><org>\Solicitudes KDC TGS</org><en>\KDC TGS Requests</en></counter>
+    <counter><org>\Entradas de la caché de la sesión de SChannel</org><en>\Schannel Session Cache Entries</en></counter>
+    <counter><org>\Entradas de la caché de la sesión de SChannel activa</org><en>\Active Schannel Session Cache Entries</en></counter>
+    <counter><org>\Protocolos de enlace SSL completos del lado cliente</org><en>\SSL Client-Side Full Handshakes</en></counter>
+    <counter><org>\Protocolos de enlace SSL de reconexión del lado cliente</org><en>\SSL Client-Side Reconnect Handshakes</en></counter>
+    <counter><org>\Protocolos de enlace SSL completos del lado servidor</org><en>\SSL Server-Side Full Handshakes</en></counter>
+    <counter><org>\Protocolos de enlace SSL de reconexión del lado servidor</org><en>\SSL Server-Side Reconnect Handshakes</en></counter>
+    <counter><org>\Autenticaciones implícitas</org><en>\Digest Authentications</en></counter>
+    <counter><org>\Estadísticas de seguridad por proceso</org><en>\Security Per-Process Statistics</en></counter>
+    <counter><org>\Identificadores de credencial</org><en>\Credential Handles</en></counter>
+    <counter><org>\Identificadores de contexto</org><en>\Context Handles</en></counter>
+    <counter><org>\Bytes de lista de páginas libres y cero</org><en>\Free &amp; Zero Page List Bytes</en></counter>
+    <counter><org>\Bytes de lista de páginas modificadas</org><en>\Modified Page List Bytes</en></counter>
+    <counter><org>\Bytes de reserva de caché en modo de espera</org><en>\Standby Cache Reserve Bytes</en></counter>
+    <counter><org>\Bytes de prioridad normal de caché en modo de espera</org><en>\Standby Cache Normal Priority Bytes</en></counter>
+    <counter><org>\Bytes principales de caché en modo de espera</org><en>\Standby Cache Core Bytes</en></counter>
+    <counter><org>\% de tiempo en C1</org><en>\% C1 Time</en></counter>
+    <counter><org>\% de tiempo en C2</org><en>\% C2 Time</en></counter>
+    <counter><org>\% de tiempo en C3</org><en>\% C3 Time</en></counter>
+    <counter><org>\Transiciones a C1/s</org><en>\C1 Transitions/sec</en></counter>
+    <counter><org>\Transiciones a C2/s</org><en>\C2 Transitions/sec</en></counter>
+    <counter><org>\Transiciones a C3/s</org><en>\C3 Transitions/sec</en></counter>
+    <counter><org>\Montón</org><en>\Heap</en></counter>
+    <counter><org>\Bytes reservados</org><en>\Reserved Bytes</en></counter>
+    <counter><org>\Bytes disponibles</org><en>\Free Bytes</en></counter>
+    <counter><org>\Longitud de lista de bloques libres</org><en>\Free List Length</en></counter>
+    <counter><org>\Velocidad promedio de asignaciones</org><en>\Avg. alloc rate</en></counter>
+    <counter><org>\Velocidad promedio de liberaciones</org><en>\Avg. free rate</en></counter>
+    <counter><org>\Tamaño de intervalos no confirmados</org><en>\Uncommitted Ranges Length</en></counter>
+    <counter><org>\Asignaciones - liberaciones</org><en>\Allocs - Frees</en></counter>
+    <counter><org>\Asignaciones en caché/s</org><en>\Cached Allocs/sec</en></counter>
+    <counter><org>\Liberaciones en caché/s</org><en>\Cached Frees/sec</en></counter>
+    <counter><org>\Asignaciones menores que 1 KB/s</org><en>\Allocs &lt;1K/sec</en></counter>
+    <counter><org>\Liberaciones menores que 1 KB/s</org><en>\Frees &lt;1K/sec</en></counter>
+    <counter><org>\Asignaciones entre 1 y 8 KB/s</org><en>\Allocs 1-8K/sec</en></counter>
+    <counter><org>\Liberaciones entre 1 y 8 KB/s</org><en>\Frees 1-8K/sec</en></counter>
+    <counter><org>\Asignaciones mayores que 8 KB/s</org><en>\Allocs over 8K/sec</en></counter>
+    <counter><org>\Liberaciones mayores que 8 KB/s</org><en>\Frees over 8K/sec</en></counter>
+    <counter><org>\Número total de asignaciones/s</org><en>\Total Allocs/sec</en></counter>
+    <counter><org>\Número total de liberaciones/s</org><en>\Total Frees/sec</en></counter>
+    <counter><org>\Bloques en la caché del montón</org><en>\Blocks in Heap Cache</en></counter>
+    <counter><org>\Profundidad más grande en caché</org><en>\Largest Cache Depth</en></counter>
+    <counter><org>\% de fragmentación</org><en>\% Fragmentation</en></counter>
+    <counter><org>\% de VAFragmentation</org><en>\% VAFragmentation</en></counter>
+    <counter><org>\Contención de bloqueo de montón</org><en>\Heap Lock contention</en></counter>
+    <counter><org>\Marcador de final</org><en>\End Marker</en></counter>
+    <counter><org>\Discológico</org><en>\LogicalDisk</en></counter>
+    <counter><org>\Discofísico</org><en>\PhysicalDisk</en></counter>
+    <counter><org>\DiscoLógico</org><en>\LogicalDisk</en></counter>
+    <counter><org>\DiscoFísico</org><en>\PhysicalDisk</en></counter>
+</Counters>

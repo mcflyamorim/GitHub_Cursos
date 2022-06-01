@@ -1,0 +1,41 @@
+0 - Qual consulta está consumindo mais recurso? 
+-- sp sp_Test1
+1 - A consulta está utilizando tempdb... por que?
+-- hash join spill to tempdb... por que a estimativa da tvf (fn_ReturnCustomersWithOrders) está incorreta
+2 - Como evitar o uso do tempdb?
+-- Utilizar código da tvf dentro do select? ... 
+-- Remover o hash join query hint e aumentar o tempo? 
+-- utilizar hint no option (hash join) para evitar o force order?
+3 - Como minimizar o uso do tempdb? 
+-- jogar resultado da fn_ReturnCustomersWithOrders para uma temporária e utilizar ela...
+-- inmemory? essa temporária poderia ser uma in-memory schema only?...
+--- uma verdadeira temporária em memória...
+4 - O que fazer pra melhorar a performance do processo? 
+--- ver acima...
+
+
+
+CREATE OR ALTER PROCEDURE sp_Test1
+AS
+SELECT * 
+  FROM Desafio4.dbo.fn_ReturnCustomersWithOrders('') AS fn
+ INNER HASH JOIN  Desafio4.dbo.OrdersBig
+    ON OrdersBig.CustomerID = fn.CustomerID
+OPTION (MAXDOP 1)
+GO
+
+CREATE OR ALTER PROCEDURE sp_Test1
+AS
+IF OBJECT_ID('tempdb.dbo.#tmp1') IS NOT NULL
+  DROP TABLE #tmp1
+
+SELECT * 
+  INTO #tmp1
+  FROM Desafio4.dbo.fn_ReturnCustomersWithOrders('')
+
+SELECT * 
+  FROM #tmp1 AS fn
+ INNER HASH JOIN Desafio4.dbo.OrdersBig
+    ON OrdersBig.CustomerID = fn.CustomerID
+OPTION (MAXDOP 1)
+GO

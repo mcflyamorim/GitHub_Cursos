@@ -1,0 +1,2375 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Counters>
+    <counter>
+        <org>\Σύστημα</org>
+        <en>\System</en>
+    </counter>
+    <counter>
+        <org>\Μνήμη</org>
+        <en>\Memory</en>
+    </counter>
+    <counter>
+        <org>\% χρόνου επεξεργαστή</org>
+        <en>\% Processor Time</en>
+    </counter>
+    <counter>
+        <org>\Λειτουργίες ανάγνωσης αρχείου/δευτερόλεπτο</org>
+        <en>\File Read Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Λειτουργίες εγγραφής αρχείου/δευτερόλεπτο</org>
+        <en>\File Write Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Λειτουργίες ελέγχου αρχείου/δευτερόλεπτο</org>
+        <en>\File Control Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte ανάγνωσης αρχείου/δευτερόλεπτο</org>
+        <en>\File Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte εγγραφής αρχείου/δευτερόλεπτο</org>
+        <en>\File Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte ελέγχου αρχείου/δευτερόλεπτο</org>
+        <en>\File Control Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Διαθέσιμα byte</org>
+        <en>\Available Bytes</en>
+    </counter>
+    <counter>
+        <org>\Δεσμευμένα byte</org>
+        <en>\Committed Bytes</en>
+    </counter>
+    <counter>
+        <org>\Εσφαλμένες σελίδες/δευτερόλεπτο</org>
+        <en>\Page Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\Όριο δέσμευσης</org>
+        <en>\Commit Limit</en>
+    </counter>
+    <counter>
+        <org>\Αντίγραφα εγγραφής/δευτερόλεπτο</org>
+        <en>\Write Copies/sec</en>
+    </counter>
+    <counter>
+        <org>\Σφάλματα μετάβασης/δευτερόλεπτο</org>
+        <en>\Transition Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\Σφάλματα cache/δευτερόλεπτο</org>
+        <en>\Cache Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\Σφάλματα απαίτησης μηδενός/δευτερόλεπτο</org>
+        <en>\Demand Zero Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\Σελίδες/δευτερόλεπτο</org>
+        <en>\Pages/sec</en>
+    </counter>
+    <counter>
+        <org>\Ανάγνωση σελίδων/δευτερόλεπτο</org>
+        <en>\Page Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Μήκος ουράς επεξεργαστή</org>
+        <en>\Processor Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Κατάσταση νήματος</org>
+        <en>\Thread State</en>
+    </counter>
+    <counter>
+        <org>\Εξερχόμενες σελίδες/δευτερόλεπτο</org>
+        <en>\Pages Output/sec</en>
+    </counter>
+    <counter>
+        <org>\Εγγραφή σελίδων/δευτερ.</org>
+        <en>\Page Writes/sec</en>
+    </counter>
+    <counter>
+        <org>\Πρόγραμμα Περιήγησης</org>
+        <en>\Browser</en>
+    </counter>
+    <counter>
+        <org>\Ανακοινώσεις διακομιστή/δευτερόλεπτο</org>
+        <en>\Announcements Server/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte σελιδοποιημένης περιοχής</org>
+        <en>\Pool Paged Bytes</en>
+    </counter>
+    <counter>
+        <org>\Byte μη σελιδοποιημένης περιοχής</org>
+        <en>\Pool Nonpaged Bytes</en>
+    </counter>
+    <counter>
+        <org>\Εκχωρήσεις σελιδοποιημένης περιοχής</org>
+        <en>\Pool Paged Allocs</en>
+    </counter>
+    <counter>
+        <org>\Εκχωρήσεις μη σελιδοποιημένης περιοχής</org>
+        <en>\Pool Nonpaged Allocs</en>
+    </counter>
+    <counter>
+        <org>\Μόνιμα byte σελιδοποιημένης περιοχής</org>
+        <en>\Pool Paged Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\Συνολικά byte κώδικα συστήματος</org>
+        <en>\System Code Total Bytes</en>
+    </counter>
+    <counter>
+        <org>\Μόνιμα byte κώδικα συστήματος</org>
+        <en>\System Code Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\Συνολικά Byte προγράμματος οδήγησης συστήματος</org>
+        <en>\System Driver Total Bytes</en>
+    </counter>
+    <counter>
+        <org>\Μόνιμα byte προγράμματος οδήγησης συστήματος</org>
+        <en>\System Driver Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\Μόνιμα byte μνήμης cache συστήματος</org>
+        <en>\System Cache Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\Ανακοινώσεις τομέα/δευτερόλεπτο</org>
+        <en>\Announcements Domain/sec</en>
+    </counter>
+    <counter>
+        <org>\Πακέτα εκλογών/δευτερόλεπτο</org>
+        <en>\Election Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Εγγραφές mailslot/δευτερόλεπτο</org>
+        <en>\Mailslot Writes/sec</en>
+    </counter>
+    <counter>
+        <org>\Αιτήσεις λίστας διακομιστών/δευτερόλεπτο</org>
+        <en>\Server List Requests/sec</en>
+    </counter>
+    <counter>
+        <org>\Μνήμη cache</org>
+        <en>\Cache</en>
+    </counter>
+    <counter>
+        <org>\Απεικονίσεις δεδομένων/δευτερόλεπτο</org>
+        <en>\Data Maps/sec</en>
+    </counter>
+    <counter>
+        <org>\Σύγχρονες απεικονίσεις δεδομένων/δευτερόλεπτο</org>
+        <en>\Sync Data Maps/sec</en>
+    </counter>
+    <counter>
+        <org>\Ασύγχρονες απεικονίσεις δεδομένων/δευτερόλεπτο</org>
+        <en>\Async Data Maps/sec</en>
+    </counter>
+    <counter>
+        <org>\Βρέθηκαν οι αντιστοιχίσεις δεδομένων %</org>
+        <en>\Data Map Hits %</en>
+    </counter>
+    <counter>
+        <org>\Προ-εγγραφές αντιστοιχίσεων δεδομένων/δευτερόλεπτο</org>
+        <en>\Data Map Pins/sec</en>
+    </counter>
+    <counter>
+        <org>\Προ-εγγραφές αναγνώσεων/δευτερόλεπτο</org>
+        <en>\Pin Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Προ-εγγραφές σύγχρονων αναγνώσεων/δευτερόλεπτο</org>
+        <en>\Sync Pin Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Προ-εγγραφές ασύγχρονων αναγνώσεων/δευτερόλεπτο</org>
+        <en>\Async Pin Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Βρέθηκαν οι προ-εγγραφές αναγνώσεων %</org>
+        <en>\Pin Read Hits %</en>
+    </counter>
+    <counter>
+        <org>\Αντιγραφές αναγνώσεων/δευτερόλεπτο</org>
+        <en>\Copy Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Αντιγραφές σύγχρονων αναγνώσεων/δευτερόλεπτο</org>
+        <en>\Sync Copy Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Αντιγραφές ασύγχρονων αναγνώσεων/δευτερόλεπτο</org>
+        <en>\Async Copy Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Βρέθηκαν οι αντιγραφές αναγνώσεων %</org>
+        <en>\Copy Read Hits %</en>
+    </counter>
+    <counter>
+        <org>\Αναγνώσεις MDL/δευτερόλεπτο</org>
+        <en>\MDL Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Σύγχρονες αναγνώσεις MDL/δευτερόλεπτο</org>
+        <en>\Sync MDL Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Ασύγχρονες αναγνώσεις MDL/δευτερόλεπτο</org>
+        <en>\Async MDL Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Βρέθηκαν οι αναγνώσεις MDL %</org>
+        <en>\MDL Read Hits %</en>
+    </counter>
+    <counter>
+        <org>\Προκαταβολικές αναγνώσεις/δευτερόλεπτο</org>
+        <en>\Read Aheads/sec</en>
+    </counter>
+    <counter>
+        <org>\Γρήγορες αναγνώσεις/δευτερόλεπτο</org>
+        <en>\Fast Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Γρήγορες σύγχρονες αναγνώσεις/δευτερόλεπτο</org>
+        <en>\Sync Fast Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Γρήγορες ασύγχρονες αναγνώσεις/δευτερόλεπτο</org>
+        <en>\Async Fast Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Γρήγορες αναγνώσεις άστοχες για πόρους/δευτερόλεπτο</org>
+        <en>\Fast Read Resource Misses/sec</en>
+    </counter>
+    <counter>
+        <org>\Γρήγορες αναγνώσεις αδύνατες/δευτερόλεπτο</org>
+        <en>\Fast Read Not Possibles/sec</en>
+    </counter>
+    <counter>
+        <org>\Εγγραφές Lazy εκκενωμένες σε δίσκο/δευτερόλεπτο</org>
+        <en>\Lazy Write Flushes/sec</en>
+    </counter>
+    <counter>
+        <org>\Σελίδες εγγραφών Lazy/δευτερόλεπτο</org>
+        <en>\Lazy Write Pages/sec</en>
+    </counter>
+    <counter>
+        <org>\Εκκενώσεις δεδομένων σε δίσκο/δευτερόλεπτο</org>
+        <en>\Data Flushes/sec</en>
+    </counter>
+    <counter>
+        <org>\Σελίδες εκκένωσης δεδομένων σε δίσκο/δευτερόλεπτο</org>
+        <en>\Data Flush Pages/sec</en>
+    </counter>
+    <counter>
+        <org>\% χρόνου χρήστη</org>
+        <en>\% User Time</en>
+    </counter>
+    <counter>
+        <org>\% προνομιακού χρόνου</org>
+        <en>\% Privileged Time</en>
+    </counter>
+    <counter>
+        <org>\Εναλλαγές περιβάλλοντος/δευτερόλεπτο</org>
+        <en>\Context Switches/sec</en>
+    </counter>
+    <counter>
+        <org>\Διακοπές/δευτερόλεπτο</org>
+        <en>\Interrupts/sec</en>
+    </counter>
+    <counter>
+        <org>\Κλήσεις συστήματος/δευτερόλεπτο</org>
+        <en>\System Calls/sec</en>
+    </counter>
+    <counter>
+        <org>\Συμπληρώσεις TLB επιπέδου 1/δευτερόλεπτο</org>
+        <en>\Level 1 TLB Fills/sec</en>
+    </counter>
+    <counter>
+        <org>\Συμπληρώσεις TLB επιπέδου 2/δευτερόλεπτο</org>
+        <en>\Level 2 TLB Fills/sec</en>
+    </counter>
+    <counter>
+        <org>\Απαριθμήσεις διακομιστή/δευτερόλεπτο</org>
+        <en>\Enumerations Server/sec</en>
+    </counter>
+    <counter>
+        <org>\Απαριθμήσεις τομέα/δευτερόλεπτο</org>
+        <en>\Enumerations Domain/sec</en>
+    </counter>
+    <counter>
+        <org>\Απαριθμήσεις άλλων/δευτερόλεπτο</org>
+        <en>\Enumerations Other/sec</en>
+    </counter>
+    <counter>
+        <org>\Χαμένες ανακοινώσεις διακομιστή</org>
+        <en>\Missed Server Announcements</en>
+    </counter>
+    <counter>
+        <org>\Απώλειες αυτοδύναμων πακέτων mailslot</org>
+        <en>\Missed Mailslot Datagrams</en>
+    </counter>
+    <counter>
+        <org>\Χαμένες αιτήσεις λίστας διακομιστών</org>
+        <en>\Missed Server List Requests</en>
+    </counter>
+    <counter>
+        <org>\Αποτυχημένες εκχωρήσεις ανακοινώσεων διακομιστή/δευτερόλεπτο</org>
+        <en>\Server Announce Allocations Failed/sec</en>
+    </counter>
+    <counter>
+        <org>\Αποτυχημένες εκχωρήσεις mailslot</org>
+        <en>\Mailslot Allocations Failed</en>
+    </counter>
+    <counter>
+        <org>\Μέγιστη τιμή εικονικών byte</org>
+        <en>\Virtual Bytes Peak</en>
+    </counter>
+    <counter>
+        <org>\Εικονικά byte</org>
+        <en>\Virtual Bytes</en>
+    </counter>
+    <counter>
+        <org>\Μέγιστο σύνολο εργασιών</org>
+        <en>\Working Set Peak</en>
+    </counter>
+    <counter>
+        <org>\Σύνολο εργασιών</org>
+        <en>\Working Set</en>
+    </counter>
+    <counter>
+        <org>\Μέγιστα byte αρχείου σελιδοποίησης</org>
+        <en>\Page File Bytes Peak</en>
+    </counter>
+    <counter>
+        <org>\Byte αρχείου σελιδοποίησης</org>
+        <en>\Page File Bytes</en>
+    </counter>
+    <counter>
+        <org>\Ιδιωτικά byte</org>
+        <en>\Private Bytes</en>
+    </counter>
+    <counter>
+        <org>\Συνολικές ανακοινώσεις/δευτερόλεπτο</org>
+        <en>\Announcements Total/sec</en>
+    </counter>
+    <counter>
+        <org>\Συνολικές απαριθμήσεις/δευτερόλεπτο</org>
+        <en>\Enumerations Total/sec</en>
+    </counter>
+    <counter>
+        <org>\Τρέχον μήκος ουράς δίσκου</org>
+        <en>\Current Disk Queue Length</en>
+    </counter>
+    <counter>
+        <org>\% χρόνου δίσκου</org>
+        <en>\% Disk Time</en>
+    </counter>
+    <counter>
+        <org>\% χρόνου ανάγνωσης δίσκου</org>
+        <en>\% Disk Read Time</en>
+    </counter>
+    <counter>
+        <org>\% χρόνου εγγραφής δίσκου</org>
+        <en>\% Disk Write Time</en>
+    </counter>
+    <counter>
+        <org>\Δευτερόλεπτα μέσου όρου δίσκου/μεταφορά</org>
+        <en>\Avg. Disk sec/Transfer</en>
+    </counter>
+    <counter>
+        <org>\Δευτερόλεπτα μέσου όρου δίσκου/ανάγνωση</org>
+        <en>\Avg. Disk sec/Read</en>
+    </counter>
+    <counter>
+        <org>\Δευτερόλεπτα μέσου όρου δίσκου/εγγραφή</org>
+        <en>\Avg. Disk sec/Write</en>
+    </counter>
+    <counter>
+        <org>\Μεταφορές δίσκου/δευτερόλεπτο</org>
+        <en>\Disk Transfers/sec</en>
+    </counter>
+    <counter>
+        <org>\Αναγνώσεις δίσκου/δευτερόλεπτο</org>
+        <en>\Disk Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Εγγραφές δίσκου/δευτερόλεπτο</org>
+        <en>\Disk Writes/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte δίσκου/δευτερόλεπτο</org>
+        <en>\Disk Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte ανάγνωσης δίσκου/δευτερόλεπτο</org>
+        <en>\Disk Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte εγγραφής δίσκου/δευτερόλεπτο</org>
+        <en>\Disk Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Μέσος όρος byte δίσκου/μεταφορά</org>
+        <en>\Avg. Disk Bytes/Transfer</en>
+    </counter>
+    <counter>
+        <org>\Μέσος όρος byte δίσκου/ανάγνωση</org>
+        <en>\Avg. Disk Bytes/Read</en>
+    </counter>
+    <counter>
+        <org>\Μέσος όρος byte δίσκου/εγγραφή</org>
+        <en>\Avg. Disk Bytes/Write</en>
+    </counter>
+    <counter>
+        <org>\Διεργασία</org>
+        <en>\Process</en>
+    </counter>
+    <counter>
+        <org>\Νήμα</org>
+        <en>\Thread</en>
+    </counter>
+    <counter>
+        <org>\Φυσικός δίσκος</org>
+        <en>\PhysicalDisk</en>
+    </counter>
+    <counter>
+        <org>\Λογικός δίσκος</org>
+        <en>\LogicalDisk</en>
+    </counter>
+    <counter>
+        <org>\Επεξεργαστής</org>
+        <en>\Processor</en>
+    </counter>
+    <counter>
+        <org>\% συνολικού χρόνου επεξεργαστή</org>
+        <en>\% Total Processor Time</en>
+    </counter>
+    <counter>
+        <org>\% συνολικού χρόνου χρήστη</org>
+        <en>\% Total User Time</en>
+    </counter>
+    <counter>
+        <org>\% συνολικού προνομιακού χρόνου</org>
+        <en>\% Total Privileged Time</en>
+    </counter>
+    <counter>
+        <org>\Συνολικές διακοπές/δευτερόλεπτο</org>
+        <en>\Total Interrupts/sec</en>
+    </counter>
+    <counter>
+        <org>\Διεργασίες</org>
+        <en>\Processes</en>
+    </counter>
+    <counter>
+        <org>\Νήματα</org>
+        <en>\Threads</en>
+    </counter>
+    <counter>
+        <org>\Συμβάντα</org>
+        <en>\Events</en>
+    </counter>
+    <counter>
+        <org>\Σηματοφορείς</org>
+        <en>\Semaphores</en>
+    </counter>
+    <counter>
+        <org>\Αμοιβαίοι αποκλεισμοί</org>
+        <en>\Mutexes</en>
+    </counter>
+    <counter>
+        <org>\Ενότητες</org>
+        <en>\Sections</en>
+    </counter>
+    <counter>
+        <org>\Αντικείμενα</org>
+        <en>\Objects</en>
+    </counter>
+    <counter>
+        <org>\Πρόγραμμα ανακατεύθυνσης</org>
+        <en>\Redirector</en>
+    </counter>
+    <counter>
+        <org>\Byte λήψης/δευτερόλεπτο</org>
+        <en>\Bytes Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Πακέτα λήψης/δευτερόλεπτο</org>
+        <en>\Packets Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte ανάγνωσης με σελιδοποίηση/δευτερόλεπτο</org>
+        <en>\Read Bytes Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte ανάγνωσης χωρίς σελιδοποίηση/δευτερόλεπτο</org>
+        <en>\Read Bytes Non-Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte ανάγνωσης μνήμης cache/δευτερόλεπτο</org>
+        <en>\Read Bytes Cache/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte ανάγνωσης δικτύου/δευτερόλεπτο</org>
+        <en>\Read Bytes Network/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte μετάδοσης/δευτερόλεπτο</org>
+        <en>\Bytes Transmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\Πακέτα μετάδοσης/δευτερόλεπτο</org>
+        <en>\Packets Transmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte εγγραφής με σελιδοποίηση/δευτερόλεπτο</org>
+        <en>\Write Bytes Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte εγγραφής χωρίς σελιδοποίηση/δευτερόλεπτο</org>
+        <en>\Write Bytes Non-Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte εγγραφής μνήμης cache/δευτερόλεπτο</org>
+        <en>\Write Bytes Cache/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte εγγραφής δικτύου/δευτερόλεπτο</org>
+        <en>\Write Bytes Network/sec</en>
+    </counter>
+    <counter>
+        <org>\Λειτουργίες ανάγνωσης/δευτερόλεπτο</org>
+        <en>\Read Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Λειτουργίες τυχαίας ανάγνωσης/δευτερόλεπτο</org>
+        <en>\Read Operations Random/sec</en>
+    </counter>
+    <counter>
+        <org>\Ανάγνωση πακέτων/δευτερόλεπτο</org>
+        <en>\Read Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Ογκώδεις αναγνώσεις/δευτερόλεπτο</org>
+        <en>\Reads Large/sec</en>
+    </counter>
+    <counter>
+        <org>\Πακέτα ελάχιστων αναγνώσεων/δευτερόλεπτο</org>
+        <en>\Read Packets Small/sec</en>
+    </counter>
+    <counter>
+        <org>\Λειτουργίες εγγραφής/δευτερόλεπτο</org>
+        <en>\Write Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Λειτουργίες τυχαίας εγγραφής/δευτερόλεπτο</org>
+        <en>\Write Operations Random/sec</en>
+    </counter>
+    <counter>
+        <org>\Εγγραφή πακέτων/δευτερόλεπτο</org>
+        <en>\Write Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Ογκώδεις εγγραφές/δευτερόλεπτο</org>
+        <en>\Writes Large/sec</en>
+    </counter>
+    <counter>
+        <org>\Πακέτα ελάχιστων εγγραφών/δευτερόλεπτο</org>
+        <en>\Write Packets Small/sec</en>
+    </counter>
+    <counter>
+        <org>\Αρνήσεις αναγνώσεων/δευτερόλεπτο</org>
+        <en>\Reads Denied/sec</en>
+    </counter>
+    <counter>
+        <org>\Αρνήσεις εγγραφών/δευτερόλεπτο</org>
+        <en>\Writes Denied/sec</en>
+    </counter>
+    <counter>
+        <org>\Σφάλματα δικτύου/δευτερόλεπτο</org>
+        <en>\Network Errors/sec</en>
+    </counter>
+    <counter>
+        <org>\Περίοδοι διακομιστή</org>
+        <en>\Server Sessions</en>
+    </counter>
+    <counter>
+        <org>\Επανασυνδέσεις διακομιστή</org>
+        <en>\Server Reconnects</en>
+    </counter>
+    <counter>
+        <org>\Συνδέσεις πυρήνα</org>
+        <en>\Connects Core</en>
+    </counter>
+    <counter>
+        <org>\Συνδέσεις Lan Manager 2.0</org>
+        <en>\Connects Lan Manager 2.0</en>
+    </counter>
+    <counter>
+        <org>\Συνδέσεις Lan Manager 2.1</org>
+        <en>\Connects Lan Manager 2.1</en>
+    </counter>
+    <counter>
+        <org>\Συνδέσεις Windows NT</org>
+        <en>\Connects Windows NT</en>
+    </counter>
+    <counter>
+        <org>\Αποσυνδέσεις διακομιστή</org>
+        <en>\Server Disconnects</en>
+    </counter>
+    <counter>
+        <org>\Μπλοκαρισμένες περίοδοι διακομιστή</org>
+        <en>\Server Sessions Hung</en>
+    </counter>
+    <counter>
+        <org>\Διακομιστής</org>
+        <en>\Server</en>
+    </counter>
+    <counter>
+        <org>\Λόγος αναμονής νήματος</org>
+        <en>\Thread Wait Reason</en>
+    </counter>
+    <counter>
+        <org>\Ληξιπρόθεσμες περίοδοι</org>
+        <en>\Sessions Timed Out</en>
+    </counter>
+    <counter>
+        <org>\Τέλος περιόδων εξαιτίας σφαλμάτων</org>
+        <en>\Sessions Errored Out</en>
+    </counter>
+    <counter>
+        <org>\Τέλος περιόδων εξαιτίας αποσύνδεσης</org>
+        <en>\Sessions Logged Off</en>
+    </counter>
+    <counter>
+        <org>\Τέλος περιόδων υποχρεωτικά</org>
+        <en>\Sessions Forced Off</en>
+    </counter>
+    <counter>
+        <org>\Σφάλματα σύνδεσης</org>
+        <en>\Errors Logon</en>
+    </counter>
+    <counter>
+        <org>\Σφάλματα εγκρίσεων πρόσβασης</org>
+        <en>\Errors Access Permissions</en>
+    </counter>
+    <counter>
+        <org>\Σφάλματα αρνήσεων πρόσβασης</org>
+        <en>\Errors Granted Access</en>
+    </counter>
+    <counter>
+        <org>\Σφάλματα συστήματος</org>
+        <en>\Errors System</en>
+    </counter>
+    <counter>
+        <org>\Αρνήσεις απαιτήσεων μπλοκαρίσματος</org>
+        <en>\Blocking Requests Rejected</en>
+    </counter>
+    <counter>
+        <org>\Ελλείψεις αντικειμένων εργασίας</org>
+        <en>\Work Item Shortages</en>
+    </counter>
+    <counter>
+        <org>\Συνολικά ανοικτά αρχεία</org>
+        <en>\Files Opened Total</en>
+    </counter>
+    <counter>
+        <org>\Ανοικτά αρχεία</org>
+        <en>\Files Open</en>
+    </counter>
+    <counter>
+        <org>\Αναζητήσεις αρχείων</org>
+        <en>\File Directory Searches</en>
+    </counter>
+    <counter>
+        <org>\Αποτυχίες μη σελιδοποιημένης περιοχής</org>
+        <en>\Pool Nonpaged Failures</en>
+    </counter>
+    <counter>
+        <org>\Μέγ. μέγεθος μη σελιδοποιημένης περιοχής</org>
+        <en>\Pool Nonpaged Peak</en>
+    </counter>
+    <counter>
+        <org>\Αποτυχίες σελιδοποιημένης περιοχής</org>
+        <en>\Pool Paged Failures</en>
+    </counter>
+    <counter>
+        <org>\Μέγ. μέγεθος σελιδοποιημένης περιοχής</org>
+        <en>\Pool Paged Peak</en>
+    </counter>
+    <counter>
+        <org>\Συνολικά byte/δευτερόλεπτο</org>
+        <en>\Bytes Total/sec</en>
+    </counter>
+    <counter>
+        <org>\Τρέχουσες εντολές</org>
+        <en>\Current Commands</en>
+    </counter>
+    <counter>
+        <org>\Πακέτα/δευτερόλεπτο</org>
+        <en>\Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Μπλοκ περιβάλλοντος στην ουρά/δευτερόλεπτο</org>
+        <en>\Context Blocks Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\Λειτουργίες δεδομένων αρχείου/δευτερόλεπτο</org>
+        <en>\File Data Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\% ελεύθερου χώρου</org>
+        <en>\% Free Space</en>
+    </counter>
+    <counter>
+        <org>\Ελεύθερα MΒ</org>
+        <en>\Free Megabytes</en>
+    </counter>
+    <counter>
+        <org>\Ανοικτές συνδέσεις</org>
+        <en>\Connections Open</en>
+    </counter>
+    <counter>
+        <org>\Συνδέσεις χωρίς επαναλήψεις</org>
+        <en>\Connections No Retries</en>
+    </counter>
+    <counter>
+        <org>\Συνδέσεις με επαναλήψεις</org>
+        <en>\Connections With Retries</en>
+    </counter>
+    <counter>
+        <org>\Τοπικές αποσυνδέσεις</org>
+        <en>\Disconnects Local</en>
+    </counter>
+    <counter>
+        <org>\Απομακρυσμένες αποσυνδέσεις</org>
+        <en>\Disconnects Remote</en>
+    </counter>
+    <counter>
+        <org>\Αποτυχίες σύνδεσης</org>
+        <en>\Failures Link</en>
+    </counter>
+    <counter>
+        <org>\Αποτυχίες προσαρμογέα</org>
+        <en>\Failures Adapter</en>
+    </counter>
+    <counter>
+        <org>\Συνδέσεις ληξιπρόθεσμων περιόδων</org>
+        <en>\Connection Session Timeouts</en>
+    </counter>
+    <counter>
+        <org>\Ακυρωμένες συνδέσεις</org>
+        <en>\Connections Canceled</en>
+    </counter>
+    <counter>
+        <org>\Αποτυχίες απομακρυσμένων πόρων</org>
+        <en>\Failures Resource Remote</en>
+    </counter>
+    <counter>
+        <org>\Αποτυχίες τοπικών πόρων</org>
+        <en>\Failures Resource Local</en>
+    </counter>
+    <counter>
+        <org>\Αποτυχίες, δεν βρέθηκε απομακρυσμένος υπολογιστής</org>
+        <en>\Failures Not Found</en>
+    </counter>
+    <counter>
+        <org>\Αποτυχίες, δεν αποκρίνεται απομακρυσμένος υπολογιστής</org>
+        <en>\Failures No Listen</en>
+    </counter>
+    <counter>
+        <org>\Αυτοδύναμα πακέτα/δευτερόλεπτο</org>
+        <en>\Datagrams/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte αυτοδύναμων πακέτων/δευτερόλεπτο</org>
+        <en>\Datagram Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Αυτοδύναμα πακέτα αποστολής/δευτερόλεπτο</org>
+        <en>\Datagrams Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte αυτοδύναμων πακέτων αποστολής/δευτερόλεπτο</org>
+        <en>\Datagram Bytes Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Αυτοδύναμα πακέτα λήψης/δευτερόλεπτο</org>
+        <en>\Datagrams Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte αυτοδύναμων πακέτων λήψης/δευτερόλεπτο</org>
+        <en>\Datagram Bytes Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Πακέτα αποστολής/δευτερόλεπτο</org>
+        <en>\Packets Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Πλαίσια/δευτερόλεπτο</org>
+        <en>\Frames/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte πλαισίων/δευτερόλεπτο</org>
+        <en>\Frame Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Πλαίσια αποστολής/δευτερόλεπτο</org>
+        <en>\Frames Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte πλαισίων αποστολής/δευτερόλεπτο</org>
+        <en>\Frame Bytes Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Πλαίσια λήψης/δευτερόλεπτο</org>
+        <en>\Frames Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte πλαισίων λήψης/δευτερόλεπτο</org>
+        <en>\Frame Bytes Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Επαναλήψεις αποστολών πλαισίων/δευτερόλεπτο</org>
+        <en>\Frames Re-Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte επαναλήψεων πλαισίων αποστολής/δευτερόλεπτο</org>
+        <en>\Frame Bytes Re-Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Πλαίσια απόρριψης/δευτερόλεπτο</org>
+        <en>\Frames Rejected/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte πλαισίων απόρριψης/δευτερόλεπτο</org>
+        <en>\Frame Bytes Rejected/sec</en>
+    </counter>
+    <counter>
+        <org>\Ληξιπρόθεσμες αποκρίσεις</org>
+        <en>\Expirations Response</en>
+    </counter>
+    <counter>
+        <org>\Ληξιπρόθεσμες Ack</org>
+        <en>\Expirations Ack</en>
+    </counter>
+    <counter>
+        <org>\Μέγιστο παράθυρο αποστολής</org>
+        <en>\Window Send Maximum</en>
+    </counter>
+    <counter>
+        <org>\Μέσος όρος παραθύρου αποστολής</org>
+        <en>\Window Send Average</en>
+    </counter>
+    <counter>
+        <org>\Ack Piggyback στην ουρά/δευτερόλεπτο</org>
+        <en>\Piggyback Ack Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\Ληξιπρόθεσμες Ack Piggyback</org>
+        <en>\Piggyback Ack Timeouts</en>
+    </counter>
+    <counter>
+        <org>\Πόρος NetBEUI</org>
+        <en>\NetBEUI Resource</en>
+    </counter>
+    <counter>
+        <org>\Μέγιστη χρήση</org>
+        <en>\Used Maximum</en>
+    </counter>
+    <counter>
+        <org>\Μέσος όρος χρήσης</org>
+        <en>\Used Average</en>
+    </counter>
+    <counter>
+        <org>\Συχνότητα εξάντλησης πόρων</org>
+        <en>\Times Exhausted</en>
+    </counter>
+    <counter>
+        <org>\Σύνδεση NBT</org>
+        <en>\NBT Connection</en>
+    </counter>
+    <counter>
+        <org>\Byte αποστολής/δευτερόλεπτο</org>
+        <en>\Bytes Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Συνολικά byte/δευτερόλεπτο</org>
+        <en>\Total Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Διασύνδεση δικτύου</org>
+        <en>\Network Interface</en>
+    </counter>
+    <counter>
+        <org>\Byte/δευτερόλεπτο</org>
+        <en>\Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Τρέχον εύρος ζώνης</org>
+        <en>\Current Bandwidth</en>
+    </counter>
+    <counter>
+        <org>\Λήψεις πακέτων μοναδικής διανομής/δευτερόλεπτο</org>
+        <en>\Packets Received Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\Λήψεις πακέτων μη-μοναδικής διανομής/δευτερόλεπτο</org>
+        <en>\Packets Received Non-Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\Πακέτα λήψης, απορρίφθηκαν</org>
+        <en>\Packets Received Discarded</en>
+    </counter>
+    <counter>
+        <org>\Πακέτα λήψης, με σφάλματα</org>
+        <en>\Packets Received Errors</en>
+    </counter>
+    <counter>
+        <org>\Πακέτα λήψης άγνωστου πρωτοκόλλου</org>
+        <en>\Packets Received Unknown</en>
+    </counter>
+    <counter>
+        <org>\Αποστολές πακέτων μοναδικής διανομής/δευτερόλεπτο</org>
+        <en>\Packets Sent Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\Αποστολές πακέτων μη-μοναδικής διανομής/δευτερόλεπτο</org>
+        <en>\Packets Sent Non-Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\Απορρίψεις πακέτων εξόδου</org>
+        <en>\Packets Outbound Discarded</en>
+    </counter>
+    <counter>
+        <org>\Σφάλματα πακέτων εξόδου</org>
+        <en>\Packets Outbound Errors</en>
+    </counter>
+    <counter>
+        <org>\Μήκος ουράς εξόδου</org>
+        <en>\Output Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Λήψεις αυτοδύναμων πακέτων, σφάλματα επικεφαλίδας</org>
+        <en>\Datagrams Received Header Errors</en>
+    </counter>
+    <counter>
+        <org>\Λήψεις αυτοδύναμων πακέτων, σφάλματα διεύθυνσης</org>
+        <en>\Datagrams Received Address Errors</en>
+    </counter>
+    <counter>
+        <org>\Προωθήσεις αυτοδύναμων πακέτων/δευτερόλεπτο</org>
+        <en>\Datagrams Forwarded/sec</en>
+    </counter>
+    <counter>
+        <org>\Λήψεις αυτοδύναμων πακέτων, άγνωστο πρωτόκολλο</org>
+        <en>\Datagrams Received Unknown Protocol</en>
+    </counter>
+    <counter>
+        <org>\Απορρίψεις αυτοδύναμων πακέτων λήψης</org>
+        <en>\Datagrams Received Discarded</en>
+    </counter>
+    <counter>
+        <org>\Παραδόσεις αυτοδύναμων πακέτων λήψης/δευτερόλεπτο</org>
+        <en>\Datagrams Received Delivered/sec</en>
+    </counter>
+    <counter>
+        <org>\Απορρίψεις αυτοδύναμων πακέτων εξόδου</org>
+        <en>\Datagrams Outbound Discarded</en>
+    </counter>
+    <counter>
+        <org>\Αυτοδύναμα πακέτα εξόδου χωρίς δρομολόγηση</org>
+        <en>\Datagrams Outbound No Route</en>
+    </counter>
+    <counter>
+        <org>\Κομμάτια λήψης/δευτερόλεπτο</org>
+        <en>\Fragments Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Ανασυγκροτήσεις κομματιών/δευτερόλεπτο</org>
+        <en>\Fragments Re-assembled/sec</en>
+    </counter>
+    <counter>
+        <org>\Αποτυχίες ανασυγκρότησης κομματιών</org>
+        <en>\Fragment Re-assembly Failures</en>
+    </counter>
+    <counter>
+        <org>\Κατακερματισμένα αυτοδύναμα πακέτα/δευτερόλεπτο</org>
+        <en>\Fragmented Datagrams/sec</en>
+    </counter>
+    <counter>
+        <org>\Αποτυχίες κατακερματισμού</org>
+        <en>\Fragmentation Failures</en>
+    </counter>
+    <counter>
+        <org>\Δημιουργημένα κομμάτια/δευτερόλεπτο</org>
+        <en>\Fragments Created/sec</en>
+    </counter>
+    <counter>
+        <org>\Μηνύματα/δευτερόλεπτο</org>
+        <en>\Messages/sec</en>
+    </counter>
+    <counter>
+        <org>\Λήψεις μηνυμάτων/δευτερόλεπτο</org>
+        <en>\Messages Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Λήψεις μηνυμάτων, με σφάλματα</org>
+        <en>\Messages Received Errors</en>
+    </counter>
+    <counter>
+        <org>\Λήψεις μηνυμάτων, χωρίς δυνατότητα πρόσβασης προορισμού</org>
+        <en>\Received Dest. Unreachable</en>
+    </counter>
+    <counter>
+        <org>\Λήψεις μηνυμάτων, λήξη χρονικού ορίου</org>
+        <en>\Received Time Exceeded</en>
+    </counter>
+    <counter>
+        <org>\Λήψεις μηνυμάτων, εσφαλμένη παράμετρος</org>
+        <en>\Received Parameter Problem</en>
+    </counter>
+    <counter>
+        <org>\Λήψεις μηνυμάτων, χωρίς προέλευση</org>
+        <en>\Received Source Quench</en>
+    </counter>
+    <counter>
+        <org>\Λήψεις μηνυμάτων, ανακατεύθυνση/δευτερόλεπτο</org>
+        <en>\Received Redirect/sec</en>
+    </counter>
+    <counter>
+        <org>\Λήψεις μηνυμάτων, ηχώ/δευτερόλεπτο</org>
+        <en>\Received Echo/sec</en>
+    </counter>
+    <counter>
+        <org>\Λήψεις μηνυμάτων, αντήχηση/δευτερόλεπτο</org>
+        <en>\Received Echo Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\Λήψεις μηνυμάτων, χρονική σήμανση/δευτερόλεπτο</org>
+        <en>\Received Timestamp/sec</en>
+    </counter>
+    <counter>
+        <org>\Λήψεις μηνυμάτων, απάντηση χρονικής σήμανσης/δευτερόλεπτο</org>
+        <en>\Received Timestamp Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\Λήψεις μηνυμάτων, μάσκα διεύθυνσης</org>
+        <en>\Received Address Mask</en>
+    </counter>
+    <counter>
+        <org>\Λήψεις μηνυμάτων, απάντηση μάσκας διεύθυνσης</org>
+        <en>\Received Address Mask Reply</en>
+    </counter>
+    <counter>
+        <org>\Αποστολές μηνυμάτων/δευτερόλεπτο</org>
+        <en>\Messages Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Σφάλματα μηνυμάτων εξόδου</org>
+        <en>\Messages Outbound Errors</en>
+    </counter>
+    <counter>
+        <org>\Μηνύματα αποστολής, χωρίς δυνατότητα πρόσβασης προορισμού</org>
+        <en>\Sent Destination Unreachable</en>
+    </counter>
+    <counter>
+        <org>\Αποστολές μηνυμάτων, λήξη χρονικού ορίου</org>
+        <en>\Sent Time Exceeded</en>
+    </counter>
+    <counter>
+        <org>\Αποστολές μηνυμάτων, εσφαλμένη παράμετρος</org>
+        <en>\Sent Parameter Problem</en>
+    </counter>
+    <counter>
+        <org>\Αποστολές μηνυμάτων, χωρίς προέλευση</org>
+        <en>\Sent Source Quench</en>
+    </counter>
+    <counter>
+        <org>\Αποστολές μηνυμάτων, ανακατεύθυνση/δευτερόλεπτο</org>
+        <en>\Sent Redirect/sec</en>
+    </counter>
+    <counter>
+        <org>\Αποστολές μηνυμάτων, ηχώ/δευτερόλεπτο</org>
+        <en>\Sent Echo/sec</en>
+    </counter>
+    <counter>
+        <org>\Αποστολές μηνυμάτων, αντήχηση/δευτερόλεπτο</org>
+        <en>\Sent Echo Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\Αποστολές μηνυμάτων, χρονική επισήμανση/δευτερόλεπτο</org>
+        <en>\Sent Timestamp/sec</en>
+    </counter>
+    <counter>
+        <org>\Αποστολές μηνυμάτων, απάντηση χρονικής επισήμανσης/δευτερόλεπτο</org>
+        <en>\Sent Timestamp Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\Αποστολές μηνυμάτων, μάσκα διεύθυνσης</org>
+        <en>\Sent Address Mask</en>
+    </counter>
+    <counter>
+        <org>\Αποστολές μηνυμάτων, απάντηση μάσκας διεύθυνσης</org>
+        <en>\Sent Address Mask Reply</en>
+    </counter>
+    <counter>
+        <org>\Τμήματα/δευτερόλεπτο</org>
+        <en>\Segments/sec</en>
+    </counter>
+    <counter>
+        <org>\Πραγματοποιημένες συνδέσεις</org>
+        <en>\Connections Established</en>
+    </counter>
+    <counter>
+        <org>\Ενεργές συνδέσεις</org>
+        <en>\Connections Active</en>
+    </counter>
+    <counter>
+        <org>\Παθητικές συνδέσεις</org>
+        <en>\Connections Passive</en>
+    </counter>
+    <counter>
+        <org>\Αποτυχίες συνδέσεων</org>
+        <en>\Connection Failures</en>
+    </counter>
+    <counter>
+        <org>\Επαναφορές συνδέσεων</org>
+        <en>\Connections Reset</en>
+    </counter>
+    <counter>
+        <org>\Τμήματα λήψης/δευτερόλεπτο</org>
+        <en>\Segments Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Τμήματα αποστολής/δευτερόλεπτο</org>
+        <en>\Segments Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Τμήματα αναμετάδοσης/δευτερόλεπτο</org>
+        <en>\Segments Retransmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\% συνολικού χρόνου DPC</org>
+        <en>\% Total DPC Time</en>
+    </counter>
+    <counter>
+        <org>\% συνολικού χρόνου διακοπών</org>
+        <en>\% Total Interrupt Time</en>
+    </counter>
+    <counter>
+        <org>\Αυτοδύναμα πακέτα, καμία θύρα/δευτερόλεπτο</org>
+        <en>\Datagrams No Port/sec</en>
+    </counter>
+    <counter>
+        <org>\Λήψεις αυτοδύναμων πακέτων, σφάλματα</org>
+        <en>\Datagrams Received Errors</en>
+    </counter>
+    <counter>
+        <org>\Μονάδα χώρου αποθήκευσης δίσκου</org>
+        <en>\Disk Storage Unit</en>
+    </counter>
+    <counter>
+        <org>\Αποτυχίες εκχωρήσεων</org>
+        <en>\Allocation Failures</en>
+    </counter>
+    <counter>
+        <org>\Διάρκεια λειτουργίας συστήματος</org>
+        <en>\System Up Time</en>
+    </counter>
+    <counter>
+        <org>\Μέτρηση χειρισμού συστήματος</org>
+        <en>\System Handle Count</en>
+    </counter>
+    <counter>
+        <org>\Διαθέσιμες καταχωρήσεις πίνακα σελίδων συστήματος</org>
+        <en>\Free System Page Table Entries</en>
+    </counter>
+    <counter>
+        <org>\Πλήθος νημάτων</org>
+        <en>\Thread Count</en>
+    </counter>
+    <counter>
+        <org>\Βασική προτεραιότητα</org>
+        <en>\Priority Base</en>
+    </counter>
+    <counter>
+        <org>\Χρόνος που απαιτήθηκε</org>
+        <en>\Elapsed Time</en>
+    </counter>
+    <counter>
+        <org>\Διορθώσεις ευθυγράμμισης/δευτερόλεπτο</org>
+        <en>\Alignment Fixups/sec</en>
+    </counter>
+    <counter>
+        <org>\Αποσπάσεις εξαιρέσεων/δευτερόλεπτο</org>
+        <en>\Exception Dispatches/sec</en>
+    </counter>
+    <counter>
+        <org>\Εξομοιώσεις κινητής υποδιαστολής/δευτερόλεπτο</org>
+        <en>\Floating Emulations/sec</en>
+    </counter>
+    <counter>
+        <org>\Συνδέσεις/δευτερόλεπτο</org>
+        <en>\Logon/sec</en>
+    </counter>
+    <counter>
+        <org>\Τρέχουσα προτεραιότητα</org>
+        <en>\Priority Current</en>
+    </counter>
+    <counter>
+        <org>\% χρόνου DPC</org>
+        <en>\% DPC Time</en>
+    </counter>
+    <counter>
+        <org>\% χρόνου διακοπής</org>
+        <en>\% Interrupt Time</en>
+    </counter>
+    <counter>
+        <org>\Αρχείο σελιδοποίησης</org>
+        <en>\Paging File</en>
+    </counter>
+    <counter>
+        <org>\% χρήσης</org>
+        <en>\% Usage</en>
+    </counter>
+    <counter>
+        <org>\% μέγιστης χρήσης</org>
+        <en>\% Usage Peak</en>
+    </counter>
+    <counter>
+        <org>\Διεύθυνση εκκίνησης</org>
+        <en>\Start Address</en>
+    </counter>
+    <counter>
+        <org>\Υπολογιστής προγράμματος χρήστη</org>
+        <en>\User PC</en>
+    </counter>
+    <counter>
+        <org>\Χώρος απεικόνισης χωρίς πρόσβαση</org>
+        <en>\Mapped Space No Access</en>
+    </counter>
+    <counter>
+        <org>\Χώρος απεικόνισης μόνο για ανάγνωση</org>
+        <en>\Mapped Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\Χώρος απεικόνισης Ανάγνωσης/Εγγραφής</org>
+        <en>\Mapped Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Χώρος απεικόνισης αντίγραφου εγγραφής</org>
+        <en>\Mapped Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Χώρος απεικόνισης εκτελέσιμης μνήμης</org>
+        <en>\Mapped Space Executable</en>
+    </counter>
+    <counter>
+        <org>\Χώρος απεικόνισης μνήμης Μόνο Εκτέλεση/Ανάγνωση</org>
+        <en>\Mapped Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\Χώρος απεικόνισης μνήμης Εκτέλεση/Ανάγνωση/Εγγραφή</org>
+        <en>\Mapped Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Χώρος απεικόνισης μνήμης Εκτέλεση Αντιγράφου Εγγραφής</org>
+        <en>\Mapped Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Κατειλημμένος χώρος χωρίς πρόσβαση</org>
+        <en>\Reserved Space No Access</en>
+    </counter>
+    <counter>
+        <org>\Κατειλημμένος χώρος μόνο για ανάγνωση</org>
+        <en>\Reserved Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\Κατειλημμένος χώρος Ανάγνωσης/Εγγραφής</org>
+        <en>\Reserved Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Κατειλημμένος χώρος αντίγραφου εγγραφής</org>
+        <en>\Reserved Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Κατειλημμένος χώρος εκτελέσιμης μνήμης</org>
+        <en>\Reserved Space Executable</en>
+    </counter>
+    <counter>
+        <org>\Κατειλημμένος χώρος Μόνο Εκτέλεση/Ανάγνωση</org>
+        <en>\Reserved Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\Κατειλημμένος χώρος Εκτέλεση/Ανάγνωση/Εγγραφή</org>
+        <en>\Reserved Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Εικόνα</org>
+        <en>\Image</en>
+    </counter>
+    <counter>
+        <org>\Κατειλημμένος χώρος Εκτέλεση Αντιγράφου Εγγραφής</org>
+        <en>\Reserved Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Μη αντιστοιχίσιμος χώρος χωρίς πρόσβαση</org>
+        <en>\Unassigned Space No Access</en>
+    </counter>
+    <counter>
+        <org>\Μη αντιστοιχίσιμος χώρος μόνο για ανάγνωση</org>
+        <en>\Unassigned Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\Μη αντιστοιχίσιμος χώρος Ανάγνωσης/Εγγραφής</org>
+        <en>\Unassigned Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Μη αντιστοιχίσιμος χώρος αντίγραφου εγγραφής</org>
+        <en>\Unassigned Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Μη αντιστοιχίσιμος χώρος εκτελέσιμης μνήμης</org>
+        <en>\Unassigned Space Executable</en>
+    </counter>
+    <counter>
+        <org>\Μη αντιστοιχίσιμος χώρος Μόνο Εκτέλεση/Ανάγνωση</org>
+        <en>\Unassigned Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\Μη αντιστοιχίσιμος χώρος Εκτέλεση/Ανάγνωση/Εγγραφή</org>
+        <en>\Unassigned Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Μη αντιστοιχίσιμος χώρος Εκτέλεση Αντιγράφου Εγγραφής</org>
+        <en>\Unassigned Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Χώρος αναπαράστασης χωρίς πρόσβαση</org>
+        <en>\Image Space No Access</en>
+    </counter>
+    <counter>
+        <org>\Χώρος αναπαράστασης μόνο για ανάγνωση</org>
+        <en>\Image Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\Χώρος αναπαράστασης Ανάγνωσης/Εγγραφής</org>
+        <en>\Image Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Χώρος αναπαράστασης αντίγραφου εγγραφής</org>
+        <en>\Image Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Χώρος αναπαράστασης εκτελέσιμης μνήμης</org>
+        <en>\Image Space Executable</en>
+    </counter>
+    <counter>
+        <org>\Χώρος αναπαράστασης Μόνο Εκτέλεση/Ανάγνωση</org>
+        <en>\Image Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\Χώρος αναπαράστασης Εκτέλεση/Ανάγνωση/Εγγραφή</org>
+        <en>\Image Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Χώρος αναπαράστασης Εκτέλεση Αντιγράφου Εγγραφής</org>
+        <en>\Image Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Δεσμευμένα byte στοιχείου αναπαράστασης</org>
+        <en>\Bytes Image Reserved</en>
+    </counter>
+    <counter>
+        <org>\Ελεύθερα byte στοιχείου αναπαράστασης</org>
+        <en>\Bytes Image Free</en>
+    </counter>
+    <counter>
+        <org>\Δεσμευμένα byte</org>
+        <en>\Bytes Reserved</en>
+    </counter>
+    <counter>
+        <org>\Ελεύθερα byte</org>
+        <en>\Bytes Free</en>
+    </counter>
+    <counter>
+        <org>\Αναγνωριστικό διεργασίας</org>
+        <en>\ID Process</en>
+    </counter>
+    <counter>
+        <org>\Χώρος διευθύνσεων διεργασίας</org>
+        <en>\Process Address Space</en>
+    </counter>
+    <counter>
+        <org>\Καμία πρόσβαση</org>
+        <en>\No Access</en>
+    </counter>
+    <counter>
+        <org>\Μόνο για ανάγνωση</org>
+        <en>\Read Only</en>
+    </counter>
+    <counter>
+        <org>\Ανάγνωση/Εγγραφή</org>
+        <en>\Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Αντίγραφο εγγραφής</org>
+        <en>\Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Εκτελέσιμη</org>
+        <en>\Executable</en>
+    </counter>
+    <counter>
+        <org>\Μόνο Εκτέλεση/Ανάγνωση</org>
+        <en>\Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\Εκτέλεση/Ανάγνωση/Εγρραφή</org>
+        <en>\Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Εκτέλεση αντιγράφου Εγγραφής</org>
+        <en>\Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Αναγνωριστικό νήματος</org>
+        <en>\ID Thread</en>
+    </counter>
+    <counter>
+        <org>\Αποτυχημένες λήψεις mailslot</org>
+        <en>\Mailslot Receives Failed</en>
+    </counter>
+    <counter>
+        <org>\Αποτυχημένες εγγραφές mailslot</org>
+        <en>\Mailslot Writes Failed</en>
+    </counter>
+    <counter>
+        <org>\Ανοίγματα mailslot, απέτυχαν/δευτερόλεπτο</org>
+        <en>\Mailslot Opens Failed/sec</en>
+    </counter>
+    <counter>
+        <org>\Ανακοινώσεις διπλού Master</org>
+        <en>\Duplicate Master Announcements</en>
+    </counter>
+    <counter>
+        <org>\Μη έγκυρα αυτοδύναμα πακέτα/δευτερόλεπτο</org>
+        <en>\Illegal Datagrams/sec</en>
+    </counter>
+    <counter>
+        <org>\Λεπτομέρειες νήματος</org>
+        <en>\Thread Details</en>
+    </counter>
+    <counter>
+        <org>\Byte μνήμης cache</org>
+        <en>\Cache Bytes</en>
+    </counter>
+    <counter>
+        <org>\Μέγιστα byte μνήμης cache</org>
+        <en>\Cache Bytes Peak</en>
+    </counter>
+    <counter>
+        <org>\Εισαγωγές σελίδων/δευτερόλεπτο</org>
+        <en>\Pages Input/sec</en>
+    </counter>
+    <counter>
+        <org>\Σελίδες μετάβασης που αναθεωρήθηκαν/δευτερόλεπτο</org>
+        <en>\Transition Pages RePurposed/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte που μεταδόθηκαν</org>
+        <en>\Bytes Transmitted</en>
+    </counter>
+    <counter>
+        <org>\Byte που παραλήφθηκαν</org>
+        <en>\Bytes Received</en>
+    </counter>
+    <counter>
+        <org>\Πλαίσια μετάδοσης</org>
+        <en>\Frames Transmitted</en>
+    </counter>
+    <counter>
+        <org>\Πλαίσια λήψης</org>
+        <en>\Frames Received.</en>
+    </counter>
+    <counter>
+        <org>\Ποσοστό συμπίεσης μετάδοσης</org>
+        <en>\Percent Compression Out</en>
+    </counter>
+    <counter>
+        <org>\Ποσοστό συμπίεσης λήψης</org>
+        <en>\Percent Compression In</en>
+    </counter>
+    <counter>
+        <org>\Σφάλματα CRC</org>
+        <en>\CRC Errors</en>
+    </counter>
+    <counter>
+        <org>\Σφάλματα χρονικού ορίου</org>
+        <en>\Timeout Errors</en>
+    </counter>
+    <counter>
+        <org>\Σφάλματα σειριακής υπερχείλισης</org>
+        <en>\Serial Overrun Errors</en>
+    </counter>
+    <counter>
+        <org>\Σφάλματα στοίχισης</org>
+        <en>\Alignment Errors</en>
+    </counter>
+    <counter>
+        <org>\Σφάλματα υπέρβασης buffer</org>
+        <en>\Buffer Overrun Errors</en>
+    </counter>
+    <counter>
+        <org>\Συνολικά σφάλματα</org>
+        <en>\Total Errors</en>
+    </counter>
+    <counter>
+        <org>\Byte μετάδοσης/δευτερόλεπτο</org>
+        <en>\Bytes Transmitted/Sec</en>
+    </counter>
+    <counter>
+        <org>\Byte λήψης/δευτερόλεπτο</org>
+        <en>\Bytes Received/Sec</en>
+    </counter>
+    <counter>
+        <org>\Πλαίσια μετάδοσης/δευτερόλεπτο</org>
+        <en>\Frames Transmitted/Sec</en>
+    </counter>
+    <counter>
+        <org>\Πλαίσια λήψης/δευτερόλεπτο</org>
+        <en>\Frames Received/Sec</en>
+    </counter>
+    <counter>
+        <org>\Συνολικά σφάλματα/δευτερόλεπτο</org>
+        <en>\Total Errors/Sec</en>
+    </counter>
+    <counter>
+        <org>\Σύνολο συνδέσεων</org>
+        <en>\Total Connections</en>
+    </counter>
+    <counter>
+        <org>\Διακομιστής WINS</org>
+        <en>\WINS Server</en>
+    </counter>
+    <counter>
+        <org>\Ατομικές καταχωρήσεις/δευτερόλεπτο</org>
+        <en>\Unique Registrations/sec</en>
+    </counter>
+    <counter>
+        <org>\Ομαδικές καταχωρήσεις/δευτερόλεπτο</org>
+        <en>\Group Registrations/sec</en>
+    </counter>
+    <counter>
+        <org>\Συνολικός αριθμός καταχωρήσεων/δευτερόλεπτο</org>
+        <en>\Total Number of Registrations/sec</en>
+    </counter>
+    <counter>
+        <org>\Ατομικές ανανεώσεις/δευτερόλεπτο</org>
+        <en>\Unique Renewals/sec</en>
+    </counter>
+    <counter>
+        <org>\Ομαδικές ανανεώσεις/δευτερόλεπτο</org>
+        <en>\Group Renewals/sec</en>
+    </counter>
+    <counter>
+        <org>\Συνολικός αριθμός ανανεώσεων/δευτερόλεπτο</org>
+        <en>\Total Number of Renewals/sec</en>
+    </counter>
+    <counter>
+        <org>\Απελευθερώσεις/δευτερ.</org>
+        <en>\Releases/sec</en>
+    </counter>
+    <counter>
+        <org>\Ερωτήματα/δευτερόλεπτο</org>
+        <en>\Queries/sec</en>
+    </counter>
+    <counter>
+        <org>\Ατομικές διενέξεις/δευτερόλεπτο</org>
+        <en>\Unique Conflicts/sec</en>
+    </counter>
+    <counter>
+        <org>\Ομαδικές διενέξεις/δευτερόλεπτο</org>
+        <en>\Group Conflicts/sec</en>
+    </counter>
+    <counter>
+        <org>\Συνολικός αριθμός διενέξεων/δευτερόλεπτο</org>
+        <en>\Total Number of Conflicts/sec</en>
+    </counter>
+    <counter>
+        <org>\Επιτυχημένες απελευθερώσεις/δευτερόλεπτο</org>
+        <en>\Successful Releases/sec</en>
+    </counter>
+    <counter>
+        <org>\Αποτυχημένες απελευθερώσεις/δευτερόλεπτο</org>
+        <en>\Failed Releases/sec</en>
+    </counter>
+    <counter>
+        <org>\Επιτυχημένα ερωτήματα/δευτερόλεπτο</org>
+        <en>\Successful Queries/sec</en>
+    </counter>
+    <counter>
+        <org>\Αποτυχημένα ερωτήματα/δευτερόλεπτο</org>
+        <en>\Failed Queries/sec</en>
+    </counter>
+    <counter>
+        <org>\Μέτρηση δεικτών χειρισμού</org>
+        <en>\Handle Count</en>
+    </counter>
+    <counter>
+        <org>\Διακομιστής MacFile</org>
+        <en>\MacFile Server</en>
+    </counter>
+    <counter>
+        <org>\Μέγ. μέγεθος σελιδοποιημένης μνήμης</org>
+        <en>\Max Paged Memory</en>
+    </counter>
+    <counter>
+        <org>\Τρέχουσα σελιδοποιημένη μνήμη</org>
+        <en>\Current Paged Memory</en>
+    </counter>
+    <counter>
+        <org>\Μέγ. μέγεθος μη σελιδοποιημένης μνήμης</org>
+        <en>\Max NonPaged Memory</en>
+    </counter>
+    <counter>
+        <org>\Τρέχουσα μη σελιδοποιημένη μνήμη</org>
+        <en>\Current NonPaged memory</en>
+    </counter>
+    <counter>
+        <org>\Τρέχουσες περίοδοι</org>
+        <en>\Current Sessions</en>
+    </counter>
+    <counter>
+        <org>\Μέγ. αριθμός περιόδων</org>
+        <en>\Maximum Sessions</en>
+    </counter>
+    <counter>
+        <org>\Αρ. τρεχόντων ανοιχτών αρχείων</org>
+        <en>\Current Files Open</en>
+    </counter>
+    <counter>
+        <org>\Μέγ. αρ. ανοιχτών αρχείων</org>
+        <en>\Maximum Files Open</en>
+    </counter>
+    <counter>
+        <org>\Αποτυχημένες συνδέσεις</org>
+        <en>\Failed Logons</en>
+    </counter>
+    <counter>
+        <org>\Ανάγνωση δεδομένων/δευτερόλεπτο</org>
+        <en>\Data Read/sec</en>
+    </counter>
+    <counter>
+        <org>\Εγγραφή δεδομένων/δευτερόλεπτο</org>
+        <en>\Data Written/sec</en>
+    </counter>
+    <counter>
+        <org>\Λήψη δεδομένων/δευτερόλεπτο</org>
+        <en>\Data Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Μετάδοση δεδομένων/δευτερόλεπτο</org>
+        <en>\Data Transmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\Τρέχον μήκος ουράς</org>
+        <en>\Current Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Μέγιστο μήκος ουράς</org>
+        <en>\Maximum Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Τρέχοντα νήματα</org>
+        <en>\Current Threads</en>
+    </counter>
+    <counter>
+        <org>\Μέγ. αρ. νημάτων</org>
+        <en>\Maximum Threads</en>
+    </counter>
+    <counter>
+        <org>\Εισερχόμενα πακέτα/δευτερόλεπτο</org>
+        <en>\Packets In/sec</en>
+    </counter>
+    <counter>
+        <org>\Πακέτα μετάδοσης/δευτερόλεπτο</org>
+        <en>\Packets Out/sec</en>
+    </counter>
+    <counter>
+        <org>\Εισερχόμενα byte/δευτερόλεπτο</org>
+        <en>\Bytes In/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte μετάδοσης/δευτερόλεπτο</org>
+        <en>\Bytes Out/sec</en>
+    </counter>
+    <counter>
+        <org>\Μέσος όρος χρόνου/πακέτα DDP</org>
+        <en>\Average Time/DDP Packet</en>
+    </counter>
+    <counter>
+        <org>\Πακέτα DDP/δευτερόλεπτο</org>
+        <en>\DDP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Μέσος όρος χρόνου/πακέτα AARP</org>
+        <en>\Average Time/AARP Packet</en>
+    </counter>
+    <counter>
+        <org>\Πακέτα AARP/δευτερόλεπτο</org>
+        <en>\AARP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Μέσος όρος χρόνου/πακέτα ATP</org>
+        <en>\Average Time/ATP Packet</en>
+    </counter>
+    <counter>
+        <org>\Πακέτα ATP/δευτερόλεπτο</org>
+        <en>\ATP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Μέσος όρος χρόνου/πακέτα NBP</org>
+        <en>\Average Time/NBP Packet</en>
+    </counter>
+    <counter>
+        <org>\Πακέτα NBP/δευτερόλεπτο</org>
+        <en>\NBP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Μέσος όρος χρόνου/πακέτα ZIP</org>
+        <en>\Average Time/ZIP Packet</en>
+    </counter>
+    <counter>
+        <org>\Πακέτα ZIP/δευτερόλεπτο</org>
+        <en>\ZIP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Μέσος όρος χρόνου/πακέτα RTMP</org>
+        <en>\Average Time/RTMP Packet</en>
+    </counter>
+    <counter>
+        <org>\Πακέτα RTMP/δευτερόλεπτο</org>
+        <en>\RTMP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Επαναλήψεις τοπικών ATP</org>
+        <en>\ATP Retries Local</en>
+    </counter>
+    <counter>
+        <org>\Χρονικό όριο αναμονής αποκρίσεων ATP</org>
+        <en>\ATP Response Timouts</en>
+    </counter>
+    <counter>
+        <org>\Αποκρίσεις ATP XO/δευτερόλεπτο</org>
+        <en>\ATP XO Response/Sec</en>
+    </counter>
+    <counter>
+        <org>\Αποκρίσεις ATP ALO/δευτερόλεπτο</org>
+        <en>\ATP ALO Response/Sec</en>
+    </counter>
+    <counter>
+        <org>\Λήψεις αποκρίσεων ATP/δευτερόλεπτο</org>
+        <en>\ATP Recvd Release/Sec</en>
+    </counter>
+    <counter>
+        <org>\Τρέχουσα μη σελιδοποιημένη περιοχή</org>
+        <en>\Current NonPaged Pool</en>
+    </counter>
+    <counter>
+        <org>\Πακέτα εισερχόμενης δρομολόγησης/δευτερόλεπτο</org>
+        <en>\Packets Routed In/Sec</en>
+    </counter>
+    <counter>
+        <org>\Απορριπτέα πακέτα</org>
+        <en>\Packets dropped</en>
+    </counter>
+    <counter>
+        <org>\Επαναλήψεις απομακρυσμένων ATP</org>
+        <en>\ATP Retries Remote</en>
+    </counter>
+    <counter>
+        <org>\Πακέτα εξερχόμενης δρομολόγησης/δευτερόλεπτο</org>
+        <en>\Packets Routed Out/Sec</en>
+    </counter>
+    <counter>
+        <org>\Τμήμα δικτύου</org>
+        <en>\Network Segment</en>
+    </counter>
+    <counter>
+        <org>\Συνολικά πλαίσια λήψης/δευτερόλεπτο</org>
+        <en>\Total frames received/second</en>
+    </counter>
+    <counter>
+        <org>\Συνολικά byte λήψης/δευτερόλεπτο</org>
+        <en>\Total bytes received/second</en>
+    </counter>
+    <counter>
+        <org>\Πλαίσια εκπομπής λήψης/δευτερόλεπτο</org>
+        <en>\Broadcast frames received/second</en>
+    </counter>
+    <counter>
+        <org>\Πλαίσια πολλαπλής διανομής λήψης/δευτερόλεπτο</org>
+        <en>\Multicast frames received/second</en>
+    </counter>
+    <counter>
+        <org>\% χρήσης δικτύου</org>
+        <en>\% Network utilization</en>
+    </counter>
+    <counter>
+        <org>\% πλαισίων εκπομπής</org>
+        <en>\% Broadcast Frames</en>
+    </counter>
+    <counter>
+        <org>\% πλαισίων πολλαπλής διανομής</org>
+        <en>\% Multicast Frames</en>
+    </counter>
+    <counter>
+        <org>\Τηλεφωνία</org>
+        <en>\Telephony</en>
+    </counter>
+    <counter>
+        <org>\Γραμμές</org>
+        <en>\Lines</en>
+    </counter>
+    <counter>
+        <org>\Τηλεφωνικές συσκευές</org>
+        <en>\Telephone Devices</en>
+    </counter>
+    <counter>
+        <org>\Ενεργές γραμμές</org>
+        <en>\Active Lines</en>
+    </counter>
+    <counter>
+        <org>\Ενεργά τηλέφωνα</org>
+        <en>\Active Telephones</en>
+    </counter>
+    <counter>
+        <org>\Εξερχόμενες κλήσεις/δευτερόλεπτο</org>
+        <en>\Outgoing Calls/sec</en>
+    </counter>
+    <counter>
+        <org>\Εισερχόμενες κλήσεις/δευτερόλεπτο</org>
+        <en>\Incoming Calls/sec</en>
+    </counter>
+    <counter>
+        <org>\Εφαρμογές προγραμμάτων-πελατών</org>
+        <en>\Client Apps</en>
+    </counter>
+    <counter>
+        <org>\Τρέχουσες εξερχόμενες κλήσεις</org>
+        <en>\Current Outgoing Calls</en>
+    </counter>
+    <counter>
+        <org>\Τρέχουσες εισερχόμενες κλήσεις</org>
+        <en>\Current Incoming Calls</en>
+    </counter>
+    <counter>
+        <org>\Μέτρηση NCP ανάγνωσης καταιγισμού πακέτων/δευτερόλεπτο</org>
+        <en>\Packet Burst Read NCP Count/sec</en>
+    </counter>
+    <counter>
+        <org>\Αναμονή της ανάγνωσης καταιγισμού πακέτων/δευτερόλεπτο</org>
+        <en>\Packet Burst Read Timeouts/sec</en>
+    </counter>
+    <counter>
+        <org>\Μέτρηση NCP εγγραφής καταιγισμού πακέτων/δευτερόλεπτο</org>
+        <en>\Packet Burst Write NCP Count/sec</en>
+    </counter>
+    <counter>
+        <org>\Αναμονή της εγγραφής καταιγισμού πακέτων/δευτερόλεπτο</org>
+        <en>\Packet Burst Write Timeouts/sec</en>
+    </counter>
+    <counter>
+        <org>\Καταιγισμός πακέτων εισόδου-εξόδου/δευτερόλεπτο</org>
+        <en>\Packet Burst IO/sec</en>
+    </counter>
+    <counter>
+        <org>\Συνολικές συνδέσεις</org>
+        <en>\Logon Total</en>
+    </counter>
+    <counter>
+        <org>\Ουρά εργασιών διακομιστή</org>
+        <en>\Server Work Queues</en>
+    </counter>
+    <counter>
+        <org>\Μήκος ουράς</org>
+        <en>\Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Ενεργά νήματα</org>
+        <en>\Active Threads</en>
+    </counter>
+    <counter>
+        <org>\Διαθέσιμα νήματα</org>
+        <en>\Available Threads</en>
+    </counter>
+    <counter>
+        <org>\Διαθέσιμα αντικείμενα εργασίας</org>
+        <en>\Available Work Items</en>
+    </counter>
+    <counter>
+        <org>\Δανεικά αντικείμενα εργασίας</org>
+        <en>\Borrowed Work Items</en>
+    </counter>
+    <counter>
+        <org>\Ελλείψεις αντικειμένων εργασίας</org>
+        <en>\Work Item Shortages</en>
+    </counter>
+    <counter>
+        <org>\Τρέχοντα προγράμματα-πελάτες</org>
+        <en>\Current Clients</en>
+    </counter>
+    <counter>
+        <org>\Μετάδοση byte/δευτερόλεπτο</org>
+        <en>\Bytes Transferred/sec</en>
+    </counter>
+    <counter>
+        <org>\Ανάγνωση byte/δευτερόλεπτο</org>
+        <en>\Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Εγγραφή byte/δευτερόλεπτο</org>
+        <en>\Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Σύνολο λειτουργιών/δευτερόλεπτο</org>
+        <en>\Total Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\DPC σε ουρά/δευτερόλεπτο</org>
+        <en>\DPCs Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\Ταχύτητα DPC</org>
+        <en>\DPC Rate</en>
+    </counter>
+    <counter>
+        <org>\Συνολικές DPC σε ουρά/δευτερόλεπτο</org>
+        <en>\Total DPCs Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\Συνολική ταχύτητα DPC</org>
+        <en>\Total DPC Rate</en>
+    </counter>
+    <counter>
+        <org>\% χρήσης ποσοστού Μητρώου</org>
+        <en>\% Registry Quota In Use</en>
+    </counter>
+    <counter>
+        <org>\Μνήμη VL</org>
+        <en>\VL Memory</en>
+    </counter>
+    <counter>
+        <org>\% εικονικών διαστάσεων VLM σε χρήση</org>
+        <en>\VLM % Virtual Size In Use</en>
+    </counter>
+    <counter>
+        <org>\Εικονικό μέγεθος VLM</org>
+        <en>\VLM Virtual Size</en>
+    </counter>
+    <counter>
+        <org>\Μέγιστο εικονικό μέγεθος VLM</org>
+        <en>\VLM Virtual Size Peak</en>
+    </counter>
+    <counter>
+        <org>\Διαθέσιμο εικονικό μέγεθος VLM</org>
+        <en>\VLM Virtual Size Available</en>
+    </counter>
+    <counter>
+        <org>\Εκχώρηση μνήμης VLM</org>
+        <en>\VLM Commit Charge</en>
+    </counter>
+    <counter>
+        <org>\Όριο δεσμευμένης μνήμης VLM</org>
+        <en>\VLM Commit Charge Peak</en>
+    </counter>
+    <counter>
+        <org>\Δεσμευμένη μνήμη VLM συστήματος</org>
+        <en>\System VLM Commit Charge</en>
+    </counter>
+    <counter>
+        <org>\Όριο δεσμευμένης μνήμης VLM συστήματος</org>
+        <en>\System VLM Commit Charge Peak</en>
+    </counter>
+    <counter>
+        <org>\Όριο δεσμευμένης κοινόχρηστης μνήμης VLM συστήματος</org>
+        <en>\System VLM Shared Commit Charge</en>
+    </counter>
+    <counter>
+        <org>\Διαθέσιμα KB</org>
+        <en>\Available KBytes</en>
+    </counter>
+    <counter>
+        <org>\Διαθέσιμα MB</org>
+        <en>\Available MBytes</en>
+    </counter>
+    <counter>
+        <org>\Μέσος όρος μήκους ουράς δίσκου</org>
+        <en>\Avg. Disk Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Μέσος όρος μήκους ανάγνωσης ουράς δίσκου</org>
+        <en>\Avg. Disk Read Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Μέσος όρος μήκους εγγραφής ουράς δίσκου</org>
+        <en>\Avg. Disk Write Queue Length</en>
+    </counter>
+    <counter>
+        <org>\% χρήσης δεσμευμένων byte</org>
+        <en>\% Committed Bytes In Use</en>
+    </counter>
+    <counter>
+        <org>\Πλήρης εικόνα</org>
+        <en>\Full Image</en>
+    </counter>
+    <counter>
+        <org>\Δημιουργία αναγνωριστικού διεργασίας</org>
+        <en>\Creating Process ID</en>
+    </counter>
+    <counter>
+        <org>\Λειτουργίες ανάγνωσης IO/δευτερόλεπτο</org>
+        <en>\IO Read Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Λειτουργίες εγγραφής IO/δευτερόλεπτο</org>
+        <en>\IO Write Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Λειτουργίες δεδομένων IO/δευτερόλεπτο</org>
+        <en>\IO Data Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Άλλες λειτουργίες IO /δευτερόλεπτο</org>
+        <en>\IO Other Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte ανάγνωσης IO/δευτερόλεπτο</org>
+        <en>\IO Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte εγγραφής IO/δευτερόλεπτο</org>
+        <en>\IO Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte δεδομένων IO /δευτερόλεπτο</org>
+        <en>\IO Data Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Άλλα byte IO /δευτερόλεπτο</org>
+        <en>\IO Other Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Ουρά εκτυπώσεων</org>
+        <en>\Print Queue</en>
+    </counter>
+    <counter>
+        <org>\Σύνολο εργασιών εκτυπώσεων</org>
+        <en>\Total Jobs Printed</en>
+    </counter>
+    <counter>
+        <org>\Byte εκτύπωσης/δευτερόλεπτο</org>
+        <en>\Bytes Printed/sec</en>
+    </counter>
+    <counter>
+        <org>\Σύνολο εκτυπωμένων σελίδων</org>
+        <en>\Total Pages Printed</en>
+    </counter>
+    <counter>
+        <org>\Εργασίες</org>
+        <en>\Jobs</en>
+    </counter>
+    <counter>
+        <org>\Αναφορές</org>
+        <en>\References</en>
+    </counter>
+    <counter>
+        <org>\Μέγιστο πλήθος αναφορών</org>
+        <en>\Max References</en>
+    </counter>
+    <counter>
+        <org>\Εργασίες σε ουρά</org>
+        <en>\Jobs Spooling</en>
+    </counter>
+    <counter>
+        <org>\Μέγιστο πλήθος εργασιών σε ουρά</org>
+        <en>\Max Jobs Spooling</en>
+    </counter>
+    <counter>
+        <org>\Σφάλματα, τέλος χαρτιού εκτυπωτή</org>
+        <en>\Out of Paper Errors</en>
+    </counter>
+    <counter>
+        <org>\Σφάλματα, δεν προετοιμάστηκε</org>
+        <en>\Not Ready Errors</en>
+    </counter>
+    <counter>
+        <org>\Σφάλματα εργασιών</org>
+        <en>\Job Errors</en>
+    </counter>
+    <counter>
+        <org>\Απαρίθμηση κλήσεων προς τον εκτυπωτή δικτύου</org>
+        <en>\Enumerate Network Printer Calls</en>
+    </counter>
+    <counter>
+        <org>\Προσθήκη κλήσεων στον εκτυπωτή δικτύου</org>
+        <en>\Add Network Printer Calls</en>
+    </counter>
+    <counter>
+        <org>\Σύνολο εργασιών - ιδιωτικό</org>
+        <en>\Working Set - Private</en>
+    </counter>
+    <counter>
+        <org>\Σύνολο εργασιών - κοινόχρηστο</org>
+        <en>\Working Set - Shared</en>
+    </counter>
+    <counter>
+        <org>\% αδρανούς χρόνου</org>
+        <en>\% Idle Time</en>
+    </counter>
+    <counter>
+        <org>\Διαχωρισμός εισόδου-εξόδου/δευτερόλεπτο</org>
+        <en>\Split IO/Sec</en>
+    </counter>
+    <counter>
+        <org>\Αντικείμενο εργασίας</org>
+        <en>\Job Object</en>
+    </counter>
+    <counter>
+        <org>\Τρέχον % χρόνου επεξεργαστή</org>
+        <en>\Current % Processor Time</en>
+    </counter>
+    <counter>
+        <org>\Τρέχον % χρόνου λειτουργίας χρήστη</org>
+        <en>\Current % User Mode Time</en>
+    </counter>
+    <counter>
+        <org>\Τρέχον % χρόνου λειτουργίας πυρήνα</org>
+        <en>\Current % Kernel Mode Time</en>
+    </counter>
+    <counter>
+        <org>\Χιλιοστά δευτερολέπτου αυτής της περιόδου - επεξεργαστή</org>
+        <en>\This Period mSec - Processor</en>
+    </counter>
+    <counter>
+        <org>\Χιλιοστά δευτερολέπτου αυτής της περιόδου - λειτουργίας χρήστη</org>
+        <en>\This Period mSec - User Mode</en>
+    </counter>
+    <counter>
+        <org>\Χιλιοστά δευτερολέπτου αυτής της περιόδου - λειτουργίας πυρήνα</org>
+        <en>\This Period mSec - Kernel Mode</en>
+    </counter>
+    <counter>
+        <org>\Σελίδες/δευτερόλεπτο</org>
+        <en>\Pages/Sec</en>
+    </counter>
+    <counter>
+        <org>\Καταμέτρηση διεργασιών - Σύνολο</org>
+        <en>\Process Count - Total</en>
+    </counter>
+    <counter>
+        <org>\Καταμέτρηση διεργασιών - Ενεργοποιημένες</org>
+        <en>\Process Count - Active</en>
+    </counter>
+    <counter>
+        <org>\Καταμέτρηση διεργασιών - Τερματισμένες</org>
+        <en>\Process Count - Terminated</en>
+    </counter>
+    <counter>
+        <org>\Συνολικά χιλιοστά δευτερολέπτου - επεξεργαστή</org>
+        <en>\Total mSec - Processor</en>
+    </counter>
+    <counter>
+        <org>\Συνολικά χιλιοστά δευτερολέπτου - λειτουργίας χρήστη</org>
+        <en>\Total mSec - User Mode</en>
+    </counter>
+    <counter>
+        <org>\Συνολικά χιλιοστά δευτερολέπτου - λειτουργίας πυρήνα</org>
+        <en>\Total mSec - Kernel Mode</en>
+    </counter>
+    <counter>
+        <org>\Το πακέτο λήψης είναι πολύ μεγάλο</org>
+        <en>\Received Packet Too Big</en>
+    </counter>
+    <counter>
+        <org>\Ερώτημα ιδιότητας μέλους ληφθέντων</org>
+        <en>\Received Membership Query</en>
+    </counter>
+    <counter>
+        <org>\Αναφορά ιδιότητας μέλους ληφθέντων</org>
+        <en>\Received Membership Report</en>
+    </counter>
+    <counter>
+        <org>\Ακύρωση ιδιότητας μέλους ληφθέντων</org>
+        <en>\Received Membership Reduction</en>
+    </counter>
+    <counter>
+        <org>\Αίτημα για δρομολογητή από ληφθέντα</org>
+        <en>\Received Router Solicit</en>
+    </counter>
+    <counter>
+        <org>\Αναφορά σε δρομολογητή από ληφθέντα</org>
+        <en>\Received Router Advert</en>
+    </counter>
+    <counter>
+        <org>\Λεπτομέρειες αντικειμένου εργασίας</org>
+        <en>\Job Object Details</en>
+    </counter>
+    <counter>
+        <org>\Αίτημα σε γειτονικό από ληφθέντα</org>
+        <en>\Received Neighbor Solicit</en>
+    </counter>
+    <counter>
+        <org>\Αναφορά σε γειτονικό από ληφθέντα</org>
+        <en>\Received Neighbor Advert</en>
+    </counter>
+    <counter>
+        <org>\Το πακέτο αποστολής είναι πολύ μεγάλο</org>
+        <en>\Sent Packet Too Big</en>
+    </counter>
+    <counter>
+        <org>\Ερώτημα ιδιότητας μέλους απεσταλμένων</org>
+        <en>\Sent Membership Query</en>
+    </counter>
+    <counter>
+        <org>\Αναφορά ιδιότητας μέλους απεσταλμένων</org>
+        <en>\Sent Membership Report</en>
+    </counter>
+    <counter>
+        <org>\Ακύρωση ιδιότητας μέλους απεσταλμένων</org>
+        <en>\Sent Membership Reduction</en>
+    </counter>
+    <counter>
+        <org>\Αίτημα για δρομολογητή από απεσταλμένα</org>
+        <en>\Sent Router Solicit</en>
+    </counter>
+    <counter>
+        <org>\Αναφορά σε δρομολογητή από απεσταλμένα</org>
+        <en>\Sent Router Advert</en>
+    </counter>
+    <counter>
+        <org>\Αίτημα σε γειτονικό από απεσταλμένα</org>
+        <en>\Sent Neighbor Solicit</en>
+    </counter>
+    <counter>
+        <org>\Αναφορά σε γειτονικό από απεσταλμένα</org>
+        <en>\Sent Neighbor Advert</en>
+    </counter>
+    <counter>
+        <org>\Στατιστικά στοιχεία για ολόκληρο το σύστημα ασφαλείας</org>
+        <en>\Security System-Wide Statistics</en>
+    </counter>
+    <counter>
+        <org>\Έλεγχοι ταυτότητας NTLM</org>
+        <en>\NTLM Authentications</en>
+    </counter>
+    <counter>
+        <org>\Έλεγχοι ταυτότητας Kerberos</org>
+        <en>\Kerberos Authentications</en>
+    </counter>
+    <counter>
+        <org>\Αιτήσεις KDC AS</org>
+        <en>\KDC AS Requests</en>
+    </counter>
+    <counter>
+        <org>\Αιτήσεις KDC TGS</org>
+        <en>\KDC TGS Requests</en>
+    </counter>
+    <counter>
+        <org>\Καταχωρήσεις στην cache περιόδου λειτουργίας Schannel</org>
+        <en>\Schannel Session Cache Entries</en>
+    </counter>
+    <counter>
+        <org>\Καταχωρήσεις στην cache ενεργής περιόδου λειτουργίας Schannel</org>
+        <en>\Active Schannel Session Cache Entries</en>
+    </counter>
+    <counter>
+        <org>\Πλήρεις χειραψίες SSL προγράμματος-πελάτη</org>
+        <en>\SSL Client-Side Full Handshakes</en>
+    </counter>
+    <counter>
+        <org>\Χειραψίες επανασύνδεσης SSL προγράμματος-πελάτη</org>
+        <en>\SSL Client-Side Reconnect Handshakes</en>
+    </counter>
+    <counter>
+        <org>\Πλήρεις χειραψίες SSL διακομιστή</org>
+        <en>\SSL Server-Side Full Handshakes</en>
+    </counter>
+    <counter>
+        <org>\Χειραψίες επανασύνδεσης SSL διακομιστή</org>
+        <en>\SSL Server-Side Reconnect Handshakes</en>
+    </counter>
+    <counter>
+        <org>\Έλεγχοι ταυτότητας Digest</org>
+        <en>\Digest Authentications</en>
+    </counter>
+    <counter>
+        <org>\Στατιστικά στοιχεία ασφαλείας κατά διεργασία</org>
+        <en>\Security Per-Process Statistics</en>
+    </counter>
+    <counter>
+        <org>\Δείκτες χειρισμού πιστοποιήσεων</org>
+        <en>\Credential Handles</en>
+    </counter>
+    <counter>
+        <org>\Δείκτες χειρισμού περιβάλλοντος</org>
+        <en>\Context Handles</en>
+    </counter>
+    <counter>
+        <org>\Byte λίστας ελεύθερων &amp; μηδενικών σελίδων</org>
+        <en>\Free &amp; Zero Page List Bytes</en>
+    </counter>
+    <counter>
+        <org>\Byte λίστας τροποποιημένων σελίδων</org>
+        <en>\Modified Page List Bytes</en>
+    </counter>
+    <counter>
+        <org>\Byte κράτησης cache αναμονής</org>
+        <en>\Standby Cache Reserve Bytes</en>
+    </counter>
+    <counter>
+        <org>\Byte κανονικής προτεραιότητας cache αναμονής</org>
+        <en>\Standby Cache Normal Priority Bytes</en>
+    </counter>
+    <counter>
+        <org>\Byte πυρήνα cache αναμονής</org>
+        <en>\Standby Cache Core Bytes</en>
+    </counter>
+    <counter>
+        <org>\% αδρανούς χρόνου</org>
+        <en>\% Idle Time</en>
+    </counter>
+    <counter>
+        <org>\% C1 Χρόνος</org>
+        <en>\% C1 Time</en>
+    </counter>
+    <counter>
+        <org>\% C2 Χρόνος</org>
+        <en>\% C2 Time</en>
+    </counter>
+    <counter>
+        <org>\% C3 Χρόνος</org>
+        <en>\% C3 Time</en>
+    </counter>
+    <counter>
+        <org>\Δεσμευμένα byte</org>
+        <en>\Committed Bytes</en>
+    </counter>
+    <counter>
+        <org>\Εικονικά byte</org>
+        <en>\Virtual Bytes</en>
+    </counter>
+    <counter>
+        <org>\Δείκτης τέλους</org>
+        <en>\End Marker</en>
+    </counter>
+</Counters>

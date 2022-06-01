@@ -1,0 +1,2471 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Counters>
+    <counter>
+        <org>\Minne</org>
+        <en>\Memory</en>
+    </counter>
+    <counter>
+        <org>\% Prosessortid</org>
+        <en>\% Processor Time</en>
+    </counter>
+    <counter>
+        <org>\Lesing av fil/sek</org>
+        <en>\File Read Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Skriving til fil/sek</org>
+        <en>\File Write Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Kontrolloperasjoner på fil/sek</org>
+        <en>\File Control Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Leste byte fra fil/sek</org>
+        <en>\File Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Skrevne byte til fil/sek</org>
+        <en>\File Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte i kontrolloperasjoner på fil/sek</org>
+        <en>\File Control Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Tilgjengelige byte</org>
+        <en>\Available Bytes</en>
+    </counter>
+    <counter>
+        <org>\Tildelte byte</org>
+        <en>\Committed Bytes</en>
+    </counter>
+    <counter>
+        <org>\Sidefeil/sek</org>
+        <en>\Page Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\Tildelingsgrense</org>
+        <en>\Commit Limit</en>
+    </counter>
+    <counter>
+        <org>\Skrevne kopier/sek</org>
+        <en>\Write Copies/sec</en>
+    </counter>
+    <counter>
+        <org>\Overgangsfeil/sek</org>
+        <en>\Transition Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\Hurtigbufferfeil/sek</org>
+        <en>\Cache Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\Krev blanke-feil/sek</org>
+        <en>\Demand Zero Faults/sec</en>
+    </counter>
+    <counter>
+        <org>\Sider/sek</org>
+        <en>\Pages/sec</en>
+    </counter>
+    <counter>
+        <org>\Leste sider/sek</org>
+        <en>\Page Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Kølengde for prosessor</org>
+        <en>\Processor Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Trådtilstand</org>
+        <en>\Thread State</en>
+    </counter>
+    <counter>
+        <org>\Skrevne sider/sek</org>
+        <en>\Pages Output/sec</en>
+    </counter>
+    <counter>
+        <org>\Sideskrivinger/sek</org>
+        <en>\Page Writes/sec</en>
+    </counter>
+    <counter>
+        <org>\Søker</org>
+        <en>\Browser</en>
+    </counter>
+    <counter>
+        <org>\Servermeldinger/sek</org>
+        <en>\Announcements Server/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte i vekslebart minne</org>
+        <en>\Pool Paged Bytes</en>
+    </counter>
+    <counter>
+        <org>\Byte i ikke-vekslebart minne</org>
+        <en>\Pool Nonpaged Bytes</en>
+    </counter>
+    <counter>
+        <org>\Tildelinger av vekslebart minne</org>
+        <en>\Pool Paged Allocs</en>
+    </counter>
+    <counter>
+        <org>\Tildelinger av ikke-vekslebart minne</org>
+        <en>\Pool Nonpaged Allocs</en>
+    </counter>
+    <counter>
+        <org>\Faste byte i vekslebart minne</org>
+        <en>\Pool Paged Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\Totalt antall byte i systemkoden</org>
+        <en>\System Code Total Bytes</en>
+    </counter>
+    <counter>
+        <org>\Faste byte i systemkoden</org>
+        <en>\System Code Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\Totalt antall byte i systemdriveren</org>
+        <en>\System Driver Total Bytes</en>
+    </counter>
+    <counter>
+        <org>\Faste byte i systemdriveren</org>
+        <en>\System Driver Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\Faste byte i systemhurtigbufferen</org>
+        <en>\System Cache Resident Bytes</en>
+    </counter>
+    <counter>
+        <org>\Domenemeldinger/sek</org>
+        <en>\Announcements Domain/sec</en>
+    </counter>
+    <counter>
+        <org>\Utvalgspakker/sek</org>
+        <en>\Election Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Antall Mail/sek</org>
+        <en>\Mailslot Writes/sec</en>
+    </counter>
+    <counter>
+        <org>\Forespørsel om serverliste/sek</org>
+        <en>\Server List Requests/sec</en>
+    </counter>
+    <counter>
+        <org>\Hurtigbuffer</org>
+        <en>\Cache</en>
+    </counter>
+    <counter>
+        <org>\Avbildninger/sek</org>
+        <en>\Data Maps/sec</en>
+    </counter>
+    <counter>
+        <org>\Synkrone avbildninger/sek</org>
+        <en>\Sync Data Maps/sec</en>
+    </counter>
+    <counter>
+        <org>\Asynkrone avbildninger/sek</org>
+        <en>\Async Data Maps/sec</en>
+    </counter>
+    <counter>
+        <org>\Dataadresseringstreff %</org>
+        <en>\Data Map Hits %</en>
+    </counter>
+    <counter>
+        <org>\Dataadresselåser/sek</org>
+        <en>\Data Map Pins/sec</en>
+    </counter>
+    <counter>
+        <org>\Leseoperasjoner med låsing/sek</org>
+        <en>\Pin Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Synkrone leseoperasjoner med låsing/sek</org>
+        <en>\Sync Pin Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Asynkrone leseoperasjoner med låsing/sek</org>
+        <en>\Async Pin Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Leseoperasjoner med låsing og hurtigbuffertreff %</org>
+        <en>\Pin Read Hits %</en>
+    </counter>
+    <counter>
+        <org>\Leseoperasjoner med kopiering/sek</org>
+        <en>\Copy Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Synkrone leseoperasjoner med kopiering/sek</org>
+        <en>\Sync Copy Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Asynkrone leseoperasjoner med kopiering/sek</org>
+        <en>\Async Copy Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Leseoperasjoner med kopiering og hurtigbuffertreff %</org>
+        <en>\Copy Read Hits %</en>
+    </counter>
+    <counter>
+        <org>\MDL-leseoperasjoner/sek</org>
+        <en>\MDL Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Synkrone MDL-leseoperasjoner/sek</org>
+        <en>\Sync MDL Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Asynkrone MDL-leseoperasjoner/sek</org>
+        <en>\Async MDL Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\MDL-leseoperasjoner med treff i hurtigbuffer %</org>
+        <en>\MDL Read Hits %</en>
+    </counter>
+    <counter>
+        <org>\Foroverlesninger/sek</org>
+        <en>\Read Aheads/sec</en>
+    </counter>
+    <counter>
+        <org>\Hurtiglesninger/sek</org>
+        <en>\Fast Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Synkrone hurtiglesninger/sek</org>
+        <en>\Sync Fast Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Asynkrone hurtiglesninger/sek</org>
+        <en>\Async Fast Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Ressursmangler under hurtiglesninger/sek</org>
+        <en>\Fast Read Resource Misses/sec</en>
+    </counter>
+    <counter>
+        <org>\Umulige direktelesninger/sek</org>
+        <en>\Fast Read Not Possibles/sec</en>
+    </counter>
+    <counter>
+        <org>\Rasjonell skriving/sek</org>
+        <en>\Lazy Write Flushes/sec</en>
+    </counter>
+    <counter>
+        <org>\Rasjonell sideskriving/sek</org>
+        <en>\Lazy Write Pages/sec</en>
+    </counter>
+    <counter>
+        <org>\Dataskrivinger/sek</org>
+        <en>\Data Flushes/sec</en>
+    </counter>
+    <counter>
+        <org>\Sideskrivinger</org>
+        <en>\Data Flush Pages/sec</en>
+    </counter>
+    <counter>
+        <org>\% Brukermodustid</org>
+        <en>\% User Time</en>
+    </counter>
+    <counter>
+        <org>\% Systemmodustid</org>
+        <en>\% Privileged Time</en>
+    </counter>
+    <counter>
+        <org>\Kontekstvekslinger/sek</org>
+        <en>\Context Switches/sec</en>
+    </counter>
+    <counter>
+        <org>\Avbrudd/sek</org>
+        <en>\Interrupts/sec</en>
+    </counter>
+    <counter>
+        <org>\Systemkall/sek</org>
+        <en>\System Calls/sec</en>
+    </counter>
+    <counter>
+        <org>\Nivå 1 TLB inndata/sek</org>
+        <en>\Level 1 TLB Fills/sec</en>
+    </counter>
+    <counter>
+        <org>\Nivå 2 TLB inndata/sek</org>
+        <en>\Level 2 TLB Fills/sec</en>
+    </counter>
+    <counter>
+        <org>\Antall serverforespørsler/sek</org>
+        <en>\Enumerations Server/sec</en>
+    </counter>
+    <counter>
+        <org>\Antall domeneforespørsler/sek</org>
+        <en>\Enumerations Domain/sec</en>
+    </counter>
+    <counter>
+        <org>\Antall andre forespørsler/sek</org>
+        <en>\Enumerations Other/sec</en>
+    </counter>
+    <counter>
+        <org>\Manglende servermeldinger</org>
+        <en>\Missed Server Announcements</en>
+    </counter>
+    <counter>
+        <org>\Manglende Mail-datagrammer</org>
+        <en>\Missed Mailslot Datagrams</en>
+    </counter>
+    <counter>
+        <org>\Manglende forespørsler om serverliste</org>
+        <en>\Missed Server List Requests</en>
+    </counter>
+    <counter>
+        <org>\Mislykket meldingstildeling på server/sek</org>
+        <en>\Server Announce Allocations Failed/sec</en>
+    </counter>
+    <counter>
+        <org>\Mislykkede mailslot-tildelinger</org>
+        <en>\Mailslot Allocations Failed</en>
+    </counter>
+    <counter>
+        <org>\Høyeste antall byte i virtuelle minne</org>
+        <en>\Virtual Bytes Peak</en>
+    </counter>
+    <counter>
+        <org>\Byte i virtuelt minne</org>
+        <en>\Virtual Bytes</en>
+    </counter>
+    <counter>
+        <org>\Største aktive sidemengde</org>
+        <en>\Working Set Peak</en>
+    </counter>
+    <counter>
+        <org>\Aktiv sidemengde</org>
+        <en>\Working Set</en>
+    </counter>
+    <counter>
+        <org>\Høyeste antall byte i sidevekslingsfil</org>
+        <en>\Page File Bytes Peak</en>
+    </counter>
+    <counter>
+        <org>\Byte i sidevekslingsfil</org>
+        <en>\Page File Bytes</en>
+    </counter>
+    <counter>
+        <org>\Private byte</org>
+        <en>\Private Bytes</en>
+    </counter>
+    <counter>
+        <org>\Antall meldinger/sek</org>
+        <en>\Announcements Total/sec</en>
+    </counter>
+    <counter>
+        <org>\Totalt antall/sek</org>
+        <en>\Enumerations Total/sec</en>
+    </counter>
+    <counter>
+        <org>\Gjeldende lengde på diskkø</org>
+        <en>\Current Disk Queue Length</en>
+    </counter>
+    <counter>
+        <org>\% Disktid</org>
+        <en>\% Disk Time</en>
+    </counter>
+    <counter>
+        <org>\% Disklesetid</org>
+        <en>\% Disk Read Time</en>
+    </counter>
+    <counter>
+        <org>\% Diskskrivetid</org>
+        <en>\% Disk Write Time</en>
+    </counter>
+    <counter>
+        <org>\Gj.snitt. disk sek./overføring</org>
+        <en>\Avg. Disk sec/Transfer</en>
+    </counter>
+    <counter>
+        <org>\Gj.snitt disk sek./Lesing</org>
+        <en>\Avg. Disk sec/Read</en>
+    </counter>
+    <counter>
+        <org>\Gj.snitt disk sek./Skriving</org>
+        <en>\Avg. Disk sec/Write</en>
+    </counter>
+    <counter>
+        <org>\Diskoverføringer/sek</org>
+        <en>\Disk Transfers/sec</en>
+    </counter>
+    <counter>
+        <org>\Disklesinger/sek</org>
+        <en>\Disk Reads/sec</en>
+    </counter>
+    <counter>
+        <org>\Diskskrivinger/sek</org>
+        <en>\Disk Writes/sec</en>
+    </counter>
+    <counter>
+        <org>\Diskbyte/sek</org>
+        <en>\Disk Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Leste diskbyte/sek</org>
+        <en>\Disk Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Skrevne diskbyte/sek</org>
+        <en>\Disk Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Gj.snitt. diskbyte/overføring</org>
+        <en>\Avg. Disk Bytes/Transfer</en>
+    </counter>
+    <counter>
+        <org>\Gj.snitt. diskbyte/leseoperasjoner</org>
+        <en>\Avg. Disk Bytes/Read</en>
+    </counter>
+    <counter>
+        <org>\Gj.snitt. diskbyte/skriveoperasjon</org>
+        <en>\Avg. Disk Bytes/Write</en>
+    </counter>
+    <counter>
+        <org>\Prosess</org>
+        <en>\Process</en>
+    </counter>
+    <counter>
+        <org>\Tråd</org>
+        <en>\Thread</en>
+    </counter>
+    <counter>
+        <org>\Fysisk disk</org>
+        <en>\PhysicalDisk</en>
+    </counter>
+    <counter>
+        <org>\Logisk disk</org>
+        <en>\LogicalDisk</en>
+    </counter>
+    <counter>
+        <org>\Prosessor</org>
+        <en>\Processor</en>
+    </counter>
+    <counter>
+        <org>\% Total prosessortid</org>
+        <en>\% Total Processor Time</en>
+    </counter>
+    <counter>
+        <org>\% Total brukemodustid</org>
+        <en>\% Total User Time</en>
+    </counter>
+    <counter>
+        <org>\% Total systemmodustid</org>
+        <en>\% Total Privileged Time</en>
+    </counter>
+    <counter>
+        <org>\Totalt antall avbrudd/sek</org>
+        <en>\Total Interrupts/sec</en>
+    </counter>
+    <counter>
+        <org>\Prosesser</org>
+        <en>\Processes</en>
+    </counter>
+    <counter>
+        <org>\Tråder</org>
+        <en>\Threads</en>
+    </counter>
+    <counter>
+        <org>\Hendelser</org>
+        <en>\Events</en>
+    </counter>
+    <counter>
+        <org>\Semaforer</org>
+        <en>\Semaphores</en>
+    </counter>
+    <counter>
+        <org>\Mutexer</org>
+        <en>\Mutexes</en>
+    </counter>
+    <counter>
+        <org>\Seksjoner</org>
+        <en>\Sections</en>
+    </counter>
+    <counter>
+        <org>\Objekter</org>
+        <en>\Objects</en>
+    </counter>
+    <counter>
+        <org>\Omadresserer</org>
+        <en>\Redirector</en>
+    </counter>
+    <counter>
+        <org>\Mottatte byte / sek</org>
+        <en>\Bytes Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Mottatte pakker / sek</org>
+        <en>\Packets Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Leste byte ved sideavbrudd/sek</org>
+        <en>\Read Bytes Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\Leste byte utenom sideavbrudd/sek</org>
+        <en>\Read Bytes Non-Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\Leste hurtigbufferbyte/sek</org>
+        <en>\Read Bytes Cache/sec</en>
+    </counter>
+    <counter>
+        <org>\Leste byte over nettverket/sek</org>
+        <en>\Read Bytes Network/sec</en>
+    </counter>
+    <counter>
+        <org>\Sendte byte / sek</org>
+        <en>\Bytes Transmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\Overførte pakker / sek</org>
+        <en>\Packets Transmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\Skrevne byte ved sideveksling/sek</org>
+        <en>\Write Bytes Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\Skrevne byte utenom sideveksling/sek</org>
+        <en>\Write Bytes Non-Paging/sec</en>
+    </counter>
+    <counter>
+        <org>\Skrevne hurtigbufferbyte/sek</org>
+        <en>\Write Bytes Cache/sec</en>
+    </counter>
+    <counter>
+        <org>\Skrevne byte til nettverket/sek</org>
+        <en>\Write Bytes Network/sec</en>
+    </counter>
+    <counter>
+        <org>\Leseoperasjoner på fil/sek</org>
+        <en>\Read Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Ikke-sekvensielle leseoperasjoner/sek</org>
+        <en>\Read Operations Random/sec</en>
+    </counter>
+    <counter>
+        <org>\Pakker lest/sek</org>
+        <en>\Read Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Store leseoperasjoner/sek</org>
+        <en>\Reads Large/sec</en>
+    </counter>
+    <counter>
+        <org>\Små leseoperasjoner/sek</org>
+        <en>\Read Packets Small/sec</en>
+    </counter>
+    <counter>
+        <org>\Skriveoperasjoner/sek</org>
+        <en>\Write Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\Ikke-sekvensielle skrivinger/sekund</org>
+        <en>\Write Operations Random/sec</en>
+    </counter>
+    <counter>
+        <org>\Skrivepakker/sek</org>
+        <en>\Write Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Store skrivepakker/sek</org>
+        <en>\Writes Large/sec</en>
+    </counter>
+    <counter>
+        <org>\Små skrivepakker/sek</org>
+        <en>\Write Packets Small/sec</en>
+    </counter>
+    <counter>
+        <org>\Avslag på lesing/sek</org>
+        <en>\Reads Denied/sec</en>
+    </counter>
+    <counter>
+        <org>\Avslag på skriving/sek</org>
+        <en>\Writes Denied/sec</en>
+    </counter>
+    <counter>
+        <org>\Nettverksfeil/sek</org>
+        <en>\Network Errors/sec</en>
+    </counter>
+    <counter>
+        <org>\Serverøkter</org>
+        <en>\Server Sessions</en>
+    </counter>
+    <counter>
+        <org>\Gjentilkoblinger</org>
+        <en>\Server Reconnects</en>
+    </counter>
+    <counter>
+        <org>\Kjernetilkoblinger</org>
+        <en>\Connects Core</en>
+    </counter>
+    <counter>
+        <org>\LANMan 2.0-tilkoblinger</org>
+        <en>\Connects Lan Manager 2.0</en>
+    </counter>
+    <counter>
+        <org>\LANMan 2.1-tilkoblinger</org>
+        <en>\Connects Lan Manager 2.1</en>
+    </counter>
+    <counter>
+        <org>\Windows NT-tilkoblinger</org>
+        <en>\Connects Windows NT</en>
+    </counter>
+    <counter>
+        <org>\Serverfrakoblinger</org>
+        <en>\Server Disconnects</en>
+    </counter>
+    <counter>
+        <org>\Hengende økter</org>
+        <en>\Server Sessions Hung</en>
+    </counter>
+    <counter>
+        <org>\Venteårsak for tråd</org>
+        <en>\Thread Wait Reason</en>
+    </counter>
+    <counter>
+        <org>\Tidsavbrutte økter</org>
+        <en>\Sessions Timed Out</en>
+    </counter>
+    <counter>
+        <org>\Feilutkoblede økter</org>
+        <en>\Sessions Errored Out</en>
+    </counter>
+    <counter>
+        <org>\Avloggede økter</org>
+        <en>\Sessions Logged Off</en>
+    </counter>
+    <counter>
+        <org>\Tvangsavloggede økter</org>
+        <en>\Sessions Forced Off</en>
+    </counter>
+    <counter>
+        <org>\Påloggingsfeil</org>
+        <en>\Errors Logon</en>
+    </counter>
+    <counter>
+        <org>\Feil med tilgangstillatelser</org>
+        <en>\Errors Access Permissions</en>
+    </counter>
+    <counter>
+        <org>\Feil med gitt tilgang</org>
+        <en>\Errors Granted Access</en>
+    </counter>
+    <counter>
+        <org>\Systemfeil</org>
+        <en>\Errors System</en>
+    </counter>
+    <counter>
+        <org>\Avslåtte blokkeringsforespørsler</org>
+        <en>\Blocking Requests Rejected</en>
+    </counter>
+    <counter>
+        <org>\Arbeidselementmangler</org>
+        <en>\Work Item Shortages</en>
+    </counter>
+    <counter>
+        <org>\Åpne filer totalt</org>
+        <en>\Files Opened Total</en>
+    </counter>
+    <counter>
+        <org>\Åpne filer</org>
+        <en>\Files Open</en>
+    </counter>
+    <counter>
+        <org>\Filmappesøk</org>
+        <en>\File Directory Searches</en>
+    </counter>
+    <counter>
+        <org>\Feil under tilordning av ikke-vekslebart minne</org>
+        <en>\Pool Nonpaged Failures</en>
+    </counter>
+    <counter>
+        <org>\Største bruk av ikke-vekslebart minne</org>
+        <en>\Pool Nonpaged Peak</en>
+    </counter>
+    <counter>
+        <org>\Feil under tilordning av vekslebart minne</org>
+        <en>\Pool Paged Failures</en>
+    </counter>
+    <counter>
+        <org>\Største bruk av vekslebart minne</org>
+        <en>\Pool Paged Peak</en>
+    </counter>
+    <counter>
+        <org>\Antall byte/sek</org>
+        <en>\Bytes Total/sec</en>
+    </counter>
+    <counter>
+        <org>\Gjeldende kommandoer</org>
+        <en>\Current Commands</en>
+    </counter>
+    <counter>
+        <org>\Pakker/sek</org>
+        <en>\Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Ventende omgivelsesblokker/sek.</org>
+        <en>\Context Blocks Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\Fildataoperasjoner/sek</org>
+        <en>\File Data Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\% ledig plass</org>
+        <en>\% Free Space</en>
+    </counter>
+    <counter>
+        <org>\Ledige megabyte</org>
+        <en>\Free Megabytes</en>
+    </counter>
+    <counter>
+        <org>\Åpne tilkoblinger</org>
+        <en>\Connections Open</en>
+    </counter>
+    <counter>
+        <org>\Tilkoblinger ved første forsøk</org>
+        <en>\Connections No Retries</en>
+    </counter>
+    <counter>
+        <org>\Tilkoblinger etter gjentatte forsøk</org>
+        <en>\Connections With Retries</en>
+    </counter>
+    <counter>
+        <org>\Lokale frakoblinger</org>
+        <en>\Disconnects Local</en>
+    </counter>
+    <counter>
+        <org>\Eksterne frakoblinger</org>
+        <en>\Disconnects Remote</en>
+    </counter>
+    <counter>
+        <org>\Kabelfeil</org>
+        <en>\Failures Link</en>
+    </counter>
+    <counter>
+        <org>\Kortfeil</org>
+        <en>\Failures Adapter</en>
+    </counter>
+    <counter>
+        <org>\Tidsavbrutte økter</org>
+        <en>\Connection Session Timeouts</en>
+    </counter>
+    <counter>
+        <org>\Slettede tilkoblinger</org>
+        <en>\Connections Canceled</en>
+    </counter>
+    <counter>
+        <org>\Ekstern ressursfeil</org>
+        <en>\Failures Resource Remote</en>
+    </counter>
+    <counter>
+        <org>\Lokal ressursfeil</org>
+        <en>\Failures Resource Local</en>
+    </counter>
+    <counter>
+        <org>\Ingen feil funnet</org>
+        <en>\Failures Not Found</en>
+    </counter>
+    <counter>
+        <org>\Datamaskinen lytter ikke</org>
+        <en>\Failures No Listen</en>
+    </counter>
+    <counter>
+        <org>\Datagram/sek</org>
+        <en>\Datagrams/sec</en>
+    </counter>
+    <counter>
+        <org>\Datagrambyte/sek</org>
+        <en>\Datagram Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Datagram sendt/sek</org>
+        <en>\Datagrams Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Datagrambyte sendt/sek</org>
+        <en>\Datagram Bytes Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Datagram mottatt/sek</org>
+        <en>\Datagrams Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Datagrambyte mottatt/sek</org>
+        <en>\Datagram Bytes Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Pakker sendt/sek</org>
+        <en>\Packets Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Rammer/sek</org>
+        <en>\Frames/sec</en>
+    </counter>
+    <counter>
+        <org>\Rammebyte/sek</org>
+        <en>\Frame Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Rammer sendt/sek</org>
+        <en>\Frames Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Rammebyte sendt/sek</org>
+        <en>\Frame Bytes Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Rammer mottatt/sek</org>
+        <en>\Frames Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Rammebyte mottatt/sek</org>
+        <en>\Frame Bytes Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Rammer sendt på nytt/sek</org>
+        <en>\Frames Re-Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Rammebyte sendt på nytt/sek</org>
+        <en>\Frame Bytes Re-Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Rammer forkastet/sek</org>
+        <en>\Frames Rejected/sec</en>
+    </counter>
+    <counter>
+        <org>\Rammebyte forkastet/sek</org>
+        <en>\Frame Bytes Rejected/sec</en>
+    </counter>
+    <counter>
+        <org>\Forfallstid for respons</org>
+        <en>\Expirations Response</en>
+    </counter>
+    <counter>
+        <org>\Forfallstid for bekreftelses (Ack)</org>
+        <en>\Expirations Ack</en>
+    </counter>
+    <counter>
+        <org>\Maksimalt sendevindu</org>
+        <en>\Window Send Maximum</en>
+    </counter>
+    <counter>
+        <org>\Gjennomsnittlig sendevindu</org>
+        <en>\Window Send Average</en>
+    </counter>
+    <counter>
+        <org>\Påhengt bekreftelse i kø/sek</org>
+        <en>\Piggyback Ack Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\Tidsavbrutt påhengt bekreftelse</org>
+        <en>\Piggyback Ack Timeouts</en>
+    </counter>
+    <counter>
+        <org>\NetBEUI-ressurs</org>
+        <en>\NetBEUI Resource</en>
+    </counter>
+    <counter>
+        <org>\Maksimalt bruk</org>
+        <en>\Used Maximum</en>
+    </counter>
+    <counter>
+        <org>\Gjennomsnittlig bruk</org>
+        <en>\Used Average</en>
+    </counter>
+    <counter>
+        <org>\Antall ganger oppbrukt</org>
+        <en>\Times Exhausted</en>
+    </counter>
+    <counter>
+        <org>\NBT-koblingsobjekttype</org>
+        <en>\NBT Connection</en>
+    </counter>
+    <counter>
+        <org>\Sendte byte / sek</org>
+        <en>\Bytes Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Totalt antall byte/sek</org>
+        <en>\Total Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Nettverksgrensesnitt</org>
+        <en>\Network Interface</en>
+    </counter>
+    <counter>
+        <org>\Byte per sekund</org>
+        <en>\Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Gjeldende båndbredde</org>
+        <en>\Current Bandwidth</en>
+    </counter>
+    <counter>
+        <org>\Unikastpakker mottatt/sek</org>
+        <en>\Packets Received Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\Ikke-unikastpakker mottatt/sek</org>
+        <en>\Packets Received Non-Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\Forkastede, inngående pakker</org>
+        <en>\Packets Received Discarded</en>
+    </counter>
+    <counter>
+        <org>\Mottatte pakker med feil</org>
+        <en>\Packets Received Errors</en>
+    </counter>
+    <counter>
+        <org>\Pakker med ukjent protokoll</org>
+        <en>\Packets Received Unknown</en>
+    </counter>
+    <counter>
+        <org>\Unikastpakker sendt/sek</org>
+        <en>\Packets Sent Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\Ikke-unikastpakker sendt/sek</org>
+        <en>\Packets Sent Non-Unicast/sec</en>
+    </counter>
+    <counter>
+        <org>\Forkastede, utgående pakker</org>
+        <en>\Packets Outbound Discarded</en>
+    </counter>
+    <counter>
+        <org>\Utgående pakker med feil</org>
+        <en>\Packets Outbound Errors</en>
+    </counter>
+    <counter>
+        <org>\Kø for utgående pakker</org>
+        <en>\Output Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Mottatte datagram med pakkehodefeil</org>
+        <en>\Datagrams Received Header Errors</en>
+    </counter>
+    <counter>
+        <org>\Mottatte datagram med adressefeil</org>
+        <en>\Datagrams Received Address Errors</en>
+    </counter>
+    <counter>
+        <org>\Videresendte datagram/sek</org>
+        <en>\Datagrams Forwarded/sec</en>
+    </counter>
+    <counter>
+        <org>\Mottatte datagram med ukjent protokoll</org>
+        <en>\Datagrams Received Unknown Protocol</en>
+    </counter>
+    <counter>
+        <org>\Forkastede, inngående datagram</org>
+        <en>\Datagrams Received Discarded</en>
+    </counter>
+    <counter>
+        <org>\Overleverte, inngående datagram/sek</org>
+        <en>\Datagrams Received Delivered/sec</en>
+    </counter>
+    <counter>
+        <org>\Forkastede, utgående datagram</org>
+        <en>\Datagrams Outbound Discarded</en>
+    </counter>
+    <counter>
+        <org>\Utgående datagram uten rute</org>
+        <en>\Datagrams Outbound No Route</en>
+    </counter>
+    <counter>
+        <org>\Fragmenter mottatt/sek</org>
+        <en>\Fragments Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Sammensatte fragmenter/sek</org>
+        <en>\Fragments Re-assembled/sec</en>
+    </counter>
+    <counter>
+        <org>\Mislykkede fragmentsammensetninger</org>
+        <en>\Fragment Re-assembly Failures</en>
+    </counter>
+    <counter>
+        <org>\Fragmenterte datagram/sek</org>
+        <en>\Fragmented Datagrams/sec</en>
+    </counter>
+    <counter>
+        <org>\Fragmenteringsfeil</org>
+        <en>\Fragmentation Failures</en>
+    </counter>
+    <counter>
+        <org>\Fragmenter laget/sek</org>
+        <en>\Fragments Created/sec</en>
+    </counter>
+    <counter>
+        <org>\ICMP-objekttype</org>
+        <en>\ICMP</en>
+    </counter>
+    <counter>
+        <org>\Meldinger/sek</org>
+        <en>\Messages/sec</en>
+    </counter>
+    <counter>
+        <org>\Mottatte meldinger/sek</org>
+        <en>\Messages Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Mottatte meldinger med feil</org>
+        <en>\Messages Received Errors</en>
+    </counter>
+    <counter>
+        <org>\Mottatte meldinger med adresse ikke tilgjengelig</org>
+        <en>\Received Dest. Unreachable</en>
+    </counter>
+    <counter>
+        <org>\Mottatte meldinger med utløpt tid</org>
+        <en>\Received Time Exceeded</en>
+    </counter>
+    <counter>
+        <org>\Mottatte meldinger med parameterfeil</org>
+        <en>\Received Parameter Problem</en>
+    </counter>
+    <counter>
+        <org>\Mottatte meldinger fra overbelastet mottaker</org>
+        <en>\Received Source Quench</en>
+    </counter>
+    <counter>
+        <org>\Mottatte omadresseringsmeldinger/sek</org>
+        <en>\Received Redirect/sec</en>
+    </counter>
+    <counter>
+        <org>\Mottatte ekkomeldinger/sek</org>
+        <en>\Received Echo/sec</en>
+    </counter>
+    <counter>
+        <org>\Mottatte meldinger med ekkosvar/sek</org>
+        <en>\Received Echo Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\Mottatte meldinger med tidsstempel/sek</org>
+        <en>\Received Timestamp/sec</en>
+    </counter>
+    <counter>
+        <org>\Mottatte svarmeldinger med tidsstempel/sek</org>
+        <en>\Received Timestamp Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\Mottatte adressemaske-meldinger</org>
+        <en>\Received Address Mask</en>
+    </counter>
+    <counter>
+        <org>\Mottatte adressemaske-svarmeldinger</org>
+        <en>\Received Address Mask Reply</en>
+    </counter>
+    <counter>
+        <org>\Meldinger sendt/sek</org>
+        <en>\Messages Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Sendemeldinger med feil</org>
+        <en>\Messages Outbound Errors</en>
+    </counter>
+    <counter>
+        <org>\Sendte meldinger med adresse ikke tilgjengelig</org>
+        <en>\Sent Destination Unreachable</en>
+    </counter>
+    <counter>
+        <org>\Sendte meldinger med utløpt tid</org>
+        <en>\Sent Time Exceeded</en>
+    </counter>
+    <counter>
+        <org>\Sendte meldinger med parameterfeil</org>
+        <en>\Sent Parameter Problem</en>
+    </counter>
+    <counter>
+        <org>\Sendte meldinger av overbelastet mottaker</org>
+        <en>\Sent Source Quench</en>
+    </counter>
+    <counter>
+        <org>\Sendte omadresseringsmeldinger/sek</org>
+        <en>\Sent Redirect/sec</en>
+    </counter>
+    <counter>
+        <org>\Sendte ekkomeldinger/sek</org>
+        <en>\Sent Echo/sec</en>
+    </counter>
+    <counter>
+        <org>\Sendte meldinger med ekkosvar/sek</org>
+        <en>\Sent Echo Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\Sendte meldinger med klokkestempel/sek</org>
+        <en>\Sent Timestamp/sec</en>
+    </counter>
+    <counter>
+        <org>\Sendte svarmeldinger med klokkestempel/sek</org>
+        <en>\Sent Timestamp Reply/sec</en>
+    </counter>
+    <counter>
+        <org>\Sendte adressemaske-meldinger</org>
+        <en>\Sent Address Mask</en>
+    </counter>
+    <counter>
+        <org>\Sendte adressemaske-svarmeldinger</org>
+        <en>\Sent Address Mask Reply</en>
+    </counter>
+    <counter>
+        <org>\Segmenter/sek</org>
+        <en>\Segments/sec</en>
+    </counter>
+    <counter>
+        <org>\Opprettede tilkoblinger</org>
+        <en>\Connections Established</en>
+    </counter>
+    <counter>
+        <org>\Aktive tilkoblinger</org>
+        <en>\Connections Active</en>
+    </counter>
+    <counter>
+        <org>\Passive tilkoblinger</org>
+        <en>\Connections Passive</en>
+    </counter>
+    <counter>
+        <org>\Tilkoblingsfeil</org>
+        <en>\Connection Failures</en>
+    </counter>
+    <counter>
+        <org>\Nullstilte tilkoblinger</org>
+        <en>\Connections Reset</en>
+    </counter>
+    <counter>
+        <org>\Segmenter mottatt/sek</org>
+        <en>\Segments Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Segmenter sendt/sek</org>
+        <en>\Segments Sent/sec</en>
+    </counter>
+    <counter>
+        <org>\Segmenter sendt på nytt/sek</org>
+        <en>\Segments Retransmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\Total DPC-tid (%)</org>
+        <en>\% Total DPC Time</en>
+    </counter>
+    <counter>
+        <org>\Total avbruddstid (%)</org>
+        <en>\% Total Interrupt Time</en>
+    </counter>
+    <counter>
+        <org>\Datagram uten port/sek</org>
+        <en>\Datagrams No Port/sec</en>
+    </counter>
+    <counter>
+        <org>\Mottatte datagram med feil</org>
+        <en>\Datagrams Received Errors</en>
+    </counter>
+    <counter>
+        <org>\Disklagerstatistikk</org>
+        <en>\Disk Storage Unit</en>
+    </counter>
+    <counter>
+        <org>\Tilordningsfeil</org>
+        <en>\Allocation Failures</en>
+    </counter>
+    <counter>
+        <org>\Virketid for datamaskinen</org>
+        <en>\System Up Time</en>
+    </counter>
+    <counter>
+        <org>\Antall systemreferanser</org>
+        <en>\System Handle Count</en>
+    </counter>
+    <counter>
+        <org>\Ledige tabellindekser for sideveksling</org>
+        <en>\Free System Page Table Entries</en>
+    </counter>
+    <counter>
+        <org>\Trådteller</org>
+        <en>\Thread Count</en>
+    </counter>
+    <counter>
+        <org>\Basisprioritet</org>
+        <en>\Priority Base</en>
+    </counter>
+    <counter>
+        <org>\Brukt tid</org>
+        <en>\Elapsed Time</en>
+    </counter>
+    <counter>
+        <org>\Justeringsreparasjoner/sek</org>
+        <en>\Alignment Fixups/sec</en>
+    </counter>
+    <counter>
+        <org>\Unntak sendt/sek</org>
+        <en>\Exception Dispatches/sec</en>
+    </counter>
+    <counter>
+        <org>\Flytende emuleringer/sek</org>
+        <en>\Floating Emulations/sec</en>
+    </counter>
+    <counter>
+        <org>\Pålogging/sek</org>
+        <en>\Logon/sec</en>
+    </counter>
+    <counter>
+        <org>\Gjeldende dynamisk prioritet</org>
+        <en>\Priority Current</en>
+    </counter>
+    <counter>
+        <org>\DPC-tid (%)</org>
+        <en>\% DPC Time</en>
+    </counter>
+    <counter>
+        <org>\Avbruddstid (%)</org>
+        <en>\% Interrupt Time</en>
+    </counter>
+    <counter>
+        <org>\Sidevekslingsfil</org>
+        <en>\Paging File</en>
+    </counter>
+    <counter>
+        <org>\Prosent i bruk</org>
+        <en>\% Usage</en>
+    </counter>
+    <counter>
+        <org>\Største bruk</org>
+        <en>\% Usage Peak</en>
+    </counter>
+    <counter>
+        <org>\Startadresse</org>
+        <en>\Start Address</en>
+    </counter>
+    <counter>
+        <org>\Brukerprogramteller</org>
+        <en>\User PC</en>
+    </counter>
+    <counter>
+        <org>\Avbildet minne - Tilgang nektes</org>
+        <en>\Mapped Space No Access</en>
+    </counter>
+    <counter>
+        <org>\Avbildet minne - Skrivebeskyttet</org>
+        <en>\Mapped Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\Avbildet minne - Lese-/skrivetillatelse</org>
+        <en>\Mapped Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Avbildet minne - Skriv til kopi</org>
+        <en>\Mapped Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Avbildet minne - Kjørbart</org>
+        <en>\Mapped Space Executable</en>
+    </counter>
+    <counter>
+        <org>\Avbildet minne - Kjørbart, skrivebeskyttet</org>
+        <en>\Mapped Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\Avbildet minne - Kjørbart, lese-/skrivetillatelse</org>
+        <en>\Mapped Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Avbildet minne - Kjørbart, skriv til kopi</org>
+        <en>\Mapped Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Reservert minne - Ingen tilgang</org>
+        <en>\Reserved Space No Access</en>
+    </counter>
+    <counter>
+        <org>\Reservert minne - Skrivebeskyttet</org>
+        <en>\Reserved Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\Reservert minne - Lese/skrivetillatelse</org>
+        <en>\Reserved Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Reservert minne - Skriv til kopi</org>
+        <en>\Reserved Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Reservert minne - Kjørbart</org>
+        <en>\Reserved Space Executable</en>
+    </counter>
+    <counter>
+        <org>\Reservert minne - Kjørbart, skrivebeskyttet</org>
+        <en>\Reserved Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\Reservert minne - Kjørbart, lese-/skrivetillatelse</org>
+        <en>\Reserved Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Bilde</org>
+        <en>\Image</en>
+    </counter>
+    <counter>
+        <org>\Reservert minne - Kjørbart, skriv til kopi</org>
+        <en>\Reserved Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Utilordnet minne - Ingen tilgang</org>
+        <en>\Unassigned Space No Access</en>
+    </counter>
+    <counter>
+        <org>\Utilordnet minne - Skrivebeskyttet</org>
+        <en>\Unassigned Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\Utilordnet minne - Lese-/skrivetillatelse</org>
+        <en>\Unassigned Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Utilordnet minne - Skriv til kopi</org>
+        <en>\Unassigned Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Utilordnet minne - Kjørbart</org>
+        <en>\Unassigned Space Executable</en>
+    </counter>
+    <counter>
+        <org>\Utilordnet minne - Kjørbart, skrivebeskyttet</org>
+        <en>\Unassigned Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\Utilordnet minne - Kjørbart, lese-/skrivetillatelse</org>
+        <en>\Unassigned Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Utilordnet minne - Kjørbart, skriv til kopi</org>
+        <en>\Unassigned Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Bildefelt - Ingen tilgang</org>
+        <en>\Image Space No Access</en>
+    </counter>
+    <counter>
+        <org>\Bildefelt - Skrivebeskyttet</org>
+        <en>\Image Space Read Only</en>
+    </counter>
+    <counter>
+        <org>\Bildefelt - Lese-/skrivetillatelse</org>
+        <en>\Image Space Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Bildefelt - Skriv til kopi</org>
+        <en>\Image Space Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Bildefelt - Kjørbart</org>
+        <en>\Image Space Executable</en>
+    </counter>
+    <counter>
+        <org>\Bildefelt - Kjørbart, skrivebeskyttet</org>
+        <en>\Image Space Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\Bildefelt - Kjørbart, lese-/skrivetillatelse</org>
+        <en>\Image Space Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Bildefelt - Kjørbart, skriv til kopi</org>
+        <en>\Image Space Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Reserverte bildebyte</org>
+        <en>\Bytes Image Reserved</en>
+    </counter>
+    <counter>
+        <org>\Ledige bildebyte</org>
+        <en>\Bytes Image Free</en>
+    </counter>
+    <counter>
+        <org>\Reserverte byte</org>
+        <en>\Bytes Reserved</en>
+    </counter>
+    <counter>
+        <org>\Ledige byte</org>
+        <en>\Bytes Free</en>
+    </counter>
+    <counter>
+        <org>\Prosess-ID</org>
+        <en>\ID Process</en>
+    </counter>
+    <counter>
+        <org>\Adresseområdet til en prosess</org>
+        <en>\Process Address Space</en>
+    </counter>
+    <counter>
+        <org>\Ingen tilgang</org>
+        <en>\No Access</en>
+    </counter>
+    <counter>
+        <org>\Skrivebeskyttet</org>
+        <en>\Read Only</en>
+    </counter>
+    <counter>
+        <org>\Lese/Skrive</org>
+        <en>\Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Skriv til kopi</org>
+        <en>\Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Kjørbart</org>
+        <en>\Executable</en>
+    </counter>
+    <counter>
+        <org>\Kjørbart, skrivebeskyttet</org>
+        <en>\Exec Read Only</en>
+    </counter>
+    <counter>
+        <org>\Kjørbart, lese/skrivetillatelse</org>
+        <en>\Exec Read/Write</en>
+    </counter>
+    <counter>
+        <org>\Kjørbart, skriv til kopi</org>
+        <en>\Exec Write Copy</en>
+    </counter>
+    <counter>
+        <org>\Tråd-ID</org>
+        <en>\ID Thread</en>
+    </counter>
+    <counter>
+        <org>\Post ikke mottatt</org>
+        <en>\Mailslot Receives Failed</en>
+    </counter>
+    <counter>
+        <org>\Post mottatt, ikke skrevet</org>
+        <en>\Mailslot Writes Failed</en>
+    </counter>
+    <counter>
+        <org>\Post mottatt, ikke åpnet/sek</org>
+        <en>\Mailslot Opens Failed/sec</en>
+    </counter>
+    <counter>
+        <org>\Flere hovedsøkere</org>
+        <en>\Duplicate Master Announcements</en>
+    </counter>
+    <counter>
+        <org>\Ugyldige datagrammer/sek</org>
+        <en>\Illegal Datagrams/sec</en>
+    </counter>
+    <counter>
+        <org>\Tråddetaljer</org>
+        <en>\Thread Details</en>
+    </counter>
+    <counter>
+        <org>\Hurtigbufferbyte</org>
+        <en>\Cache Bytes</en>
+    </counter>
+    <counter>
+        <org>\Maksimum hurtigbufferbyte</org>
+        <en>\Cache Bytes Peak</en>
+    </counter>
+    <counter>
+        <org>\Innvekslede sider/sek</org>
+        <en>\Pages Input/sec</en>
+    </counter>
+    <counter>
+        <org>\Overgangssider gjenbrukt for annet formål/sek</org>
+        <en>\Transition Pages RePurposed/sec</en>
+    </counter>
+    <counter>
+        <org>\Sendte byte</org>
+        <en>\Bytes Transmitted</en>
+    </counter>
+    <counter>
+        <org>\Byte mottatt</org>
+        <en>\Bytes Received</en>
+    </counter>
+    <counter>
+        <org>\Rammer sendt</org>
+        <en>\Frames Transmitted</en>
+    </counter>
+    <counter>
+        <org>\Rammer mottatt.</org>
+        <en>\Frames Received.</en>
+    </counter>
+    <counter>
+        <org>\Prosent komprimert ut</org>
+        <en>\Percent Compression Out</en>
+    </counter>
+    <counter>
+        <org>\Prosent komprimert inn</org>
+        <en>\Percent Compression In</en>
+    </counter>
+    <counter>
+        <org>\CRC-feil</org>
+        <en>\CRC Errors</en>
+    </counter>
+    <counter>
+        <org>\Tidsavbruddsfeil</org>
+        <en>\Timeout Errors</en>
+    </counter>
+    <counter>
+        <org>\Serielle overkjøringsfeil</org>
+        <en>\Serial Overrun Errors</en>
+    </counter>
+    <counter>
+        <org>\Justeringsfeil</org>
+        <en>\Alignment Errors</en>
+    </counter>
+    <counter>
+        <org>\Bufferoverløpsfeil</org>
+        <en>\Buffer Overrun Errors</en>
+    </counter>
+    <counter>
+        <org>\Totalt antall feil</org>
+        <en>\Total Errors</en>
+    </counter>
+    <counter>
+        <org>\Sendte byte / sek</org>
+        <en>\Bytes Transmitted/Sec</en>
+    </counter>
+    <counter>
+        <org>\Mottatte byte / sek</org>
+        <en>\Bytes Received/Sec</en>
+    </counter>
+    <counter>
+        <org>\Rammer sendt/sek</org>
+        <en>\Frames Transmitted/Sec</en>
+    </counter>
+    <counter>
+        <org>\Rammer mottatt/sek</org>
+        <en>\Frames Received/Sec</en>
+    </counter>
+    <counter>
+        <org>\Totalt antall feil/sek</org>
+        <en>\Total Errors/Sec</en>
+    </counter>
+    <counter>
+        <org>\Antall tilkoblinger</org>
+        <en>\Total Connections</en>
+    </counter>
+    <counter>
+        <org>\WINS-server</org>
+        <en>\WINS Server</en>
+    </counter>
+    <counter>
+        <org>\Unike registreringer/sek</org>
+        <en>\Unique Registrations/sec</en>
+    </counter>
+    <counter>
+        <org>\Grupperegistreringer/sek</org>
+        <en>\Group Registrations/sec</en>
+    </counter>
+    <counter>
+        <org>\Antall registreringer/sek</org>
+        <en>\Total Number of Registrations/sec</en>
+    </counter>
+    <counter>
+        <org>\Unike fornyelser/sek</org>
+        <en>\Unique Renewals/sec</en>
+    </counter>
+    <counter>
+        <org>\Gruppefornyelser/sek</org>
+        <en>\Group Renewals/sec</en>
+    </counter>
+    <counter>
+        <org>\Totalt antall fornyelser/sek</org>
+        <en>\Total Number of Renewals/sec</en>
+    </counter>
+    <counter>
+        <org>\Frigjøringer/sek</org>
+        <en>\Releases/sec</en>
+    </counter>
+    <counter>
+        <org>\Forespørsler/sek</org>
+        <en>\Queries/sec</en>
+    </counter>
+    <counter>
+        <org>\Unike konflikter/sek</org>
+        <en>\Unique Conflicts/sec</en>
+    </counter>
+    <counter>
+        <org>\Gruppekonflikter/sek</org>
+        <en>\Group Conflicts/sec</en>
+    </counter>
+    <counter>
+        <org>\Totalt antall konflikter/sek</org>
+        <en>\Total Number of Conflicts/sec</en>
+    </counter>
+    <counter>
+        <org>\Vellykkede frigivelser/sek</org>
+        <en>\Successful Releases/sec</en>
+    </counter>
+    <counter>
+        <org>\Mislykkede frigivelser/sek</org>
+        <en>\Failed Releases/sec</en>
+    </counter>
+    <counter>
+        <org>\Vellykkede forespørsler/sek</org>
+        <en>\Successful Queries/sec</en>
+    </counter>
+    <counter>
+        <org>\Mislykkede forespørsler/sek</org>
+        <en>\Failed Queries/sec</en>
+    </counter>
+    <counter>
+        <org>\Referanseteller</org>
+        <en>\Handle Count</en>
+    </counter>
+    <counter>
+        <org>\MacFile-server</org>
+        <en>\MacFile Server</en>
+    </counter>
+    <counter>
+        <org>\Maksimalt vekslebart minne</org>
+        <en>\Max Paged Memory</en>
+    </counter>
+    <counter>
+        <org>\Gjeldende vekslebart minne</org>
+        <en>\Current Paged Memory</en>
+    </counter>
+    <counter>
+        <org>\Maksimalt ikke-vekslebart minne</org>
+        <en>\Max NonPaged Memory</en>
+    </counter>
+    <counter>
+        <org>\Gjeldende ikke-vekslebart minne</org>
+        <en>\Current NonPaged memory</en>
+    </counter>
+    <counter>
+        <org>\Gjeldende økter</org>
+        <en>\Current Sessions</en>
+    </counter>
+    <counter>
+        <org>\Maksimalt antall økter</org>
+        <en>\Maximum Sessions</en>
+    </counter>
+    <counter>
+        <org>\Gjeldende åpne filer</org>
+        <en>\Current Files Open</en>
+    </counter>
+    <counter>
+        <org>\Maksimalt antall åpne filer</org>
+        <en>\Maximum Files Open</en>
+    </counter>
+    <counter>
+        <org>\Mislykkede forsøk på pålogging</org>
+        <en>\Failed Logons</en>
+    </counter>
+    <counter>
+        <org>\Data lest/sek</org>
+        <en>\Data Read/sec</en>
+    </counter>
+    <counter>
+        <org>\Data skrevet/sek</org>
+        <en>\Data Written/sec</en>
+    </counter>
+    <counter>
+        <org>\Data mottatt/sek</org>
+        <en>\Data Received/sec</en>
+    </counter>
+    <counter>
+        <org>\Data sendt/sek</org>
+        <en>\Data Transmitted/sec</en>
+    </counter>
+    <counter>
+        <org>\Gjeldende kølengde</org>
+        <en>\Current Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Maksimal kølengde</org>
+        <en>\Maximum Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Gjeldende tråder</org>
+        <en>\Current Threads</en>
+    </counter>
+    <counter>
+        <org>\Maksimalt antall tråder</org>
+        <en>\Maximum Threads</en>
+    </counter>
+    <counter>
+        <org>\Pakker inn/sek</org>
+        <en>\Packets In/sec</en>
+    </counter>
+    <counter>
+        <org>\Pakker ut/sek</org>
+        <en>\Packets Out/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte in/sek</org>
+        <en>\Bytes In/sec</en>
+    </counter>
+    <counter>
+        <org>\Byte ut/sek</org>
+        <en>\Bytes Out/sec</en>
+    </counter>
+    <counter>
+        <org>\Gjennomsnittstid/DDP-pakke</org>
+        <en>\Average Time/DDP Packet</en>
+    </counter>
+    <counter>
+        <org>\DDP-pakker/sek</org>
+        <en>\DDP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Gjennomsnittstid/AARP-pakke</org>
+        <en>\Average Time/AARP Packet</en>
+    </counter>
+    <counter>
+        <org>\AARP-pakker/sek</org>
+        <en>\AARP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Gjennomsnittstid/ATP-pakke</org>
+        <en>\Average Time/ATP Packet</en>
+    </counter>
+    <counter>
+        <org>\ATP-pakker/sek</org>
+        <en>\ATP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Gjennomsnittstid/NBP-pakke</org>
+        <en>\Average Time/NBP Packet</en>
+    </counter>
+    <counter>
+        <org>\NBP-pakker/sek</org>
+        <en>\NBP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Gjennomsnittstid/ZIP-pakke</org>
+        <en>\Average Time/ZIP Packet</en>
+    </counter>
+    <counter>
+        <org>\ZIP-pakker/sek</org>
+        <en>\ZIP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Gjennomsnittstid/RTMP-pakke</org>
+        <en>\Average Time/RTMP Packet</en>
+    </counter>
+    <counter>
+        <org>\RTMP-pakker/sek</org>
+        <en>\RTMP Packets/sec</en>
+    </counter>
+    <counter>
+        <org>\Lokale ATP-forsøk</org>
+        <en>\ATP Retries Local</en>
+    </counter>
+    <counter>
+        <org>\Tidsavbrudd ved ATP-respons</org>
+        <en>\ATP Response Timouts</en>
+    </counter>
+    <counter>
+        <org>\ATP XO-respons/sek</org>
+        <en>\ATP XO Response/Sec</en>
+    </counter>
+    <counter>
+        <org>\ATP ALO-respons/sek</org>
+        <en>\ATP ALO Response/Sec</en>
+    </counter>
+    <counter>
+        <org>\ATP Recvd-frigivelser/sek</org>
+        <en>\ATP Recvd Release/Sec</en>
+    </counter>
+    <counter>
+        <org>\Gjeldende ikke-vekslebart minne</org>
+        <en>\Current NonPaged Pool</en>
+    </counter>
+    <counter>
+        <org>\Pakker adressert inn/sek</org>
+        <en>\Packets Routed In/Sec</en>
+    </counter>
+    <counter>
+        <org>\Forkastede pakker</org>
+        <en>\Packets dropped</en>
+    </counter>
+    <counter>
+        <org>\Eksterne ATP-forsøk</org>
+        <en>\ATP Retries Remote</en>
+    </counter>
+    <counter>
+        <org>\Pakker adressert ut/sek</org>
+        <en>\Packets Routed Out/Sec</en>
+    </counter>
+    <counter>
+        <org>\Nettverkssegment</org>
+        <en>\Network Segment</en>
+    </counter>
+    <counter>
+        <org>\Totalt antall rammer mottatt/sekund</org>
+        <en>\Total frames received/second</en>
+    </counter>
+    <counter>
+        <org>\Total antall byte mottatt/sekund</org>
+        <en>\Total bytes received/second</en>
+    </counter>
+    <counter>
+        <org>\Kringkastingsrammer mottatt/sekund</org>
+        <en>\Broadcast frames received/second</en>
+    </counter>
+    <counter>
+        <org>\Multikastingsrammer mottatt/sekund</org>
+        <en>\Multicast frames received/second</en>
+    </counter>
+    <counter>
+        <org>\% Nettverksutnyttelse</org>
+        <en>\% Network utilization</en>
+    </counter>
+    <counter>
+        <org>\% Kringkastingsrammer</org>
+        <en>\% Broadcast Frames</en>
+    </counter>
+    <counter>
+        <org>\% Multikastingsrammer</org>
+        <en>\% Multicast Frames</en>
+    </counter>
+    <counter>
+        <org>\Telefoni</org>
+        <en>\Telephony</en>
+    </counter>
+    <counter>
+        <org>\Linjer</org>
+        <en>\Lines</en>
+    </counter>
+    <counter>
+        <org>\Telefonenheter</org>
+        <en>\Telephone Devices</en>
+    </counter>
+    <counter>
+        <org>\Aktive linjer</org>
+        <en>\Active Lines</en>
+    </counter>
+    <counter>
+        <org>\Aktive telefoner</org>
+        <en>\Active Telephones</en>
+    </counter>
+    <counter>
+        <org>\Utgående samtaler/sek</org>
+        <en>\Outgoing Calls/sec</en>
+    </counter>
+    <counter>
+        <org>\Inngående samtaler/sek</org>
+        <en>\Incoming Calls/sec</en>
+    </counter>
+    <counter>
+        <org>\Klientprogr</org>
+        <en>\Client Apps</en>
+    </counter>
+    <counter>
+        <org>\Nåværende utgående samtaler</org>
+        <en>\Current Outgoing Calls</en>
+    </counter>
+    <counter>
+        <org>\Nåværende inngående samtaler</org>
+        <en>\Current Incoming Calls</en>
+    </counter>
+    <counter>
+        <org>\NCP/sek for Packet Burst-lesing</org>
+        <en>\Packet Burst Read NCP Count/sec</en>
+    </counter>
+    <counter>
+        <org>\Tidsavbrudd/sek for Packet Burst-lesing</org>
+        <en>\Packet Burst Read Timeouts/sec</en>
+    </counter>
+    <counter>
+        <org>\NCP/sek for Packet Burst-skriving</org>
+        <en>\Packet Burst Write NCP Count/sec</en>
+    </counter>
+    <counter>
+        <org>\Tidsavbrudd/sek for Packet Burst-skriving</org>
+        <en>\Packet Burst Write Timeouts/sec</en>
+    </counter>
+    <counter>
+        <org>\Packet Burst-IU/sek</org>
+        <en>\Packet Burst IO/sec</en>
+    </counter>
+    <counter>
+        <org>\Total pålogging</org>
+        <en>\Logon Total</en>
+    </counter>
+    <counter>
+        <org>\Arbeidskø for server</org>
+        <en>\Server Work Queues</en>
+    </counter>
+    <counter>
+        <org>\Kølengde</org>
+        <en>\Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Aktive tråder</org>
+        <en>\Active Threads</en>
+    </counter>
+    <counter>
+        <org>\Tilgjengelige tråder</org>
+        <en>\Available Threads</en>
+    </counter>
+    <counter>
+        <org>\Tilgjengelige arbeidselementer</org>
+        <en>\Available Work Items</en>
+    </counter>
+    <counter>
+        <org>\Lånte arbeidselementer</org>
+        <en>\Borrowed Work Items</en>
+    </counter>
+    <counter>
+        <org>\Arbeidselementmangler</org>
+        <en>\Work Item Shortages</en>
+    </counter>
+    <counter>
+        <org>\Nåværende klienter</org>
+        <en>\Current Clients</en>
+    </counter>
+    <counter>
+        <org>\Overførte byte/sek</org>
+        <en>\Bytes Transferred/sec</en>
+    </counter>
+    <counter>
+        <org>\Les byte/sek</org>
+        <en>\Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Skriv byte/sek</org>
+        <en>\Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Operasjoner totalt/sek</org>
+        <en>\Total Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\DPC til kø/sek</org>
+        <en>\DPCs Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\DPC-rate</org>
+        <en>\DPC Rate</en>
+    </counter>
+    <counter>
+        <org>\Totalt ant. DPC til kø/sek</org>
+        <en>\Total DPCs Queued/sec</en>
+    </counter>
+    <counter>
+        <org>\Total DPC-rate</org>
+        <en>\Total DPC Rate</en>
+    </counter>
+    <counter>
+        <org>\% Registerkvote i bruk</org>
+        <en>\% Registry Quota In Use</en>
+    </counter>
+    <counter>
+        <org>\VL-minne</org>
+        <en>\VL Memory</en>
+    </counter>
+    <counter>
+        <org>\VLM % virtuell størrelse i bruk</org>
+        <en>\VLM % Virtual Size In Use</en>
+    </counter>
+    <counter>
+        <org>\VLM virtuell størrelse</org>
+        <en>\VLM Virtual Size</en>
+    </counter>
+    <counter>
+        <org>\VLM maksimal virtuell størrelse</org>
+        <en>\VLM Virtual Size Peak</en>
+    </counter>
+    <counter>
+        <org>\VLM tilgjengelig virtuell størrelse</org>
+        <en>\VLM Virtual Size Available</en>
+    </counter>
+    <counter>
+        <org>\VLM tildelt minne</org>
+        <en>\VLM Commit Charge</en>
+    </counter>
+    <counter>
+        <org>\VLM maksimalt tildelt minne</org>
+        <en>\VLM Commit Charge Peak</en>
+    </counter>
+    <counter>
+        <org>\System-VLM tildelt minne</org>
+        <en>\System VLM Commit Charge</en>
+    </counter>
+    <counter>
+        <org>\System-VLM maksimalt tildelt minne</org>
+        <en>\System VLM Commit Charge Peak</en>
+    </counter>
+    <counter>
+        <org>\System-VLM delt tildelt minne</org>
+        <en>\System VLM Shared Commit Charge</en>
+    </counter>
+    <counter>
+        <org>\Tilgjengelige kB</org>
+        <en>\Available KBytes</en>
+    </counter>
+    <counter>
+        <org>\Tilgjengelige MB</org>
+        <en>\Available MBytes</en>
+    </counter>
+    <counter>
+        <org>\Gj.snittlig lengde på diskkø</org>
+        <en>\Avg. Disk Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Gj.snittlig lengde på kø for disklesing</org>
+        <en>\Avg. Disk Read Queue Length</en>
+    </counter>
+    <counter>
+        <org>\Gj.snittlig lengde på kø for diskskriving</org>
+        <en>\Avg. Disk Write Queue Length</en>
+    </counter>
+    <counter>
+        <org>\% fordelte byte i bruk</org>
+        <en>\% Committed Bytes In Use</en>
+    </counter>
+    <counter>
+        <org>\Hele bildet</org>
+        <en>\Full Image</en>
+    </counter>
+    <counter>
+        <org>\Oppretter prosess-ID</org>
+        <en>\Creating Process ID</en>
+    </counter>
+    <counter>
+        <org>\IU leseoperasjoner/sek</org>
+        <en>\IO Read Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\IU skriveoperasjoner/sek</org>
+        <en>\IO Write Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\IU dataoperasjoner/sek</org>
+        <en>\IO Data Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\IU andre operasjoner/sek</org>
+        <en>\IO Other Operations/sec</en>
+    </counter>
+    <counter>
+        <org>\IU byte lest/sek</org>
+        <en>\IO Read Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\IU byte skrevet/sek</org>
+        <en>\IO Write Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\IU databyte/sek</org>
+        <en>\IO Data Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\IU andre byte/sek</org>
+        <en>\IO Other Bytes/sec</en>
+    </counter>
+    <counter>
+        <org>\Utskriftskø</org>
+        <en>\Print Queue</en>
+    </counter>
+    <counter>
+        <org>\Totalt antall utskrevne jobber</org>
+        <en>\Total Jobs Printed</en>
+    </counter>
+    <counter>
+        <org>\Byte skrevet ut/sek</org>
+        <en>\Bytes Printed/sec</en>
+    </counter>
+    <counter>
+        <org>\Totalt antall utskrevne sider</org>
+        <en>\Total Pages Printed</en>
+    </counter>
+    <counter>
+        <org>\Jobber</org>
+        <en>\Jobs</en>
+    </counter>
+    <counter>
+        <org>\Referanser</org>
+        <en>\References</en>
+    </counter>
+    <counter>
+        <org>\Maks. referanser</org>
+        <en>\Max References</en>
+    </counter>
+    <counter>
+        <org>\Jobber som køordnes</org>
+        <en>\Jobs Spooling</en>
+    </counter>
+    <counter>
+        <org>\Maks. jobber som køordnes</org>
+        <en>\Max Jobs Spooling</en>
+    </counter>
+    <counter>
+        <org>\Tom for papir-feil</org>
+        <en>\Out of Paper Errors</en>
+    </counter>
+    <counter>
+        <org>\Ikke klar-feil</org>
+        <en>\Not Ready Errors</en>
+    </counter>
+    <counter>
+        <org>\Jobbfeil</org>
+        <en>\Job Errors</en>
+    </counter>
+    <counter>
+        <org>\List opp kall til nettverksskriver</org>
+        <en>\Enumerate Network Printer Calls</en>
+    </counter>
+    <counter>
+        <org>\Kall for å legge til nettverksskriver</org>
+        <en>\Add Network Printer Calls</en>
+    </counter>
+    <counter>
+        <org>\Arbeidssett - privat</org>
+        <en>\Working Set - Private</en>
+    </counter>
+    <counter>
+        <org>\Arbeidssett - delt</org>
+        <en>\Working Set - Shared</en>
+    </counter>
+    <counter>
+        <org>\% tid inaktiv</org>
+        <en>\% Idle Time</en>
+    </counter>
+    <counter>
+        <org>\Del IO/sek</org>
+        <en>\Split IO/Sec</en>
+    </counter>
+    <counter>
+        <org>\Jobbobjekt</org>
+        <en>\Job Object</en>
+    </counter>
+    <counter>
+        <org>\Gjeldende % prosessortid</org>
+        <en>\Current % Processor Time</en>
+    </counter>
+    <counter>
+        <org>\Gjeldende % tid i brukermodus</org>
+        <en>\Current % User Mode Time</en>
+    </counter>
+    <counter>
+        <org>\Current % tid i kjernemodus</org>
+        <en>\Current % Kernel Mode Time</en>
+    </counter>
+    <counter>
+        <org>\Denne periode ms - prosessor</org>
+        <en>\This Period mSec - Processor</en>
+    </counter>
+    <counter>
+        <org>\Denne periode ms - brukermodus</org>
+        <en>\This Period mSec - User Mode</en>
+    </counter>
+    <counter>
+        <org>\Denne periode ms - kjernemodus</org>
+        <en>\This Period mSec - Kernel Mode</en>
+    </counter>
+    <counter>
+        <org>\Sider/sek</org>
+        <en>\Pages/Sec</en>
+    </counter>
+    <counter>
+        <org>\Antall prosesser - totalt</org>
+        <en>\Process Count - Total</en>
+    </counter>
+    <counter>
+        <org>\Antall prosesser - aktive</org>
+        <en>\Process Count - Active</en>
+    </counter>
+    <counter>
+        <org>\Antall prosesser - avsluttet</org>
+        <en>\Process Count - Terminated</en>
+    </counter>
+    <counter>
+        <org>\Totalt ms - prosessor</org>
+        <en>\Total mSec - Processor</en>
+    </counter>
+    <counter>
+        <org>\Totalt ms - brukermodus</org>
+        <en>\Total mSec - User Mode</en>
+    </counter>
+    <counter>
+        <org>\Totalt ms - kjernemodus</org>
+        <en>\Total mSec - Kernel Mode</en>
+    </counter>
+    <counter>
+        <org>\Mottatt pakke for stor</org>
+        <en>\Received Packet Too Big</en>
+    </counter>
+    <counter>
+        <org>\Mottatt medlemskapsspørring</org>
+        <en>\Received Membership Query</en>
+    </counter>
+    <counter>
+        <org>\Mottatt medlemskapsrapport</org>
+        <en>\Received Membership Report</en>
+    </counter>
+    <counter>
+        <org>\Mottatt medlemskapsreduksjon</org>
+        <en>\Received Membership Reduction</en>
+    </counter>
+    <counter>
+        <org>\Mottatt ruteranmodning</org>
+        <en>\Received Router Solicit</en>
+    </counter>
+    <counter>
+        <org>\Mottatt ruterannonsering</org>
+        <en>\Received Router Advert</en>
+    </counter>
+    <counter>
+        <org>\Detaljer om jobbobjekt</org>
+        <en>\Job Object Details</en>
+    </counter>
+    <counter>
+        <org>\Mottatt naboanmodning</org>
+        <en>\Received Neighbor Solicit</en>
+    </counter>
+    <counter>
+        <org>\Mottatt naboannonsering</org>
+        <en>\Received Neighbor Advert</en>
+    </counter>
+    <counter>
+        <org>\Sendt pakke for stor</org>
+        <en>\Sent Packet Too Big</en>
+    </counter>
+    <counter>
+        <org>\Sendt medlemskapsspørring</org>
+        <en>\Sent Membership Query</en>
+    </counter>
+    <counter>
+        <org>\Sendt medlemskapsrapport</org>
+        <en>\Sent Membership Report</en>
+    </counter>
+    <counter>
+        <org>\Sendt medlemskapsreduksjon</org>
+        <en>\Sent Membership Reduction</en>
+    </counter>
+    <counter>
+        <org>\Sendt ruteranmodning</org>
+        <en>\Sent Router Solicit</en>
+    </counter>
+    <counter>
+        <org>\Sendt ruterannonsering</org>
+        <en>\Sent Router Advert</en>
+    </counter>
+    <counter>
+        <org>\Sendt naboanmodning</org>
+        <en>\Sent Neighbor Solicit</en>
+    </counter>
+    <counter>
+        <org>\Sendt naboannonsering</org>
+        <en>\Sent Neighbor Advert</en>
+    </counter>
+    <counter>
+        <org>\Sikkerhetsstatistikk for hele systemet</org>
+        <en>\Security System-Wide Statistics</en>
+    </counter>
+    <counter>
+        <org>\NTLM-godkjenninger</org>
+        <en>\NTLM Authentications</en>
+    </counter>
+    <counter>
+        <org>\Kerberos-godkjenninger</org>
+        <en>\Kerberos Authentications</en>
+    </counter>
+    <counter>
+        <org>\KDC AS-forespørsler</org>
+        <en>\KDC AS Requests</en>
+    </counter>
+    <counter>
+        <org>\KDC TGT-forespørsler</org>
+        <en>\KDC TGS Requests</en>
+    </counter>
+    <counter>
+        <org>\Hurtigbufferoppføringer for sikker kanaløkt</org>
+        <en>\Schannel Session Cache Entries</en>
+    </counter>
+    <counter>
+        <org>\Hurtigbufferoppføringer for aktiv sikker kanaløkt</org>
+        <en>\Active Schannel Session Cache Entries</en>
+    </counter>
+    <counter>
+        <org>\Fullstendige håndtrykk fra SSL-klientsiden</org>
+        <en>\SSL Client-Side Full Handshakes</en>
+    </counter>
+    <counter>
+        <org>\Håndtrykk for ny tilkobling fra SSL-klientsiden</org>
+        <en>\SSL Client-Side Reconnect Handshakes</en>
+    </counter>
+    <counter>
+        <org>\Fullstendige håndtrykk fra SSL-serversiden</org>
+        <en>\SSL Server-Side Full Handshakes</en>
+    </counter>
+    <counter>
+        <org>\Håndtrykk for ny tilkobling fra SSL-serversiden</org>
+        <en>\SSL Server-Side Reconnect Handshakes</en>
+    </counter>
+    <counter>
+        <org>\Sammendragsgodkjenninger</org>
+        <en>\Digest Authentications</en>
+    </counter>
+    <counter>
+        <org>\Sikkerhetsstatistikk per prosess</org>
+        <en>\Security Per-Process Statistics</en>
+    </counter>
+    <counter>
+        <org>\Legitimasjonsreferanser</org>
+        <en>\Credential Handles</en>
+    </counter>
+    <counter>
+        <org>\Kontekstreferanser</org>
+        <en>\Context Handles</en>
+    </counter>
+    <counter>
+        <org>\Byte for ledig og null-sideliste</org>
+        <en>\Free &amp; Zero Page List Bytes</en>
+    </counter>
+    <counter>
+        <org>\Byte for endret sideliste</org>
+        <en>\Modified Page List Bytes</en>
+    </counter>
+    <counter>
+        <org>\Reserverte byte for ventebuffer</org>
+        <en>\Standby Cache Reserve Bytes</en>
+    </counter>
+    <counter>
+        <org>\Byte for ventebuffer med normal prioritet</org>
+        <en>\Standby Cache Normal Priority Bytes</en>
+    </counter>
+    <counter>
+        <org>\Byte for ventebuffer for kjerne</org>
+        <en>\Standby Cache Core Bytes</en>
+    </counter>
+    <counter>
+        <org>\% tid inaktiv</org>
+        <en>\% Idle Time</en>
+    </counter>
+    <counter>
+        <org>\% C1-tid</org>
+        <en>\% C1 Time</en>
+    </counter>
+    <counter>
+        <org>\% C2-tid</org>
+        <en>\% C2 Time</en>
+    </counter>
+    <counter>
+        <org>\% C3-tid</org>
+        <en>\% C3 Time</en>
+    </counter>
+    <counter>
+        <org>\C1 overganger/sek</org>
+        <en>\C1 Transitions/sec</en>
+    </counter>
+    <counter>
+        <org>\C2 overganger/sek</org>
+        <en>\C2 Transitions/sec</en>
+    </counter>
+    <counter>
+        <org>\C3 overganger/sek</org>
+        <en>\C3 Transitions/sec</en>
+    </counter>
+    <counter>
+        <org>\Tildelte byte</org>
+        <en>\Committed Bytes</en>
+    </counter>
+    <counter>
+        <org>\Reserverte byte</org>
+        <en>\Reserved Bytes</en>
+    </counter>
+    <counter>
+        <org>\Byte i virtuelt minne</org>
+        <en>\Virtual Bytes</en>
+    </counter>
+    <counter>
+        <org>\Ledige byte</org>
+        <en>\Free Bytes</en>
+    </counter>
+    <counter>
+        <org>\Ledig listelengde</org>
+        <en>\Free List Length</en>
+    </counter>
+    <counter>
+        <org>\Gj.snittlig tildelingsfrekvens</org>
+        <en>\Avg. alloc rate</en>
+    </counter>
+    <counter>
+        <org>\Gj.snittlig ledig frekvens</org>
+        <en>\Avg. free rate</en>
+    </counter>
+    <counter>
+        <org>\Lengde på utildelte områder</org>
+        <en>\Uncommitted Ranges Length</en>
+    </counter>
+    <counter>
+        <org>\Tildelinger - ledige byte</org>
+        <en>\Allocs - Frees</en>
+    </counter>
+    <counter>
+        <org>\Hurtigbufrede tildelinger/sek</org>
+        <en>\Cached Allocs/sec</en>
+    </counter>
+    <counter>
+        <org>\Hurtigbufrede ledige byte/sek</org>
+        <en>\Cached Frees/sec</en>
+    </counter>
+    <counter>
+        <org>\Tildelinger &lt;1K/sek</org>
+        <en>\Allocs &lt;1K/sec</en>
+    </counter>
+    <counter>
+        <org>\Ledige byte &lt;1K/sek</org>
+        <en>\Frees &lt;1K/sec</en>
+    </counter>
+    <counter>
+        <org>\Tildelinger 1-8K/sek</org>
+        <en>\Allocs 1-8K/sec</en>
+    </counter>
+    <counter>
+        <org>\Ledige byte 1-8K/sek</org>
+        <en>\Frees 1-8K/sec</en>
+    </counter>
+    <counter>
+        <org>\Tildelinger over 8K/sek</org>
+        <en>\Allocs over 8K/sec</en>
+    </counter>
+    <counter>
+        <org>\Ledige byte over 8K/sek</org>
+        <en>\Frees over 8K/sec</en>
+    </counter>
+    <counter>
+        <org>\Totale tildelinger/sek</org>
+        <en>\Total Allocs/sec</en>
+    </counter>
+    <counter>
+        <org>\Totale ledige byte/sek</org>
+        <en>\Total Frees/sec</en>
+    </counter>
+    <counter>
+        <org>\Blokker i heap-hurtigbuffer</org>
+        <en>\Blocks in Heap Cache</en>
+    </counter>
+    <counter>
+        <org>\Største hurtigbufferdybde</org>
+        <en>\Largest Cache Depth</en>
+    </counter>
+    <counter>
+        <org>\% fragmentering</org>
+        <en>\% Fragmentation</en>
+    </counter>
+    <counter>
+        <org>\% VA-fragmentering</org>
+        <en>\% VAFragmentation</en>
+    </counter>
+    <counter>
+        <org>\Heap-låsekonflikt</org>
+        <en>\Heap Lock contention</en>
+    </counter>
+    <counter>
+        <org>\Sluttmarkør</org>
+        <en>\End Marker</en>
+    </counter>
+</Counters>

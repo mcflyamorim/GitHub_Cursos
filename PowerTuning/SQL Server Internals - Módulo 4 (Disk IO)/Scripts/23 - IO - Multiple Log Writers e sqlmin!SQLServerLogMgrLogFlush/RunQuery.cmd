@@ -1,0 +1,1 @@
+C:\RMLUtils\ostress.exe -E -S"dellfabiano\sql2019" -n500 -r10 -dTest_Fabiano_MultipleLogWriters -Q"EXEC Test_Fabiano_MultipleLogWriters.dbo.st_InsertTable1" -q

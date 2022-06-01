@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Fabiano/Trabalho/FabricioLima/Cursos/25 Dicas de performance tuning em SQL Server - Parte 6/Outros/1 - JDBC/sqljdbc_8.4.1.0_enu/sqljdbc_8.4/enu/mssql-jdbc-8.4.1.jre8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

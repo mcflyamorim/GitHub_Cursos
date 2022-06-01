@@ -1,0 +1,2 @@
+1 - As vezes, quando temos um volume alto de solicitações no site, o processo fica lento. Por que?
+2 - O que fazer pra melhorar a performance do processo? 

@@ -1,0 +1,3 @@
+-- Criar um server side trace capturando todas consultas com duração maior que 50ms
+-- Criar perfmon capturando todos contadores relevantes
+---- Quais contadores são relevantes? 

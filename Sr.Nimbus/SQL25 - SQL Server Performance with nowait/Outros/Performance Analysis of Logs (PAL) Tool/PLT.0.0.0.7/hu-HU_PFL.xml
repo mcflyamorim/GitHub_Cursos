@@ -1,0 +1,633 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Counters>
+    <counter><org>\Logikai lemez(</org><en>\Logical Disk(</en></counter>
+    <counter><org>\Lemezmeghajtó írási aránya (%)</org><en>\% Disk Write Time</en></counter>
+    <counter><org>\Üresjáratban eltöltött időhányad (%)</org><en>\% Idle Time</en></counter>
+    <counter><org>\Lemezvezérlő - olvasási várólista átlagos hossza</org><en>\Avg. Disk Read Queue Length</en></counter>
+    <counter><org>\Lemezvezérlő-várólista átlagos hossza</org><en>\Avg. Disk Queue Length</en></counter>
+    <counter><org>\Átlagos műveleti idő (mp/átvitel)</org><en>\Avg. Disk sec/Transfer</en></counter>
+    <counter><org>\Írási sebesség (bájt/mp)</org><en>\Disk Write Bytes/sec</en></counter>
+    <counter><org>\Olvasás gyakorisága (művelet/mp)</org><en>\Read Operations/sec</en></counter>
+    <counter><org>\Adatátvitel gyakorisága (művelet/mp)</org><en>\Disk Transfers/sec</en></counter>
+    <counter><org>\Szeletelt I/O gyakorisága (művelet/mp)</org><en>\Split IO/Sec</en></counter>
+    <counter><org>\Átviteli sebesség (bájt/mp)</org><en>\Disk Bytes/sec</en></counter>
+    <counter><org>\Átlagos olvasott adatmennyiség (bájt/olvasás)</org><en>\Avg. Disk Bytes/Read</en></counter>
+    <counter><org>\Szabad hely (%)</org><en>\% Free Space</en></counter>
+    <counter><org>\Lemezmeghajtó olvasási aránya (%)</org><en>\% Disk Read Time</en></counter>
+    <counter><org>\Átlagos olvasási idő (mp/olvasás)</org><en>\Avg. Disk sec/Read</en></counter>
+    <counter><org>\Lemezvezérlő - írási várólista átlagos hossza</org><en>\Avg. Disk Write Queue Length</en></counter>
+    <counter><org>\Olvasási sebesség (bájt/mp)</org><en>\Disk Read Bytes/sec</en></counter>
+    <counter><org>\Átlagos írási idő (mp/írás)</org><en>\Avg. Disk sec/Write</en></counter>
+    <counter><org>\Szabad hely (megabájt)</org><en>\Free Megabytes</en></counter>
+    <counter><org>\Átlagos írt adatmennyiség (bájt/írás)</org><en>\Avg. Disk Bytes/Write</en></counter>
+    <counter><org>\Lemezvárólista jelenlegi hossza</org><en>\Current Disk Queue Length</en></counter>
+    <counter><org>\Lemezmeghajtó kihasználtsága (%)</org><en>\% Disk Time</en></counter>
+    <counter><org>\Írás gyakorisága (művelet/mp)</org><en>\Disk Writes/sec</en></counter>
+    <counter><org>\Átlagos átvitt adatmennyiség (bájt/átvitel)</org><en>\Avg. Disk Bytes/Transfer</en></counter>
+    <counter><org>\Fizikai lemez(</org><en>\Physical Disk(</en></counter>
+    <counter><org>\Processzor(</org><en>\Processor(</en></counter>
+    <counter><org>\C2 átmenet /sec</org><en>\C2 Transitions/sec</en></counter>
+    <counter><org>\% C2 idő</org><en></en>\% C2 Time</counter>
+    <counter><org>\A processzor védett módú használatának aránya (%)</org><en>\% Privileged Time</en></counter>
+    <counter><org>\Megszakítások (megszakítás/mp)</org><en>\Interrupts/sec</en></counter>
+    <counter><org>\C3 átmenet /sec</org><en>\C3 Transitions/sec</en></counter>
+    <counter><org>\DPC-hívások előjegyzési gyakorisága (hívás/mp)</org><en>\DPCs Queued/sec</en></counter>
+    <counter><org>\DPC-hívások gyakorisága (hívás/óraütem)</org><en>\DPC Rate</en></counter>
+    <counter><org>\DPC-hívásokra fordított időhányad (%)</org><en>\% DPC Time</en></counter>
+    <counter><org>\C1 átmenet/sec</org><en>\C1 Transitions/sec</en></counter>
+    <counter><org>\Megszakítások kiszolgálására fordított időhányad (%)</org><en>\% Total Interrupt Time</en></counter>
+    <counter><org>\% C3 idő</org><en>\% C3 Time</en></counter>
+    <counter><org>\A processzor felhasználói módú használatának aránya (%)</org><en>\% User Time</en></counter>
+    <counter><org>\% C1 idő</org><en>\% C1 Time</en></counter>
+    <counter><org>\A processzor kihasználtsága (%)</org><en>\% Processor Time</en></counter>
+    <counter><org>\Memória</org><en>\Memory</en></counter>
+    <counter><org>\Lemezre írt lapok száma (lap/mp)</org><en>\Pages Output/sec</en></counter>
+    <counter><org>\Laphibák gyakorisága (hiba/mp)</org><en>\Page Faults/sec</en></counter>
+    <counter><org>\Lapozható készlet mérete (bájt)</org><en>\Pool Paged Bytes</en></counter>
+    <counter><org>\Foglalás gyakorisága lapozható készletből (művelet/mp)</org><en>\Pool Paged Allocs</en></counter>
+    <counter><org>\Szabad bejegyzések a rendszer laptáblázatában</org><en>\Free System Page Table Entries</en></counter>
+    <counter><org>\Rendelkezésre álló memória (kilobájt)</org><en>\Available KBytes</en></counter>
+    <counter><org>\Előjegyzett memória kihasználtsága (%)</org><en>\% Committed Bytes In Use</en></counter>
+    <counter><org>\Rezidens rendszerkód (bájt)</org><en></en>\System Code Resident Bytes</counter>
+    <counter><org>\Gyorsítótárhibák (hiba/mp)</org><en>\Cache Faults/sec</en></counter>
+    <counter><org>\Lapkezelő lemezírási gyakorisága (művelet/mp)</org><en>\Page Writes/sec</en></counter>
+    <counter><org>\Lapolvasások száma (művelet/mp)</org><en>\Page Reads/sec</en></counter>
+    <counter><org>\Visszaállított lapok (lap/mp)</org><en>\Transition Faults/sec</en></counter>
+    <counter><org>\Módosításkor másolt lapok (lap/mp)</org><en>\Write Copies/sec</en></counter>
+    <counter><org>\Nullázottlap-hiba (laphiba/mp)</org><en>\Demand Zero Faults/sec</en></counter>
+    <counter><org>\Gyorsítótár jelenlegi mérete (bájt)</org><en>\Cache Bytes</en></counter>
+    <counter><org>\Teljes rendszerkód (bájt)</org><en>\System Code Total Bytes</en></counter>
+    <counter><org>\Rendelkezésre álló memória (megabájt)</org><en>\Available MBytes</en></counter>
+    <counter><org>\Rezidens lapozható készlet (bájt)</org><en>\Pool Paged Resident Bytes</en></counter>
+    <counter><org>\Rezidens gyorsítótár (bájt)</org><en>\System Cache Resident Bytes</en></counter>
+    <counter><org>\Gyorsítótár maximális mérete (bájt)</org><en>\Cache Bytes Peak</en></counter>
+    <counter><org>\Előjegyzési küszöb (bájt)</org><en>\Commit Limit</en></counter>
+    <counter><org>\Lemezről beolvasott lapok száma (lap/mp)</org><en>\Pages Input/sec</en></counter>
+    <counter><org>\Teljes rendszerillesztő-memória (bájt)</org><en>\System Driver Total Bytes</en></counter>
+    <counter><org>\Előjegyzett memória (bájt)</org><en>\Committed Bytes</en></counter>
+    <counter><org>\Rendelkezésre álló memória (bájt)</org><en>\Available Bytes</en></counter>
+    <counter><org>\Nem lapozható készlet mérete (bájt)</org><en>\Pool Nonpaged Bytes</en></counter>
+    <counter><org>\Rezidens rendszerillesztő-memória (bájt)</org><en>\System Driver Resident Bytes</en></counter>
+    <counter><org>\Mozgatott lapok (lap/sec)</org><en>\Pages/Sec</en></counter>
+    <counter><org>\Foglalás gyakorisága nem lapozható készletből (művelet/mp)</org><en>\Pool Nonpaged Allocs</en></counter>
+    <counter><org>\Folyamat(</org><en>\Process(</en></counter>
+    <counter><org>\Folyamat azonosítója (ID)</org><en>\ID Process</en></counter>
+    <counter><org>\I/O - egyéb (bájt/mp)</org><en>\IO Other Bytes/sec</en></counter>
+    <counter><org>\Létrehozó folyamat azonosítója</org><en>\Creating Process ID</en></counter>
+    <counter><org>\Felhasznált leírók száma</org><en>\Handle Count</en></counter>
+    <counter><org>\Alapprioritás</org><en>\Priority Base</en></counter>
+    <counter><org>\I/O - egyéb (művelet/mp)</org><en>\IO Other Operations/sec</en></counter>
+    <counter><org>\Aktív végrehajtási szálak</org><en>\Thread Count</en></counter>
+    <counter><org>\Maximális lapozófálj-használat (bájt)</org><en>\Page File Bytes Peak</en></counter>
+    <counter><org>\Munkakészlet jelenlegi mérete (bájt)</org><en>\Working Set</en></counter>
+    <counter><org>\Felhasznált virtuális memória jelenlegi mérete (bájt)</org><en>\Virtual Bytes</en></counter>
+    <counter><org>\Végrehajtási idő (mp)</org><en>\Elapsed Time</en></counter>
+    <counter><org>\Saját [nem megosztható] memória (bájt)</org><en>\Private Bytes</en></counter>
+    <counter><org>\I/O - írás (művelet/mp)</org><en>\IO Write Operations/sec</en></counter>
+    <counter><org>\Felhasznált virtuális memória maximális mérete (bájt)</org><en>\Virtual Bytes Peak</en></counter>
+    <counter><org>\Jelenlegi lapozófájl-használat (bájt)</org><en>\Page File Bytes</en></counter>
+    <counter><org>\I/O - adatátvitel (művelet/mp)</org><en>\IO Data Operations/sec</en></counter>
+    <counter><org>\I/O - olvasás (bájt/mp)</org><en>\IO Read Bytes/sec</en></counter>
+    <counter><org>\I/O - adatátvitel (bájt/mp)</org><en>\IO Data Bytes/sec</en></counter>
+    <counter><org>\I/O - írás (bájt/mp)</org><en>\IO Write Bytes/sec</en></counter>
+    <counter><org>\I/O - olvasás (művelet/mp)</org><en>\IO Read Operations/sec</en></counter>
+    <counter><org>\Munkakészlet maximális mérete (bájt)</org><en>\Working Set Peak</en></counter>
+    <counter><org>\Lapozófájl(</org><en>\Paging File(</en></counter>
+    <counter><org>\A lapozófájl maximális kihasználtsága (%)</org><en>\% Usage Peak</en></counter>
+    <counter><org>\Lapozófájl kihasználtsága (%)</org><en>\% Usage</en></counter>
+    <counter><org>\Gyorsítótár</org><en>\Cache</en></counter>
+    <counter><org>\Másolásos olvasások találati aránya (%)</org><en>\Copy Read Hits</en></counter>
+    <counter><org>\Lustaírási pufferürítések (művelet/mp)</org><en>\Lazy Write Flushes/sec</en></counter>
+    <counter><org>\Gyorsítótár-találatok aránya (%)</org><en>\Data Map Hits %</en></counter>
+    <counter><org>\Szinkron módon betöltött lapok (lap/mp)</org><en>\Sync Data Maps/sec</en></counter>
+    <counter><org>\Lustaírási lapok (lap/mp)</org><en>\Lazy Write Pages/sec</en></counter>
+    <counter><org>\Betöltött lapok (lap/mp)</org><en>\Data Maps/sec</en></counter>
+    <counter><org>\Gyorsítótár kiürítésének sebessége (lap/mp)</org><en>\Data Flush Pages/sec</en></counter>
+    <counter><org>\Aszinkron módon betöltött lapok (lap/mp)</org><en>\Async Data Maps/sec</en></counter>
+    <counter><org>\Aszinkron rögzített beolvasások (lap/mp)</org><en>\Async Pin Reads/sec</en></counter>
+    <counter><org>\Gyorsítótár kiürítésének gyakorisága (művelet/mp)</org><en>\Data Flushes/sec</en></counter>
+    <counter><org>\MDL alapú olvasások találati aránya (%)</org><en>\MDL Read Hits %</en></counter>
+    <counter><org>\Rögzített beolvasások (lap/mp)</org><en>\Pin Reads/sec</en></counter>
+    <counter><org>\Erőforráshiány miatti sikertelen gyorsolvasások (hiba/mp)</org><en>\Fast Read Resource Misses/sec</en></counter>
+    <counter><org>\Szinkron másolásos olvasás gyakorisága (olvasás/mp)</org><en>\Sync Copy Reads/sec</en></counter>
+    <counter><org>\Aszinkron másolásos olvasás gyakorisága (olvasás/mp)</org><en>\Async Copy Reads/sec</en></counter>
+    <counter><org>\Másolásos olvasás gyakorisága (olvasás/mp)</org><en>\Copy Reads/sec</en></counter>
+    <counter><org>\Aszinkron MDL alapú olvasások (művelet/mp)</org><en>\Async MDL Reads/sec</en></counter>
+    <counter><org>\Aszinkron gyorsolvasások (olvasás/mp)</org><en>\Async Fast Reads/sec</en></counter>
+    <counter><org>\Szinkron rögzített beolvasások (lap/mp)</org><en>\Sync Pin Reads/sec</en></counter>
+    <counter><org>\Rögzített adatleképzések (lap/mp)</org><en>\Data Map Pins/sec</en></counter>
+    <counter><org>\Teljesíthetetlen gyorsolvasási kérések (hiba/mp)</org><en>\Fast Read Not Possibles/sec</en></counter>
+    <counter><org>\Szinkron MDL alapú olvasások (művelet/mp)</org><en>\Sync MDL Reads/sec</en></counter>
+    <counter><org>\Szinkron gyorsolvasások (olvasás/mp)</org><en>\Sync Fast Reads/sec</en></counter>
+    <counter><org>\MDL alapú olvasások (művelet/mp)</org><en>\MDL Reads/sec</en></counter>
+    <counter><org>\Rögzített beolvasások találati aránya (%)</org><en>\Pin Read Hits %</en></counter>
+    <counter><org>\Gyorsolvasások (művelet/mp)</org><en>\Fast Reads/sec</en></counter>
+    <counter><org>\Előreolvasások (művelet/mp)</org><en>\Read Aheads/sec</en></counter>
+    <counter><org>\Hálózati kapcsolat(</org><en>\Network Interface(</en></counter>
+    <counter><org>\Csomagküldési sebesség (csomag/mp)</org><en>\Packets Sent/sec</en></counter>
+    <counter><org>\Csomagátvitel sebessége (csomag/mp)</org><en>\Packets/sec</en></counter>
+    <counter><org>\Ismeretlen típusú beérkezett csomagok</org><en>\Packets Received Unknown</en></counter>
+    <counter><org>\Beérkezett csomagok (csomag/mp)</org><en>\Packets Received/sec</en></counter>
+    <counter><org>\Egyedi címzésű csomagküldési sebesség (csomag/mp)</org><en>\Packets Sent Unicast/sec</en></counter>
+    <counter><org>\Elvetett kimenő csomagok</org><en>\Packets Outbound Discarded</en></counter>
+    <counter><org>\Küldési sebesség (bájt/mp)</org><en>\Data Transmitted/sec</en></counter>
+    <counter><org>\Elvetett beérkezett csomagok</org><en>\Packets Received Discarded</en></counter>
+    <counter><org>\Nyers olvasási sebesség (bájt/mp)</org><en>\Bytes Received/sec</en></counter>
+    <counter><org>\Hibás beérkezett csomagok</org><en>\Packets Received Errors</en></counter>
+    <counter><org>\Egyedi címzésű csomagok érkezési gyakorisága (csomag/mp)</org><en>\Packets Received Unicast/sec</en></counter>
+    <counter><org>\Nyers feldolgozási sebesség (bájt/mp)</org><en>\Bytes Total/sec</en></counter>
+    <counter><org>\Küldési várólista hossza</org><en>\Output Queue Length</en></counter>
+    <counter><org>\Pillanatnyi sávszélesség (bit/mp)</org><en>\Current Bandwidth</en></counter>
+    <counter><org>\Hibás kimenő csomagok</org><en>\Packets Outbound Errors</en></counter>
+    <counter><org>\Nem egyedi címzésű csomagküldési sebesség (csomag/mp)</org><en>\Packets Sent Non-Unicast/sec</en></counter>
+    <counter><org>\Kiszolgáló</org><en>\Server</en></counter>
+    <counter><org>\Kiszolgálói munkamenetek száma</org><en>\Server Sessions</en></counter>
+    <counter><org>\Címjegyzék ügyfélmunkamenetei</org><en>\AB Client Sessions</en></counter>
+    <counter><org>\DRA - folyamatban lévő replikációs szinkronizálások</org><en>\DRA Pending Replication Synchronizations</en></counter>
+    <counter><org>\DRA - Függő replikációs műveletek</org><en>\DRA Pending Replication Operations</en></counter>
+    <counter><org>\Kerberos-hitelesítés</org><en>\Kerberos Authentications</en></counter>
+    <counter><org>\LDAP aktív szálak</org><en>\LDAP Active Threads</en></counter>
+    <counter><org>\LDAP kötési ideje</org><en>\LDAP Bind Time</en></counter>
+    <counter><org>\LDAP-ügyfélmunkamenetek</org><en>\LDAP Client Sessions</en></counter>
+    <counter><org>\LDAP-keresések/mp</org><en>\LDAP Searches/sec</en></counter>
+    <counter><org>\Rendszer</org><en>\System</en></counter>
+    <counter><org>\Fájlolvasási gyakoriság (művelet/mp)</org><en>\File Read Operations/sec</en></counter>
+    <counter><org>\Fájlírási gyakoriság (művelet/mp)</org><en>\File Write Operations/sec</en></counter>
+    <counter><org>\Fájlvezérlési gyakoriság (művelet/mp)</org><en>\File Control Operations/sec</en></counter>
+    <counter><org>\Fájlolvasási sebesség (bájt/mp)</org><en>\File Read Bytes/sec</en></counter>
+    <counter><org>\Fájlírási sebesség (bájt/mp)</org><en>\File Write Bytes/sec</en></counter>
+    <counter><org>\Fájlvezérlési sebesség (bájt/mp)</org><en>\File Control Bytes/sec</en></counter>
+    <counter><org>\Mozgatott lapok (lap/sec)</org><en>\Pages/sec</en></counter>
+    <counter><org>\Processzor-várólista hossza</org><en>\Processor Queue Length</en></counter>
+    <counter><org>\Szálállapot</org><en>\Thread State</en></counter>
+    <counter><org>\Tallózó</org><en>\Browser</en></counter>
+    <counter><org>\Kiszolgálói körüzenetek (üzenet/mp)</org><en>\Announcements Server/sec</en></counter>
+    <counter><org>\Rezidens rendszerkód (bájt)</org><en>\System Code Resident Bytes</en></counter>
+    <counter><org>\Tartományi körüzenetek (üzenet/mp)</org><en>\Announcements Domain/sec</en></counter>
+    <counter><org>\Választási csomagok (csomag/mp)</org><en>\Election Packets/sec</en></counter>
+    <counter><org>\Mailslot-üzenetek írása (üzenet/mp)</org><en>\Mailslot Writes/sec</en></counter>
+    <counter><org>\Kiszolgálólista-kérések (kérés/mp)</org><en>\Server List Requests/sec</en></counter>
+    <counter><org>\Másolásos olvasások találati aránya (%)</org><en>\Copy Read Hits %</en></counter>
+    <counter><org>\Kontextusváltások (művelet/mp)</org><en>\Context Switches/sec</en></counter>
+    <counter><org>\Rendszerhívások (hívás/mp)</org><en>\System Calls/sec</en></counter>
+    <counter><org>\Egylépéses TLB-betöltés (kérés/mp)</org><en>\Level 1 TLB Fills/sec</en></counter>
+    <counter><org>\Kétlépéses TLB-betöltés (kérés/mp)</org><en>\Level 2 TLB Fills/sec</en></counter>
+    <counter><org>\Kiszolgálói tallózókérelmek (kérelem/mp)</org><en>\Enumerations Server/sec</en></counter>
+    <counter><org>\Tartományi tallózókérelmek (kérelem/mp)</org><en>\Enumerations Domain/sec</en></counter>
+    <counter><org>\Egyéb tallózókérelmek (kérelem/mp)</org><en>\Enumerations Other/sec</en></counter>
+    <counter><org>\Elveszett kiszolgáló körüzenetek száma</org><en>\Missed Server Announcements</en></counter>
+    <counter><org>\Elveszett mailslot-üzenetek száma</org><en>\Missed Mailslot Datagrams</en></counter>
+    <counter><org>\Nem teljesített kiszolgálólista-kérelmek száma</org><en>\Missed Server List Requests</en></counter>
+    <counter><org>\Sikertelen memóriafoglalású kiszolgálói körüzenetek gyakorisága (hiba/mp)</org><en>\Server Announce Allocations Failed/sec</en></counter>
+    <counter><org>\Sikertelen memóriafoglalású mailslot-üzenetek</org><en>\Mailslot Allocations Failed</en></counter>
+    <counter><org>\Körüzenetek gyakorisága (körüzenet/mp)</org><en>\Announcements Total/sec</en></counter>
+    <counter><org>\Összes tallózó-kérelem (kérelem/mp)</org><en>\Enumerations Total/sec</en></counter>
+    <counter><org>\Olvasás gyakorisága (művelet/mp)</org><en>\Disk Reads/sec</en></counter>
+    <counter><org>\Folyamat</org><en>\Process</en></counter>
+    <counter><org>\Végrehajtási szál</org><en>\Thread</en></counter>
+    <counter><org>\Fizikai lemez</org><en>\PhysicalDisk</en></counter>
+    <counter><org>\Logikai lemez</org><en>\LogicalDisk</en></counter>
+    <counter><org>\Processzor</org><en>\Processor</en></counter>
+    <counter><org>\A rendszer processzorainak kihasználtsága (%)</org><en>\% Total Processor Time</en></counter>
+    <counter><org>\A processzorok felhasználói módú használatának aránya (%)</org><en>\% Total User Time</en></counter>
+    <counter><org>\A processzorok védett módú használatának aránya (%)</org><en>\% Total Privileged Time</en></counter>
+    <counter><org>\Összesített megszakításkezelés (megszakítás/mp)</org><en>\Total Interrupts/sec</en></counter>
+    <counter><org>\Folyamatok</org><en>\Processes</en></counter>
+    <counter><org>\Végrehajtási szálak</org><en>\Threads</en></counter>
+    <counter><org>\Események</org><en>\Events</en></counter>
+    <counter><org>\Szemaforok</org><en>\Semaphores</en></counter>
+    <counter><org>\Mutexek</org><en>\Mutexes</en></counter>
+    <counter><org>\Szakaszok</org><en>\Sections</en></counter>
+    <counter><org>\Objektumok</org><en>\Objects</en></counter>
+    <counter><org>\Átirányító</org><en>\Redirector</en></counter>
+    <counter><org>\Olvasás a lapozófájlból (bájt/mp)</org><en>\Read Bytes Paging/sec</en></counter>
+    <counter><org>\Olvasás fájlokból (bájt/mp)</org><en>\Read Bytes Non-Paging/sec</en></counter>
+    <counter><org>\Olvasás gyorsítótárból (bájt/mp)</org><en>\Read Bytes Cache/sec</en></counter>
+    <counter><org>\Olvasás hálózatról (bájt/mp)</org><en>\Read Bytes Network/sec</en></counter>
+    <counter><org>\Nyers küldési sebesség (bájt/mp)</org><en>\Bytes Transmitted/sec</en></counter>
+    <counter><org>\Csomagküldési sebesség (csomag/mp)</org><en>\Packets Transmitted/sec</en></counter>
+    <counter><org>\Írás a lapozófájlba (bájt/mp)</org><en>\Write Bytes Paging/sec</en></counter>
+    <counter><org>\Írás fájlokba (bájt/mp)</org><en>\Write Bytes Non-Paging/sec</en></counter>
+    <counter><org>\Írás gyorsítótárba (bájt/mp)</org><en>\Write Bytes Cache/sec</en></counter>
+    <counter><org>\Írás hálózatra (bájt/mp)</org><en>\Write Bytes Network/sec</en></counter>
+    <counter><org>\Tetszőleges sorrendű olvasás gyakorisága (művelet/mp)</org><en>\Read Operations Random/sec</en></counter>
+    <counter><org>\Csomagolvasási sebesség (csomag/mp)</org><en>\Read Packets/sec</en></counter>
+    <counter><org>\Nagyméretű olvasások (művelet/mp)</org><en>\Reads Large/sec</en></counter>
+    <counter><org>\Kisméretű olvasások (művelet/mp)</org><en>\Read Packets Small/sec</en></counter>
+    <counter><org>\Írási gyakorisága (művelet/mp)</org><en>\Write Operations/sec</en></counter>
+    <counter><org>\Tetszőleges sorrendű írás gyakorisága (művelet/mp)</org><en>\Write Operations Random/sec</en></counter>
+    <counter><org>\Csomagok írási sebessége (csomag/mp)</org><en>\Write Packets/sec</en></counter>
+    <counter><org>\Nagyméretű írások (művelet/mp)</org><en>\Writes Large/sec</en></counter>
+    <counter><org>\Kisméretű írások (művelet/mp)</org><en>\Write Packets Small/sec</en></counter>
+    <counter><org>\Olvasás elutasítása (művelet/mp)</org><en>\Reads Denied/sec</en></counter>
+    <counter><org>\Írás elutasítása (művelet/mp)</org><en>\Writes Denied/sec</en></counter>
+    <counter><org>\Hálózathibák (hiba/mp)</org><en>\Network Errors/sec</en></counter>
+    <counter><org>\Kiszolgálói újrakapcsolódások száma</org><en>\Server Reconnects</en></counter>
+    <counter><org>\SMB protokollú kapcsolatok</org><en>\Connects Core</en></counter>
+    <counter><org>\Lan Manager 2.0 alapú kapcsolatok</org><en>\Connects Lan Manager 2.0</en></counter>
+    <counter><org>\Lan Manager 2.1 alapú kapcsolatok</org><en>\Connects Lan Manager 2.1</en></counter>
+    <counter><org>\Windows NT alapú kapcsolatok</org><en>\Connects Windows NT</en></counter>
+    <counter><org>\Kiszolgálói kapcsolatbontások száma</org><en>\Server Disconnects</en></counter>
+    <counter><org>\Megszakadt kiszolgálókapcsolatok</org><en>\Server Sessions Hung</en></counter>
+    <counter><org>\Szál várakozásának oka</org><en>\Thread Wait Reason</en></counter>
+    <counter><org>\Időtúllépés miatt megszakadt munkamenetek</org><en>\Sessions Timed Out</en></counter>
+    <counter><org>\Hiba miatt megszakadt munkamenetek</org><en>\Sessions Errored Out</en></counter>
+    <counter><org>\Hibátlanul lezárt munkamenetek</org><en>\Sessions Logged Off</en></counter>
+    <counter><org>\Kényszerrel megszakított munkamenetek</org><en>\Sessions Forced Off</en></counter>
+    <counter><org>\Hibás bejelentkezési kísérletek</org><en>\Errors Logon</en></counter>
+    <counter><org>\Elutasított fájlműveletek</org><en>\Errors Access Permissions</en></counter>
+    <counter><org>\Nyitott fájlokra vonatkozó elutasított fájlműveletek</org><en>\Errors Granted Access</en></counter>
+    <counter><org>\Belső hibák</org><en>\Errors System</en></counter>
+    <counter><org>\Elutasított zárolási kísérletek</org><en>\Blocking Requests Rejected</en></counter>
+    <counter><org>\Munkaelemhiány</org><en>\Work Item Shortages</en></counter>
+    <counter><org>\Végrehajtott fájlmegnyitási műveletek</org><en>\Files Opened Total</en></counter>
+    <counter><org>\Jelenleg megnyitott fájlok</org><en>\Files Open</en></counter>
+    <counter><org>\Futó könyvtárkeresési műveletek</org><en>\File Directory Searches</en></counter>
+    <counter><org>\Sikertelen memóriafoglalások (nem lapozható)</org><en>\Pool Nonpaged Failures</en></counter>
+    <counter><org>\Felhasznált nem lapozható memória maximuma (bájt)</org><en>\Pool Nonpaged Peak</en></counter>
+    <counter><org>\Sikertelen memóriafoglalások (lapozható)</org><en>\Pool Paged Failures</en></counter>
+    <counter><org>\Felhasznált lapozható memória maximuma (bájt)</org><en>\Pool Paged Peak</en></counter>
+    <counter><org>\Kiszolgálásra váró kérések</org><en>\Current Commands</en></counter>
+    <counter><org>\Várólistába állított környezetleíró blokkok (blokk/mp)</org><en>\Context Blocks Queued/sec</en></counter>
+    <counter><org>\Fájlírási és -olvasási műveletek (művelet/mp)</org><en>\File Data Operations/sec</en></counter>
+    <counter><org>\Élő hálózati kapcsolatok</org><en>\Connections Open</en></counter>
+    <counter><org>\Hiba nélkül felépített kapcsolatok</org><en>\Connections No Retries</en></counter>
+    <counter><org>\Többszöri próbálkozással felépített kapcsolatok</org><en>\Connections With Retries</en></counter>
+    <counter><org>\Helyi gép által bontott kapcsolatok</org><en>\Disconnects Local</en></counter>
+    <counter><org>\Távoli gép által bontott kapcsolatok</org><en>\Disconnects Remote</en></counter>
+    <counter><org>\Kapcsolathiba miatt bontott kapcsolatok</org><en>\Failures Link</en></counter>
+    <counter><org>\Hálózati adapter hibája miatt bontott kapcsolatok</org><en>\Failures Adapter</en></counter>
+    <counter><org>\Időtúllépés miatt bontott kapcsolatok</org><en>\Connection Session Timeouts</en></counter>
+    <counter><org>\Megszakított kapcsolatok</org><en>\Connections Canceled</en></counter>
+    <counter><org>\Távoli erőforrás hibája miatt bontott kapcsolatok</org><en>\Failures Resource Remote</en></counter>
+    <counter><org>\Helyi erőforrás hibája miatt bontott kapcsolatok</org><en>\Failures Resource Local</en></counter>
+    <counter><org>\A hívott gép hiánya miatt elutasított kapcsolatok</org><en>\Failures Not Found</en></counter>
+    <counter><org>\A hívott gép válaszának hiányában elutasított kapcsolatok</org><en>\Failures No Listen</en></counter>
+    <counter><org>\Datagramátvitel sebessége (datagram/mp)</org><en>\Datagrams/sec</en></counter>
+    <counter><org>\Datagramátviteli adatsebesség (bájt/mp)</org><en>\Datagram Bytes/sec</en></counter>
+    <counter><org>\Datagramküldési sebesség (datagram/mp)</org><en>\Datagrams Sent/sec</en></counter>
+    <counter><org>\Datagramküldési adatsebesség (bájt/mp)</org><en>\Datagram Bytes Sent/sec</en></counter>
+    <counter><org>\Datagramfogadási sebesség (datagram/mp)</org><en>\Datagrams Received/sec</en></counter>
+    <counter><org>\Datagramfogadási adatsebesség (bájt/mp)</org><en>\Datagram Bytes Received/sec</en></counter>
+    <counter><org>\Keretátviteli sebesség (keret/mp)</org><en>\Frames/sec</en></counter>
+    <counter><org>\Keretátviteli adatsebesség (bájt/mp)</org><en>\Frame Bytes/sec</en></counter>
+    <counter><org>\Keretküldési sebesség (keret/mp)</org><en>\Frames Sent/sec</en></counter>
+    <counter><org>\Keretküldési adatsebesség (bájt/mp)</org><en>\Frame Bytes Sent/sec</en></counter>
+    <counter><org>\Keretfogadási sebesség (keret/mp)</org><en>\Frames Received/sec</en></counter>
+    <counter><org>\Keretfogadási adatsebesség (bájt/mp)</org><en>\Frame Bytes Received/sec</en></counter>
+    <counter><org>\Keret-újraküldési gyakoriság (keret/mp)</org><en>\Frames Re-Sent/sec</en></counter>
+    <counter><org>\Keret-újraküldési adatsebesség (bájt/mp)</org><en>\Frame Bytes Re-Sent/sec</en></counter>
+    <counter><org>\Keretek elutasításának gyakorisága (keret/mp)</org><en>\Frames Rejected/sec</en></counter>
+    <counter><org>\Keretekben elutasított adatok (bájt/mp)</org><en>\Frame Bytes Rejected/sec</en></counter>
+    <counter><org>\Elkésett válaszok gyakorisága (válasz/mp)</org><en>\Expirations Response</en></counter>
+    <counter><org>\Elkésett nyugták gyakorisága (nyugta/mp)</org><en>\Expirations Ack</en></counter>
+    <counter><org>\Maximális küldési ablakméret (bájt)</org><en>\Window Send Maximum</en></counter>
+    <counter><org>\Átlagos küldési ablakméret (bájt)</org><en>\Window Send Average</en></counter>
+    <counter><org>\Hozzákapcsolt nyugták (nyugta/mp)</org><en>\Piggyback Ack Queued/sec</en></counter>
+    <counter><org>\Lekésett hozzákapcsolt nyugták (nyugta/mp)</org><en>\Piggyback Ack Timeouts</en></counter>
+    <counter><org>\NetBEUI-erőforrás</org><en>\NetBEUI Resource</en></counter>
+    <counter><org>\Felhasznált erőforrások maximális száma</org><en>\Used Maximum</en></counter>
+    <counter><org>\Felhasznált erőforrások átlagos száma</org><en>\Used Average</en></counter>
+    <counter><org>\Határterhelési esetek száma</org><en>\Times Exhausted</en></counter>
+    <counter><org>\NBT-kapcsolatok</org><en>\NBT Connection</en></counter>
+    <counter><org>\Küldési sebesség (bájt/mp)</org><en>\Bytes Sent/sec</en></counter>
+    <counter><org>\Nyers átviteli sebesség (bájt/mp)</org><en>\Total Bytes/sec</en></counter>
+    <counter><org>\Hálózati kapcsolat</org><en>\Network Interface</en></counter>
+    <counter><org>\Nyers átviteli sebesség (bájt/mp)</org><en>\Bytes/sec</en></counter>
+    <counter><org>\Nem egyedi címzésű csomagok érkezési gyakorisága (csomag/mp)</org><en>\Packets Received Non-Unicast/sec</en></counter>
+    <counter><org>\Beérkezett datagram - fejléchibák</org><en>\Datagrams Received Header Errors</en></counter>
+    <counter><org>\Beérkezett datagram - címhibák</org><en>\Datagrams Received Address Errors</en></counter>
+    <counter><org>\Datagramtovábbítási sebesség (datagram/mp)</org><en>\Datagrams Forwarded/sec</en></counter>
+    <counter><org>\Beérkezett datagram - ismeretlen protokoll</org><en>\Datagrams Received Unknown Protocol</en></counter>
+    <counter><org>\Beérkezett datagram - elvetve</org><en>\Datagrams Received Discarded</en></counter>
+    <counter><org>\Datagramfeldolgozási sebesség (datagram/mp)</org><en>\Datagrams Received Delivered/sec</en></counter>
+    <counter><org>\Kimenő datagram - elvetve</org><en>\Datagrams Outbound Discarded</en></counter>
+    <counter><org>\Kimenő datagram - nincs útvonal a célhoz</org><en>\Datagrams Outbound No Route</en></counter>
+    <counter><org>\Beérkezett darabok (darab/mp)</org><en>\Fragments Received/sec</en></counter>
+    <counter><org>\Összeállított darabok (darab/mp)</org><en>\Fragments Re-assembled/sec</en></counter>
+    <counter><org>\Összeállítási hibák</org><en>\Fragment Re-assembly Failures</en></counter>
+    <counter><org>\Darabolt datagramok küldési sebessége (darab/mp)</org><en>\Fragmented Datagrams/sec</en></counter>
+    <counter><org>\Darabolási hibák</org><en>\Fragmentation Failures</en></counter>
+    <counter><org>\Darabolási sebesség (darab/mp)</org><en>\Fragments Created/sec</en></counter>
+    <counter><org>\Üzenetátviteli sebesség (üzenet/mp)</org><en>\Messages/sec</en></counter>
+    <counter><org>\Üzenetfogadási sebesség (üzenet/mp)</org><en>\Messages Received/sec</en></counter>
+    <counter><org>\Beérkezett üzenetek - hibák</org><en>\Messages Received Errors</en></counter>
+    <counter><org>\Beérkezett "Dest. Unreachable" üzenetek</org><en>\Received Dest. Unreachable</en></counter>
+    <counter><org>\Beérkezett "Time Exceeded" üzenetek</org><en>\Received Time Exceeded</en></counter>
+    <counter><org>\Beérkezett "Parameter Problem" üzenetek</org><en>\Received Parameter Problem</en></counter>
+    <counter><org>\Beérkezett "Source Quench" üzenetek</org><en>\Received Source Quench</en></counter>
+    <counter><org>\"Redirect" fogadásának gyakorisága (üzenet/mp)</org><en>\Received Redirect/sec</en></counter>
+    <counter><org>\"Echo" fogadásának gyakorisága (üzenet/mp)</org><en>\Received Echo/sec</en></counter>
+    <counter><org>\"Echo Reply" fogadásának gyakorisága (üzenet/mp)</org><en>\Received Echo Reply/sec</en></counter>
+    <counter><org>\"Timestamp" fogadásának gyakorisága (üzenet/mp)</org><en>\Received Timestamp/sec</en></counter>
+    <counter><org>\"Timestamp Reply" fogadásának gyakorisága (üzenet/mp)</org><en>\Received Timestamp Reply/sec</en></counter>
+    <counter><org>\Beérkezett "Address Mask" üzenetek</org><en>\Received Address Mask</en></counter>
+    <counter><org>\Beérkezett "Address Mask Reply" üzenetek</org><en>\Received Address Mask Reply</en></counter>
+    <counter><org>\Üzenetküldési sebesség (üzenet/mp)</org><en>\Messages Sent/sec</en></counter>
+    <counter><org>\Hibás kimenő üzenetek</org><en>\Messages Outbound Errors</en></counter>
+    <counter><org>\Küldött "Dest. Unreachable" üzenetek</org><en>\Sent Destination Unreachable</en></counter>
+    <counter><org>\Küldött "Time Exceeded" üzenetek</org><en>\Sent Time Exceeded</en></counter>
+    <counter><org>\Küldött "Parameter Problem" üzenetek</org><en>\Sent Parameter Problem</en></counter>
+    <counter><org>\Küldött "Source Quench" üzenetek</org><en>\Sent Source Quench</en></counter>
+    <counter><org>\Küldött "Redirect" üzenetek</org><en>\Sent Redirect/sec</en></counter>
+    <counter><org>\"Echo" küldésének gyakorisága (üzenet/mp)</org><en>\Sent Echo/sec</en></counter>
+    <counter><org>\"Echo Reply" küldésének gyakorisága (üzenet/mp)</org><en>\Sent Echo Reply/sec</en></counter>
+    <counter><org>\"Timestamp" küldésének gyakorisága (üzenet/mp)</org><en>\Sent Timestamp/sec</en></counter>
+    <counter><org>\"Timestamp Reply" küldésének gyakorisága (üzenet/mp)</org><en>\Sent Timestamp Reply/sec</en></counter>
+    <counter><org>\Küldött "Address Mask" üzenetek</org><en>\Sent Address Mask</en></counter>
+    <counter><org>\Küldött "Address Mask Reply" üzenetek</org><en>\Sent Address Mask Reply</en></counter>
+    <counter><org>\Nyers szegmensküldési sebesség (szegmens/mp)</org><en>\Segments/sec</en></counter>
+    <counter><org>\Kapcsolatok - sikeresen felépített</org><en>\Connections Established</en></counter>
+    <counter><org>\Kapcsolatok - aktív</org><en>\Connections Active</en></counter>
+    <counter><org>\Kapcsolatok - passzív</org><en>\Connections Passive</en></counter>
+    <counter><org>\Kapcsolatok - kapcsolatépítési hibák</org><en>\Connection Failures</en></counter>
+    <counter><org>\Kapcsolatok - lezárt</org><en>\Connections Reset</en></counter>
+    <counter><org>\Szegmensek fogadási sebessége (szegmens/mp)</org><en>\Segments Received/sec</en></counter>
+    <counter><org>\Szegmensek küldési sebessége (szegmens/mp)</org><en>\Segments Sent/sec</en></counter>
+    <counter><org>\Szegmensek újraküldési sebessége (szegmens/mp)</org><en>\Segments Retransmitted/sec</en></counter>
+    <counter><org>\DPC-hívásokra fordított időhányad (%)</org><en>\% Total DPC Time</en></counter>
+    <counter><org>\Feldolgozatlan datagramok gyakorisága (datagram/mp)</org><en>\Datagrams No Port/sec</en></counter>
+    <counter><org>\Beérkezett hibás datagramok</org><en>\Datagrams Received Errors</en></counter>
+    <counter><org>\Lemezegység</org><en>\Disk Storage Unit</en></counter>
+    <counter><org>\Foglalási hibák</org><en>\Allocation Failures</en></counter>
+    <counter><org>\Rendszerindítás óta eltelt idő (mp)</org><en>\System Up Time</en></counter>
+    <counter><org>\Jelenleg használt rendszerleírók száma</org><en>\System Handle Count</en></counter>
+    <counter><org>\Kijavított igazítási hibák (javítás/mp)</org><en>\Alignment Fixups/sec</en></counter>
+    <counter><org>\Kivételkezelési sebesség (kivétel/mp)</org><en>\Exception Dispatches/sec</en></counter>
+    <counter><org>\Lebegőpontos emuláció sebessége (emuláció/mp)</org><en>\Floating Emulations/sec</en></counter>
+    <counter><org>\Bejelentkezési kísérletek gyakorisága (bejelentkezés/mp)</org><en>\Logon/sec</en></counter>
+    <counter><org>\Jelenlegi prioritás</org><en>\Priority Current</en></counter>
+    <counter><org>\Megszakítások kiszolgálására fordított időhányad (%)</org><en>\% Interrupt Time</en></counter>
+    <counter><org>\Lapozófájl</org><en>\Paging File</en></counter>
+    <counter><org>\A szál kezdőcíme</org><en>\Start Address</en></counter>
+    <counter><org>\Felhasználói programszámláló</org><en>\User PC</en></counter>
+    <counter><org>\Lefoglalt címtartomány [hozzáférés tiltva]</org><en>\Mapped Space No Access</en></counter>
+    <counter><org>\Lefoglalt címtartomány [csak olvasható]</org><en>\Mapped Space Read Only</en></counter>
+    <counter><org>\Lefoglalt címtartomány [írható/olvasható]</org><en>\Mapped Space Read/Write</en></counter>
+    <counter><org>\Lefoglalt címtartomány [módosításkor másolt]</org><en>\Mapped Space Write Copy</en></counter>
+    <counter><org>\Lefoglalt címtartomány [futtatható]</org><en>\Mapped Space Executable</en></counter>
+    <counter><org>\Lefoglalt címtartomány [futtatható és írásvédett]</org><en>\Mapped Space Exec Read Only</en></counter>
+    <counter><org>\Lefoglalt címtartomány [futtatható és írható/olvasható]</org><en>\Mapped Space Exec Read/Write</en></counter>
+    <counter><org>\Lefoglalt címtartomány [futtatható és módosításkor másolt]</org><en>\Mapped Space Exec Write Copy</en></counter>
+    <counter><org>\Fenntartott címtartomány [hozzáférés tiltva]</org><en>\Reserved Space No Access</en></counter>
+    <counter><org>\Fenntartott címtartomány [csak olvasható]</org><en>\Reserved Space Read Only</en></counter>
+    <counter><org>\Fenntartott címtartomány [írható/olvasható]</org><en>\Reserved Space Read/Write</en></counter>
+    <counter><org>\Fenntartott címtartomány [módosításkor másolt]</org><en>\Reserved Space Write Copy</en></counter>
+    <counter><org>\Fenntartott címtartomány [futtatható]</org><en>\Reserved Space Executable</en></counter>
+    <counter><org>\Fenntartott címtartomány [futtatható és írásvédett]</org><en>\Reserved Space Exec Read Only</en></counter>
+    <counter><org>\Fenntartott címtartomány [futtatható és írható/olvasható]</org><en>\Reserved Space Exec Read/Write</en></counter>
+    <counter><org>\Programkód</org><en>\Image</en></counter>
+    <counter><org>\Fenntartott címtartomány [futtatható és módosításkor másolt]</org><en>\Reserved Space Exec Write Copy</en></counter>
+    <counter><org>\Adattartomány [hozzáférés tiltva]</org><en>\Unassigned Space No Access</en></counter>
+    <counter><org>\Adattartomány [csak olvasható]</org><en>\Unassigned Space Read Only</en></counter>
+    <counter><org>\Adattartomány [írható/olvasható]</org><en>\Unassigned Space Read/Write</en></counter>
+    <counter><org>\Adattartomány [módosításkor másolt]</org><en>\Unassigned Space Write Copy</en></counter>
+    <counter><org>\Adattartomány [futtatható]</org><en>\Unassigned Space Executable</en></counter>
+    <counter><org>\Adattartomány [futtatható és írásvédett]</org><en>\Unassigned Space Exec Read Only</en></counter>
+    <counter><org>\Adattartomány [futtatható és írható/olvasható]</org><en>\Unassigned Space Exec Read/Write</en></counter>
+    <counter><org>\Adattartomány [futtatható és módosításkor másolt]</org><en>\Unassigned Space Exec Write Copy</en></counter>
+    <counter><org>\Kódtartomány [hozzáférés tiltva]</org><en>\Image Space No Access</en></counter>
+    <counter><org>\Kódtartomány [csak olvasható]</org><en>\Image Space Read Only</en></counter>
+    <counter><org>\Kódtartomány [írható/olvasható]</org><en>\Image Space Read/Write</en></counter>
+    <counter><org>\Kódtartomány [módosításkor másolt]</org><en>\Image Space Write Copy</en></counter>
+    <counter><org>\Kódtartomány [futtatható]</org><en>\Image Space Executable</en></counter>
+    <counter><org>\Kódtartomány [futtatható és írásvédett]</org><en>\Image Space Exec Read Only</en></counter>
+    <counter><org>\Kódtartomány [futtatható és írható/olvasható]</org><en>\Image Space Exec Read/Write</en></counter>
+    <counter><org>\Kódtartomány [futtatható és módosításkor másolt]</org><en>\Image Space Exec Write Copy</en></counter>
+    <counter><org>\Programkód számára fenntartott memória (bájt)</org><en>\Bytes Image Reserved</en></counter>
+    <counter><org>\Szabad kódtartomány (bájt)</org><en>\Bytes Image Free</en></counter>
+    <counter><org>\Fenntartott memória teljes mérete (bájt)</org><en>\Bytes Reserved</en></counter>
+    <counter><org>\Szabad memória teljes mérete (bájt)</org><en>\Bytes Free</en></counter>
+    <counter><org>\Folyamat címtartománya</org><en>\Process Address Space</en></counter>
+    <counter><org>\Hozzáférés tiltva</org><en>\No Access</en></counter>
+    <counter><org>\Írásvédett</org><en>\Read Only</en></counter>
+    <counter><org>\Írható/olvasható</org><en>\Read/Write</en></counter>
+    <counter><org>\Módosításkor másolt</org><en>\Write Copy</en></counter>
+    <counter><org>\Futtatható</org><en>\Executable</en></counter>
+    <counter><org>\Futtatható és írásvédett</org><en>\Exec Read Only</en></counter>
+    <counter><org>\Futtatható és írható/olvasható</org><en>\Exec Read/Write</en></counter>
+    <counter><org>\Futtatható és módosításkor másolt</org><en>\Exec Write Copy</en></counter>
+    <counter><org>\Végrehajtási szál azonosítója (ID)</org><en>\ID Thread</en></counter>
+    <counter><org>\Mailslot - sikertelen vétel</org><en>\Mailslot Receives Failed</en></counter>
+    <counter><org>\Mailslot - sikertelen kézbesítés</org><en>\Mailslot Writes Failed</en></counter>
+    <counter><org>\Mailslot - megnyitási hibák gyakorisága (hiba/mp)</org><en>\Mailslot Opens Failed/sec</en></counter>
+    <counter><org>\Főtallózó-kettőzési hibák száma</org><en>\Duplicate Master Announcements</en></counter>
+    <counter><org>\Érvénytelen datagramok gyakorisága (datagram/mp)</org><en>\Illegal Datagrams/sec</en></counter>
+    <counter><org>\Végrehajtási szál részletes adatai</org><en>\Thread Details</en></counter>
+    <counter><org>\Átirányított átviteli oldalak/mp</org><en>\Transition Pages RePurposed/sec</en></counter>
+    <counter><org>\Küldött adatok (bájt)</org><en>\Bytes Transmitted</en></counter>
+    <counter><org>\Fogadott adatok (bájt)</org><en>\Bytes Received</en></counter>
+    <counter><org>\Küldött keretek</org><en>\Frames Transmitted</en></counter>
+    <counter><org>\Fogadott keretek</org><en>\Frames Received.</en></counter>
+    <counter><org>\Küldött adatok tömörítési aránya (%)</org><en>\Percent Compression Out</en></counter>
+    <counter><org>\Fogadott adatok tömörítési aránya (%)</org><en>\Percent Compression In</en></counter>
+    <counter><org>\CRC-hibák</org><en>\CRC Errors</en></counter>
+    <counter><org>\Határidő-túllépési hibák</org><en>\Timeout Errors</en></counter>
+    <counter><org>\Túlfutási hibák</org><en>\Serial Overrun Errors</en></counter>
+    <counter><org>\Formátumhibák</org><en>\Alignment Errors</en></counter>
+    <counter><org>\Puffertúlcsordulási hibák</org><en>\Buffer Overrun Errors</en></counter>
+    <counter><org>\A hibák teljes száma</org><en>\Total Errors</en></counter>
+    <counter><org>\Küldési sebesség (bájt/mp)</org><en>\Bytes Transmitted/Sec</en></counter>
+    <counter><org>\Vételi sebesség (bájt/mp)</org><en>\Bytes Received/Sec</en></counter>
+    <counter><org>\Keretküldési sebesség (keret/mp)</org><en>\Frames Transmitted/Sec</en></counter>
+    <counter><org>\Keretfogadási sebesség (keret/mp)</org><en>\Frames Received/Sec</en></counter>
+    <counter><org>\Hibagyakoriság (hiba/mp)</org><en>\Total Errors/Sec</en></counter>
+    <counter><org>\Kapcsolatok száma</org><en>\Total Connections</en></counter>
+    <counter><org>\WINS-kiszolgáló</org><en>\WINS Server</en></counter>
+    <counter><org>\Egyedinév-regisztráció (regisztráció/mp)</org><en>\Unique Registrations/sec</en></counter>
+    <counter><org>\Csoportnév-regisztráció (regisztráció/mp)</org><en>\Group Registrations/sec</en></counter>
+    <counter><org>\Névregisztrációs kérelmek (regisztráció/mp)</org><en>\Total Number of Registrations/sec</en></counter>
+    <counter><org>\Egyedinév-megújítási kérelmek (kérelem/mp)</org><en>\Unique Renewals/sec</en></counter>
+    <counter><org>\Csoportnév-megújítási kérelmek (kérelem/mp)</org><en>\Group Renewals/sec</en></counter>
+    <counter><org>\Névmegújítási kérelmek (kérelem/mp)</org><en>\Total Number of Renewals/sec</en></counter>
+    <counter><org>\Névfelszabadítások (felszabadítás/mp)</org><en>\Releases/sec</en></counter>
+    <counter><org>\Névlekérdezések (lekérdezés/mp)</org><en>\Queries/sec</en></counter>
+    <counter><org>\Egyedinév-ütközések (ütközés/mp)</org><en>\Unique Conflicts/sec</en></counter>
+    <counter><org>\Csoportnév-ütközések (ütközés/mp)</org><en>\Group Conflicts/sec</en></counter>
+    <counter><org>\Névütközések (ütközés/mp)</org><en>\Total Number of Conflicts/sec</en></counter>
+    <counter><org>\Sikeres névfelszabadítások (felszabadítás/mp)</org><en>\Successful Releases/sec</en></counter>
+    <counter><org>\Sikertelen névfelszabadítások (felszabadítás/mp)</org><en>\Failed Releases/sec</en></counter>
+    <counter><org>\Sikeres névlekérdezések (lekérdezés/mp)</org><en>\Successful Queries/sec</en></counter>
+    <counter><org>\Sikertelen névlekérdezések (lekérdezés/mp)</org><en>\Failed Queries/sec</en></counter>
+    <counter><org>\MacFile-kiszolgáló</org><en>\MacFile Server</en></counter>
+    <counter><org>\Lapozható memória maximális mérete (bájt)</org><en>\Max Paged Memory</en></counter>
+    <counter><org>\Jelenleg használt lapozható memória mérete (bájt)</org><en>\Current Paged Memory</en></counter>
+    <counter><org>\Nem lapozható memória maximális mérete (bájt)</org><en>\Max NonPaged Memory</en></counter>
+    <counter><org>\Jelenleg használt nem lapozható memória mérete (bájt)</org><en>\Current NonPaged memory</en></counter>
+    <counter><org>\Munkamenetek jelenlegi száma</org><en>\Current Sessions</en></counter>
+    <counter><org>\Munkamenetek maximális száma</org><en>\Maximum Sessions</en></counter>
+    <counter><org>\Megnyitott fájlok száma</org><en>\Current Files Open</en></counter>
+    <counter><org>\Megnyitott fájlok maximális száma</org><en>\Maximum Files Open</en></counter>
+    <counter><org>\Sikertelen bejelentkezési kísérletek</org><en>\Failed Logons</en></counter>
+    <counter><org>\Olvasási sebesség (bájt/mp)</org><en>\Data Read/sec</en></counter>
+    <counter><org>\Írási sebesség (bájt/mp)</org><en>\Data Written/sec</en></counter>
+    <counter><org>\Vételi sebesség (bájt/mp)</org><en>\Data Received/sec</en></counter>
+    <counter><org>\Várólista jelenlegi hossza</org><en>\Current Queue Length</en></counter>
+    <counter><org>\Várólista maximális hossza</org><en>\Maximum Queue Length</en></counter>
+    <counter><org>\Végrehajtási szálak jelenlegi száma</org><en>\Current Threads</en></counter>
+    <counter><org>\Végrehajtási szálak maximális száma</org><en>\Maximum Threads</en></counter>
+    <counter><org>\Csomagfogadási sebesség (csomag/mp)</org><en>\Packets In/sec</en></counter>
+    <counter><org>\Csomagküldési sebesség (csomag/mp)</org><en>\Packets Out/sec</en></counter>
+    <counter><org>\Vételi sebesség (bájt/mp)</org><en>\Bytes In/sec</en></counter>
+    <counter><org>\Küldési sebesség (bájt/mp)</org><en>\Bytes Out/sec</en></counter>
+    <counter><org>\DDP-csomag átlagos feldolgozási ideje (mp)</org><en>\Average Time/DDP Packet</en></counter>
+    <counter><org>\DDP-csomagok gyakorisága (csomag/mp)</org><en>\DDP Packets/sec</en></counter>
+    <counter><org>\AARP-csomag átlagos feldolgozási ideje (mp)</org><en>\Average Time/AARP Packet</en></counter>
+    <counter><org>\AARP-csomagok gyakorisága (csomag/mp)</org><en>\AARP Packets/sec</en></counter>
+    <counter><org>\ATP-csomag átlagos feldolgozási ideje (mp)</org><en>\Average Time/ATP Packet</en></counter>
+    <counter><org>\ATP-csomagok gyakorisága (csomag/mp)</org><en>\ATP Packets/sec</en></counter>
+    <counter><org>\NBP-csomag átlagos feldolgozási ideje (mp)</org><en>\Average Time/NBP Packet</en></counter>
+    <counter><org>\NBP-csomagok gyakorisága (csomag/mp)</org><en>\NBP Packets/sec</en></counter>
+    <counter><org>\ZIP-csomag átlagos feldolgozási ideje (mp)</org><en>\Average Time/ZIP Packet</en></counter>
+    <counter><org>\ZIP-csomagok gyakorisága (csomag/mp)</org><en>\ZIP Packets/sec</en></counter>
+    <counter><org>\RTMP-csomag átlagos feldolgozási ideje (mp)</org><en>\Average Time/RTMP Packet</en></counter>
+    <counter><org>\RTMP-csomagok gyakorisága (csomag/mp)</org><en>\RTMP Packets/sec</en></counter>
+    <counter><org>\ATP - újraküldött kérelmek (helyi)</org><en>\ATP Retries Local</en></counter>
+    <counter><org>\ATP - határidő-túllépések</org><en>\ATP Response Timouts</en></counter>
+    <counter><org>\ATP - XO-válaszok gyakorisága (válasz/mp)</org><en>\ATP XO Response/Sec</en></counter>
+    <counter><org>\ATP - ALO-válaszok gyakorisága (válasz/mp)</org><en>\ATP ALO Response/Sec</en></counter>
+    <counter><org>\ATP - tranzakció vége csomagok (csomag/mp)</org><en>\ATP Recvd Release/Sec</en></counter>
+    <counter><org>\Nem lapozható memória jelenlegi mérete (bájt)</org><en>\Current NonPaged Pool</en></counter>
+    <counter><org>\Beirányított csomagok (csomag/mp)</org><en>\Packets Routed In/Sec</en></counter>
+    <counter><org>\Eldobott csomagok</org><en>\Packets dropped</en></counter>
+    <counter><org>\ATP - újraküldött kérelmek (távoli)</org><en>\ATP Retries Remote</en></counter>
+    <counter><org>\Kiirányított csomagok (csomag/mp)</org><en>\Packets Routed Out/Sec</en></counter>
+    <counter><org>\Hálózati szegmens</org><en>\Network Segment</en></counter>
+    <counter><org>\Keretfogadási sebesség (keret/mp)</org><en>\Total frames received/second</en></counter>
+    <counter><org>\Vételi sebesség (bájt/mp)</org><en>\Total bytes received/second</en></counter>
+    <counter><org>\Szórási [broadcast] keretsebesség (keret/mp)</org><en>\Broadcast frames received/second</en></counter>
+    <counter><org>\Csoportos [multicast] keretsebesség (keret/mp)</org><en>\Multicast frames received/second</en></counter>
+    <counter><org>\A hálózat kihasználtsága (%)</org><en>\% Network utilization</en></counter>
+    <counter><org>\Szórásos [broadcast] keretek aránya (%)</org><en>\% Broadcast Frames</en></counter>
+    <counter><org>\Csoportos [multicast] keretek aránya (%)</org><en>\% Multicast Frames</en></counter>
+    <counter><org>\Telefonos szolgáltatások</org><en>\Telephony</en></counter>
+    <counter><org>\Vonalak száma</org><en>\Lines</en></counter>
+    <counter><org>\Telefonos eszközök</org><en>\Telephone Devices</en></counter>
+    <counter><org>\Aktív vonalak</org><en>\Active Lines</en></counter>
+    <counter><org>\Aktív telefonok</org><en>\Active Telephones</en></counter>
+    <counter><org>\Kimenő hívások gyakorisága (hívás/mp)</org><en>\Outgoing Calls/sec</en></counter>
+    <counter><org>\Bejövő hívások gyakorisága (hívás/mp)</org><en>\Incoming Calls/sec</en></counter>
+    <counter><org>\Ügyfélalkalmazások</org><en>\Client Apps</en></counter>
+    <counter><org>\Aktuális kimenő hívások</org><en>\Current Outgoing Calls</en></counter>
+    <counter><org>\Aktuális bejövő hívások</org><en>\Current Incoming Calls</en></counter>
+    <counter><org>\NCP Packet Burst - olvasási sebesség (olvasás/mp)</org><en>\Packet Burst Read NCP Count/sec</en></counter>
+    <counter><org>\Packet Burst - olvasási időtúllépés (időtúllépés/mp)</org><en>\Packet Burst Read Timeouts/sec</en></counter>
+    <counter><org>\NCP Packet Burst - írás (írás/mp)</org><en>\Packet Burst Write NCP Count/sec</en></counter>
+    <counter><org>\Packet Burst - írási időtúllépés (időtúllépés/mp)</org><en>\Packet Burst Write Timeouts/sec</en></counter>
+    <counter><org>\Packet Burst - I/O-műveletek száma (művelet/mp)</org><en>\Packet Burst IO/sec</en></counter>
+    <counter><org>\Bejelentkezések teljes száma</org><en>\Logon Total</en></counter>
+    <counter><org>\Kiszolgálói várólisták</org><en>\Server Work Queues</en></counter>
+    <counter><org>\Várólista hossza</org><en>\Queue Length</en></counter>
+    <counter><org>\Aktív végrehajtási szálak</org><en>\Active Threads</en></counter>
+    <counter><org>\Szabad végrehajtási szálak</org><en>\Available Threads</en></counter>
+    <counter><org>\Szabad munkaelemek</org><en>\Available Work Items</en></counter>
+    <counter><org>\Kölcsönvett munkaelemek</org><en>\Borrowed Work Items</en></counter>
+    <counter><org>\Ügyfelek jelenlegi száma</org><en>\Current Clients</en></counter>
+    <counter><org>\Küldési sebesség (bájt/mp)</org><en>\Bytes Transferred/sec</en></counter>
+    <counter><org>\Olvasási sebesség (bájt/mp)</org><en>\Read Bytes/sec</en></counter>
+    <counter><org>\Írási sebesség (bájt/mp)</org><en>\Write Bytes/sec</en></counter>
+    <counter><org>\Teljes műveleti sebesség (művelet/mp)</org><en>\Total Operations/sec</en></counter>
+    <counter><org>\DPC-hívások teljes előjegyzési gyakorisága (hívás/mp)</org><en>\Total DPCs Queued/sec</en></counter>
+    <counter><org>\DPC-hívások teljes gyakorisága (hívás/óraütem)</org><en>\Total DPC Rate</en></counter>
+    <counter><org>\Használatban lévő rendszerleíró kvóta (%)</org><en>\% Registry Quota In Use</en></counter>
+    <counter><org>\VL-memória</org><en>\VL Memory</en></counter>
+    <counter><org>\VLM - virtuálisan használatban lévő méret (%)</org><en>\VLM % Virtual Size In Use</en></counter>
+    <counter><org>\VLM - virtuális méret</org><en>\VLM Virtual Size</en></counter>
+    <counter><org>\VLM - virtuális méret csúcsértéke</org><en>\VLM Virtual Size Peak</en></counter>
+    <counter><org>\VLM - virtuálisan elérhető méret</org><en>\VLM Virtual Size Available</en></counter>
+    <counter><org>\VLM - előjegyzett memória</org><en>\VLM Commit Charge</en></counter>
+    <counter><org>\VLM - előjegyzett memória csúcsértéke</org><en>\VLM Commit Charge Peak</en></counter>
+    <counter><org>\Rendszer-VLM - előjegyzett memória</org><en>\System VLM Commit Charge</en></counter>
+    <counter><org>\Rendszer-VLM - előjegyzett memória csúcsértéke</org><en>\System VLM Commit Charge Peak</en></counter>
+    <counter><org>\Rendszer-VLM - megosztott előjegyzett memória</org><en>\System VLM Shared Commit Charge</en></counter>
+    <counter><org>\Teljes programkód</org><en>\Full Image</en></counter>
+    <counter><org>\Nyomtatási várólista</org><en>\Print Queue</en></counter>
+    <counter><org>\Kinyomtatott feladatok teljes száma</org><en>\Total Jobs Printed</en></counter>
+    <counter><org>\Nyomtatási sebesség (bájt/mp)</org><en>\Bytes Printed/sec</en></counter>
+    <counter><org>\Kinyomtatott oldalak teljes száma</org><en>\Total Pages Printed</en></counter>
+    <counter><org>\Feladatok</org><en>\Jobs</en></counter>
+    <counter><org>\Hivatkozások</org><en>\References</en></counter>
+    <counter><org>\Hivatkozások maximális száma</org><en>\Max References</en></counter>
+    <counter><org>\Nyomtatásra váró feladatok száma</org><en>\Jobs Spooling</en></counter>
+    <counter><org>\Nyomtatási sor hosszának csúcsértéke</org><en>\Max Jobs Spooling</en></counter>
+    <counter><org>\Hibák: elfogyott a papír</org><en>\Out of Paper Errors</en></counter>
+    <counter><org>\Hibák: a nyomtató nem üzemkész</org><en>\Not Ready Errors</en></counter>
+    <counter><org>\Hibák: feladathiba</org><en>\Job Errors</en></counter>
+    <counter><org>\Hálózati nyomtatót kereső tallózókérelmek száma</org><en>\Enumerate Network Printer Calls</en></counter>
+    <counter><org>\Hálózati nyomtató hozzáadására vonatkozó hívások száma</org><en>\Add Network Printer Calls</en></counter>
+    <counter><org>\Munkakészlet - saját</org><en>\Working Set - Private</en></counter>
+    <counter><org>\Munkakészlet - megosztott</org><en>\Working Set - Shared</en></counter>
+    <counter><org>\Feladatobjektum</org><en>\Job Object</en></counter>
+    <counter><org>\Jelenlegi processzoridő (%)</org><en>\Current % Processor Time</en></counter>
+    <counter><org>\Jelenlegi felhasználói üzemmódú processzoridő (%)</org><en>\Current % User Mode Time</en></counter>
+    <counter><org>\Jelenlegi kernel üzemmódú processzoridő (%)</org><en>\Current % Kernel Mode Time</en></counter>
+    <counter><org>\Mintavétel processzorideje (ezredmásodperc)</org><en>\This Period mSec - Processor</en></counter>
+    <counter><org>\Mintavétel felhasználói üzemmódú processzorideje (ezredmásodperc)</org><en>\This Period mSec - User Mode</en></counter>
+    <counter><org>\Mintavétel kernel üzemmódú processzorideje (ezredmásodperc)</org><en>\This Period mSec - Kernel Mode</en></counter>
+    <counter><org>\Folyamatok száma - összes</org><en>\Process Count - Total</en></counter>
+    <counter><org>\Folyamatok száma - aktív</org><en>\Process Count - Active</en></counter>
+    <counter><org>\Folyamatok száma - befejezett</org><en>\Process Count - Terminated</en></counter>
+    <counter><org>\Teljes processzoridő (ezredmásodperc)</org><en>\Total mSec - Processor</en></counter>
+    <counter><org>\Teljes felhasználói üzemmódú processzoridő (ezredmásodperc)</org><en>\Total mSec - User Mode</en></counter>
+    <counter><org>\Teljes kernel üzemmódú processzoridő (ezredmásodperc)</org><en>\Total mSec - Kernel Mode</en></counter>
+    <counter><org>\Túl nagy beérkezett csomag</org><en>\Received Packet Too Big</en></counter>
+    <counter><org>\Beérkezett tagságlekérdezés</org><en>\Received Membership Query</en></counter>
+    <counter><org>\Beérkezett tagságjelentés</org><en>\Received Membership Report</en></counter>
+    <counter><org>\Beérkezett tagságcsökkentés</org><en>\Received Membership Reduction</en></counter>
+    <counter><org>\Beérkezett útválasztó-megszólítás</org><en>\Received Router Solicit</en></counter>
+    <counter><org>\Beérkezett útválasztó-hirdetmény</org><en>\Received Router Advert</en></counter>
+    <counter><org>\Feladatobjektum részletei</org><en>\Job Object Details</en></counter>
+    <counter><org>\Beérkezett szomszédmegszólítás</org><en>\Received Neighbor Solicit</en></counter>
+    <counter><org>\Beérkezett szomszédhirdetmény</org><en>\Received Neighbor Advert</en></counter>
+    <counter><org>\Túl nagy küldött csomag</org><en>\Sent Packet Too Big</en></counter>
+    <counter><org>\Küldött tagságlekérdezés</org><en>\Sent Membership Query</en></counter>
+    <counter><org>\Küldött tagságjelentés</org><en>\Sent Membership Report</en></counter>
+    <counter><org>\Küldött tagságcsökkentés</org><en>\Sent Membership Reduction</en></counter>
+    <counter><org>\Küldött útválasztó-megszólítás</org><en>\Sent Router Solicit</en></counter>
+    <counter><org>\Küldött útválasztó-hirdetmény</org><en>\Sent Router Advert</en></counter>
+    <counter><org>\Küldött szomszédmegszólítás</org><en>\Sent Neighbor Solicit</en></counter>
+    <counter><org>\Küldött szomszédhirdetmény</org><en>\Sent Neighbor Advert</en></counter>
+    <counter><org>\Teljes rendszerre kiterjedő biztonsági statisztika</org><en>\Security System-Wide Statistics</en></counter>
+    <counter><org>\NTLM-hitelesítés</org><en>\NTLM Authentications</en></counter>
+    <counter><org>\KDC AS-kérelmek</org><en>\KDC AS Requests</en></counter>
+    <counter><org>\KDC TGS-kérelmek</org><en>\KDC TGS Requests</en></counter>
+    <counter><org>\Schannel munkamenet-gyorsítótárbeli bejegyzések</org><en>\Schannel Session Cache Entries</en></counter>
+    <counter><org>\Aktív Schannel munkamenet-gyorsítótárbeli bejegyzések</org><en>\Active Schannel Session Cache Entries</en></counter>
+    <counter><org>\Ügyféloldali teljes SSL-kézfogások</org><en>\SSL Client-Side Full Handshakes</en></counter>
+    <counter><org>\Ügyféloldali újracsatlakozási SSL-kézfogások</org><en>\SSL Client-Side Reconnect Handshakes</en></counter>
+    <counter><org>\Kiszolgálóoldali teljes SSL-kézfogások</org><en>\SSL Server-Side Full Handshakes</en></counter>
+    <counter><org>\Kiszolgálóoldali újracsatlakozási SSL-kézfogások</org><en>\SSL Server-Side Reconnect Handshakes</en></counter>
+    <counter><org>\Kivonatoló hitelesítések</org><en>\Digest Authentications</en></counter>
+    <counter><org>\Biztonság/folyamat statisztika</org><en>\Security Per-Process Statistics</en></counter>
+    <counter><org>\Hitelesítőadat-leírók</org><en>\Credential Handles</en></counter>
+    <counter><org>\Környezetleírók</org><en>\Context Handles</en></counter>
+    <counter><org>\Szabad és üres laplisták bájtban mért mérete</org><en>\Free &amp; Zero Page List Bytes</en></counter>
+    <counter><org>\Módosított laplisták bájtban mért mérete</org><en>\Modified Page List Bytes</en></counter>
+    <counter><org>\Készenléti gyorsítótár lefoglalásának bájtban mért mérete</org><en>\Standby Cache Reserve Bytes</en></counter>
+    <counter><org>\Normál prioritású készenléti gyorsítótár bájtban mért mérete</org><en>\Standby Cache Normal Priority Bytes</en></counter>
+    <counter><org>\Készenléti gyorsítótármag bájtban mért mérete</org><en>\Standby Cache Core Bytes</en></counter>
+    <counter><org>\% C2 idő</org><en>\% C2 Time</en></counter>
+    <counter><org>\Halommemória</org><en>\Heap</en></counter>
+    <counter><org>\Fenntartott memória teljes mérete (bájt)</org><en>\Reserved Bytes</en></counter>
+    <counter><org>\Szabad memória teljes mérete (bájt)</org><en>\Free Bytes</en></counter>
+    <counter><org>\Szabad lista hossza</org><en>\Free List Length</en></counter>
+    <counter><org>\Lefoglalások átlagos sűrűsége</org><en>\Avg. alloc rate</en></counter>
+    <counter><org>\Átlagos felszabadítási sűrűség</org><en>\Avg. free rate</en></counter>
+    <counter><org>\Nem lefoglalt tartományok hossza</org><en>\Uncommitted Ranges Length</en></counter>
+    <counter><org>\Lefoglalások - Felszabadítások</org><en>\Allocs - Frees</en></counter>
+    <counter><org>\Gyorsítótárazott lefoglalások/mp</org><en>\Cached Allocs/sec</en></counter>
+    <counter><org>\Gyorsítótárazott felszabadítások/mp</org><en>\Cached Frees/sec</en></counter>
+    <counter><org>\1K-nál kisebb lefoglalások/mp</org><en>\Allocs &lt;1K/sec</en></counter>
+    <counter><org>\1K-nál kisebb felszabadítások/mp</org><en>\Frees &lt;1K/sec</en></counter>
+    <counter><org>\1 és 8K közötti lefoglalások/mp</org><en>\Allocs 1-8K/sec</en></counter>
+    <counter><org>\1 és 8K közötti felszabadítások/mp</org><en>\Frees 1-8K/sec</en></counter>
+    <counter><org>\8K-nál nagyobb lefoglalások/mp</org><en>\Allocs over 8K/sec</en></counter>
+    <counter><org>\8K-nál nagyobb felszabadítások/mp</org><en>\Frees over 8K/sec</en></counter>
+    <counter><org>\Összes lefoglalás/ mp</org><en>\Total Allocs/sec</en></counter>
+    <counter><org>\Összes felszabadítás/ mp</org><en>\Total Frees/sec</en></counter>
+    <counter><org>\Blokkok a halom gyorsítótárában</org><en>\Blocks in Heap Cache</en></counter>
+    <counter><org>\A gyorsítótár legnagyobb mélysége</org><en>\Largest Cache Depth</en></counter>
+    <counter><org>\% töredezettség</org><en>\% Fragmentation</en></counter>
+    <counter><org>\Halomzárolási verseny</org><en>\Heap Lock contention</en></counter>
+    <counter><org>\Végjelző</org><en>\End Marker</en></counter>
+</Counters>

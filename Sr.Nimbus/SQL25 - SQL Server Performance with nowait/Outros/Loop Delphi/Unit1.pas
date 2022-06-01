@@ -1,0 +1,40 @@
+unit Unit1;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls;
+
+type
+  TForm1 = class(TForm)
+    Button1: TButton;
+    procedure Button1Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm1.Button1Click(Sender: TObject);
+Var
+  i : Int64;
+  Tempo : TDateTime;
+begin
+  i := 0;
+  Tempo := Now();
+  while i <= 1000000000 do // On trillion of iterations
+  begin
+    inc(i);
+  end;
+  ShowMessage(FormatDateTime('hh:mm:ss.zzz', Tempo - Now()))
+end;
+
+end.
